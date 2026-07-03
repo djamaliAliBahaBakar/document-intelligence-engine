@@ -5,3 +5,4 @@ data/anonymized/
 *.xlsx
 .env
 models/
+benchmarks/docling
