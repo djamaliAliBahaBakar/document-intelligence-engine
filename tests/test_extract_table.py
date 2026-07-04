@@ -2,7 +2,7 @@
 
 import sys
 
-from document_intelligence.parsing.markdown_tables import extract_markdown_tables,parse_markdown_table, normalize_supplier_df_to_beluo
+from document_intelligence.parsing.markdown_tables import extract_markdown_tables,parse_markdown_table, normalize_supplier_df_to_beluo, normalize_prices, normalize_quantity, to_beluo_json
 
 markdown = """
 
@@ -24,5 +24,12 @@ tables = extract_markdown_tables(markdown)
 df = parse_markdown_table(tables[0])
 
 new_df = normalize_supplier_df_to_beluo(df)
-print("*"*100)
-print(new_df)
+
+df = normalize_supplier_df_to_beluo(df)
+df = normalize_quantity(df)
+df = normalize_prices(df)
+
+result = to_beluo_json(df)
+
+print(result)
+

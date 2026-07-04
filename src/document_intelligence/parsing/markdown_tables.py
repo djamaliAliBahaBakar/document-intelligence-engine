@@ -44,4 +44,49 @@ def rename_headers(df):
 def normalize_supplier_df_to_beluo(df):
     df = rename_headers(df)
     new_df = df.drop(['Libellé de la référence','Prix HT', '%Rem.'], axis=1)
-    return new_df.to_json()
+    return new_df
+
+
+def split_quantity_unit(quantity_raw: str) -> tuple[str, int]:
+    value = quantity_raw.strip()
+    parts = value.split()
+
+    if len(parts) < 2:
+        raise ValueError(f"Format quantité/unité invalide : {quantity_raw}")
+
+    unit = parts[0]
+    quantity_as_text = "".join(parts[1:])
+    quantity = int(quantity_as_text)
+
+    return unit, quantity
+
+def parse_price(price_raw: str) -> float:
+    value = price_raw.strip()
+    value = value.replace("€", "")
+    value = value.replace(" ", "")
+    value = value.replace(",", ".")
+
+    return float(value)
+
+def normalize_quantity(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+
+    quantity_unit = df["quantity"].apply(split_quantity_unit)
+
+    df["unit"] = quantity_unit.apply(lambda x: x[0])
+    df["quantity"] = quantity_unit.apply(lambda x: x[1])
+
+    return df
+
+
+def normalize_prices(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.copy()
+
+    df["pvu"] = df["pvu"].apply(parse_price)
+    df["pv"] = df["pv"].apply(parse_price)
+
+    return df
+
+
+def to_beluo_json(df: pd.DataFrame) -> list[dict]:
+    return df.to_dict(orient="records")
