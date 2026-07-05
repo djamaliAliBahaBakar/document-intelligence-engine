@@ -9,12 +9,13 @@ from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 
 from document_intelligence.parsing.markdown_tables import (
-    extract_markdown_tables,
+    find_quote_table,
     parse_markdown_table,
     normalize_supplier_df_to_beluo,
     normalize_quantity,
     normalize_prices,
     to_beluo_json,
+    keep_business_rows
 )
 
 app = FastAPI(title="Beluo Document Intelligence API")
@@ -47,26 +48,36 @@ async def extract_quote(file: UploadFile = File(...)):
         }
     )
 
-
     result = converter.convert(str(tmp_path))
 
     markdown = result.document.export_to_markdown()
 
-    tables = extract_markdown_tables(markdown)
+    with open("devis3.md", "w", encoding="utf-8") as f:
+        f.write(markdown)
 
-    if not tables:
+    print("Markdown sauvegardé")
+
+    try:
+        table = find_quote_table(markdown)
+    except ValueError:
         return {
             "status": "needs_review",
-            "reason": "No markdown table detected",
+            "reason": "No quote table detected",
             "items": [],
         }
+    
+    # <<< AJOUTE ICI >>>
+    print("=" * 80)
+    print(table)
+    print("=" * 80)
 
-    table = tables[0]
 
     df = parse_markdown_table(table)
     df = normalize_supplier_df_to_beluo(df)
     df = normalize_quantity(df)
     df = normalize_prices(df)
+    df = keep_business_rows(df)
+
 
     items = to_beluo_json(df)
 
