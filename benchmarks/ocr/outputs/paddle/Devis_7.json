@@ -1,0 +1,2462 @@
+{
+  "engine": "paddleocr",
+  "document": "Devis_7.pdf",
+  "duration_seconds": 497.413,
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 90,
+      "words": [
+        {
+          "text": "CHARPENTE",
+          "confidence": 0.9999967217445374,
+          "bbox": [
+            359,
+            66,
+            494,
+            86
+          ]
+        },
+        {
+          "text": "ÉTANCHÉITÉ",
+          "confidence": 0.9995681047439575,
+          "bbox": [
+            685,
+            60,
+            826,
+            86
+          ]
+        },
+        {
+          "text": "SERRURERIE",
+          "confidence": 0.9999740719795227,
+          "bbox": [
+            977,
+            66,
+            1119,
+            86
+          ]
+        },
+        {
+          "text": "COUVERTURE",
+          "confidence": 0.9999876022338867,
+          "bbox": [
+            516,
+            79,
+            666,
+            100
+          ]
+        },
+        {
+          "text": "BARDAGE",
+          "confidence": 0.9999980330467224,
+          "bbox": [
+            848,
+            79,
+            955,
+            100
+          ]
+        },
+        {
+          "text": "TEOPOLITUB",
+          "confidence": 0.9997702836990356,
+          "bbox": [
+            69,
+            193,
+            283,
+            234
+          ]
+        },
+        {
+          "text": "CONSTRUCTION",
+          "confidence": 0.9999523162841797,
+          "bbox": [
+            71,
+            255,
+            282,
+            276
+          ]
+        },
+        {
+          "text": "MÉTALLIQUE",
+          "confidence": 0.999793529510498,
+          "bbox": [
+            70,
+            279,
+            282,
+            303
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.999973475933075,
+          "bbox": [
+            692,
+            271,
+            771,
+            294
+          ]
+        },
+        {
+          "text": "79 RUE DES JONCS",
+          "confidence": 0.9875278472900391,
+          "bbox": [
+            692,
+            297,
+            894,
+            319
+          ]
+        },
+        {
+          "text": "72130 DOUILLET LE JOLY",
+          "confidence": 0.999904990196228,
+          "bbox": [
+            58,
+            330,
+            317,
+            350
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "confidence": 0.9998593926429749,
+          "bbox": [
+            693,
+            326,
+            856,
+            346
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9999867677688599,
+          "bbox": [
+            153,
+            453,
+            253,
+            492
+          ]
+        },
+        {
+          "text": "Numéro",
+          "confidence": 0.9999768137931824,
+          "bbox": [
+            97,
+            517,
+            173,
+            542
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.9999936819076538,
+          "bbox": [
+            258,
+            518,
+            308,
+            544
+          ]
+        },
+        {
+          "text": "Code client",
+          "confidence": 0.999985933303833,
+          "bbox": [
+            368,
+            519,
+            471,
+            543
+          ]
+        },
+        {
+          "text": "Date de validité",
+          "confidence": 0.9999645948410034,
+          "bbox": [
+            498,
+            520,
+            634,
+            540
+          ]
+        },
+        {
+          "text": "Mode de règlement",
+          "confidence": 0.9956341981887817,
+          "bbox": [
+            692,
+            521,
+            860,
+            542
+          ]
+        },
+        {
+          "text": "Affaire",
+          "confidence": 0.9999918937683105,
+          "bbox": [
+            988,
+            518,
+            1052,
+            544
+          ]
+        },
+        {
+          "text": "DE00003826",
+          "confidence": 0.9999896883964539,
+          "bbox": [
+            77,
+            565,
+            193,
+            586
+          ]
+        },
+        {
+          "text": "14/11/2025",
+          "confidence": 0.9999984502792358,
+          "bbox": [
+            233,
+            562,
+            333,
+            587
+          ]
+        },
+        {
+          "text": "SFE001",
+          "confidence": 0.9999896883964539,
+          "bbox": [
+            381,
+            565,
+            456,
+            587
+          ]
+        },
+        {
+          "text": "29/11/2025",
+          "confidence": 0.9999979138374329,
+          "bbox": [
+            515,
+            564,
+            618,
+            588
+          ]
+        },
+        {
+          "text": "A réception de facture",
+          "confidence": 0.9999663829803467,
+          "bbox": [
+            681,
+            567,
+            871,
+            587
+          ]
+        },
+        {
+          "text": "Référence : A25029 - DOUILLET LE JOLY",
+          "confidence": 0.9985212087631226,
+          "bbox": [
+            57,
+            635,
+            385,
+            652
+          ]
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9999963641166687,
+          "bbox": [
+            296,
+            703,
+            394,
+            724
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9999682307243347,
+          "bbox": [
+            671,
+            699,
+            713,
+            726
+          ]
+        },
+        {
+          "text": "U.",
+          "confidence": 0.9999276995658875,
+          "bbox": [
+            761,
+            700,
+            791,
+            725
+          ]
+        },
+        {
+          "text": "P.U. HT",
+          "confidence": 0.9972941279411316,
+          "bbox": [
+            830,
+            701,
+            903,
+            723
+          ]
+        },
+        {
+          "text": "Montant HT",
+          "confidence": 0.999969482421875,
+          "bbox": [
+            940,
+            702,
+            1044,
+            723
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999906420707703,
+          "bbox": [
+            1070,
+            699,
+            1118,
+            725
+          ]
+        },
+        {
+          "text": "Etude et prise de côtes pour les 5 bâtiments",
+          "confidence": 0.997792661190033,
+          "bbox": [
+            59,
+            733,
+            431,
+            750
+          ]
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9998750686645508,
+          "bbox": [
+            705,
+            732,
+            746,
+            756
+          ]
+        },
+        {
+          "text": "ENS",
+          "confidence": 0.999988853931427,
+          "bbox": [
+            749,
+            732,
+            794,
+            755
+          ]
+        },
+        {
+          "text": "2 850,00",
+          "confidence": 0.9889485836029053,
+          "bbox": [
+            853,
+            733,
+            926,
+            754
+          ]
+        },
+        {
+          "text": "2 850,00",
+          "confidence": 0.9956943392753601,
+          "bbox": [
+            978,
+            733,
+            1051,
+            754
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999256134033203,
+          "bbox": [
+            1080,
+            732,
+            1132,
+            755
+          ]
+        },
+        {
+          "text": "Location de nacelle plus élévateur + Hôtel restaurant pour les 5",
+          "confidence": 0.9995434284210205,
+          "bbox": [
+            58,
+            786,
+            586,
+            806
+          ]
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9998618364334106,
+          "bbox": [
+            705,
+            787,
+            746,
+            811
+          ]
+        },
+        {
+          "text": "FORF",
+          "confidence": 0.9998003840446472,
+          "bbox": [
+            749,
+            787,
+            804,
+            809
+          ]
+        },
+        {
+          "text": "8 500,00",
+          "confidence": 0.9891653060913086,
+          "bbox": [
+            853,
+            788,
+            926,
+            810
+          ]
+        },
+        {
+          "text": "8 500,00",
+          "confidence": 0.9480226039886475,
+          "bbox": [
+            978,
+            788,
+            1051,
+            810
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999479055404663,
+          "bbox": [
+            1079,
+            786,
+            1133,
+            812
+          ]
+        },
+        {
+          "text": "bâtiments",
+          "confidence": 0.9999704360961914,
+          "bbox": [
+            58,
+            809,
+            145,
+            830
+          ]
+        },
+        {
+          "text": "Bâtiment 1 Variante 2",
+          "confidence": 0.9808098673820496,
+          "bbox": [
+            59,
+            866,
+            261,
+            886
+          ]
+        },
+        {
+          "text": "Fourniture et pose de renforts d'ossature métallique, peinture",
+          "confidence": 0.9969571232795715,
+          "bbox": [
+            58,
+            894,
+            565,
+            915
+          ]
+        },
+        {
+          "text": "2 138,0000",
+          "confidence": 0.9870401620864868,
+          "bbox": [
+            653,
+            896,
+            744,
+            916
+          ]
+        },
+        {
+          "text": "KG",
+          "confidence": 0.9999869465827942,
+          "bbox": [
+            750,
+            896,
+            782,
+            916
+          ]
+        },
+        {
+          "text": "7,20",
+          "confidence": 0.9999730587005615,
+          "bbox": [
+            885,
+            895,
+            927,
+            918
+          ]
+        },
+        {
+          "text": "15 393,60",
+          "confidence": 0.998559296131134,
+          "bbox": [
+            970,
+            896,
+            1051,
+            916
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999755620956421,
+          "bbox": [
+            1080,
+            895,
+            1132,
+            917
+          ]
+        },
+        {
+          "text": "antirouille, suivant étude AMOCER",
+          "confidence": 0.9941443204879761,
+          "bbox": [
+            60,
+            919,
+            349,
+            936
+          ]
+        },
+        {
+          "text": "Bâtiment 2 Variante 2",
+          "confidence": 0.9999316334724426,
+          "bbox": [
+            59,
+            973,
+            262,
+            993
+          ]
+        },
+        {
+          "text": "Fourniture et pose de renforts d'ossature métallique, peinture",
+          "confidence": 0.9952649474143982,
+          "bbox": [
+            58,
+            1001,
+            565,
+            1023
+          ]
+        },
+        {
+          "text": "51,0000",
+          "confidence": 0.9999948143959045,
+          "bbox": [
+            676,
+            1003,
+            745,
+            1025
+          ]
+        },
+        {
+          "text": "KG",
+          "confidence": 0.9999873638153076,
+          "bbox": [
+            750,
+            1003,
+            782,
+            1024
+          ]
+        },
+        {
+          "text": "7,20",
+          "confidence": 0.9999637603759766,
+          "bbox": [
+            884,
+            1001,
+            928,
+            1028
+          ]
+        },
+        {
+          "text": "367,20",
+          "confidence": 0.9999894499778748,
+          "bbox": [
+            991,
+            1002,
+            1053,
+            1027
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999395608901978,
+          "bbox": [
+            1080,
+            1003,
+            1132,
+            1026
+          ]
+        },
+        {
+          "text": "antirouille, suivant étude AMOCER",
+          "confidence": 0.9958841800689697,
+          "bbox": [
+            59,
+            1025,
+            350,
+            1045
+          ]
+        },
+        {
+          "text": "Bâtiment 3 Variante 2",
+          "confidence": 0.9998641014099121,
+          "bbox": [
+            59,
+            1079,
+            261,
+            1099
+          ]
+        },
+        {
+          "text": "Fourniture et pose de renforts d'ossature métallique, peinture",
+          "confidence": 0.9986785650253296,
+          "bbox": [
+            59,
+            1108,
+            564,
+            1128
+          ]
+        },
+        {
+          "text": "586,0000",
+          "confidence": 0.999995231628418,
+          "bbox": [
+            667,
+            1111,
+            745,
+            1132
+          ]
+        },
+        {
+          "text": "KG",
+          "confidence": 0.9999873638153076,
+          "bbox": [
+            750,
+            1110,
+            782,
+            1131
+          ]
+        },
+        {
+          "text": "7,20",
+          "confidence": 0.9999679327011108,
+          "bbox": [
+            885,
+            1109,
+            927,
+            1133
+          ]
+        },
+        {
+          "text": "4 219,20",
+          "confidence": 0.9925812482833862,
+          "bbox": [
+            978,
+            1110,
+            1051,
+            1132
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999395608901978,
+          "bbox": [
+            1080,
+            1110,
+            1132,
+            1133
+          ]
+        },
+        {
+          "text": "antirouille, suivant étude AMOCER",
+          "confidence": 0.9976162910461426,
+          "bbox": [
+            59,
+            1132,
+            351,
+            1152
+          ]
+        },
+        {
+          "text": "Bâtiment 4 Variante 2",
+          "confidence": 0.9868481159210205,
+          "bbox": [
+            59,
+            1187,
+            261,
+            1206
+          ]
+        },
+        {
+          "text": "Fourniture et pose de renforts d'ossature métallique, peinture",
+          "confidence": 0.9907034039497375,
+          "bbox": [
+            59,
+            1216,
+            565,
+            1236
+          ]
+        },
+        {
+          "text": "1 388,0000",
+          "confidence": 0.9920097589492798,
+          "bbox": [
+            654,
+            1217,
+            745,
+            1238
+          ]
+        },
+        {
+          "text": "KG",
+          "confidence": 0.9999582171440125,
+          "bbox": [
+            749,
+            1217,
+            783,
+            1239
+          ]
+        },
+        {
+          "text": "7,20",
+          "confidence": 0.9999393224716187,
+          "bbox": [
+            883,
+            1214,
+            928,
+            1241
+          ]
+        },
+        {
+          "text": "9 993,60",
+          "confidence": 0.9946751594543457,
+          "bbox": [
+            978,
+            1217,
+            1051,
+            1239
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999479055404663,
+          "bbox": [
+            1079,
+            1215,
+            1133,
+            1241
+          ]
+        },
+        {
+          "text": "antirouille, suivant étude AMOCER",
+          "confidence": 0.9976162910461426,
+          "bbox": [
+            59,
+            1239,
+            351,
+            1259
+          ]
+        },
+        {
+          "text": "Bâtiment 5 Variante 2",
+          "confidence": 0.9804127812385559,
+          "bbox": [
+            59,
+            1294,
+            261,
+            1314
+          ]
+        },
+        {
+          "text": "Fourniture et pose de renforts d'ossature métallique, peinture",
+          "confidence": 0.9964184165000916,
+          "bbox": [
+            59,
+            1324,
+            565,
+            1343
+          ]
+        },
+        {
+          "text": "1 408,0000",
+          "confidence": 0.9951698184013367,
+          "bbox": [
+            654,
+            1325,
+            747,
+            1345
+          ]
+        },
+        {
+          "text": "KG",
+          "confidence": 0.9998800754547119,
+          "bbox": [
+            742,
+            1324,
+            783,
+            1345
+          ]
+        },
+        {
+          "text": "7,20",
+          "confidence": 0.9999730587005615,
+          "bbox": [
+            885,
+            1324,
+            927,
+            1347
+          ]
+        },
+        {
+          "text": "10 137,60",
+          "confidence": 0.9970705509185791,
+          "bbox": [
+            970,
+            1325,
+            1051,
+            1345
+          ]
+        },
+        {
+          "text": "20,00",
+          "confidence": 0.9999755620956421,
+          "bbox": [
+            1080,
+            1324,
+            1132,
+            1346
+          ]
+        },
+        {
+          "text": "antirouille, suivant étude AMOCER",
+          "confidence": 0.9976162910461426,
+          "bbox": [
+            59,
+            1346,
+            351,
+            1366
+          ]
+        },
+        {
+          "text": "teopolitub.fr",
+          "confidence": 0.9999903440475464,
+          "bbox": [
+            113,
+            1595,
+            256,
+            1621
+          ]
+        },
+        {
+          "text": "ZI du Landreau - Villedieu la Blouère - 49450 BEAUPRÉAU EN MAUGES",
+          "confidence": 0.9931348562240601,
+          "bbox": [
+            297,
+            1598,
+            716,
+            1612
+          ]
+        },
+        {
+          "text": "SAS au capital de 200 000,00 € - RCS ANGERS",
+          "confidence": 0.998502790927887,
+          "bbox": [
+            767,
+            1603,
+            984,
+            1615
+          ]
+        },
+        {
+          "text": "Tél. 02 41 30 85 00 - Fax. : 02 41 30 87 36 - E-mail : contact@teopolitub.fr",
+          "confidence": 0.9926562309265137,
+          "bbox": [
+            297,
+            1614,
+            736,
+            1628
+          ]
+        },
+        {
+          "text": "SIRET 333 337 590 00025 - APE 2511Z - TVA Intra. FR 12 333 337 590",
+          "confidence": 0.992974579334259,
+          "bbox": [
+            767,
+            1615,
+            1101,
+            1629
+          ]
+        },
+        {
+          "text": "1 sur 4",
+          "confidence": 0.9990204572677612,
+          "bbox": [
+            1080,
+            1628,
+            1136,
+            1649
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 27,
+      "words": [
+        {
+          "text": "Description",
+          "confidence": 0.9999964237213135,
+          "bbox": [
+            295,
+            62,
+            395,
+            85
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9999600052833557,
+          "bbox": [
+            671,
+            60,
+            712,
+            86
+          ]
+        },
+        {
+          "text": "U.",
+          "confidence": 0.9999260902404785,
+          "bbox": [
+            761,
+            60,
+            790,
+            85
+          ]
+        },
+        {
+          "text": "P.U. HT",
+          "confidence": 0.9965530633926392,
+          "bbox": [
+            829,
+            60,
+            904,
+            84
+          ]
+        },
+        {
+          "text": "Montant HT",
+          "confidence": 0.9999486207962036,
+          "bbox": [
+            940,
+            62,
+            1044,
+            82
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999882578849792,
+          "bbox": [
+            1070,
+            60,
+            1118,
+            85
+          ]
+        },
+        {
+          "text": "Conditions de règlement : Acompte de 30% à la commande, le",
+          "confidence": 0.9970384836196899,
+          "bbox": [
+            60,
+            91,
+            584,
+            111
+          ]
+        },
+        {
+          "text": "solde à réception de facture",
+          "confidence": 0.9998531937599182,
+          "bbox": [
+            60,
+            114,
+            296,
+            134
+          ]
+        },
+        {
+          "text": "Assurance décennale obligatoire souscrite auprès de la compagnie d'assurance AVIVA située à BEAUPREAU EN MAUGES valable en France métropolitaine.",
+          "confidence": 0.9980518221855164,
+          "bbox": [
+            53,
+            1295,
+            1131,
+            1315
+          ]
+        },
+        {
+          "text": "Pour le client (signature précédée de la mention : Lu et approuvé,",
+          "confidence": 0.9930909872055054,
+          "bbox": [
+            56,
+            1382,
+            655,
+            1405
+          ]
+        },
+        {
+          "text": "Total HT",
+          "confidence": 0.9999325275421143,
+          "bbox": [
+            680,
+            1374,
+            760,
+            1399
+          ]
+        },
+        {
+          "text": "51 461,20",
+          "confidence": 0.999037504196167,
+          "bbox": [
+            1042,
+            1374,
+            1134,
+            1398
+          ]
+        },
+        {
+          "text": "bon pour accord)",
+          "confidence": 0.9999203085899353,
+          "bbox": [
+            57,
+            1405,
+            216,
+            1426
+          ]
+        },
+        {
+          "text": "Total TVA",
+          "confidence": 0.9997887015342712,
+          "bbox": [
+            680,
+            1409,
+            771,
+            1433
+          ]
+        },
+        {
+          "text": "10 292,24",
+          "confidence": 0.9995484948158264,
+          "bbox": [
+            1042,
+            1407,
+            1134,
+            1434
+          ]
+        },
+        {
+          "text": "Total TTC",
+          "confidence": 0.9987382888793945,
+          "bbox": [
+            680,
+            1443,
+            771,
+            1467
+          ]
+        },
+        {
+          "text": "61 753,44",
+          "confidence": 0.9965847730636597,
+          "bbox": [
+            1042,
+            1443,
+            1134,
+            1467
+          ]
+        },
+        {
+          "text": "Acomptes",
+          "confidence": 0.9999867677688599,
+          "bbox": [
+            679,
+            1476,
+            772,
+            1504
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9995517730712891,
+          "bbox": [
+            1088,
+            1475,
+            1135,
+            1503
+          ]
+        },
+        {
+          "text": "Net à payer",
+          "confidence": 0.9984544515609741,
+          "bbox": [
+            680,
+            1518,
+            785,
+            1543
+          ]
+        },
+        {
+          "text": "61 753,44 €",
+          "confidence": 0.995710015296936,
+          "bbox": [
+            1018,
+            1517,
+            1133,
+            1541
+          ]
+        },
+        {
+          "text": "teopolitub.fr",
+          "confidence": 0.9999905824661255,
+          "bbox": [
+            113,
+            1595,
+            256,
+            1621
+          ]
+        },
+        {
+          "text": "ZI du Landreau - Villedieu la Blouère - 49450 BEAUPRÉAU EN MAUGES",
+          "confidence": 0.998117983341217,
+          "bbox": [
+            298,
+            1598,
+            716,
+            1612
+          ]
+        },
+        {
+          "text": "SAS au capital de 200 000,00 € - RCS ANGERS",
+          "confidence": 0.9982935786247253,
+          "bbox": [
+            767,
+            1603,
+            985,
+            1615
+          ]
+        },
+        {
+          "text": "Tél. 02 41 30 85 00 - Fax. : 02 41 30 87 36 - E-mail : contact@teopolitub.fr",
+          "confidence": 0.9943893551826477,
+          "bbox": [
+            296,
+            1614,
+            738,
+            1630
+          ]
+        },
+        {
+          "text": "SIRET 333 337 590 00025 - APE 2511Z - TVA Intra. FR 12 333 337 590",
+          "confidence": 0.9910603165626526,
+          "bbox": [
+            767,
+            1616,
+            1101,
+            1629
+          ]
+        },
+        {
+          "text": "2 sur 4",
+          "confidence": 0.9970592856407166,
+          "bbox": [
+            1081,
+            1630,
+            1135,
+            1648
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 90,
+      "words": [
+        {
+          "text": "CONDITIONS GENERALES DE VENTE",
+          "confidence": 0.9992145895957947,
+          "bbox": [
+            500,
+            58,
+            685,
+            70
+          ]
+        },
+        {
+          "text": "Article 1. Objet et champ d'application",
+          "confidence": 0.9998306632041931,
+          "bbox": [
+            55,
+            75,
+            261,
+            88
+          ]
+        },
+        {
+          "text": "Le contrat s'entend de l'ensemble constitué par le devis de la société TEOPOLITUB, d'une part, et les présentes conditions générales de vente, d'autre part.",
+          "confidence": 0.9939367771148682,
+          "bbox": [
+            54,
+            92,
+            861,
+            105
+          ]
+        },
+        {
+          "text": "Les stipulations contractuelles sont indissociables et indivisibles. En signant le devis, le client est réputé accepter les présentes conditions générales de vente dans leur intégralité. Il renonce à l'application",
+          "confidence": 0.9954401254653931,
+          "bbox": [
+            54,
+            110,
+            1131,
+            123
+          ]
+        },
+        {
+          "text": "de ses propres conditions générales qui sont inopposables à la société TEOPOLITUB.",
+          "confidence": 0.9989351630210876,
+          "bbox": [
+            54,
+            127,
+            500,
+            140
+          ]
+        },
+        {
+          "text": "Aucune modification du contrat (devis / CGV) ne peut intervenir sans un accord écrit de la part de la société TEOPOLITUB.",
+          "confidence": 0.9945816993713379,
+          "bbox": [
+            54,
+            144,
+            693,
+            157
+          ]
+        },
+        {
+          "text": "Les présentes conditions générales de vente s'appliguent à tous les contrats de vente ou d'échange conclus par la société TEOPOLITUB",
+          "confidence": 0.9961503744125366,
+          "bbox": [
+            55,
+            164,
+            763,
+            174
+          ]
+        },
+        {
+          "text": "Les autres documents de la société TEOPOLITUB et notamment les catalogues, prospectus, publicités, notices, ... n'ont gu'une valeur informative et indicative mais ils ne peuvent se voir reconnaître aucune",
+          "confidence": 0.9807758927345276,
+          "bbox": [
+            55,
+            181,
+            1131,
+            191
+          ]
+        },
+        {
+          "text": "valeur contractuelle",
+          "confidence": 0.9999423027038574,
+          "bbox": [
+            55,
+            198,
+            161,
+            208
+          ]
+        },
+        {
+          "text": "Les indications fournis dans les descriptifs concernant les performances, poids, coût d'exploitation, vitesses et autres doivent être considérées comme estimatives.",
+          "confidence": 0.9976035356521606,
+          "bbox": [
+            54,
+            213,
+            914,
+            226
+          ]
+        },
+        {
+          "text": "Article 2. Propriété intellectuelle",
+          "confidence": 0.9976283311843872,
+          "bbox": [
+            55,
+            232,
+            231,
+            242
+          ]
+        },
+        {
+          "text": "Les documents techniques remis au client demeurent la propriété exclusive de la société TEOPOliTUB seule titulaire des droits de propriété intellectuelle sur ses documents.",
+          "confidence": 0.9899938702583313,
+          "bbox": [
+            54,
+            248,
+            959,
+            261
+          ]
+        },
+        {
+          "text": "Le client s'engage à ne faire aucun usage des documents de la société TEOPOliTUB et il s'engage à ne pas les divulguer à des tiers sans autorisation écrite et préalable de la part de la société, sauf à engager sa",
+          "confidence": 0.9777114987373352,
+          "bbox": [
+            53,
+            264,
+            1132,
+            279
+          ]
+        },
+        {
+          "text": "responsabilité.",
+          "confidence": 0.999935507774353,
+          "bbox": [
+            54,
+            283,
+            134,
+            296
+          ]
+        },
+        {
+          "text": "Article 3. Commandes.",
+          "confidence": 0.9995768666267395,
+          "bbox": [
+            54,
+            300,
+            178,
+            313
+          ]
+        },
+        {
+          "text": "3.1. Définition",
+          "confidence": 0.9996131062507629,
+          "bbox": [
+            55,
+            318,
+            133,
+            330
+          ]
+        },
+        {
+          "text": "Par commande, il faut entendre tout ordre portant sur les produits de la société TEOPOLITUB figurant sur ses tarifs ou catalogues, accompagné du paiement de l'acompte éventuellement prévu sur le bon",
+          "confidence": 0.9930101633071899,
+          "bbox": [
+            54,
+            335,
+            1131,
+            348
+          ]
+        },
+        {
+          "text": "de commande.",
+          "confidence": 0.987921416759491,
+          "bbox": [
+            55,
+            353,
+            133,
+            363
+          ]
+        },
+        {
+          "text": "La commande présente un caractère irrévocable dès réception par la société TEOPOLITUB.",
+          "confidence": 0.9990145564079285,
+          "bbox": [
+            54,
+            369,
+            524,
+            382
+          ]
+        },
+        {
+          "text": "3.2. Modifications",
+          "confidence": 0.9999312162399292,
+          "bbox": [
+            54,
+            386,
+            153,
+            399
+          ]
+        },
+        {
+          "text": "Toute commande transmise à la société TEOPOLITUB est irrévocable, sauf acceptation écrite de la part de la société TEOPOLITUB.",
+          "confidence": 0.9966489672660828,
+          "bbox": [
+            54,
+            404,
+            726,
+            417
+          ]
+        },
+        {
+          "text": "Une demande de modification de la composition ou du volume d'une commande valablement reçue ne pourra être prise en compte que si la demande en est faire par écrit (télécopie, courrier électronique",
+          "confidence": 0.9997393488883972,
+          "bbox": [
+            54,
+            422,
+            1132,
+            435
+          ]
+        },
+        {
+          "text": "ou courrier, hors sms).",
+          "confidence": 0.9994655847549438,
+          "bbox": [
+            56,
+            440,
+            177,
+            450
+          ]
+        },
+        {
+          "text": "Elle devra être adressée et parvenir à la société TEOPOLiTUB dans un délai de 8 jours au plus tard après la réception de la commande initiale et devra être acceptée par écrit par la société pour devenir",
+          "confidence": 0.9884220361709595,
+          "bbox": [
+            56,
+            457,
+            1130,
+            467
+          ]
+        },
+        {
+          "text": "effective.",
+          "confidence": 0.9999968409538269,
+          "bbox": [
+            54,
+            473,
+            105,
+            487
+          ]
+        },
+        {
+          "text": "En cas de modification de la commande initiale par le client, la société TEOPOLITUB sera dégagée des délais convenus pour son exécution.",
+          "confidence": 0.994549572467804,
+          "bbox": [
+            54,
+            491,
+            776,
+            503
+          ]
+        },
+        {
+          "text": "Article 4. Livraisons",
+          "confidence": 0.9996296167373657,
+          "bbox": [
+            54,
+            507,
+            160,
+            520
+          ]
+        },
+        {
+          "text": "4.1. Délais",
+          "confidence": 0.999755322933197,
+          "bbox": [
+            54,
+            526,
+            111,
+            537
+          ]
+        },
+        {
+          "text": "Les délais de livraison sont toujours donnés à titre informatif et indicatif, le respect des délais dépendant notamment de la disponibilité des transporteurs et de l'ordre d'arrivée des commandes.",
+          "confidence": 0.9975235462188721,
+          "bbox": [
+            54,
+            542,
+            1070,
+            555
+          ]
+        },
+        {
+          "text": "La société TEOPOLiTUB s'efforce de respecter les délais de livraison qu'elle indique à l'acceptation de la commande en fonction du délai logistique de référence dans la profession et à exécuter les",
+          "confidence": 0.9918098449707031,
+          "bbox": [
+            54,
+            559,
+            1131,
+            572
+          ]
+        },
+        {
+          "text": "commandes, sauf force majeure, ou circonstances hors de son contrôle, telles que grèves, gel, incendie, tempête, inondation, épidémie, difficultés d'approvisionnement, sans que cette liste soit limitative.",
+          "confidence": 0.992379903793335,
+          "bbox": [
+            55,
+            578,
+            1119,
+            588
+          ]
+        },
+        {
+          "text": "Les retards de livraison ne peuvent donner lieu à aucune pénalité ou indemnité, ni motiver l'annulation de la commande de la part du client.",
+          "confidence": 0.9948399066925049,
+          "bbox": [
+            55,
+            596,
+            786,
+            606
+          ]
+        },
+        {
+          "text": "4.2. Risques",
+          "confidence": 0.9991443753242493,
+          "bbox": [
+            55,
+            613,
+            120,
+            624
+          ]
+        },
+        {
+          "text": "Les livraisons sont effectuées franco de port.",
+          "confidence": 0.9998501539230347,
+          "bbox": [
+            54,
+            629,
+            293,
+            641
+          ]
+        },
+        {
+          "text": "Le transfert des risques sur les produits vendus par la société TEOPOLITUB s'effectue à la remise des produits au transporteur ou la sortie des entrepôts de la société",
+          "confidence": 0.9926886558532715,
+          "bbox": [
+            54,
+            646,
+            923,
+            659
+          ]
+        },
+        {
+          "text": "4.3. Transport",
+          "confidence": 0.9964408874511719,
+          "bbox": [
+            55,
+            664,
+            133,
+            676
+          ]
+        },
+        {
+          "text": "Il appartient au client d'effectuer toutes les réserves nécessaires auprès du transporteur en cas de vice et/ou de non-conformité du produit livré.",
+          "confidence": 0.9986637830734253,
+          "bbox": [
+            54,
+            680,
+            814,
+            693
+          ]
+        },
+        {
+          "text": "Tout produit n'ayant pas fait l'objet de réserves par LRAR dans les 3 jours de sa réception auprès du transporteur conformément à l'article L.133-13 du Code de commerce sera considéré comme accepté",
+          "confidence": 0.9946495294570923,
+          "bbox": [
+            55,
+            699,
+            1131,
+            709
+          ]
+        },
+        {
+          "text": "par le client. Une copie du courrier de réserves devra être adressée sans délai à la société TEOPOLITUB.",
+          "confidence": 0.9896059632301331,
+          "bbox": [
+            55,
+            717,
+            587,
+            727
+          ]
+        },
+        {
+          "text": "4.4. Réception",
+          "confidence": 0.9935954809188843,
+          "bbox": [
+            53,
+            731,
+            133,
+            746
+          ]
+        },
+        {
+          "text": "La réception sans réserve des produits commandés par le client couvre tout vice apparent et/ou manquant. La réception, même avec réserve, oblige le client au paiement de sa commande dans son",
+          "confidence": 0.9976898431777954,
+          "bbox": [
+            54,
+            750,
+            1131,
+            763
+          ]
+        },
+        {
+          "text": "intégralité. Si le client formule une réclamation dans les conditions et selon les modalités décrites ciaprès, il reste tenu par son obligation de paiement des produits commandés.",
+          "confidence": 0.9980716109275818,
+          "bbox": [
+            55,
+            768,
+            980,
+            780
+          ]
+        },
+        {
+          "text": "Sans préjudice des dispositions à prendre par le client vis-à-vis du transporteur conformément aux stipulations de l'article 4.3., en cas de vices apparents ou de manquants, la réclamation du client sur les",
+          "confidence": 0.9939099550247192,
+          "bbox": [
+            55,
+            784,
+            1131,
+            797
+          ]
+        },
+        {
+          "text": "produits livrés, ne sera acceptée par la société TEOPOLITUB que si elle est effectuée par écrit, en LRAR dans le délai de 3 jours prévu à l'article 4.3.",
+          "confidence": 0.9966505765914917,
+          "bbox": [
+            55,
+            801,
+            812,
+            814
+          ]
+        },
+        {
+          "text": "Il appartient au client de fournir toutes les justifications quant à la réalité des vices ou manquants constatés.",
+          "confidence": 0.9938551187515259,
+          "bbox": [
+            54,
+            818,
+            627,
+            831
+          ]
+        },
+        {
+          "text": "Aucun retour de marchandises ne pourra être effectué par le client sans l'accord préalable exprès, écrit de la société TEOPOLiTUB. Les frais de retour seront à la charge du client.",
+          "confidence": 0.9907812476158142,
+          "bbox": [
+            55,
+            836,
+            976,
+            849
+          ]
+        },
+        {
+          "text": "Si l'existence d'un vice apparent ou d'un manguement est confirmée après contrôle organisé par la société TEOPOLiTUB, le client ne pourra demander que le remplacement des articles non conformes et/ou",
+          "confidence": 0.9900068640708923,
+          "bbox": [
+            55,
+            855,
+            1130,
+            865
+          ]
+        },
+        {
+          "text": "le complément à apporter pour combler les manquants de la commande, sans aucun droit à une indemnité ou à la résolution de la commande.",
+          "confidence": 0.9957790970802307,
+          "bbox": [
+            54,
+            871,
+            805,
+            884
+          ]
+        },
+        {
+          "text": "La responsabilité de la société ne peut en aucun cas être mise en cause pour des faits intervenus en cours de transport de destruction, avaries, pertes ou vol, même si elle a choisi le transporteur.",
+          "confidence": 0.9930341839790344,
+          "bbox": [
+            54,
+            888,
+            1072,
+            901
+          ]
+        },
+        {
+          "text": "4.5. Suspension des livraisons",
+          "confidence": 0.9998893737792969,
+          "bbox": [
+            54,
+            906,
+            215,
+            918
+          ]
+        },
+        {
+          "text": "En cas de non paiement intégral d'une facture venue à échéance, après mise en demeure restée sans effet dans les 48 heures, la société TEOPOLITUB se réserve la faculté de suspendre toute livraison en",
+          "confidence": 0.9961748719215393,
+          "bbox": [
+            54,
+            922,
+            1131,
+            935
+          ]
+        },
+        {
+          "text": "cours et/ou à venir.",
+          "confidence": 0.9997908473014832,
+          "bbox": [
+            54,
+            939,
+            159,
+            952
+          ]
+        },
+        {
+          "text": "4.6. Refus de commande",
+          "confidence": 0.9999193549156189,
+          "bbox": [
+            54,
+            957,
+            188,
+            970
+          ]
+        },
+        {
+          "text": "Si un client passe une commande à la société TEOPOLITUB sans avoir procédé au paiement de la ou des commande(s) précédente(s), la société TEOPOLITUB pourra refuser d'honorer la nouvelle commande",
+          "confidence": 0.9942098259925842,
+          "bbox": [
+            54,
+            974,
+            1132,
+            987
+          ]
+        },
+        {
+          "text": "reçue et refuser de livrer la marchandise concernée, sans que le client puisse prétendre à une quelcongue indemnité.",
+          "confidence": 0.9840338230133057,
+          "bbox": [
+            55,
+            993,
+            665,
+            1003
+          ]
+        },
+        {
+          "text": "Article 5. Tarif - Prix.",
+          "confidence": 0.9683588147163391,
+          "bbox": [
+            54,
+            1008,
+            164,
+            1021
+          ]
+        },
+        {
+          "text": "Les tarifs indiqués dans les catalogues de la société TEOPOLITUB peuvent être révisés à tout moment après information préalable du client. Toute modification tarifaire sera automatiquement applicable à la",
+          "confidence": 0.9945021867752075,
+          "bbox": [
+            54,
+            1026,
+            1131,
+            1039
+          ]
+        },
+        {
+          "text": "date indiguée sur le nouveau tarif.",
+          "confidence": 0.9620912671089172,
+          "bbox": [
+            56,
+            1045,
+            235,
+            1054
+          ]
+        },
+        {
+          "text": "Nos prix sont fixés par le tarif en vigueur au jour de la passation de la commande. Ils s'entendent toujours hors taxes.",
+          "confidence": 0.9973421096801758,
+          "bbox": [
+            54,
+            1060,
+            672,
+            1073
+          ]
+        },
+        {
+          "text": "Pour les prix spécifiés pour une quantité minimum, toute commande portant sur une quantité moindre entraîne l'application du prix indiqué sans réduction.",
+          "confidence": 0.9946815371513367,
+          "bbox": [
+            54,
+            1078,
+            881,
+            1091
+          ]
+        },
+        {
+          "text": "Les délais d'exécution figurant dans une commande ne sont acceptés par notre société et ne l'engagent que sous les conditions suivantes : respect par le client des conditions de paiement et de versement",
+          "confidence": 0.9924739599227905,
+          "bbox": [
+            54,
+            1095,
+            1132,
+            1108
+          ]
+        },
+        {
+          "text": "des acomptes, fourniture à temps des spécifications techniques, absence de retard dans les études ou travaux préparatoires, absence de cas de force majeure, d'événements sociaux, politiques,",
+          "confidence": 0.9949067234992981,
+          "bbox": [
+            54,
+            1113,
+            1132,
+            1126
+          ]
+        },
+        {
+          "text": "économigues ou technigues entravant la marche de nos usines ou leur approvisionnement en composants, en énergie ou en matières premières.",
+          "confidence": 0.9941093325614929,
+          "bbox": [
+            56,
+            1131,
+            817,
+            1141
+          ]
+        },
+        {
+          "text": "Article 6. Modalités de règlement",
+          "confidence": 0.9995049238204956,
+          "bbox": [
+            55,
+            1149,
+            237,
+            1159
+          ]
+        },
+        {
+          "text": "6.1. Paiement.",
+          "confidence": 0.9987112879753113,
+          "bbox": [
+            55,
+            1166,
+            131,
+            1177
+          ]
+        },
+        {
+          "text": "Les factures sont payables à la date d'échéance gui y figure. Seul l'encaissement effectif sera considéré comme valant complet paiement au sens des présentes conditions générales de vente",
+          "confidence": 0.9904658794403076,
+          "bbox": [
+            54,
+            1181,
+            1045,
+            1193
+          ]
+        },
+        {
+          "text": "6.2. Non paiement.",
+          "confidence": 0.9999339580535889,
+          "bbox": [
+            54,
+            1199,
+            157,
+            1212
+          ]
+        },
+        {
+          "text": "Tout montant TTC non réglé à la date d'échéance donnera lieu au paiement par le client de pénalités fixées à trois fois le taux d'intérêt légal. Ces pénalités sont exigibles de plein droit et seront d'office",
+          "confidence": 0.995745837688446,
+          "bbox": [
+            54,
+            1216,
+            1132,
+            1229
+          ]
+        },
+        {
+          "text": "portées au débit du compte du client.",
+          "confidence": 0.9951491355895996,
+          "bbox": [
+            54,
+            1233,
+            254,
+            1246
+          ]
+        },
+        {
+          "text": "En outre la société TEOPOLITUB se réserve la faculté de saisir le tribunal compétent afin que celui-ci fasse cesser cette inexécution sous astreinte journalière par jour de retard.",
+          "confidence": 0.992034912109375,
+          "bbox": [
+            55,
+            1250,
+            968,
+            1263
+          ]
+        },
+        {
+          "text": "Article 7. Réserve de propriété",
+          "confidence": 0.9909118413925171,
+          "bbox": [
+            56,
+            1270,
+            221,
+            1280
+          ]
+        },
+        {
+          "text": "7.1. Le transfert de propriété des produits de la société TEOPOLiTUB est suspendu jusqu'à complet paiement du prix de ceux-ci par le client, en principal et accessoires, même en cas d'octroi de délais de",
+          "confidence": 0.9907313585281372,
+          "bbox": [
+            55,
+            1287,
+            1131,
+            1297
+          ]
+        },
+        {
+          "text": "paiement. Toute clause contraire, notamment insérée dans les conditions générales d'achat, est réputée non écrite conformément aux dispositions de l'article L.623-16 du Code de commerce.",
+          "confidence": 0.9963833093643188,
+          "bbox": [
+            54,
+            1303,
+            1057,
+            1316
+          ]
+        },
+        {
+          "text": "De convention expresse, la société TEOPOLiTUB pourra faire jouer les droits qu'elle détient au titre de la présente clause de réserve de propriété, pour l'une quelconque de ses créances, sur la totalité de ses",
+          "confidence": 0.9878837466239929,
+          "bbox": [
+            54,
+            1321,
+            1131,
+            1333
+          ]
+        },
+        {
+          "text": "produits en possession du client, ces derniers étant conventionnellement présumés être ceux impayés. La société TEOPOliTUB pourra les reprendre ou les revendiquer en dédommagement de toutes ses",
+          "confidence": 0.9880017042160034,
+          "bbox": [
+            55,
+            1337,
+            1131,
+            1350
+          ]
+        },
+        {
+          "text": "factures impayées, sans préjudice de son droit de résolution des ventes en cours.",
+          "confidence": 0.996487557888031,
+          "bbox": [
+            55,
+            1354,
+            484,
+            1367
+          ]
+        },
+        {
+          "text": "7.2. La société TEOPOLITUB pourra également exiger, en cas de non-paiement d'une facture à échéance, la résolution de la vente après envoi d'une simple mise en demeure. La société TEOPOLITUB pourra",
+          "confidence": 0.992052435874939,
+          "bbox": [
+            54,
+            1371,
+            1132,
+            1384
+          ]
+        },
+        {
+          "text": "également revendiquer la marchandise livrée, les frais de retour restant à la charge de l'acheteur. Les versements déjà effectués resteront alors à la société TEOPOLiTUB à titre de clause pénale.",
+          "confidence": 0.9917442798614502,
+          "bbox": [
+            55,
+            1389,
+            1049,
+            1402
+          ]
+        },
+        {
+          "text": "7.3. En cas d'ouverture d'une procédure de redressement judiciaire ou de liguidation judiciaire, les commandes en cours seront automatiguement annulées, sauf meilleur accord avec le nouveau",
+          "confidence": 0.9948405027389526,
+          "bbox": [
+            55,
+            1408,
+            1131,
+            1418
+          ]
+        },
+        {
+          "text": "représentant du client. Cette clause ne saurait faire obstacle au transfert de risque lié à la propriété de la marchandise lorsgue l'acheteur en a reçu livraison.",
+          "confidence": 0.9812394380569458,
+          "bbox": [
+            56,
+            1425,
+            867,
+            1435
+          ]
+        },
+        {
+          "text": "Article 8. Garantie des vices apparents et cachés",
+          "confidence": 0.9998210072517395,
+          "bbox": [
+            55,
+            1443,
+            317,
+            1453
+          ]
+        },
+        {
+          "text": "8.1. Les produits doivent être vérifiés par le client à leur livraison, et toute réclamation, réserve ou contestation relative aux manquants et vices apparents doit être effectuée selon les conditions définies à",
+          "confidence": 0.9920713305473328,
+          "bbox": [
+            54,
+            1459,
+            1133,
+            1472
+          ]
+        },
+        {
+          "text": "l'article 4. En cas de défauts apparents à la livraison, les pièces défectueuses seront remplacées après vérification des défauts allégués par les soins de la société TEOPOLiTUB. Le client devra fournir toute",
+          "confidence": 0.9840723872184753,
+          "bbox": [
+            54,
+            1475,
+            1132,
+            1488
+          ]
+        },
+        {
+          "text": "justification quant à la réalité des défauts constatés, la société TEOPOlITUB se réservant le droit de procéder, directement ou indirectement à toute contestation et vérification sur place",
+          "confidence": 0.9816983938217163,
+          "bbox": [
+            54,
+            1491,
+            1022,
+            1504
+          ]
+        },
+        {
+          "text": "8.2. La dénonciation des défauts existants au moment de la livraison et révélés après la réception des produits devra être formulée par le client par écrit dans un délai de 3 jours suivant la date à laquelle il",
+          "confidence": 0.9929251670837402,
+          "bbox": [
+            54,
+            1510,
+            1132,
+            1523
+          ]
+        },
+        {
+          "text": "aura découvert le défaut de conformité. Aucune dénonciation ne sera prise en compte au-delà de ce délai.",
+          "confidence": 0.9961135387420654,
+          "bbox": [
+            54,
+            1527,
+            611,
+            1540
+          ]
+        },
+        {
+          "text": "8.3. Aucune action en non-conformité ne pourra être engagée par le client au-delà d'un délai de 3 jours après la livraison des produits. Il est expressément convenu qu'après l'expiration de ce délai de 3",
+          "confidence": 0.994661808013916,
+          "bbox": [
+            55,
+            1546,
+            1130,
+            1556
+          ]
+        },
+        {
+          "text": "jours, le client ne pourra pas invoquer la non-conformité des produits ni opposer celle-ci en demande reconventionnelle pour se défendre à l'occasion d'une action en recouvrement de créances engagée",
+          "confidence": 0.9952531456947327,
+          "bbox": [
+            54,
+            1562,
+            1132,
+            1575
+          ]
+        },
+        {
+          "text": "par la société TEOPOLITUB. A défaut de respecter les présentes, la responsabilité de la société TEOPOLITUB ne pourra être mise en cause à raison d'un vice caché quel qu'il soit.",
+          "confidence": 0.9924254417419434,
+          "bbox": [
+            55,
+            1580,
+            970,
+            1593
+          ]
+        },
+        {
+          "text": "8.4. Les défauts et détériorations des produits livrés consécutifs à des conditions anormales de stockage et/ou de conservation chez le client, notamment en cas d'accident de quelque nature que ce soit,",
+          "confidence": 0.9971625208854675,
+          "bbox": [
+            55,
+            1597,
+            1120,
+            1610
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "word_count": 36,
+      "words": [
+        {
+          "text": "ne pourront ouvrir droit à la garantie due par la société TEOPOLITUB.",
+          "confidence": 0.9986952543258667,
+          "bbox": [
+            55,
+            58,
+            415,
+            70
+          ]
+        },
+        {
+          "text": "8.5. Au titre de la garantie des vices cachés, la société TEOPOLITUB ne sera tenue que du remplacement sans frais des marchandises défectueuses, sans que le client ne puisse prétendre à aucun dommages",
+          "confidence": 0.9917833209037781,
+          "bbox": [
+            53,
+            73,
+            1131,
+            88
+          ]
+        },
+        {
+          "text": "et intérêts.",
+          "confidence": 0.9998995661735535,
+          "bbox": [
+            54,
+            91,
+            114,
+            105
+          ]
+        },
+        {
+          "text": "8.6. La société TEOPOLITUB garantit ses produits contre les vices cachés, conformément à la loi, aux usages et à la jurisprudence et dans les conditions suivantes. La garantie de la société TEOPOLITUB ne",
+          "confidence": 0.9933125376701355,
+          "bbox": [
+            54,
+            109,
+            1133,
+            122
+          ]
+        },
+        {
+          "text": "s'applique qu'aux produits qui sont devenus régulièrement la propriété de l'acheteur. Elle ne s'applique pas aux produits transformés par des tiers. Elle est exclue lorsqu'il a été fait un usage des produits de",
+          "confidence": 0.9939935803413391,
+          "bbox": [
+            54,
+            127,
+            1133,
+            140
+          ]
+        },
+        {
+          "text": "la société TEOPOLITUB suivant des conditions d'utilisation et/ou de performance non prévues. La garantie de la société TEOPOLITUB ne concerne que les vices cachés.",
+          "confidence": 0.9928407073020935,
+          "bbox": [
+            54,
+            144,
+            926,
+            157
+          ]
+        },
+        {
+          "text": "Les clients de la société TEOPOliTUB étant des professionnels, le vice caché s'entend d'un défaut du produit le rendant totalement impropre à son usage alors qu'il n'était pas susceptible d'être détecté par",
+          "confidence": 0.9898611307144165,
+          "bbox": [
+            54,
+            162,
+            1132,
+            175
+          ]
+        },
+        {
+          "text": "l'acheteur avant son utilisation. Un défaut de conception n'est pas un vice caché et les clients sont réputés avoir reçu toutes les informations techniques relatives à nos produits.",
+          "confidence": 0.9975271224975586,
+          "bbox": [
+            54,
+            179,
+            990,
+            192
+          ]
+        },
+        {
+          "text": "La garantie de la société TEOPOLITUB se limite au remplacement ou à la réparation des pièces défectueuses. Elle est limitée aux 6 (six) premiers mois d'utilisation. Nos pièces sont réputées utilisées par nos",
+          "confidence": 0.9943482279777527,
+          "bbox": [
+            54,
+            196,
+            1132,
+            209
+          ]
+        },
+        {
+          "text": "clients au plus tard dans les 3 mois de la mise à disposition. En toute hypothèse, nos clients doivent justifier de la date du début d'utilisation. Notre garantie cesse de plein droit à l'issue de cette période.",
+          "confidence": 0.9921725988388062,
+          "bbox": [
+            55,
+            212,
+            1131,
+            225
+          ]
+        },
+        {
+          "text": "Notre garantie cesse de plein droit dès lors que notre client ne nous a pas avertis du vice allégué dans un délai de 20 (vingt) jours francs à partir de sa découverte. Il lui incombe de prouver le jour de cette",
+          "confidence": 0.9934988617897034,
+          "bbox": [
+            54,
+            230,
+            1131,
+            244
+          ]
+        },
+        {
+          "text": "découverte.",
+          "confidence": 0.9999715685844421,
+          "bbox": [
+            54,
+            247,
+            119,
+            261
+          ]
+        },
+        {
+          "text": "Article 9. Force majeure",
+          "confidence": 0.9999496340751648,
+          "bbox": [
+            54,
+            264,
+            184,
+            278
+          ]
+        },
+        {
+          "text": "Sont considérées comme cas de force majeure ou cas fortuits les événements indépendants de la volonté des parties qu'elles ne pouvaient raisonnablement être tenues de prévoit et qu'elles ne pouvaient",
+          "confidence": 0.992460310459137,
+          "bbox": [
+            54,
+            283,
+            1132,
+            296
+          ]
+        },
+        {
+          "text": "raisonnablement éviter ou surmonter dans la mesure où leur survenance rend totalement impossible l'exécution des obligations.",
+          "confidence": 0.9996462464332581,
+          "bbox": [
+            54,
+            300,
+            732,
+            313
+          ]
+        },
+        {
+          "text": "Sont notamment assimilés à des cas de force majeure ou fortuits déchargeant la société TEOPOLITUB de son obligation de livrer dans les délais initialement prévus : les grèves de la totalité ou d'une partie",
+          "confidence": 0.9961584210395813,
+          "bbox": [
+            54,
+            317,
+            1132,
+            330
+          ]
+        },
+        {
+          "text": "du personnel de notre société ou de ses transporteurs habituels, l'incendie, l'inondation, la guerre, les arrêts de production dus à des pannes fortuites, l'impossibilité d'être approvisionné en matière",
+          "confidence": 0.9949177503585815,
+          "bbox": [
+            54,
+            334,
+            1132,
+            347
+          ]
+        },
+        {
+          "text": "première, les épidémies, les barrières de dégel, les barrages routiers, grève ou rupture d'approvisionnement EDF-GDF ou rupture d'approvisionnement pour une cause non imputable à la société",
+          "confidence": 0.9949562549591064,
+          "bbox": [
+            54,
+            351,
+            1133,
+            365
+          ]
+        },
+        {
+          "text": "TEOPOLITUB, ainsi que toute autre cause de rupture d'approvisionnement imputable à nos fournisseurs.",
+          "confidence": 0.9922747015953064,
+          "bbox": [
+            53,
+            367,
+            607,
+            382
+          ]
+        },
+        {
+          "text": "Dans de telles circonstances la société TEOPOLITUB préviendra le client par écrit, notamment par télécopie ou courrier électronigue, dans les 24 heures de la date de survenance des événements, le contrat",
+          "confidence": 0.9939472079277039,
+          "bbox": [
+            54,
+            386,
+            1132,
+            399
+          ]
+        },
+        {
+          "text": "liant la société TEOPOLITUB et le client étant alors suspendu de plein droit sans indemnité à compter de la date de survenance de l'événement.",
+          "confidence": 0.9958169460296631,
+          "bbox": [
+            54,
+            404,
+            801,
+            417
+          ]
+        },
+        {
+          "text": "Si l'événement venait à durer plus de 30 jours à compter de sa date de survenance, le contrat de vente conclu par notre société et son client pourra être résilié par la partie la plus diligente, sans qu'aucune",
+          "confidence": 0.9969167113304138,
+          "bbox": [
+            54,
+            421,
+            1132,
+            434
+          ]
+        },
+        {
+          "text": "des parties puisse prétendre à l'octroi de dommages intérêts.",
+          "confidence": 0.9922286868095398,
+          "bbox": [
+            54,
+            438,
+            376,
+            451
+          ]
+        },
+        {
+          "text": "Cette résiliation prendra effet à la date de première présentation de la lettre recommandée avec accusé de réception dénonçant ledit contrat de vente.",
+          "confidence": 0.9959362745285034,
+          "bbox": [
+            55,
+            455,
+            837,
+            468
+          ]
+        },
+        {
+          "text": "Article 10. Litiges - Attribution de juridiction",
+          "confidence": 0.999096155166626,
+          "bbox": [
+            54,
+            473,
+            292,
+            486
+          ]
+        },
+        {
+          "text": "10.1. L'élection de domicile est faite au siège social de la société TEOPOLITUB.",
+          "confidence": 0.9940328598022461,
+          "bbox": [
+            54,
+            490,
+            461,
+            502
+          ]
+        },
+        {
+          "text": "10.2. Tout différend au sujet de l'application des présentes et de leur interprétation, leur exécution ou leur résiliation, sera porté devant le Tribunal de commerce du siège de la société TEOPOLITUB.",
+          "confidence": 0.9924027919769287,
+          "bbox": [
+            54,
+            506,
+            1084,
+            520
+          ]
+        },
+        {
+          "text": "Les lettres de change ne sauraient avoir pour effet de modifier cette clause de juridiction.",
+          "confidence": 0.9989833235740662,
+          "bbox": [
+            54,
+            524,
+            521,
+            537
+          ]
+        },
+        {
+          "text": "10.3. En cas d'action judiciaire ou de toute autre action en recouvrement de créances par notre société, les frais de sommation, de justice et les honoraires d'avocat et d'huissier et tous les frais annexes",
+          "confidence": 0.9917010068893433,
+          "bbox": [
+            54,
+            542,
+            1131,
+            555
+          ]
+        },
+        {
+          "text": "seront à la charge du client fautif, ainsi que les frais liés ou découlant du non respect par le client des conditions de paiement ou de livraison de la commande considérée.",
+          "confidence": 0.9961904883384705,
+          "bbox": [
+            54,
+            559,
+            946,
+            572
+          ]
+        },
+        {
+          "text": "Article 11. Renonciation.",
+          "confidence": 0.9998348355293274,
+          "bbox": [
+            54,
+            576,
+            189,
+            589
+          ]
+        },
+        {
+          "text": "Le fait pour la société TEOPOLiTUB de ne pas se prévaloir à un moment donné de tout ou partie d'une clause du présent contrat ne peut en aucun cas valoir renonciation à se prévaloir ultérieurement de ces",
+          "confidence": 0.9909853339195251,
+          "bbox": [
+            54,
+            594,
+            1131,
+            607
+          ]
+        },
+        {
+          "text": "mêmes clauses.",
+          "confidence": 0.9999118447303772,
+          "bbox": [
+            54,
+            611,
+            140,
+            625
+          ]
+        },
+        {
+          "text": "Article 12. Droit applicable.",
+          "confidence": 0.9997079968452454,
+          "bbox": [
+            54,
+            628,
+            202,
+            641
+          ]
+        },
+        {
+          "text": "Toute question relative aux présentes conditions générales de vente ainsi qu'aux ventes qu'elles régissent, qui ne serait pas traitée par les présentes stipulations contractuelles, sera régie par la loi française",
+          "confidence": 0.9966007471084595,
+          "bbox": [
+            54,
+            646,
+            1125,
+            659
+          ]
+        },
+        {
+          "text": "à l'exclusion de tout autre droit, et à titre supplétif, par la Convention de Vienne sur la vente internationale des marchandises.",
+          "confidence": 0.999244213104248,
+          "bbox": [
+            54,
+            661,
+            713,
+            674
+          ]
+        }
+      ]
+    }
+  ]
+}

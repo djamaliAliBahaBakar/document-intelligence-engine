@@ -1,0 +1,664 @@
+{
+  "engine": "paddleocr",
+  "document": "Devis_4.pdf",
+  "duration_seconds": 65.213,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 65,
+      "words": [
+        {
+          "text": "eleo",
+          "confidence": 0.9981577396392822,
+          "bbox": [
+            50,
+            50,
+            328,
+            149
+          ]
+        },
+        {
+          "text": "DEVIS",
+          "confidence": 0.9997917413711548,
+          "bbox": [
+            978,
+            95,
+            1124,
+            145
+          ]
+        },
+        {
+          "text": "ENERGY LINK",
+          "confidence": 0.9794073700904846,
+          "bbox": [
+            126,
+            141,
+            260,
+            162
+          ]
+        },
+        {
+          "text": "9 RUE GUTENBERG",
+          "confidence": 0.9998703002929688,
+          "bbox": [
+            55,
+            226,
+            211,
+            243
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9992615580558777,
+          "bbox": [
+            677,
+            230,
+            834,
+            250
+          ]
+        },
+        {
+          "text": "91070 BONDOUFLE",
+          "confidence": 0.9999827146530151,
+          "bbox": [
+            54,
+            251,
+            209,
+            271
+          ]
+        },
+        {
+          "text": "79 RUE DES JONCS DES BOIS",
+          "confidence": 0.999320387840271,
+          "bbox": [
+            677,
+            253,
+            913,
+            273
+          ]
+        },
+        {
+          "text": "01 64 97 41 74",
+          "confidence": 0.9972509741783142,
+          "bbox": [
+            53,
+            276,
+            167,
+            296
+          ]
+        },
+        {
+          "text": "Village des Métiers Hall 3",
+          "confidence": 0.9953284859657288,
+          "bbox": [
+            678,
+            280,
+            891,
+            301
+          ]
+        },
+        {
+          "text": "commercial@eleofrance.com",
+          "confidence": 0.9999883770942688,
+          "bbox": [
+            54,
+            303,
+            269,
+            323
+          ]
+        },
+        {
+          "text": "84000",
+          "confidence": 0.9999973177909851,
+          "bbox": [
+            676,
+            304,
+            735,
+            326
+          ]
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.9999623894691467,
+          "bbox": [
+            771,
+            303,
+            860,
+            327
+          ]
+        },
+        {
+          "text": "www.eleofrance.com",
+          "confidence": 0.9999727606773376,
+          "bbox": [
+            53,
+            327,
+            207,
+            347
+          ]
+        },
+        {
+          "text": "N° Devis",
+          "confidence": 0.9882808923721313,
+          "bbox": [
+            82,
+            378,
+            146,
+            400
+          ]
+        },
+        {
+          "text": "36362",
+          "confidence": 0.9999984502792358,
+          "bbox": [
+            289,
+            378,
+            340,
+            400
+          ]
+        },
+        {
+          "text": "Contact sur site",
+          "confidence": 0.9780933856964111,
+          "bbox": [
+            586,
+            385,
+            694,
+            405
+          ]
+        },
+        {
+          "text": "Michelle BENECH",
+          "confidence": 0.9999846816062927,
+          "bbox": [
+            745,
+            386,
+            865,
+            403
+          ]
+        },
+        {
+          "text": "Contact fournisseur",
+          "confidence": 0.999994158744812,
+          "bbox": [
+            83,
+            413,
+            218,
+            433
+          ]
+        },
+        {
+          "text": "Fatima zahrae ETTIBARY",
+          "confidence": 0.9999592304229736,
+          "bbox": [
+            292,
+            414,
+            460,
+            431
+          ]
+        },
+        {
+          "text": "0413397936",
+          "confidence": 0.9999984502792358,
+          "bbox": [
+            745,
+            414,
+            834,
+            432
+          ]
+        },
+        {
+          "text": "Réf. Client",
+          "confidence": 0.9999552369117737,
+          "bbox": [
+            83,
+            445,
+            158,
+            467
+          ]
+        },
+        {
+          "text": "DDP A25001",
+          "confidence": 0.9999547004699707,
+          "bbox": [
+            292,
+            447,
+            380,
+            465
+          ]
+        },
+        {
+          "text": "Date de devis",
+          "confidence": 0.9999810457229614,
+          "bbox": [
+            83,
+            482,
+            178,
+            502
+          ]
+        },
+        {
+          "text": "25/02/2025",
+          "confidence": 0.9999979138374329,
+          "bbox": [
+            290,
+            480,
+            378,
+            503
+          ]
+        },
+        {
+          "text": "Date de validité",
+          "confidence": 0.9999676942825317,
+          "bbox": [
+            82,
+            516,
+            191,
+            536
+          ]
+        },
+        {
+          "text": "28/02/2025",
+          "confidence": 0.9999977350234985,
+          "bbox": [
+            290,
+            515,
+            378,
+            539
+          ]
+        },
+        {
+          "text": "Date de livraison souhaitée",
+          "confidence": 0.9925171136856079,
+          "bbox": [
+            84,
+            553,
+            265,
+            570
+          ]
+        },
+        {
+          "text": "Commentaire",
+          "confidence": 0.9997773766517639,
+          "bbox": [
+            86,
+            586,
+            204,
+            607
+          ]
+        },
+        {
+          "text": "Tolérance: +/- 3% chargée et facturée.",
+          "confidence": 0.9940031170845032,
+          "bbox": [
+            205,
+            582,
+            482,
+            599
+          ]
+        },
+        {
+          "text": "Les moyens de déchargement sont à la charge d'ELEO jusqu'à 1300kg (hayon).",
+          "confidence": 0.9996750354766846,
+          "bbox": [
+            203,
+            617,
+            777,
+            636
+          ]
+        },
+        {
+          "text": "Le coût du déchargement avec grue est à la charge du client.",
+          "confidence": 0.9997538924217224,
+          "bbox": [
+            203,
+            635,
+            643,
+            652
+          ]
+        },
+        {
+          "text": "Le délai de livraison est donné à titre indicatif et n'est pas sujet à des pénalités",
+          "confidence": 0.9939199090003967,
+          "bbox": [
+            203,
+            652,
+            765,
+            669
+          ]
+        },
+        {
+          "text": "Rérérence",
+          "confidence": 0.9999828338623047,
+          "bbox": [
+            58,
+            701,
+            163,
+            729
+          ]
+        },
+        {
+          "text": "Libellé de la référence",
+          "confidence": 0.9996408224105835,
+          "bbox": [
+            206,
+            702,
+            412,
+            728
+          ]
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.999991238117218,
+          "bbox": [
+            628,
+            701,
+            716,
+            729
+          ]
+        },
+        {
+          "text": "Prix HT",
+          "confidence": 0.9998733401298523,
+          "bbox": [
+            773,
+            702,
+            846,
+            727
+          ]
+        },
+        {
+          "text": "%Rem. Prix NHT Montant",
+          "confidence": 0.9993005990982056,
+          "bbox": [
+            870,
+            702,
+            1129,
+            729
+          ]
+        },
+        {
+          "text": "AR0V240",
+          "confidence": 0.9966433644294739,
+          "bbox": [
+            60,
+            745,
+            143,
+            769
+          ]
+        },
+        {
+          "text": "U-1000 AR2V 1x240 GL",
+          "confidence": 0.9991649389266968,
+          "bbox": [
+            208,
+            747,
+            380,
+            764
+          ]
+        },
+        {
+          "text": "2 865 ML",
+          "confidence": 0.9848896265029907,
+          "bbox": [
+            654,
+            746,
+            730,
+            768
+          ]
+        },
+        {
+          "text": "4,011€",
+          "confidence": 0.9999898076057434,
+          "bbox": [
+            780,
+            745,
+            847,
+            771
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9996299743652344,
+          "bbox": [
+            895,
+            744,
+            943,
+            771
+          ]
+        },
+        {
+          "text": "4,011€ 11 491,51€",
+          "confidence": 0.9986945986747742,
+          "bbox": [
+            967,
+            747,
+            1131,
+            768
+          ]
+        },
+        {
+          "text": "DISPONIBLES EN 2 LONGUEURS : 1560ML+1305ML",
+          "confidence": 0.9821345210075378,
+          "bbox": [
+            208,
+            771,
+            697,
+            790
+          ]
+        },
+        {
+          "text": "AR0V70",
+          "confidence": 0.9698929190635681,
+          "bbox": [
+            56,
+            806,
+            136,
+            835
+          ]
+        },
+        {
+          "text": "U-1000 AR2V 1x70 GL",
+          "confidence": 0.9841005206108093,
+          "bbox": [
+            207,
+            809,
+            372,
+            829
+          ]
+        },
+        {
+          "text": "955ML",
+          "confidence": 0.9831716418266296,
+          "bbox": [
+            667,
+            808,
+            731,
+            834
+          ]
+        },
+        {
+          "text": "1,302€",
+          "confidence": 0.9999846816062927,
+          "bbox": [
+            777,
+            805,
+            847,
+            836
+          ]
+        },
+        {
+          "text": "0,00 1,302€ 1 243,41€",
+          "confidence": 0.9754515290260315,
+          "bbox": [
+            895,
+            808,
+            1134,
+            835
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.9999634623527527,
+          "bbox": [
+            207,
+            835,
+            332,
+            856
+          ]
+        },
+        {
+          "text": "Montant HT",
+          "confidence": 0.9999882578849792,
+          "bbox": [
+            822,
+            892,
+            930,
+            915
+          ]
+        },
+        {
+          "text": "12 734,94€",
+          "confidence": 0.997252345085144,
+          "bbox": [
+            1021,
+            892,
+            1121,
+            916
+          ]
+        },
+        {
+          "text": "Taux TVA",
+          "confidence": 0.9999159574508667,
+          "bbox": [
+            72,
+            913,
+            166,
+            938
+          ]
+        },
+        {
+          "text": "Montant TVA",
+          "confidence": 0.9999727606773376,
+          "bbox": [
+            224,
+            915,
+            352,
+            936
+          ]
+        },
+        {
+          "text": "Montant TTC",
+          "confidence": 0.9560840725898743,
+          "bbox": [
+            420,
+            915,
+            544,
+            936
+          ]
+        },
+        {
+          "text": "Montant TVA",
+          "confidence": 0.9999841451644897,
+          "bbox": [
+            818,
+            929,
+            938,
+            953
+          ]
+        },
+        {
+          "text": "2 546,99€",
+          "confidence": 0.9814683198928833,
+          "bbox": [
+            1030,
+            929,
+            1121,
+            954
+          ]
+        },
+        {
+          "text": "20,00%",
+          "confidence": 0.9999558925628662,
+          "bbox": [
+            101,
+            953,
+            170,
+            979
+          ]
+        },
+        {
+          "text": "2 546,99€",
+          "confidence": 0.9976664781570435,
+          "bbox": [
+            267,
+            954,
+            356,
+            978
+          ]
+        },
+        {
+          "text": "15 281,93€",
+          "confidence": 0.9979442358016968,
+          "bbox": [
+            448,
+            954,
+            547,
+            978
+          ]
+        },
+        {
+          "text": "Montant TTC",
+          "confidence": 0.9999721050262451,
+          "bbox": [
+            818,
+            968,
+            934,
+            992
+          ]
+        },
+        {
+          "text": "15 281,93€",
+          "confidence": 0.9993788003921509,
+          "bbox": [
+            1009,
+            970,
+            1118,
+            995
+          ]
+        },
+        {
+          "text": "Les prix accordés sont valables pour la globalité du devis et seront révisables selon la variation des cours matières le jour de la commande",
+          "confidence": 0.999847412109375,
+          "bbox": [
+            55,
+            1007,
+            976,
+            1024
+          ]
+        },
+        {
+          "text": "ELEO SAS (Société par Action Simplifiée) Capital social : 1 000 000 € SIRET : 811 738 038 00033 Code NAF 4669A N° de TVA :",
+          "confidence": 0.9857200384140015,
+          "bbox": [
+            55,
+            1597,
+            982,
+            1616
+          ]
+        },
+        {
+          "text": "P.1/1",
+          "confidence": 0.9999246597290039,
+          "bbox": [
+            1089,
+            1594,
+            1139,
+            1619
+          ]
+        }
+      ]
+    }
+  ]
+}

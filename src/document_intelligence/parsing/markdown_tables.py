@@ -57,6 +57,8 @@ def rename_headers(df):
 def normalize_supplier_df_to_beluo(df):
     df = rename_headers(df)
     print(df.columns.tolist())
+    if "reference" not in df.columns and "description" in df.columns:
+        df["reference"] = df["description"]
     columns = [
         "reference",
         "description",
@@ -71,7 +73,7 @@ def normalize_supplier_df_to_beluo(df):
     for column in columns:
         if column in df.columns:
             result[column] = df[column]
-
+    
     return pd.DataFrame(result)
 
 
@@ -88,15 +90,18 @@ def split_quantity_unit(quantity_raw: str) -> tuple[str, int]:
 
     return unit, quantity
 
+def parse_french_number(value):
+    if value is None:
+        return 0.0
 
-def parse_french_number(value) -> float:
     value = str(value).strip()
+
+    if value == "":
+        return 0.0
+
     value = value.replace("€", "")
     value = value.replace(" ", "")
     value = value.replace(",", ".")
-
-    if value == "":
-        raise ValueError("Nombre vide")
 
     return float(value)
 
