@@ -1,0 +1,734 @@
+{
+  "engine": "paddleocr",
+  "document": "devis 11.pdf",
+  "duration_seconds": 71.671,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 72,
+      "words": [
+        {
+          "text": "MAVISUN",
+          "confidence": 0.9997791051864624,
+          "bbox": [
+            316,
+            30,
+            413,
+            54
+          ]
+        },
+        {
+          "text": "MAVISUN",
+          "confidence": 0.9772629141807556,
+          "bbox": [
+            63,
+            66,
+            293,
+            107
+          ]
+        },
+        {
+          "text": "320 Route des Contamines",
+          "confidence": 0.9999552369117737,
+          "bbox": [
+            321,
+            61,
+            558,
+            82
+          ]
+        },
+        {
+          "text": "74370 ARGONAY",
+          "confidence": 0.9998223781585693,
+          "bbox": [
+            317,
+            90,
+            478,
+            110
+          ]
+        },
+        {
+          "text": "MON ÉNERGIE PROPRE",
+          "confidence": 0.9991036653518677,
+          "bbox": [
+            66,
+            108,
+            291,
+            129
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999961256980896,
+          "bbox": [
+            312,
+            116,
+            382,
+            144
+          ]
+        },
+        {
+          "text": "Adresse de facturation :",
+          "confidence": 0.9998328685760498,
+          "bbox": [
+            56,
+            231,
+            276,
+            252
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9996190667152405,
+          "bbox": [
+            680,
+            230,
+            867,
+            251
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9992191791534424,
+          "bbox": [
+            56,
+            262,
+            244,
+            282
+          ]
+        },
+        {
+          "text": "22 chemin du Tronchon",
+          "confidence": 0.9780579805374146,
+          "bbox": [
+            679,
+            258,
+            899,
+            280
+          ]
+        },
+        {
+          "text": "22 chemin du Tronchon",
+          "confidence": 0.9999663233757019,
+          "bbox": [
+            56,
+            291,
+            274,
+            311
+          ]
+        },
+        {
+          "text": "69570 DARDILLY",
+          "confidence": 0.9999787211418152,
+          "bbox": [
+            679,
+            285,
+            845,
+            306
+          ]
+        },
+        {
+          "text": "69570 DARDILLY",
+          "confidence": 0.9999775886535645,
+          "bbox": [
+            56,
+            316,
+            222,
+            337
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.999995231628418,
+          "bbox": [
+            677,
+            310,
+            748,
+            335
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999954700469971,
+          "bbox": [
+            53,
+            340,
+            124,
+            364
+          ]
+        },
+        {
+          "text": "TVA: FR03919931410",
+          "confidence": 0.9762670993804932,
+          "bbox": [
+            678,
+            338,
+            887,
+            358
+          ]
+        },
+        {
+          "text": "Adresse d'expédition :",
+          "confidence": 0.9986358880996704,
+          "bbox": [
+            55,
+            370,
+            261,
+            391
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9992192983627319,
+          "bbox": [
+            56,
+            400,
+            244,
+            420
+          ]
+        },
+        {
+          "text": "22 chemin du Tronchon",
+          "confidence": 0.9999663233757019,
+          "bbox": [
+            56,
+            429,
+            274,
+            449
+          ]
+        },
+        {
+          "text": "69570 DARDILLY",
+          "confidence": 0.9999288320541382,
+          "bbox": [
+            56,
+            454,
+            222,
+            475
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999954700469971,
+          "bbox": [
+            53,
+            479,
+            124,
+            503
+          ]
+        },
+        {
+          "text": "Devis # S27364",
+          "confidence": 0.9767886400222778,
+          "bbox": [
+            59,
+            548,
+            349,
+            582
+          ]
+        },
+        {
+          "text": "Date du devis :",
+          "confidence": 0.9997755289077759,
+          "bbox": [
+            55,
+            629,
+            195,
+            652
+          ]
+        },
+        {
+          "text": "Date de livraison:",
+          "confidence": 0.9999759197235107,
+          "bbox": [
+            325,
+            632,
+            486,
+            652
+          ]
+        },
+        {
+          "text": "Échéance :",
+          "confidence": 0.9762304425239563,
+          "bbox": [
+            590,
+            627,
+            696,
+            654
+          ]
+        },
+        {
+          "text": "Vendeur :",
+          "confidence": 0.978617250919342,
+          "bbox": [
+            856,
+            627,
+            955,
+            654
+          ]
+        },
+        {
+          "text": "18/07/2025",
+          "confidence": 0.9999985694885254,
+          "bbox": [
+            55,
+            660,
+            174,
+            684
+          ]
+        },
+        {
+          "text": "18/08/2025",
+          "confidence": 0.9999983906745911,
+          "bbox": [
+            324,
+            660,
+            442,
+            684
+          ]
+        },
+        {
+          "text": "17/08/2025",
+          "confidence": 0.9999983906745911,
+          "bbox": [
+            592,
+            660,
+            710,
+            684
+          ]
+        },
+        {
+          "text": "Boris Jean",
+          "confidence": 0.9999629855155945,
+          "bbox": [
+            858,
+            659,
+            958,
+            684
+          ]
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9999973773956299,
+          "bbox": [
+            60,
+            739,
+            172,
+            764
+          ]
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.9999895095825195,
+          "bbox": [
+            559,
+            737,
+            650,
+            766
+          ]
+        },
+        {
+          "text": "date de",
+          "confidence": 0.9952778220176697,
+          "bbox": [
+            696,
+            737,
+            775,
+            765
+          ]
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.9999767541885376,
+          "bbox": [
+            835,
+            737,
+            883,
+            765
+          ]
+        },
+        {
+          "text": "Taxes",
+          "confidence": 0.999991238117218,
+          "bbox": [
+            946,
+            738,
+            1010,
+            764
+          ]
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.9999968409538269,
+          "bbox": [
+            1040,
+            737,
+            1132,
+            765
+          ]
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.9999479651451111,
+          "bbox": [
+            686,
+            757,
+            775,
+            784
+          ]
+        },
+        {
+          "text": "unitaire",
+          "confidence": 0.9999841451644897,
+          "bbox": [
+            802,
+            757,
+            882,
+            784
+          ]
+        },
+        {
+          "text": "[CP035271] DM455M10RT-B54HBT-V DMEGC",
+          "confidence": 0.998626172542572,
+          "bbox": [
+            61,
+            795,
+            507,
+            818
+          ]
+        },
+        {
+          "text": "1 560,00 18/08/2025",
+          "confidence": 0.9953180551528931,
+          "bbox": [
+            563,
+            796,
+            770,
+            817
+          ]
+        },
+        {
+          "text": "49,49 €",
+          "confidence": 0.9996727705001831,
+          "bbox": [
+            802,
+            790,
+            884,
+            821
+          ]
+        },
+        {
+          "text": "Eco-",
+          "confidence": 0.9995126724243164,
+          "bbox": [
+            958,
+            791,
+            1011,
+            821
+          ]
+        },
+        {
+          "text": "77 204,40 €",
+          "confidence": 0.9626407027244568,
+          "bbox": [
+            1011,
+            794,
+            1130,
+            818
+          ]
+        },
+        {
+          "text": "MODULE 455 BI-VERRE CADRE NOIR FOND",
+          "confidence": 0.9985128045082092,
+          "bbox": [
+            61,
+            827,
+            482,
+            847
+          ]
+        },
+        {
+          "text": "Unités",
+          "confidence": 0.9999862313270569,
+          "bbox": [
+            582,
+            825,
+            649,
+            851
+          ]
+        },
+        {
+          "text": "participation,",
+          "confidence": 0.9999939203262329,
+          "bbox": [
+            884,
+            827,
+            1008,
+            851
+          ]
+        },
+        {
+          "text": "TRANSPARENT N-TYPE BC500 PPE2",
+          "confidence": 0.9885208010673523,
+          "bbox": [
+            62,
+            860,
+            406,
+            877
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998976588249207,
+          "bbox": [
+            915,
+            856,
+            1008,
+            881
+          ]
+        },
+        {
+          "text": "HS CODE : 85414300",
+          "confidence": 0.9490436911582947,
+          "bbox": [
+            59,
+            888,
+            263,
+            909
+          ]
+        },
+        {
+          "text": "Poids: 24.5 kg",
+          "confidence": 0.9999423623085022,
+          "bbox": [
+            58,
+            916,
+            194,
+            943
+          ]
+        },
+        {
+          "text": "Pays origine: chine",
+          "confidence": 0.9999719858169556,
+          "bbox": [
+            60,
+            949,
+            234,
+            973
+          ]
+        },
+        {
+          "text": "Qté palette : 36",
+          "confidence": 0.9987397193908691,
+          "bbox": [
+            60,
+            979,
+            208,
+            1003
+          ]
+        },
+        {
+          "text": "Dim 1762 X 1134 X 30",
+          "confidence": 0.9957402944564819,
+          "bbox": [
+            61,
+            1011,
+            273,
+            1032
+          ]
+        },
+        {
+          "text": "[FGKVO1] FRAIS DE PORT VENTE et EMBALLAGE",
+          "confidence": 0.9828887581825256,
+          "bbox": [
+            61,
+            1051,
+            527,
+            1073
+          ]
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9998246431350708,
+          "bbox": [
+            599,
+            1048,
+            652,
+            1078
+          ]
+        },
+        {
+          "text": "1 750,00 €",
+          "confidence": 0.9987457990646362,
+          "bbox": [
+            777,
+            1051,
+            881,
+            1075
+          ]
+        },
+        {
+          "text": "TVA 20% 1 750,00 €",
+          "confidence": 0.9762523174285889,
+          "bbox": [
+            917,
+            1051,
+            1129,
+            1074
+          ]
+        },
+        {
+          "text": "Dep 13 pour les 3 site",
+          "confidence": 0.9999158382415771,
+          "bbox": [
+            62,
+            1084,
+            263,
+            1105
+          ]
+        },
+        {
+          "text": "Unités (1",
+          "confidence": 0.998412013053894,
+          "bbox": [
+            560,
+            1079,
+            650,
+            1108
+          ]
+        },
+        {
+          "text": "carton)",
+          "confidence": 0.9999721646308899,
+          "bbox": [
+            577,
+            1111,
+            651,
+            1140
+          ]
+        },
+        {
+          "text": "Montant hors taxes",
+          "confidence": 0.9999854564666748,
+          "bbox": [
+            598,
+            1177,
+            780,
+            1197
+          ]
+        },
+        {
+          "text": "78 954,40 €",
+          "confidence": 0.9996914267539978,
+          "bbox": [
+            1012,
+            1174,
+            1130,
+            1198
+          ]
+        },
+        {
+          "text": "Eco-participations",
+          "confidence": 0.9999623894691467,
+          "bbox": [
+            598,
+            1216,
+            767,
+            1240
+          ]
+        },
+        {
+          "text": "93,60 €",
+          "confidence": 0.9993399977684021,
+          "bbox": [
+            1051,
+            1213,
+            1132,
+            1242
+          ]
+        },
+        {
+          "text": "TVA 20% sur 79 048,00 €",
+          "confidence": 0.9998822212219238,
+          "bbox": [
+            598,
+            1259,
+            834,
+            1279
+          ]
+        },
+        {
+          "text": "15 809,60 €",
+          "confidence": 0.9913175106048584,
+          "bbox": [
+            1012,
+            1257,
+            1130,
+            1281
+          ]
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999944567680359,
+          "bbox": [
+            593,
+            1297,
+            654,
+            1327
+          ]
+        },
+        {
+          "text": "94 857,60 €",
+          "confidence": 0.957219123840332,
+          "bbox": [
+            1012,
+            1299,
+            1130,
+            1324
+          ]
+        },
+        {
+          "text": "Conditions générales : https://www.mavisun.com/terms",
+          "confidence": 0.9952679872512817,
+          "bbox": [
+            57,
+            1357,
+            565,
+            1377
+          ]
+        },
+        {
+          "text": "SIRET : 829 138 486 00032 - RCS ANNECY - SAS AU CAPITAL DE 1 050 000 EUROS APE 4669A - N° TVA INTRACOM :FR 44 829 138 486",
+          "confidence": 0.9838138222694397,
+          "bbox": [
+            187,
+            1519,
+            987,
+            1533
+          ]
+        },
+        {
+          "text": "ADRESSE SIEGE: 320 ROUTE DES CONTAMINES - 74370 ARGONAY - IBAN €: FR7618106008109674722601319 - IBAN FCH: FR7618106008109675840938181",
+          "confidence": 0.9831444025039673,
+          "bbox": [
+            120,
+            1552,
+            1065,
+            1565
+          ]
+        },
+        {
+          "text": "Page : 1 sur 1",
+          "confidence": 0.998596727848053,
+          "bbox": [
+            532,
+            1658,
+            658,
+            1682
+          ]
+        }
+      ]
+    }
+  ]
+}

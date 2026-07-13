@@ -1,0 +1,6168 @@
+{
+  "engine": "paddleocr",
+  "document": "devis 4.pdf",
+  "duration_seconds": 826.965,
+  "page_count": 10,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 9,
+      "words": [
+        {
+          "text": "ΔLLOMAT",
+          "confidence": 0.9261980056762695,
+          "bbox": [
+            410,
+            71,
+            1016,
+            167
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9998534917831421,
+          "bbox": [
+            414,
+            167,
+            1008,
+            204
+          ]
+        },
+        {
+          "text": "Devis N° 25-01-21740-V2",
+          "confidence": 0.9872269034385681,
+          "bbox": [
+            266,
+            319,
+            928,
+            369
+          ]
+        },
+        {
+          "text": "du:28/02/2025",
+          "confidence": 0.9913499355316162,
+          "bbox": [
+            483,
+            382,
+            709,
+            413
+          ]
+        },
+        {
+          "text": "Madame BENECH",
+          "confidence": 0.9997676610946655,
+          "bbox": [
+            97,
+            504,
+            367,
+            531
+          ]
+        },
+        {
+          "text": "Votre contact : Valérie DRENEUC",
+          "confidence": 0.995760440826416,
+          "bbox": [
+            96,
+            556,
+            566,
+            583
+          ]
+        },
+        {
+          "text": "ALLOMAT",
+          "confidence": 0.8003714680671692,
+          "bbox": [
+            486,
+            1052,
+            582,
+            1091
+          ]
+        },
+        {
+          "text": "SAS au capital de 1000 897 EUROS",
+          "confidence": 0.9996386766433716,
+          "bbox": [
+            433,
+            1596,
+            759,
+            1615
+          ]
+        },
+        {
+          "text": "RCS Créteil B672 950 177 / 86 B 12 892 - TVA FR 19 672 950 177 - APE 713 C",
+          "confidence": 0.995552659034729,
+          "bbox": [
+            240,
+            1621,
+            953,
+            1641
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 109,
+      "words": [
+        {
+          "text": "ΔLLOMAT",
+          "confidence": 0.893624484539032,
+          "bbox": [
+            154,
+            51,
+            409,
+            94
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9998379945755005,
+          "bbox": [
+            660,
+            53,
+            855,
+            76
+          ]
+        },
+        {
+          "text": "MADAME BENECH",
+          "confidence": 0.9999659657478333,
+          "bbox": [
+            660,
+            79,
+            847,
+            103
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9999703168869019,
+          "bbox": [
+            151,
+            92,
+            408,
+            112
+          ]
+        },
+        {
+          "text": "22 CHEMIN DU TRONCHON",
+          "confidence": 0.9999454021453857,
+          "bbox": [
+            660,
+            105,
+            927,
+            129
+          ]
+        },
+        {
+          "text": "14 Rue des Prés de l'Hôpital",
+          "confidence": 0.9965356588363647,
+          "bbox": [
+            73,
+            118,
+            308,
+            142
+          ]
+        },
+        {
+          "text": "ZI des Graviers",
+          "confidence": 0.9681789875030518,
+          "bbox": [
+            72,
+            143,
+            204,
+            167
+          ]
+        },
+        {
+          "text": "69570 DARDILLY",
+          "confidence": 0.9999938607215881,
+          "bbox": [
+            659,
+            156,
+            826,
+            183
+          ]
+        },
+        {
+          "text": "94190 VILLENEUVE ST GEORGES",
+          "confidence": 0.9893997311592102,
+          "bbox": [
+            72,
+            167,
+            370,
+            190
+          ]
+        },
+        {
+          "text": "Tél. : 01 43 82 20 51 - email : allomat.paris@allomat.fr",
+          "confidence": 0.9985977411270142,
+          "bbox": [
+            72,
+            192,
+            512,
+            214
+          ]
+        },
+        {
+          "text": "Proposition Contrat n° 25-01-21740-V2 du 28/02/25 - Validité : 15 jours",
+          "confidence": 0.9880726933479309,
+          "bbox": [
+            248,
+            238,
+            925,
+            265
+          ]
+        },
+        {
+          "text": "Lieu d'utilisation : 95470 SAINT-WITZ - Durée de location : 123 jours",
+          "confidence": 0.9945874214172363,
+          "bbox": [
+            66,
+            308,
+            681,
+            336
+          ]
+        },
+        {
+          "text": "Délai de livraison : à convenir auprès de notre service commercial lors de votre commande.",
+          "confidence": 0.9998643398284912,
+          "bbox": [
+            67,
+            341,
+            963,
+            363
+          ]
+        },
+        {
+          "text": "Descriptif Matériels loués et Prestations",
+          "confidence": 0.99615478515625,
+          "bbox": [
+            259,
+            377,
+            646,
+            404
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9999673366546631,
+          "bbox": [
+            830,
+            376,
+            880,
+            407
+          ]
+        },
+        {
+          "text": "PUHT",
+          "confidence": 0.9999896883964539,
+          "bbox": [
+            888,
+            376,
+            959,
+            406
+          ]
+        },
+        {
+          "text": "Total €HT",
+          "confidence": 0.9998382925987244,
+          "bbox": [
+            987,
+            377,
+            1090,
+            406
+          ]
+        },
+        {
+          "text": "1/2 Domino Sanitaire 3 x 2,43 m : 1 douche - 1 WC Turc - 3 pts d'eau - CE 100L",
+          "confidence": 0.9912216067314148,
+          "bbox": [
+            75,
+            412,
+            747,
+            435
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999561309814453,
+          "bbox": [
+            842,
+            410,
+            865,
+            436
+          ]
+        },
+        {
+          "text": "Module Domino de 15 m2 - 6.03 x 2.44 m - à usage de vestiaire - 1 porte 1 fenêtre",
+          "confidence": 0.9953502416610718,
+          "bbox": [
+            74,
+            438,
+            774,
+            461
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999492168426514,
+          "bbox": [
+            840,
+            435,
+            867,
+            463
+          ]
+        },
+        {
+          "text": "Case vestiaire industrie salissante",
+          "confidence": 0.9999702572822571,
+          "bbox": [
+            73,
+            463,
+            355,
+            488
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.9999988079071045,
+          "bbox": [
+            836,
+            461,
+            872,
+            491
+          ]
+        },
+        {
+          "text": "Banc pliant 160 cm",
+          "confidence": 0.9999564290046692,
+          "bbox": [
+            73,
+            490,
+            236,
+            513
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999979734420776,
+          "bbox": [
+            839,
+            488,
+            867,
+            515
+          ]
+        },
+        {
+          "text": "Module Domino 15 m2 - 6.03 x 2.44 m - à usage de réfectoire - 1 porte, 1 fenêtre",
+          "confidence": 0.9909070134162903,
+          "bbox": [
+            73,
+            516,
+            757,
+            539
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999457597732544,
+          "bbox": [
+            840,
+            512,
+            867,
+            541
+          ]
+        },
+        {
+          "text": "Meuble kitchenette, évier 1 bac, CE 5 L (Frigo et micro ondes à l'achat : voir option)",
+          "confidence": 0.994753360748291,
+          "bbox": [
+            74,
+            542,
+            748,
+            565
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999418258666992,
+          "bbox": [
+            841,
+            539,
+            867,
+            567
+          ]
+        },
+        {
+          "text": "Table 160 x 70 cm",
+          "confidence": 0.9943017363548279,
+          "bbox": [
+            72,
+            566,
+            231,
+            592
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999980926513672,
+          "bbox": [
+            839,
+            565,
+            867,
+            594
+          ]
+        },
+        {
+          "text": "Chaise coque plastique",
+          "confidence": 0.9997365474700928,
+          "bbox": [
+            73,
+            593,
+            271,
+            619
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.9999987483024597,
+          "bbox": [
+            836,
+            591,
+            871,
+            622
+          ]
+        },
+        {
+          "text": "Module Domino de 15 m2 - 6.03 x 2.44 m - à usage de bureau - 1 porte 1 fenêtre",
+          "confidence": 0.9995985627174377,
+          "bbox": [
+            75,
+            622,
+            754,
+            641
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999948263168335,
+          "bbox": [
+            842,
+            619,
+            865,
+            644
+          ]
+        },
+        {
+          "text": "Bureau + caisson 3 tiroirs",
+          "confidence": 0.9999069571495056,
+          "bbox": [
+            74,
+            647,
+            286,
+            668
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999555349349976,
+          "bbox": [
+            842,
+            644,
+            865,
+            670
+          ]
+        },
+        {
+          "text": "Armoire de bureau 180 x 80 x 38 cm",
+          "confidence": 0.9976302981376648,
+          "bbox": [
+            73,
+            672,
+            374,
+            695
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999417066574097,
+          "bbox": [
+            841,
+            669,
+            867,
+            697
+          ]
+        },
+        {
+          "text": "Chaise coque plastique",
+          "confidence": 0.9997375011444092,
+          "bbox": [
+            73,
+            697,
+            271,
+            723
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999984502792358,
+          "bbox": [
+            840,
+            696,
+            867,
+            724
+          ]
+        },
+        {
+          "text": "Climatiseur type window 2700 W froid seul",
+          "confidence": 0.9991295337677002,
+          "bbox": [
+            74,
+            723,
+            421,
+            746
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.999995231628418,
+          "bbox": [
+            840,
+            722,
+            866,
+            751
+          ]
+        },
+        {
+          "text": "Dominogard : Garde corps de toiture dépliable conforme CRAMIF - livré et posé",
+          "confidence": 0.9997193217277527,
+          "bbox": [
+            73,
+            751,
+            719,
+            773
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999988079071045,
+          "bbox": [
+            839,
+            748,
+            867,
+            776
+          ]
+        },
+        {
+          "text": "Contribution environnementale",
+          "confidence": 0.9999944567680359,
+          "bbox": [
+            74,
+            776,
+            328,
+            799
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999979734420776,
+          "bbox": [
+            840,
+            773,
+            866,
+            802
+          ]
+        },
+        {
+          "text": "Module sanitaire SANIBOX - 1 WC anglais + lave mains",
+          "confidence": 0.9996325969696045,
+          "bbox": [
+            73,
+            802,
+            552,
+            825
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999549388885498,
+          "bbox": [
+            842,
+            800,
+            865,
+            826
+          ]
+        },
+        {
+          "text": "Contribution environnementale",
+          "confidence": 0.9999943375587463,
+          "bbox": [
+            74,
+            828,
+            329,
+            851
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999549388885498,
+          "bbox": [
+            842,
+            826,
+            865,
+            852
+          ]
+        },
+        {
+          "text": "MONTANT TOTAL DU LOYER PAR JOUR CALENDAIRE HT :",
+          "confidence": 0.9991636276245117,
+          "bbox": [
+            302,
+            854,
+            824,
+            877
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999595880508423,
+          "bbox": [
+            843,
+            855,
+            862,
+            876
+          ]
+        },
+        {
+          "text": "33,83",
+          "confidence": 0.9995262026786804,
+          "bbox": [
+            1047,
+            851,
+            1104,
+            881
+          ]
+        },
+        {
+          "text": "GARANTIE MULTIRISQUE : Oui Non (si oui, signer le document joint)",
+          "confidence": 0.9909773468971252,
+          "bbox": [
+            73,
+            879,
+            675,
+            904
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999234676361084,
+          "bbox": [
+            842,
+            879,
+            865,
+            905
+          ]
+        },
+        {
+          "text": "3,38",
+          "confidence": 0.9848407506942749,
+          "bbox": [
+            1055,
+            876,
+            1104,
+            908
+          ]
+        },
+        {
+          "text": "Tarifs révisables sous réserve de visite de site",
+          "confidence": 0.9965193867683411,
+          "bbox": [
+            74,
+            907,
+            480,
+            929
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999958872795105,
+          "bbox": [
+            843,
+            905,
+            865,
+            930
+          ]
+        },
+        {
+          "text": "Tarification sous réserve de disponibilité",
+          "confidence": 0.9996823072433472,
+          "bbox": [
+            74,
+            932,
+            434,
+            955
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999974250793457,
+          "bbox": [
+            843,
+            930,
+            865,
+            956
+          ]
+        },
+        {
+          "text": "PRESTATIONS FORFAITAIRES HT LIEES A LA LOCATION :",
+          "confidence": 0.9826251268386841,
+          "bbox": [
+            73,
+            957,
+            579,
+            980
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999545812606812,
+          "bbox": [
+            842,
+            956,
+            865,
+            982
+          ]
+        },
+        {
+          "text": "Visite de site",
+          "confidence": 0.9983775019645691,
+          "bbox": [
+            73,
+            984,
+            185,
+            1008
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999948263168335,
+          "bbox": [
+            842,
+            983,
+            865,
+            1008
+          ]
+        },
+        {
+          "text": "Préparation des matériels",
+          "confidence": 0.9999632835388184,
+          "bbox": [
+            74,
+            1011,
+            288,
+            1032
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999556541442871,
+          "bbox": [
+            841,
+            1007,
+            866,
+            1036
+          ]
+        },
+        {
+          "text": "Calage et mise à niveau des matériels (nous consulter si plus de 20cm de haut)",
+          "confidence": 0.9932670593261719,
+          "bbox": [
+            74,
+            1037,
+            717,
+            1059
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.999998927116394,
+          "bbox": [
+            839,
+            1034,
+            866,
+            1062
+          ]
+        },
+        {
+          "text": "45,00",
+          "confidence": 0.9984064102172852,
+          "bbox": [
+            920,
+            1031,
+            979,
+            1064
+          ]
+        },
+        {
+          "text": "135,00",
+          "confidence": 0.9945747256278992,
+          "bbox": [
+            1040,
+            1033,
+            1104,
+            1062
+          ]
+        },
+        {
+          "text": "Transport livraison avec camion avec bras de grue",
+          "confidence": 0.9999391436576843,
+          "bbox": [
+            74,
+            1062,
+            486,
+            1085
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999568462371826,
+          "bbox": [
+            842,
+            1060,
+            865,
+            1085
+          ]
+        },
+        {
+          "text": "2 130,00",
+          "confidence": 0.9567506313323975,
+          "bbox": [
+            899,
+            1059,
+            977,
+            1087
+          ]
+        },
+        {
+          "text": "2130,00",
+          "confidence": 0.997113049030304,
+          "bbox": [
+            1025,
+            1057,
+            1104,
+            1090
+          ]
+        },
+        {
+          "text": "Montage assemblage des matériels",
+          "confidence": 0.9999821186065674,
+          "bbox": [
+            73,
+            1088,
+            367,
+            1111
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999954342842102,
+          "bbox": [
+            842,
+            1086,
+            865,
+            1112
+          ]
+        },
+        {
+          "text": "794,00",
+          "confidence": 0.997964084148407,
+          "bbox": [
+            912,
+            1084,
+            977,
+            1114
+          ]
+        },
+        {
+          "text": "794,00",
+          "confidence": 0.9991495609283447,
+          "bbox": [
+            1039,
+            1084,
+            1104,
+            1114
+          ]
+        },
+        {
+          "text": "Démontage des matériels (réactualisable)",
+          "confidence": 0.9998452067375183,
+          "bbox": [
+            74,
+            1114,
+            416,
+            1137
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999948263168335,
+          "bbox": [
+            842,
+            1113,
+            865,
+            1138
+          ]
+        },
+        {
+          "text": "794,00",
+          "confidence": 0.9989344477653503,
+          "bbox": [
+            912,
+            1111,
+            977,
+            1140
+          ]
+        },
+        {
+          "text": "794,00",
+          "confidence": 0.997683048248291,
+          "bbox": [
+            1039,
+            1111,
+            1104,
+            1140
+          ]
+        },
+        {
+          "text": "Transport retour (réactualisable)",
+          "confidence": 0.9999752640724182,
+          "bbox": [
+            73,
+            1141,
+            340,
+            1164
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999948263168335,
+          "bbox": [
+            842,
+            1139,
+            865,
+            1164
+          ]
+        },
+        {
+          "text": "2 130,00",
+          "confidence": 0.9578700661659241,
+          "bbox": [
+            899,
+            1138,
+            977,
+            1166
+          ]
+        },
+        {
+          "text": "2 130,00",
+          "confidence": 0.9482049942016602,
+          "bbox": [
+            1026,
+            1138,
+            1103,
+            1166
+          ]
+        },
+        {
+          "text": "Forfait d'entretien des matériels (lessivage, désinfection)",
+          "confidence": 0.9912782311439514,
+          "bbox": [
+            72,
+            1165,
+            533,
+            1190
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999982118606567,
+          "bbox": [
+            839,
+            1164,
+            866,
+            1193
+          ]
+        },
+        {
+          "text": "110,00",
+          "confidence": 0.9992707371711731,
+          "bbox": [
+            913,
+            1163,
+            977,
+            1193
+          ]
+        },
+        {
+          "text": "330,00",
+          "confidence": 0.9997004866600037,
+          "bbox": [
+            1039,
+            1163,
+            1104,
+            1193
+          ]
+        },
+        {
+          "text": "Entretien simple d'un sanitaire au retour (nettoyage, lessivage, désinfection)",
+          "confidence": 0.9998217821121216,
+          "bbox": [
+            74,
+            1193,
+            687,
+            1215
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999970197677612,
+          "bbox": [
+            840,
+            1190,
+            866,
+            1218
+          ]
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9978446364402771,
+          "bbox": [
+            912,
+            1190,
+            977,
+            1218
+          ]
+        },
+        {
+          "text": "440,00",
+          "confidence": 0.9962716698646545,
+          "bbox": [
+            1039,
+            1189,
+            1104,
+            1218
+          ]
+        },
+        {
+          "text": "MONTANT TOTAL HT DES PRESTATIONS HORS LOCATION :",
+          "confidence": 0.998957633972168,
+          "bbox": [
+            292,
+            1219,
+            822,
+            1239
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999619722366333,
+          "bbox": [
+            843,
+            1218,
+            861,
+            1239
+          ]
+        },
+        {
+          "text": "6753,00",
+          "confidence": 0.9981552362442017,
+          "bbox": [
+            1026,
+            1215,
+            1103,
+            1244
+          ]
+        },
+        {
+          "text": "<Options vendues (entourez les options souhaitées)>",
+          "confidence": 0.9932165145874023,
+          "bbox": [
+            76,
+            1244,
+            508,
+            1267
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999539852142334,
+          "bbox": [
+            842,
+            1242,
+            865,
+            1268
+          ]
+        },
+        {
+          "text": "OPTION : Réfrigérateur 130 litres neuf pour kitchenette Oui Non",
+          "confidence": 0.9966250061988831,
+          "bbox": [
+            74,
+            1270,
+            631,
+            1293
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999948263168335,
+          "bbox": [
+            842,
+            1269,
+            865,
+            1294
+          ]
+        },
+        {
+          "text": "232,00",
+          "confidence": 0.9993688464164734,
+          "bbox": [
+            912,
+            1267,
+            977,
+            1297
+          ]
+        },
+        {
+          "text": "232,00",
+          "confidence": 0.9995216727256775,
+          "bbox": [
+            1039,
+            1267,
+            1104,
+            1297
+          ]
+        },
+        {
+          "text": "EL-MO-008 Micro Ondes 20 Litres 800W Oui Non",
+          "confidence": 0.9950997829437256,
+          "bbox": [
+            73,
+            1295,
+            517,
+            1320
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999958872795105,
+          "bbox": [
+            842,
+            1295,
+            864,
+            1321
+          ]
+        },
+        {
+          "text": "72,00",
+          "confidence": 0.9995892643928528,
+          "bbox": [
+            920,
+            1293,
+            978,
+            1324
+          ]
+        },
+        {
+          "text": "72,00",
+          "confidence": 0.9983509182929993,
+          "bbox": [
+            1045,
+            1291,
+            1105,
+            1325
+          ]
+        },
+        {
+          "text": "ALLOMAT SAS - Paris - Lyon - Nice - Toulon - Marseille - Montpellier - Toulouse - Bordeaux - Siren : 672 950 177 - APE 77.32 Z - Capital : 1 000 897 €",
+          "confidence": 0.9878643751144409,
+          "bbox": [
+            67,
+            1625,
+            1147,
+            1645
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 15,
+      "words": [
+        {
+          "text": "Préavis de restitution : 8 jours (15 jours pour assemblages). Dégradations des matériels facturés au retour. Le locataire s'engage à ne pas monter",
+          "confidence": 0.9998160600662231,
+          "bbox": [
+            70,
+            125,
+            1110,
+            142
+          ]
+        },
+        {
+          "text": "ni stocker du matériel sur le toit des modules. Le refus du garde corps de toîture entraîne votre responsabilité.",
+          "confidence": 0.9958812594413757,
+          "bbox": [
+            70,
+            147,
+            848,
+            161
+          ]
+        },
+        {
+          "text": "Non compris : raccordement des fluides (eau, électricité, tél), aménagement de l'aire de livraison qui devra être accessible, impôts fonciers et taxe",
+          "confidence": 0.9921082258224487,
+          "bbox": [
+            70,
+            167,
+            1108,
+            181
+          ]
+        },
+        {
+          "text": "de bureau éventuels.",
+          "confidence": 0.9991858601570129,
+          "bbox": [
+            70,
+            189,
+            221,
+            203
+          ]
+        },
+        {
+          "text": "* Protection collective obligatoire en toiture (mise en place et maintien), conforme aux dispositions du Code du travail. Si le client ne confie pas",
+          "confidence": 0.993223249912262,
+          "bbox": [
+            70,
+            210,
+            1110,
+            226
+          ]
+        },
+        {
+          "text": "cette prestation à notre entreprise, il s'engage à mettre lui-même en place les protections collectives, en adéquation avec les modules fournis.",
+          "confidence": 0.9962772727012634,
+          "bbox": [
+            69,
+            229,
+            1109,
+            246
+          ]
+        },
+        {
+          "text": "Dans ce cas, notre entreprise ne sera pas responsable des conséquences de non-conformité de ces protections, a fortiori de l'absence de mise",
+          "confidence": 0.9983545541763306,
+          "bbox": [
+            69,
+            249,
+            1108,
+            266
+          ]
+        },
+        {
+          "text": "en place des protections.",
+          "confidence": 0.9999067187309265,
+          "bbox": [
+            71,
+            271,
+            248,
+            285
+          ]
+        },
+        {
+          "text": "Règlement 30 jours fin de mois le 10 par prelevement - Dépôt de garantie encaissé avant livraison : 0,00 €.",
+          "confidence": 0.9911890029907227,
+          "bbox": [
+            75,
+            307,
+            982,
+            324
+          ]
+        },
+        {
+          "text": "\"Je reconnais avoir lu et accepté les Conditions Générales de Location et la Garantie Multirisque ci-jointes.\"",
+          "confidence": 0.9956686496734619,
+          "bbox": [
+            75,
+            328,
+            999,
+            345
+          ]
+        },
+        {
+          "text": "Bon pour accord, le :",
+          "confidence": 0.9970410466194153,
+          "bbox": [
+            73,
+            393,
+            243,
+            413
+          ]
+        },
+        {
+          "text": "Valérie DRENEUC",
+          "confidence": 0.9815130829811096,
+          "bbox": [
+            746,
+            389,
+            919,
+            409
+          ]
+        },
+        {
+          "text": "(cachet + signature)",
+          "confidence": 0.9998084902763367,
+          "bbox": [
+            74,
+            416,
+            237,
+            436
+          ]
+        },
+        {
+          "text": "Tél.: 01 43 82 20 51",
+          "confidence": 0.9810891151428223,
+          "bbox": [
+            747,
+            414,
+            932,
+            434
+          ]
+        },
+        {
+          "text": "ALLOMAT SAS - Paris - Lyon - Nice - Toulon - Marseille - Montpellier - Toulouse - Bordeaux - Siren : 672 950 177 - APE 77.32 Z - Capital : 1 000 897 €",
+          "confidence": 0.9852355718612671,
+          "bbox": [
+            68,
+            1628,
+            1146,
+            1645
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "word_count": 13,
+      "words": [
+        {
+          "text": "ΔLLOMAT",
+          "confidence": 0.9223788380622864,
+          "bbox": [
+            106,
+            60,
+            365,
+            105
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9991059303283691,
+          "bbox": [
+            105,
+            101,
+            363,
+            122
+          ]
+        },
+        {
+          "text": "Devis 25-01-21740-V2 / SFECO SOLUTIONS",
+          "confidence": 0.9937102794647217,
+          "bbox": [
+            395,
+            122,
+            806,
+            145
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.5848197937011719,
+          "bbox": [
+            829,
+            359,
+            857,
+            396
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.9875285625457764,
+          "bbox": [
+            1043,
+            359,
+            1070,
+            398
+          ]
+        },
+        {
+          "text": "#",
+          "confidence": 0.19420534372329712,
+          "bbox": [
+            1254,
+            356,
+            1286,
+            400
+          ]
+        },
+        {
+          "text": "O",
+          "confidence": 0.3152201175689697,
+          "bbox": [
+            1251,
+            399,
+            1280,
+            423
+          ]
+        },
+        {
+          "text": "603mm",
+          "confidence": 0.9532774090766907,
+          "bbox": [
+            1364,
+            607,
+            1399,
+            715
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.9724765419960022,
+          "bbox": [
+            532,
+            710,
+            552,
+            731
+          ]
+        },
+        {
+          "text": "CE",
+          "confidence": 0.9575715661048889,
+          "bbox": [
+            511,
+            806,
+            544,
+            847
+          ]
+        },
+        {
+          "text": "O",
+          "confidence": 0.8250730037689209,
+          "bbox": [
+            505,
+            882,
+            518,
+            897
+          ]
+        },
+        {
+          "text": "",
+          "confidence": 0.0,
+          "bbox": [
+            423,
+            923,
+            448,
+            963
+          ]
+        },
+        {
+          "text": "9739mm",
+          "confidence": 0.9999966621398926,
+          "bbox": [
+            799,
+            1066,
+            902,
+            1095
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "word_count": 49,
+      "words": [
+        {
+          "text": "GARANTIE MULTIRISQUES ALLOMAT - 1087 Bis",
+          "confidence": 0.9879411458969116,
+          "bbox": [
+            219,
+            82,
+            961,
+            111
+          ]
+        },
+        {
+          "text": "Client : SFECO SOLUTIONS",
+          "confidence": 0.9964320659637451,
+          "bbox": [
+            71,
+            135,
+            327,
+            155
+          ]
+        },
+        {
+          "text": "N° RC : 919 931 410",
+          "confidence": 0.949723482131958,
+          "bbox": [
+            752,
+            142,
+            975,
+            163
+          ]
+        },
+        {
+          "text": "Adresse : 22 CHEMIN DU TRONCHON",
+          "confidence": 0.992854654788971,
+          "bbox": [
+            69,
+            164,
+            449,
+            190
+          ]
+        },
+        {
+          "text": "N° de Devis : 25-01-21740-V2",
+          "confidence": 0.9780314564704895,
+          "bbox": [
+            753,
+            173,
+            1073,
+            193
+          ]
+        },
+        {
+          "text": "69570 DARDILLY",
+          "confidence": 0.9999853372573853,
+          "bbox": [
+            184,
+            208,
+            345,
+            227
+          ]
+        },
+        {
+          "text": "I OBJET DE LA GARANTIE",
+          "confidence": 0.9810537099838257,
+          "bbox": [
+            68,
+            260,
+            305,
+            277
+          ]
+        },
+        {
+          "text": "Le présent contrat garantit les matériels loués, sous réserve du paiement de la prime ci-dessous mentionnée et des exclusions",
+          "confidence": 0.9997111558914185,
+          "bbox": [
+            70,
+            283,
+            1109,
+            300
+          ]
+        },
+        {
+          "text": "prévues par ailleurs, contre les risques de : Incendie, explosion, foudre, dégâts des eaux, vol, attentats, dommages",
+          "confidence": 0.9987032413482666,
+          "bbox": [
+            69,
+            306,
+            1109,
+            326
+          ]
+        },
+        {
+          "text": "accidentels, catastrophes naturelles, tempête, grêle, neige.",
+          "confidence": 0.9957705736160278,
+          "bbox": [
+            70,
+            332,
+            574,
+            349
+          ]
+        },
+        {
+          "text": "II EXCLUSIONS",
+          "confidence": 0.9987744688987732,
+          "bbox": [
+            66,
+            373,
+            209,
+            395
+          ]
+        },
+        {
+          "text": "Ne sont pas garantis, au titre du présent contrat : la responsabilité civile de l'assuré en raison des dommages corporels, matériels",
+          "confidence": 0.9963551163673401,
+          "bbox": [
+            70,
+            399,
+            1109,
+            416
+          ]
+        },
+        {
+          "text": "ou immatériels causés à des tiers ou à ALLOMAT, du fait des matériels loués, les graffitis et bris de glace, les pertes et",
+          "confidence": 0.9919254183769226,
+          "bbox": [
+            70,
+            423,
+            1110,
+            440
+          ]
+        },
+        {
+          "text": "dommages provenant de la détérioration lente et de l'usure, des variations climatiques et atmosphériques, de la dépréciation",
+          "confidence": 0.9994746446609497,
+          "bbox": [
+            69,
+            446,
+            1109,
+            466
+          ]
+        },
+        {
+          "text": "naturelle des matériels loués, des rongeurs, mites et autres parasites, les pertes et dommages survenant au cours de",
+          "confidence": 0.991328775882721,
+          "bbox": [
+            68,
+            469,
+            1110,
+            490
+          ]
+        },
+        {
+          "text": "transformation, entretien, nettoyage, réparation, remise à neuf des matériels loués, causés directement par une telle opération ou",
+          "confidence": 0.995334804058075,
+          "bbox": [
+            70,
+            495,
+            1109,
+            512
+          ]
+        },
+        {
+          "text": "bien résultant d'un procédé de restauration ou de remise à neuf, le bris total ou partiel des parties mécaniques des matériels",
+          "confidence": 0.9979920387268066,
+          "bbox": [
+            70,
+            519,
+            1109,
+            536
+          ]
+        },
+        {
+          "text": "loués, à moins que ce bris ne résulte d'un événement garanti, Les avaries ou détériorations résultant de rayures, bosselures,",
+          "confidence": 0.9944998621940613,
+          "bbox": [
+            69,
+            543,
+            1108,
+            560
+          ]
+        },
+        {
+          "text": "défauts d'aspect, égratignures, éraflures, les brûlures de fumeur, les tâches, la décoloration due au soleil, la perte, le manque à",
+          "confidence": 0.9939947724342346,
+          "bbox": [
+            70,
+            567,
+            1109,
+            584
+          ]
+        },
+        {
+          "text": "l'inventaire, les dommages électriques et leurs conséquences, les dommages dus à des rixes auxquelles prend part le détenteur",
+          "confidence": 0.9953857660293579,
+          "bbox": [
+            67,
+            589,
+            1110,
+            610
+          ]
+        },
+        {
+          "text": "des matériels loués, les vols et détournements commis par ou avec la complicité de l'assuré, ses associés, gérants, mandataires",
+          "confidence": 0.9995638132095337,
+          "bbox": [
+            68,
+            613,
+            1110,
+            633
+          ]
+        },
+        {
+          "text": "sociaux ou substitués, les dommages résultant d'une opération de montage ou démontage défectueux, les dommages dus à une",
+          "confidence": 0.9975467920303345,
+          "bbox": [
+            70,
+            639,
+            1109,
+            656
+          ]
+        },
+        {
+          "text": "utilisation non conforme aux prescriptions du fabricant ou d'ALLOMAT, les dommages dont le fait générateur ou la cause initiale",
+          "confidence": 0.9962352514266968,
+          "bbox": [
+            70,
+            662,
+            1108,
+            679
+          ]
+        },
+        {
+          "text": "n'a pas un caractère aléatoire, résulte d'une faute intentionnelle ou dolosive dont l'assuré est auteur ou complice, les dommages",
+          "confidence": 0.9951928853988647,
+          "bbox": [
+            70,
+            687,
+            1109,
+            704
+          ]
+        },
+        {
+          "text": "occasionnés par les éruptions de volcans, tremblements de terre, glissements ou affaissements de terrain, avalanches,",
+          "confidence": 0.9955755472183228,
+          "bbox": [
+            68,
+            709,
+            1110,
+            730
+          ]
+        },
+        {
+          "text": "inondations, raz de marée ou autres cataclysmes naturels, la saisie, la confiscation ou la destruction, par ordre de tout",
+          "confidence": 0.995108962059021,
+          "bbox": [
+            70,
+            735,
+            1110,
+            752
+          ]
+        },
+        {
+          "text": "gouvernement ou autorité publique, les avaries ou détériorations pouvant en résulter, ainsi que les réclamations qui pourraient",
+          "confidence": 0.9991563558578491,
+          "bbox": [
+            70,
+            760,
+            1110,
+            776
+          ]
+        },
+        {
+          "text": "être faites par suite de l'abandon par l'assuré des matériels loués lorsque l'évacuation de la localité a été ordonnée, ou par suite",
+          "confidence": 0.9969928860664368,
+          "bbox": [
+            71,
+            783,
+            1109,
+            800
+          ]
+        },
+        {
+          "text": "de l'occupation par des tiers des matériels loués à la suite des réquisitions ou de toute autre cause.",
+          "confidence": 0.9996020793914795,
+          "bbox": [
+            71,
+            807,
+            861,
+            824
+          ]
+        },
+        {
+          "text": "III LOCALISATION DE LA GARANTIE",
+          "confidence": 0.9944917559623718,
+          "bbox": [
+            70,
+            854,
+            388,
+            871
+          ]
+        },
+        {
+          "text": "La garantie du présent contrat s'exerce exclusivement sur les matériels loués situés sur les chantiers et sites d'exploitation de",
+          "confidence": 0.9956967830657959,
+          "bbox": [
+            67,
+            875,
+            1110,
+            896
+          ]
+        },
+        {
+          "text": "l'assuré, sous réserve qu'ils soient fixés, posés ou ancrés selon les règles de l'art ou les recommandations du constructeur ou",
+          "confidence": 0.9924932718276978,
+          "bbox": [
+            69,
+            901,
+            1109,
+            917
+          ]
+        },
+        {
+          "text": "d'ALLOMAT.",
+          "confidence": 0.9994473457336426,
+          "bbox": [
+            69,
+            924,
+            174,
+            941
+          ]
+        },
+        {
+          "text": "IV EFFET ET DUREE DE LA GARANTIE",
+          "confidence": 0.9961124658584595,
+          "bbox": [
+            69,
+            972,
+            409,
+            989
+          ]
+        },
+        {
+          "text": "Le présent contrat prend effet le même jour que le contrat de location et prend fin automatiquement et de plein droit à compter du",
+          "confidence": 0.9950101375579834,
+          "bbox": [
+            70,
+            995,
+            1109,
+            1012
+          ]
+        },
+        {
+          "text": "terme ou de la résiliation du contrat de location, quelque soit le motif de résiliation.",
+          "confidence": 0.9931536316871643,
+          "bbox": [
+            70,
+            1019,
+            725,
+            1036
+          ]
+        },
+        {
+          "text": "V OBLIGATIONS EN CAS DE SINISTRE",
+          "confidence": 0.9944949150085449,
+          "bbox": [
+            69,
+            1065,
+            409,
+            1082
+          ]
+        },
+        {
+          "text": "En cas de sinistre, l'assuré doit : user de tous les moyens en son pouvoir pour en faire cesser ou en limiter l'importance, aviser",
+          "confidence": 0.998589277267456,
+          "bbox": [
+            70,
+            1089,
+            1109,
+            1106
+          ]
+        },
+        {
+          "text": "ALLOMAT par écrit dès qu'il en aura connaissance et au plus tard dans un délai de deux jours ouvrés s'il s'agit d'un vol et de cinq",
+          "confidence": 0.9945699572563171,
+          "bbox": [
+            70,
+            1113,
+            1109,
+            1130
+          ]
+        },
+        {
+          "text": "jours ouvrés dans tous les autres cas, indiquer à ALLOMAT dans la déclaration de sinistre, ou, en cas d'impossibilité, dans une",
+          "confidence": 0.9866172075271606,
+          "bbox": [
+            68,
+            1136,
+            1110,
+            1156
+          ]
+        },
+        {
+          "text": "déclaration ultérieure faite dans le plus bref délai, la date et les circonstances du sinistre, ses causes connues ou présumées, la",
+          "confidence": 0.9998784065246582,
+          "bbox": [
+            70,
+            1161,
+            1109,
+            1178
+          ]
+        },
+        {
+          "text": "nature et le montant approximatif des dommages, et, le cas échéant, le nom et l'adresse de l'auteur du sinistre dont la",
+          "confidence": 0.9915052056312561,
+          "bbox": [
+            68,
+            1183,
+            1110,
+            1203
+          ]
+        },
+        {
+          "text": "responsabilité est susceptible d'être engagée.",
+          "confidence": 0.9942027926445007,
+          "bbox": [
+            70,
+            1209,
+            436,
+            1226
+          ]
+        },
+        {
+          "text": "Montant facturé en jour calendaire ht :",
+          "confidence": 0.9998414516448975,
+          "bbox": [
+            70,
+            1245,
+            399,
+            1262
+          ]
+        },
+        {
+          "text": "10 % du loyer des Constructions Mobiles et 10 % du loyer des Toilettes autonomes",
+          "confidence": 0.9994452595710754,
+          "bbox": [
+            71,
+            1267,
+            781,
+            1284
+          ]
+        },
+        {
+          "text": "Franchise de 765 Euros par Construction Mobile et Conteneur de stockage et 350 Euros par toilette autonome.",
+          "confidence": 0.9936793446540833,
+          "bbox": [
+            70,
+            1289,
+            955,
+            1306
+          ]
+        },
+        {
+          "text": "Cette option ne sera prise en compte et facturée gu'en cas de signature et retour du présent document.",
+          "confidence": 0.9981445670127869,
+          "bbox": [
+            69,
+            1332,
+            955,
+            1353
+          ]
+        },
+        {
+          "text": "Lu et approuvé le :",
+          "confidence": 0.9982607960700989,
+          "bbox": [
+            69,
+            1406,
+            272,
+            1430
+          ]
+        },
+        {
+          "text": "(cachet commercial + signature, nom et fonction)",
+          "confidence": 0.9983780980110168,
+          "bbox": [
+            70,
+            1435,
+            503,
+            1455
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "word_count": 293,
+      "words": [
+        {
+          "text": "CONDITIONS GENERALES DE LOCATION",
+          "confidence": 0.9979555606842041,
+          "bbox": [
+            83,
+            60,
+            363,
+            72
+          ]
+        },
+        {
+          "text": "Toutes modifications, manquants ou dégradations,",
+          "confidence": 0.9894509315490723,
+          "bbox": [
+            418,
+            60,
+            768,
+            73
+          ]
+        },
+        {
+          "text": "A titre de réparation du préjudice subi, le locataire devra",
+          "confidence": 0.992546558380127,
+          "bbox": [
+            788,
+            60,
+            1139,
+            73
+          ]
+        },
+        {
+          "text": "ALLOMAT (N° 1088)",
+          "confidence": 0.9798067808151245,
+          "bbox": [
+            157,
+            73,
+            291,
+            86
+          ]
+        },
+        {
+          "text": "seront facturés au locataire pour leur remise en l'état",
+          "confidence": 0.9985178709030151,
+          "bbox": [
+            418,
+            74,
+            770,
+            87
+          ]
+        },
+        {
+          "text": "verser au bailleur une somme égale au montant des",
+          "confidence": 0.9992775321006775,
+          "bbox": [
+            789,
+            74,
+            1139,
+            87
+          ]
+        },
+        {
+          "text": "initial. Si l'entretien et les réparations ne sont pas",
+          "confidence": 0.9982392191886902,
+          "bbox": [
+            418,
+            88,
+            769,
+            101
+          ]
+        },
+        {
+          "text": "loyers à échoir à la date de la résiliation et à titre de",
+          "confidence": 0.9976714253425598,
+          "bbox": [
+            789,
+            88,
+            1139,
+            101
+          ]
+        },
+        {
+          "text": "Le terme \"bailleur\" désigne ALLOMAT et le terme",
+          "confidence": 0.9883612990379333,
+          "bbox": [
+            48,
+            101,
+            398,
+            115
+          ]
+        },
+        {
+          "text": "effectués par le locataire, ces travaux seront réalisés au",
+          "confidence": 0.9997512102127075,
+          "bbox": [
+            418,
+            102,
+            769,
+            115
+          ]
+        },
+        {
+          "text": "pénalité pour inexécution du contrat une somme égale",
+          "confidence": 0.9865626692771912,
+          "bbox": [
+            788,
+            101,
+            1139,
+            116
+          ]
+        },
+        {
+          "text": "\"locataire\" désigne le client qui passe la commande.",
+          "confidence": 0.9957243204116821,
+          "bbox": [
+            48,
+            116,
+            397,
+            130
+          ]
+        },
+        {
+          "text": "dépôt par les services du bailleur et facturés au client. Il",
+          "confidence": 0.994325578212738,
+          "bbox": [
+            418,
+            116,
+            770,
+            129
+          ]
+        },
+        {
+          "text": "à 10% du montant hors taxes déterminé ci-dessus.",
+          "confidence": 0.9988192915916443,
+          "bbox": [
+            788,
+            116,
+            1107,
+            129
+          ]
+        },
+        {
+          "text": "Une fois acceptées, nos clauses s'appliquent à",
+          "confidence": 0.9817522168159485,
+          "bbox": [
+            48,
+            130,
+            398,
+            144
+          ]
+        },
+        {
+          "text": "en sera de même pour les réparations, effectuées par le",
+          "confidence": 0.9931416511535645,
+          "bbox": [
+            418,
+            130,
+            769,
+            144
+          ]
+        },
+        {
+          "text": "Les sommes réclamées ainsi au locataire seront",
+          "confidence": 0.9797378778457642,
+          "bbox": [
+            788,
+            130,
+            1140,
+            143
+          ]
+        },
+        {
+          "text": "l'intégralité des transactions futures et à leur exécution,",
+          "confidence": 0.9989063739776611,
+          "bbox": [
+            48,
+            144,
+            397,
+            158
+          ]
+        },
+        {
+          "text": "locataire, ne respectant pas les règles de l'art.",
+          "confidence": 0.9902905225753784,
+          "bbox": [
+            418,
+            144,
+            706,
+            158
+          ]
+        },
+        {
+          "text": "majorées des frais et honoraires avancés pour leur",
+          "confidence": 0.9996607303619385,
+          "bbox": [
+            789,
+            144,
+            1140,
+            158
+          ]
+        },
+        {
+          "text": "même si la commande nous parvient par fax, mail, ou",
+          "confidence": 0.9969626069068909,
+          "bbox": [
+            48,
+            159,
+            398,
+            172
+          ]
+        },
+        {
+          "text": "L'état succinct du matériel dressé au moment de la",
+          "confidence": 0.9900315999984741,
+          "bbox": [
+            416,
+            157,
+            769,
+            172
+          ]
+        },
+        {
+          "text": "recouvrement. Si le locataire a signé deux ou plusieurs",
+          "confidence": 0.9994115829467773,
+          "bbox": [
+            788,
+            159,
+            1139,
+            172
+          ]
+        },
+        {
+          "text": "autre écrit sur lesquels nos conditions ne figurent pas.",
+          "confidence": 0.9986296892166138,
+          "bbox": [
+            48,
+            173,
+            397,
+            186
+          ]
+        },
+        {
+          "text": "restitution ne peut soustraire le locataire à régler les",
+          "confidence": 0.9992790222167969,
+          "bbox": [
+            418,
+            172,
+            769,
+            186
+          ]
+        },
+        {
+          "text": "contrats, il y aura indivisibilité entre ces contrats de telle",
+          "confidence": 0.9999353289604187,
+          "bbox": [
+            789,
+            173,
+            1139,
+            186
+          ]
+        },
+        {
+          "text": "Toute clause contraire inscrite dans la commande du",
+          "confidence": 0.9940861463546753,
+          "bbox": [
+            48,
+            187,
+            398,
+            200
+          ]
+        },
+        {
+          "text": "réparations nécessaires de remise en l'état initial qui",
+          "confidence": 0.9977095127105713,
+          "bbox": [
+            418,
+            187,
+            769,
+            200
+          ]
+        },
+        {
+          "text": "sorte que la résiliation de l'un d'eux pourra entraîner de",
+          "confidence": 0.9904087781906128,
+          "bbox": [
+            789,
+            187,
+            1139,
+            200
+          ]
+        },
+        {
+          "text": "locataire, et non acceptée préalablement par écrit par le",
+          "confidence": 0.9938082098960876,
+          "bbox": [
+            48,
+            201,
+            398,
+            214
+          ]
+        },
+        {
+          "text": "seraient constatées dans le dépôt du bailleur suite à un",
+          "confidence": 0.9998997449874878,
+          "bbox": [
+            418,
+            201,
+            769,
+            213
+          ]
+        },
+        {
+          "text": "plein droit celle des autres.",
+          "confidence": 0.9999595880508423,
+          "bbox": [
+            789,
+            201,
+            956,
+            213
+          ]
+        },
+        {
+          "text": "bailleur, est réputée sans effet.",
+          "confidence": 0.9998667240142822,
+          "bbox": [
+            48,
+            214,
+            240,
+            227
+          ]
+        },
+        {
+          "text": "diagnostic plus approfondi.",
+          "confidence": 0.9999262690544128,
+          "bbox": [
+            418,
+            214,
+            587,
+            227
+          ]
+        },
+        {
+          "text": "Le locataire peut, s'il le souhaite, venir constater",
+          "confidence": 0.9766299724578857,
+          "bbox": [
+            418,
+            227,
+            769,
+            241
+          ]
+        },
+        {
+          "text": "13 - JURIDICTION",
+          "confidence": 0.9798016548156738,
+          "bbox": [
+            789,
+            225,
+            907,
+            239
+          ]
+        },
+        {
+          "text": "1- DUREE DE LOCATION - MISE A DISPOSITION",
+          "confidence": 0.9951921701431274,
+          "bbox": [
+            48,
+            239,
+            374,
+            253
+          ]
+        },
+        {
+          "text": "l'étendue des travaux nécessaires dans le dépôt du",
+          "confidence": 0.9928761124610901,
+          "bbox": [
+            418,
+            242,
+            769,
+            256
+          ]
+        },
+        {
+          "text": "De convention expresse, en cas de litige, le Tribunal de",
+          "confidence": 0.9998703002929688,
+          "bbox": [
+            789,
+            240,
+            1139,
+            253
+          ]
+        },
+        {
+          "text": "La durée de location minimum, irrévocable, est",
+          "confidence": 0.9982266426086426,
+          "bbox": [
+            48,
+            254,
+            398,
+            267
+          ]
+        },
+        {
+          "text": "bailleur.",
+          "confidence": 0.9999954700469971,
+          "bbox": [
+            417,
+            256,
+            469,
+            270
+          ]
+        },
+        {
+          "text": "Commerce de Créteil reste seul compétent, même en",
+          "confidence": 0.9890894293785095,
+          "bbox": [
+            789,
+            254,
+            1139,
+            268
+          ]
+        },
+        {
+          "text": "mentionnée aux conditions particulières de chaque",
+          "confidence": 0.9998267889022827,
+          "bbox": [
+            47,
+            267,
+            398,
+            282
+          ]
+        },
+        {
+          "text": "A sa demande, avant la restitution, le locataire peut",
+          "confidence": 0.9894717931747437,
+          "bbox": [
+            417,
+            270,
+            770,
+            283
+          ]
+        },
+        {
+          "text": "cas de pluralité des défendeurs.",
+          "confidence": 0.9997639656066895,
+          "bbox": [
+            788,
+            267,
+            987,
+            282
+          ]
+        },
+        {
+          "text": "contrat de location. Elle est une condition essentielle de",
+          "confidence": 0.9990439414978027,
+          "bbox": [
+            47,
+            281,
+            398,
+            296
+          ]
+        },
+        {
+          "text": "demander l'établissement d'un constat contradictoire",
+          "confidence": 0.9996014833450317,
+          "bbox": [
+            418,
+            284,
+            769,
+            298
+          ]
+        },
+        {
+          "text": "l'accord de location. La location commence à courir au",
+          "confidence": 0.9996550679206848,
+          "bbox": [
+            47,
+            297,
+            398,
+            310
+          ]
+        },
+        {
+          "text": "sur place. Les frais consécutifs à ce constat sont à sa",
+          "confidence": 0.9768866896629333,
+          "bbox": [
+            418,
+            299,
+            769,
+            312
+          ]
+        },
+        {
+          "text": "14 - ANNULATION DE COMMANDE",
+          "confidence": 0.9775824546813965,
+          "bbox": [
+            789,
+            294,
+            1022,
+            307
+          ]
+        },
+        {
+          "text": "jour de la mise à disposition du matériel aux dépôts",
+          "confidence": 0.9990172982215881,
+          "bbox": [
+            48,
+            311,
+            398,
+            324
+          ]
+        },
+        {
+          "text": "charge.",
+          "confidence": 0.999878466129303,
+          "bbox": [
+            418,
+            313,
+            466,
+            327
+          ]
+        },
+        {
+          "text": "Toute annulation de commande doit être faite par lettre",
+          "confidence": 0.9906688332557678,
+          "bbox": [
+            789,
+            307,
+            1138,
+            321
+          ]
+        },
+        {
+          "text": "désignés par le bailleur. Le règlement des loyers est",
+          "confidence": 0.991152286529541,
+          "bbox": [
+            48,
+            325,
+            398,
+            338
+          ]
+        },
+        {
+          "text": "recommandée avec accusé de réception.",
+          "confidence": 0.9876262545585632,
+          "bbox": [
+            788,
+            323,
+            1047,
+            336
+          ]
+        },
+        {
+          "text": "fixé aux conditions particulières de chaque contrat de",
+          "confidence": 0.9984032511711121,
+          "bbox": [
+            48,
+            339,
+            398,
+            352
+          ]
+        },
+        {
+          "text": "9 - INALIENABILITE",
+          "confidence": 0.9953944087028503,
+          "bbox": [
+            418,
+            338,
+            551,
+            351
+          ]
+        },
+        {
+          "text": "Le bailleur aura droit, entre autres, au remboursement",
+          "confidence": 0.9979270696640015,
+          "bbox": [
+            789,
+            337,
+            1140,
+            350
+          ]
+        },
+        {
+          "text": "location.",
+          "confidence": 0.9994379878044128,
+          "bbox": [
+            47,
+            352,
+            102,
+            366
+          ]
+        },
+        {
+          "text": "Le matériel loué et identifié en vertu du présent contrat",
+          "confidence": 0.9997565150260925,
+          "bbox": [
+            418,
+            351,
+            770,
+            365
+          ]
+        },
+        {
+          "text": "des frais déjà engagés, ainsi que toute dépense",
+          "confidence": 0.9929533004760742,
+          "bbox": [
+            789,
+            351,
+            1139,
+            363
+          ]
+        },
+        {
+          "text": "Lors de la livraison ou de la restitution, la présence du",
+          "confidence": 0.9983057379722595,
+          "bbox": [
+            48,
+            366,
+            398,
+            379
+          ]
+        },
+        {
+          "text": "de location est la propriété inaliénable du bailleur ; il ne",
+          "confidence": 0.9957695007324219,
+          "bbox": [
+            418,
+            366,
+            769,
+            379
+          ]
+        },
+        {
+          "text": "provenant de la résiliation nécessaire des contrats liant",
+          "confidence": 0.9997068643569946,
+          "bbox": [
+            789,
+            364,
+            1140,
+            377
+          ]
+        },
+        {
+          "text": "client ou de son représentant est indispensable pour",
+          "confidence": 0.9994465708732605,
+          "bbox": [
+            48,
+            380,
+            398,
+            394
+          ]
+        },
+        {
+          "text": "pourra être ni vendu, ni nanti, ni sous-loué.",
+          "confidence": 0.9977477788925171,
+          "bbox": [
+            418,
+            380,
+            685,
+            393
+          ]
+        },
+        {
+          "text": "le bailleur à ses fournisseurs ou sous-traitants.",
+          "confidence": 0.9996986985206604,
+          "bbox": [
+            789,
+            378,
+            1077,
+            391
+          ]
+        },
+        {
+          "text": "constater contradictoirement l'état du matériel. Tous",
+          "confidence": 0.9969589710235596,
+          "bbox": [
+            48,
+            394,
+            398,
+            407
+          ]
+        },
+        {
+          "text": "Le bailleur se réserve le droit de transférer ce contrat à",
+          "confidence": 0.9999111890792847,
+          "bbox": [
+            418,
+            394,
+            769,
+            407
+          ]
+        },
+        {
+          "text": "frais supplémentaires qui découleraient de ces",
+          "confidence": 0.9997034668922424,
+          "bbox": [
+            48,
+            408,
+            397,
+            422
+          ]
+        },
+        {
+          "text": "toute autre société qui lui sera substituée.",
+          "confidence": 0.9975159168243408,
+          "bbox": [
+            418,
+            408,
+            677,
+            421
+          ]
+        },
+        {
+          "text": "15 - FORCE MAJEURE",
+          "confidence": 0.9786643981933594,
+          "bbox": [
+            790,
+            403,
+            940,
+            417
+          ]
+        },
+        {
+          "text": "manquements seront à la charge du locataire.",
+          "confidence": 0.9920220971107483,
+          "bbox": [
+            48,
+            423,
+            334,
+            436
+          ]
+        },
+        {
+          "text": "Le bailleur ne sera pas tenu responsable de",
+          "confidence": 0.9998202919960022,
+          "bbox": [
+            788,
+            418,
+            1139,
+            432
+          ]
+        },
+        {
+          "text": "10 - EXPLOITATION",
+          "confidence": 0.9922908544540405,
+          "bbox": [
+            419,
+            434,
+            551,
+            447
+          ]
+        },
+        {
+          "text": "l'inexécution de ses obligations aux termes des",
+          "confidence": 0.9974856376647949,
+          "bbox": [
+            788,
+            433,
+            1139,
+            446
+          ]
+        },
+        {
+          "text": "2 - RECLAMATION – SIGNALEMENT DE LITIGE",
+          "confidence": 0.9703680276870728,
+          "bbox": [
+            48,
+            448,
+            363,
+            461
+          ]
+        },
+        {
+          "text": "Tout matériel pris en charge par le locataire est réputé",
+          "confidence": 0.9982309341430664,
+          "bbox": [
+            419,
+            448,
+            769,
+            462
+          ]
+        },
+        {
+          "text": "présentes et ne sera pas responsable dans l'hypothèse",
+          "confidence": 0.9994547367095947,
+          "bbox": [
+            789,
+            447,
+            1139,
+            460
+          ]
+        },
+        {
+          "text": "Toute réclamation doit être précisée par lettre",
+          "confidence": 0.9990588426589966,
+          "bbox": [
+            48,
+            462,
+            398,
+            476
+          ]
+        },
+        {
+          "text": "agréé par lui complet et en bon état.",
+          "confidence": 0.9926514625549316,
+          "bbox": [
+            418,
+            463,
+            644,
+            476
+          ]
+        },
+        {
+          "text": "où les manquements et/ou les dommages résulteraient",
+          "confidence": 0.9977869987487793,
+          "bbox": [
+            789,
+            461,
+            1139,
+            474
+          ]
+        },
+        {
+          "text": "recommandée avec accusé de réception dans les 8",
+          "confidence": 0.999591588973999,
+          "bbox": [
+            47,
+            477,
+            399,
+            490
+          ]
+        },
+        {
+          "text": "L'installation, la mise en ordre de marche du matériel,",
+          "confidence": 0.9993417263031006,
+          "bbox": [
+            417,
+            477,
+            768,
+            490
+          ]
+        },
+        {
+          "text": "d'un cas de force majeure ou d'une cause étrangère.",
+          "confidence": 0.9975060820579529,
+          "bbox": [
+            789,
+            475,
+            1138,
+            488
+          ]
+        },
+        {
+          "text": "jours suivant la livraison.",
+          "confidence": 0.9999077320098877,
+          "bbox": [
+            48,
+            491,
+            203,
+            503
+          ]
+        },
+        {
+          "text": "les branchements divers (eau - électricité - E.P. - E.V.)",
+          "confidence": 0.9912789463996887,
+          "bbox": [
+            418,
+            490,
+            769,
+            503
+          ]
+        },
+        {
+          "text": "Dans ce cas, le bailleur bénéficiera d'un délai",
+          "confidence": 0.9996492862701416,
+          "bbox": [
+            789,
+            489,
+            1139,
+            501
+          ]
+        },
+        {
+          "text": "Le locataire doit signaler toute anomalie concernant les",
+          "confidence": 0.9994494318962097,
+          "bbox": [
+            48,
+            504,
+            398,
+            517
+          ]
+        },
+        {
+          "text": "incombent au locataire. Celui-ci doit également faire",
+          "confidence": 0.9978744387626648,
+          "bbox": [
+            418,
+            504,
+            769,
+            517
+          ]
+        },
+        {
+          "text": "supplémentaire suffisant pour pallier ces perturbations.",
+          "confidence": 0.9994430541992188,
+          "bbox": [
+            789,
+            502,
+            1138,
+            516
+          ]
+        },
+        {
+          "text": "matériels livrés au transporteur, au moment de la",
+          "confidence": 0.9894627332687378,
+          "bbox": [
+            48,
+            518,
+            398,
+            531
+          ]
+        },
+        {
+          "text": "son affaire, le cas échéant, de l'obtention auprès de tout",
+          "confidence": 0.9997755289077759,
+          "bbox": [
+            418,
+            518,
+            770,
+            531
+          ]
+        },
+        {
+          "text": "Sans que cette liste soit exhaustive, ces cas",
+          "confidence": 0.9993167519569397,
+          "bbox": [
+            789,
+            516,
+            1139,
+            530
+          ]
+        },
+        {
+          "text": "livraison ou à défaut par lettre recommandée dans les",
+          "confidence": 0.9994639158248901,
+          "bbox": [
+            48,
+            532,
+            398,
+            545
+          ]
+        },
+        {
+          "text": "organisme des autorisations relatives à son utilisation.",
+          "confidence": 0.9998727440834045,
+          "bbox": [
+            418,
+            532,
+            760,
+            546
+          ]
+        },
+        {
+          "text": "comprennent, entre autres, intempéries, tout sinistre",
+          "confidence": 0.9988999962806702,
+          "bbox": [
+            788,
+            529,
+            1139,
+            544
+          ]
+        },
+        {
+          "text": "72 h qui suivent la livraison (c.com.art.L133-3) et",
+          "confidence": 0.9939197301864624,
+          "bbox": [
+            48,
+            546,
+            399,
+            560
+          ]
+        },
+        {
+          "text": "Dans le cas d'une demande de personnalisation du",
+          "confidence": 0.9931817054748535,
+          "bbox": [
+            417,
+            546,
+            769,
+            559
+          ]
+        },
+        {
+          "text": "naturel ou non, les grèves totales ou partielles, un",
+          "confidence": 0.9994919896125793,
+          "bbox": [
+            789,
+            545,
+            1139,
+            558
+          ]
+        },
+        {
+          "text": "adresser simultanément et obligatoirement une copie",
+          "confidence": 0.9996134638786316,
+          "bbox": [
+            48,
+            561,
+            398,
+            574
+          ]
+        },
+        {
+          "text": "matériel, le locataire nous garantit vis-à-vis des tiers de",
+          "confidence": 0.9996266961097717,
+          "bbox": [
+            418,
+            560,
+            769,
+            574
+          ]
+        },
+        {
+          "text": "conflit ou un mouvement social, entravant la bonne",
+          "confidence": 0.9966774582862854,
+          "bbox": [
+            789,
+            557,
+            1139,
+            571
+          ]
+        },
+        {
+          "text": "au bailleur.",
+          "confidence": 0.9999849796295166,
+          "bbox": [
+            48,
+            573,
+            119,
+            587
+          ]
+        },
+        {
+          "text": "la propriété industrielle ou artistique des textes, photos,",
+          "confidence": 0.9995700120925903,
+          "bbox": [
+            418,
+            575,
+            769,
+            588
+          ]
+        },
+        {
+          "text": "marche de notre entreprise ou celle de nos",
+          "confidence": 0.9990220665931702,
+          "bbox": [
+            788,
+            573,
+            1139,
+            586
+          ]
+        },
+        {
+          "text": "S'il s'agit d'un dysfonctionnement du matériel après son",
+          "confidence": 0.9864066243171692,
+          "bbox": [
+            48,
+            588,
+            398,
+            602
+          ]
+        },
+        {
+          "text": "marques, logos ou dessins qu'il nous fournit.",
+          "confidence": 0.9975475072860718,
+          "bbox": [
+            418,
+            589,
+            696,
+            602
+          ]
+        },
+        {
+          "text": "fournisseurs, sous-traitants ou transporteurs, ainsi que",
+          "confidence": 0.9984830021858215,
+          "bbox": [
+            789,
+            587,
+            1139,
+            600
+          ]
+        },
+        {
+          "text": "installation, le locataire doit le signaler dans les 48h",
+          "confidence": 0.9989765882492065,
+          "bbox": [
+            48,
+            603,
+            398,
+            616
+          ]
+        },
+        {
+          "text": "Tous frais supplémentaires qui découleraient de ces",
+          "confidence": 0.9996762275695801,
+          "bbox": [
+            418,
+            603,
+            769,
+            616
+          ]
+        },
+        {
+          "text": "l'interruption des transports, de la fourniture d'énergie,",
+          "confidence": 0.991439700126648,
+          "bbox": [
+            788,
+            601,
+            1138,
+            615
+          ]
+        },
+        {
+          "text": "après la date de livraison. Passé ces délais aucune",
+          "confidence": 0.9911340475082397,
+          "bbox": [
+            48,
+            617,
+            398,
+            630
+          ]
+        },
+        {
+          "text": "manquements seront à la charge du locataire.",
+          "confidence": 0.9918290972709656,
+          "bbox": [
+            417,
+            617,
+            705,
+            630
+          ]
+        },
+        {
+          "text": "de matières premières ou de pièces détachées ...",
+          "confidence": 0.9955251216888428,
+          "bbox": [
+            789,
+            615,
+            1093,
+            628
+          ]
+        },
+        {
+          "text": "réclamation ne sera prise en compte.",
+          "confidence": 0.989716649055481,
+          "bbox": [
+            47,
+            629,
+            279,
+            644
+          ]
+        },
+        {
+          "text": "Les constructions mobiles ne peuvent être scellées au",
+          "confidence": 0.9985118508338928,
+          "bbox": [
+            418,
+            631,
+            769,
+            643
+          ]
+        },
+        {
+          "text": "sol. Le locataire est garant et responsable de la bonne",
+          "confidence": 0.9995957016944885,
+          "bbox": [
+            418,
+            644,
+            769,
+            657
+          ]
+        },
+        {
+          "text": "16 - PAIEMENTS",
+          "confidence": 0.9619960188865662,
+          "bbox": [
+            789,
+            639,
+            900,
+            653
+          ]
+        },
+        {
+          "text": "3 - RESTITUTION",
+          "confidence": 0.9761711359024048,
+          "bbox": [
+            48,
+            655,
+            163,
+            669
+          ]
+        },
+        {
+          "text": "conservation, de l'hygiène et de la sécurité sanitaire des",
+          "confidence": 0.9993871450424194,
+          "bbox": [
+            418,
+            658,
+            769,
+            672
+          ]
+        },
+        {
+          "text": "Nos factures sont payables à réception sans escompte,",
+          "confidence": 0.9996359944343567,
+          "bbox": [
+            789,
+            654,
+            1138,
+            667
+          ]
+        },
+        {
+          "text": "La location cesse le jour de la restitution du matériel au",
+          "confidence": 0.993232786655426,
+          "bbox": [
+            48,
+            670,
+            399,
+            683
+          ]
+        },
+        {
+          "text": "matériels loués ainsi que de ses divers accessoires",
+          "confidence": 0.9990782141685486,
+          "bbox": [
+            418,
+            672,
+            769,
+            685
+          ]
+        },
+        {
+          "text": "selon les conditions définies aux conditions particulières",
+          "confidence": 0.999322235584259,
+          "bbox": [
+            789,
+            668,
+            1139,
+            681
+          ]
+        },
+        {
+          "text": "dépôt désigné par le bailleur sous réserve que la durée",
+          "confidence": 0.9991462826728821,
+          "bbox": [
+            48,
+            684,
+            398,
+            698
+          ]
+        },
+        {
+          "text": "pendant toute la durée de location. Le contrôle et le",
+          "confidence": 0.9937523007392883,
+          "bbox": [
+            417,
+            685,
+            769,
+            700
+          ]
+        },
+        {
+          "text": "du contrat de location. En cas de dépassement de",
+          "confidence": 0.9996107220649719,
+          "bbox": [
+            789,
+            682,
+            1139,
+            695
+          ]
+        },
+        {
+          "text": "minimum de la location prévue au contrat soit écoulée.",
+          "confidence": 0.9964563846588135,
+          "bbox": [
+            48,
+            699,
+            397,
+            712
+          ]
+        },
+        {
+          "text": "maintient permanent de la température en sortie de",
+          "confidence": 0.9998089075088501,
+          "bbox": [
+            418,
+            700,
+            769,
+            714
+          ]
+        },
+        {
+          "text": "l'encours autorisé du client, le bailleur pourra exiger un",
+          "confidence": 0.9901681542396545,
+          "bbox": [
+            787,
+            695,
+            1139,
+            710
+          ]
+        },
+        {
+          "text": "Le bailleur dégage sa responsabilité pour les effets ou",
+          "confidence": 0.997226893901825,
+          "bbox": [
+            48,
+            713,
+            398,
+            726
+          ]
+        },
+        {
+          "text": "chauffe eau doit être > 60 degrés. Rappel : l'eau des",
+          "confidence": 0.9972474575042725,
+          "bbox": [
+            418,
+            714,
+            769,
+            727
+          ]
+        },
+        {
+          "text": "règlement comptant pour les commandes suivantes.",
+          "confidence": 0.9997512698173523,
+          "bbox": [
+            789,
+            711,
+            1115,
+            724
+          ]
+        },
+        {
+          "text": "les matériels appartenant au locataire qui n'auraient pas",
+          "confidence": 0.9997278451919556,
+          "bbox": [
+            48,
+            727,
+            398,
+            741
+          ]
+        },
+        {
+          "text": "sanitaires n'est pas potable. Il le traitera en bon père de",
+          "confidence": 0.9948386549949646,
+          "bbox": [
+            418,
+            729,
+            769,
+            742
+          ]
+        },
+        {
+          "text": "En cas de doute sur la solvabilité du client et quels que",
+          "confidence": 0.9997974038124084,
+          "bbox": [
+            789,
+            725,
+            1139,
+            738
+          ]
+        },
+        {
+          "text": "été enlevés au moment de la restitution.",
+          "confidence": 0.9787626266479492,
+          "bbox": [
+            48,
+            741,
+            298,
+            754
+          ]
+        },
+        {
+          "text": "famille et en assurera la surveillance, notamment il",
+          "confidence": 0.9936668872833252,
+          "bbox": [
+            418,
+            743,
+            770,
+            756
+          ]
+        },
+        {
+          "text": "soient les conditions de paiement et délais",
+          "confidence": 0.9871857166290283,
+          "bbox": [
+            789,
+            739,
+            1139,
+            752
+          ]
+        },
+        {
+          "text": "prendra toutes les dispositions nécessaires pour",
+          "confidence": 0.9982874989509583,
+          "bbox": [
+            418,
+            757,
+            770,
+            770
+          ]
+        },
+        {
+          "text": "précédemment accordés, le bailleur se réserve le droit",
+          "confidence": 0.9998117089271545,
+          "bbox": [
+            789,
+            753,
+            1140,
+            766
+          ]
+        },
+        {
+          "text": "4 - INDEXATION - LOYER",
+          "confidence": 0.9696216583251953,
+          "bbox": [
+            48,
+            766,
+            217,
+            778
+          ]
+        },
+        {
+          "text": "préserver les matériels loués contre l'incendie, le dégât",
+          "confidence": 0.9987775683403015,
+          "bbox": [
+            418,
+            771,
+            769,
+            783
+          ]
+        },
+        {
+          "text": "de demander un acompte ou l'intégralité du paiement à",
+          "confidence": 0.9925031065940857,
+          "bbox": [
+            789,
+            767,
+            1139,
+            780
+          ]
+        },
+        {
+          "text": "Le bailleur se réserve la faculté de tenir compte dans",
+          "confidence": 0.994666337966919,
+          "bbox": [
+            48,
+            780,
+            398,
+            793
+          ]
+        },
+        {
+          "text": "des eaux, les inondations, le gel, les effets de",
+          "confidence": 0.9853537678718567,
+          "bbox": [
+            418,
+            784,
+            769,
+            798
+          ]
+        },
+        {
+          "text": "la commande.",
+          "confidence": 0.9999683499336243,
+          "bbox": [
+            789,
+            780,
+            878,
+            793
+          ]
+        },
+        {
+          "text": "les loyers des variations et de l'évolution de l'índice du",
+          "confidence": 0.9984235167503357,
+          "bbox": [
+            48,
+            794,
+            398,
+            808
+          ]
+        },
+        {
+          "text": "l'enneigement, le vent et toutes dégradations de",
+          "confidence": 0.9878380298614502,
+          "bbox": [
+            417,
+            798,
+            769,
+            812
+          ]
+        },
+        {
+          "text": "Pénalité pour paiement tardif : Tout retard de paiement",
+          "confidence": 0.9958003759384155,
+          "bbox": [
+            789,
+            794,
+            1140,
+            807
+          ]
+        },
+        {
+          "text": "coût de la construction BT 01.",
+          "confidence": 0.9896249175071716,
+          "bbox": [
+            48,
+            808,
+            235,
+            821
+          ]
+        },
+        {
+          "text": "quelque nature qu'elles soient.",
+          "confidence": 0.9957844614982605,
+          "bbox": [
+            418,
+            812,
+            610,
+            826
+          ]
+        },
+        {
+          "text": "donnera lieu d'une part au paiement d'un intérêt de",
+          "confidence": 0.9923083186149597,
+          "bbox": [
+            789,
+            808,
+            1139,
+            822
+          ]
+        },
+        {
+          "text": "Le locataire autorise le vendeur à utiliser son droit de",
+          "confidence": 0.9992900490760803,
+          "bbox": [
+            418,
+            826,
+            769,
+            839
+          ]
+        },
+        {
+          "text": "retard équivalents au taux d'intérêt appliqué par la BCE",
+          "confidence": 0.9927179217338562,
+          "bbox": [
+            789,
+            822,
+            1139,
+            836
+          ]
+        },
+        {
+          "text": "5 - PRESTATIONS - TRANSPORT - MANUTENTION",
+          "confidence": 0.9853840470314026,
+          "bbox": [
+            47,
+            832,
+            385,
+            847
+          ]
+        },
+        {
+          "text": "visite pendant la durée de la location. Il devra laisser",
+          "confidence": 0.9852924942970276,
+          "bbox": [
+            418,
+            840,
+            769,
+            854
+          ]
+        },
+        {
+          "text": "à son opération de refinancement la plus récente",
+          "confidence": 0.9869698882102966,
+          "bbox": [
+            788,
+            837,
+            1139,
+            850
+          ]
+        },
+        {
+          "text": "Les prestations, facultatives, sont des compléments et",
+          "confidence": 0.9997447729110718,
+          "bbox": [
+            47,
+            848,
+            399,
+            862
+          ]
+        },
+        {
+          "text": "apparentes les plaques d'identification du matériel.",
+          "confidence": 0.9910835027694702,
+          "bbox": [
+            418,
+            855,
+            733,
+            869
+          ]
+        },
+        {
+          "text": "majorée de 10 points de pourcentage, et ce jusqu'au",
+          "confidence": 0.9927225112915039,
+          "bbox": [
+            789,
+            851,
+            1139,
+            864
+          ]
+        },
+        {
+          "text": "ne peuvent en aucun cas mettre en cause la durée, le",
+          "confidence": 0.9996589422225952,
+          "bbox": [
+            48,
+            863,
+            398,
+            876
+          ]
+        },
+        {
+          "text": "complet paiement des sommes dues, de plein droit et",
+          "confidence": 0.9995207190513611,
+          "bbox": [
+            789,
+            865,
+            1140,
+            878
+          ]
+        },
+        {
+          "text": "montant et le règlement des loyers prévus au contrat de",
+          "confidence": 0.9998958706855774,
+          "bbox": [
+            48,
+            877,
+            398,
+            890
+          ]
+        },
+        {
+          "text": "11 - ASSURANCE",
+          "confidence": 0.962983250617981,
+          "bbox": [
+            418,
+            880,
+            537,
+            893
+          ]
+        },
+        {
+          "text": "sans mise en demeure préalable et d'autre part, au",
+          "confidence": 0.9946335554122925,
+          "bbox": [
+            789,
+            879,
+            1140,
+            892
+          ]
+        },
+        {
+          "text": "location.",
+          "confidence": 0.9995543956756592,
+          "bbox": [
+            47,
+            890,
+            103,
+            904
+          ]
+        },
+        {
+          "text": "Le locataire s'engage à assurer les matériels pris en",
+          "confidence": 0.9983616471290588,
+          "bbox": [
+            418,
+            895,
+            769,
+            908
+          ]
+        },
+        {
+          "text": "paiement d'une indemnité forfaitaire pour frais de",
+          "confidence": 0.9941176772117615,
+          "bbox": [
+            789,
+            893,
+            1139,
+            906
+          ]
+        },
+        {
+          "text": "A compter de la date de mise à disposition sur le dépôt",
+          "confidence": 0.9999375939369202,
+          "bbox": [
+            47,
+            905,
+            396,
+            917
+          ]
+        },
+        {
+          "text": "location tant pour les divers risques dommages",
+          "confidence": 0.9959987998008728,
+          "bbox": [
+            418,
+            909,
+            769,
+            921
+          ]
+        },
+        {
+          "text": "recouvrement d'un montant de quarante (40) euros",
+          "confidence": 0.9974851012229919,
+          "bbox": [
+            788,
+            907,
+            1139,
+            919
+          ]
+        },
+        {
+          "text": "le locataire en sa qualité de gardien détenteur peut",
+          "confidence": 0.989713728427887,
+          "bbox": [
+            47,
+            918,
+            398,
+            932
+          ]
+        },
+        {
+          "text": "(assurances de choses) susceptibles d'affecter leur",
+          "confidence": 0.9994254112243652,
+          "bbox": [
+            419,
+            922,
+            769,
+            936
+          ]
+        },
+        {
+          "text": "article D441-5 du Code du Commerce. En cas de frais",
+          "confidence": 0.9989483952522278,
+          "bbox": [
+            789,
+            920,
+            1139,
+            933
+          ]
+        },
+        {
+          "text": "manipuler et transporter le matériel. En conséquence, il",
+          "confidence": 0.9981619715690613,
+          "bbox": [
+            48,
+            932,
+            398,
+            946
+          ]
+        },
+        {
+          "text": "exploitation - accidents caractérisés de force majeure",
+          "confidence": 0.9970981478691101,
+          "bbox": [
+            418,
+            936,
+            769,
+            950
+          ]
+        },
+        {
+          "text": "de recouvrement exposés supérieurs à ce montant, une",
+          "confidence": 0.9998909831047058,
+          "bbox": [
+            788,
+            934,
+            1139,
+            948
+          ]
+        },
+        {
+          "text": "est tenu de s'assurer pour les transports manutentions,",
+          "confidence": 0.9956554770469666,
+          "bbox": [
+            47,
+            945,
+            397,
+            960
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.9999780654907227,
+          "bbox": [
+            418,
+            951,
+            439,
+            963
+          ]
+        },
+        {
+          "text": "non - que pour l'ensemble des risques",
+          "confidence": 0.9983100891113281,
+          "bbox": [
+            462,
+            950,
+            769,
+            964
+          ]
+        },
+        {
+          "text": "indemnité complémentaire pourra être demandée sur",
+          "confidence": 0.9987848997116089,
+          "bbox": [
+            788,
+            948,
+            1139,
+            962
+          ]
+        },
+        {
+          "text": "grutages, de quelque espèce qu'ils soient, qu'il fera ou",
+          "confidence": 0.9971118569374084,
+          "bbox": [
+            48,
+            961,
+            398,
+            974
+          ]
+        },
+        {
+          "text": "responsabilité civile qu'il encourt vis à vis des tiers",
+          "confidence": 0.9911791682243347,
+          "bbox": [
+            418,
+            964,
+            769,
+            978
+          ]
+        },
+        {
+          "text": "présentation des justificatifs correspondants.",
+          "confidence": 0.9999395608901978,
+          "bbox": [
+            789,
+            962,
+            1066,
+            976
+          ]
+        },
+        {
+          "text": "sera amené à faire, par lui-même ou par ses",
+          "confidence": 0.9868102073669434,
+          "bbox": [
+            47,
+            975,
+            398,
+            988
+          ]
+        },
+        {
+          "text": "comme du bailleur.",
+          "confidence": 0.9999834895133972,
+          "bbox": [
+            418,
+            978,
+            539,
+            992
+          ]
+        },
+        {
+          "text": "Clause pénale : le défaut de paiement à l'échéance",
+          "confidence": 0.9900736212730408,
+          "bbox": [
+            789,
+            976,
+            1139,
+            990
+          ]
+        },
+        {
+          "text": "commettants. Au cas où le locataire demanderait que le",
+          "confidence": 0.989175021648407,
+          "bbox": [
+            48,
+            989,
+            398,
+            1002
+          ]
+        },
+        {
+          "text": "A tout moment le bailleur se réserve le droit d'exiger du",
+          "confidence": 0.9993836879730225,
+          "bbox": [
+            418,
+            992,
+            769,
+            1006
+          ]
+        },
+        {
+          "text": "fixée entraînera après mise en demeure par lettre",
+          "confidence": 0.9995145201683044,
+          "bbox": [
+            789,
+            990,
+            1139,
+            1004
+          ]
+        },
+        {
+          "text": "matériel soit transporté par les services du bailleur",
+          "confidence": 0.9930229783058167,
+          "bbox": [
+            48,
+            1003,
+            398,
+            1016
+          ]
+        },
+        {
+          "text": "locataire le justificatif de ces garanties.",
+          "confidence": 0.9998140335083008,
+          "bbox": [
+            418,
+            1006,
+            660,
+            1020
+          ]
+        },
+        {
+          "text": "recommandée avec A.R., restée vaine, l'exigibilité, à",
+          "confidence": 0.9914886355400085,
+          "bbox": [
+            789,
+            1005,
+            1139,
+            1018
+          ]
+        },
+        {
+          "text": "(livraison - transfert - restitution) celle ci se réserve le",
+          "confidence": 0.9878138899803162,
+          "bbox": [
+            48,
+            1017,
+            398,
+            1030
+          ]
+        },
+        {
+          "text": "Par ailleurs le bailleur dégage de façon expresse sa",
+          "confidence": 0.9997319579124451,
+          "bbox": [
+            418,
+            1021,
+            769,
+            1034
+          ]
+        },
+        {
+          "text": "titre de dommage et intérêts, d'une indemnité égale à",
+          "confidence": 0.993445634841919,
+          "bbox": [
+            789,
+            1018,
+            1140,
+            1031
+          ]
+        },
+        {
+          "text": "droit d'effectuer ou de faire effectuer ces prestations",
+          "confidence": 0.998816192150116,
+          "bbox": [
+            48,
+            1030,
+            398,
+            1044
+          ]
+        },
+        {
+          "text": "responsabilité en cas de vol, d'incendie, de",
+          "confidence": 0.9861459732055664,
+          "bbox": [
+            418,
+            1035,
+            769,
+            1048
+          ]
+        },
+        {
+          "text": "15% des sommes dues. Nous nous réservons le droit",
+          "confidence": 0.9896777272224426,
+          "bbox": [
+            790,
+            1033,
+            1140,
+            1046
+          ]
+        },
+        {
+          "text": "d'ordre et pour compte du locataire. Le prix et les",
+          "confidence": 0.9992892146110535,
+          "bbox": [
+            48,
+            1045,
+            398,
+            1058
+          ]
+        },
+        {
+          "text": "détériorations quelconques pouvant survenir aux effets",
+          "confidence": 0.9959220290184021,
+          "bbox": [
+            418,
+            1049,
+            769,
+            1061
+          ]
+        },
+        {
+          "text": "de suspendre toutes les commandes non exécutées,",
+          "confidence": 0.9990391731262207,
+          "bbox": [
+            789,
+            1047,
+            1139,
+            1059
+          ]
+        },
+        {
+          "text": "modalités de règlement des prestations annexes sont",
+          "confidence": 0.9953117966651917,
+          "bbox": [
+            47,
+            1057,
+            399,
+            1072
+          ]
+        },
+        {
+          "text": "et/ou aux biens appartenant au locataire ou à des tiers.",
+          "confidence": 0.9997748136520386,
+          "bbox": [
+            418,
+            1062,
+            762,
+            1076
+          ]
+        },
+        {
+          "text": "voire même de les résilier, dans un délai de 24 h",
+          "confidence": 0.9997910261154175,
+          "bbox": [
+            789,
+            1060,
+            1140,
+            1073
+          ]
+        },
+        {
+          "text": "convenus à l'établissement du présent contrat.",
+          "confidence": 0.9997972249984741,
+          "bbox": [
+            48,
+            1072,
+            338,
+            1085
+          ]
+        },
+        {
+          "text": "En cas de sinistre, le locataire est tenu de prendre",
+          "confidence": 0.9975022673606873,
+          "bbox": [
+            418,
+            1076,
+            769,
+            1090
+          ]
+        },
+        {
+          "text": "suivant la réception d'une lettre recommandée, les",
+          "confidence": 0.9859848618507385,
+          "bbox": [
+            789,
+            1074,
+            1139,
+            1087
+          ]
+        },
+        {
+          "text": "Le locataire est tenu d'aviser le bailleur de tout",
+          "confidence": 0.9951262474060059,
+          "bbox": [
+            48,
+            1086,
+            399,
+            1099
+          ]
+        },
+        {
+          "text": "toutes les mesures qui s'imposent pour sauvegarder au",
+          "confidence": 0.9955537915229797,
+          "bbox": [
+            417,
+            1089,
+            769,
+            1104
+          ]
+        },
+        {
+          "text": "paiements partiels reçus, nous restant définitivement",
+          "confidence": 0.9976486563682556,
+          "bbox": [
+            788,
+            1087,
+            1140,
+            1102
+          ]
+        },
+        {
+          "text": "déplacement du matériel en dehors du lieu d'utilisation",
+          "confidence": 0.9994457364082336,
+          "bbox": [
+            48,
+            1100,
+            398,
+            1113
+          ]
+        },
+        {
+          "text": "initial.",
+          "confidence": 0.9993083477020264,
+          "bbox": [
+            47,
+            1113,
+            84,
+            1128
+          ]
+        },
+        {
+          "text": "mieux le matériel. Il devra aviser dans les 48 heures le",
+          "confidence": 0.9988282918930054,
+          "bbox": [
+            418,
+            1104,
+            769,
+            1117
+          ]
+        },
+        {
+          "text": "acquis.",
+          "confidence": 0.9996926188468933,
+          "bbox": [
+            789,
+            1104,
+            834,
+            1115
+          ]
+        },
+        {
+          "text": "bailleur par lettre recommandée. Celle-ci se réserve le",
+          "confidence": 0.9996179938316345,
+          "bbox": [
+            418,
+            1118,
+            769,
+            1132
+          ]
+        },
+        {
+          "text": "Clause de déchéance de terme : tout retard de",
+          "confidence": 0.990568220615387,
+          "bbox": [
+            789,
+            1116,
+            1139,
+            1129
+          ]
+        },
+        {
+          "text": "6 - MISE EN PLACE - ACCES AU SITE",
+          "confidence": 0.983657956123352,
+          "bbox": [
+            48,
+            1140,
+            308,
+            1153
+          ]
+        },
+        {
+          "text": "droit de prendre ou faire prendre toutes les mesures",
+          "confidence": 0.9992108941078186,
+          "bbox": [
+            418,
+            1133,
+            769,
+            1146
+          ]
+        },
+        {
+          "text": "paiement entraîne pour le bailleur l'exigibilité immédiate",
+          "confidence": 0.989676296710968,
+          "bbox": [
+            789,
+            1131,
+            1139,
+            1144
+          ]
+        },
+        {
+          "text": "Les accès aux aires d'emplacement au moment de la",
+          "confidence": 0.9922363758087158,
+          "bbox": [
+            47,
+            1153,
+            398,
+            1168
+          ]
+        },
+        {
+          "text": "conservatoires, complémentaires ou non, qu'elle jugera",
+          "confidence": 0.9992676973342896,
+          "bbox": [
+            418,
+            1147,
+            769,
+            1160
+          ]
+        },
+        {
+          "text": "de l'ensemble des sommes dues par le locataire. Nous",
+          "confidence": 0.9827083349227905,
+          "bbox": [
+            789,
+            1145,
+            1139,
+            1158
+          ]
+        },
+        {
+          "text": "nécessaires et de signifier par lettre ses réserves",
+          "confidence": 0.989983081817627,
+          "bbox": [
+            418,
+            1161,
+            769,
+            1174
+          ]
+        },
+        {
+          "text": "pourrons décider dès ce moment de la suspension des",
+          "confidence": 0.9999018907546997,
+          "bbox": [
+            789,
+            1159,
+            1139,
+            1172
+          ]
+        },
+        {
+          "text": "livraison ou de la restitution doivent être prévus et",
+          "confidence": 0.999284565448761,
+          "bbox": [
+            48,
+            1169,
+            398,
+            1182
+          ]
+        },
+        {
+          "text": "auprès du locataire.",
+          "confidence": 0.9999367594718933,
+          "bbox": [
+            418,
+            1175,
+            543,
+            1188
+          ]
+        },
+        {
+          "text": "livraisons et autres engagements pour tous les contrats",
+          "confidence": 0.9998131394386292,
+          "bbox": [
+            789,
+            1173,
+            1139,
+            1186
+          ]
+        },
+        {
+          "text": "dégagés pour faciliter les manutentions consécutives",
+          "confidence": 0.9985975623130798,
+          "bbox": [
+            48,
+            1183,
+            398,
+            1195
+          ]
+        },
+        {
+          "text": "aux opérations de chargement et de déchargement. Les",
+          "confidence": 0.9999126195907593,
+          "bbox": [
+            48,
+            1196,
+            398,
+            1209
+          ]
+        },
+        {
+          "text": "Dans tous les cas de sinistre, la location continue d'être",
+          "confidence": 0.9995558261871338,
+          "bbox": [
+            418,
+            1189,
+            769,
+            1201
+          ]
+        },
+        {
+          "text": "en cours.",
+          "confidence": 0.9999825358390808,
+          "bbox": [
+            789,
+            1187,
+            848,
+            1200
+          ]
+        },
+        {
+          "text": "aires d'emplacement du matériel doivent être",
+          "confidence": 0.9966890215873718,
+          "bbox": [
+            48,
+            1210,
+            398,
+            1223
+          ]
+        },
+        {
+          "text": "facturée et elle reste due pendant la durée des travaux",
+          "confidence": 0.9915589094161987,
+          "bbox": [
+            418,
+            1202,
+            769,
+            1215
+          ]
+        },
+        {
+          "text": "aménagées, en particulier pour le drainage des eaux de",
+          "confidence": 0.9983471632003784,
+          "bbox": [
+            48,
+            1224,
+            398,
+            1238
+          ]
+        },
+        {
+          "text": "de réparation jusqu'au jour de l'encaissement du",
+          "confidence": 0.9931636452674866,
+          "bbox": [
+            418,
+            1216,
+            769,
+            1229
+          ]
+        },
+        {
+          "text": "pluie et des eaux usées et le déneigement. Tous frais",
+          "confidence": 0.986068844795227,
+          "bbox": [
+            47,
+            1237,
+            398,
+            1252
+          ]
+        },
+        {
+          "text": "dédommagement. En cas de sinistre total, l'indemnité",
+          "confidence": 0.9833653569221497,
+          "bbox": [
+            418,
+            1230,
+            769,
+            1243
+          ]
+        },
+        {
+          "text": "supplémentairesqui",
+          "confidence": 0.9737326502799988,
+          "bbox": [
+            48,
+            1252,
+            202,
+            1266
+          ]
+        },
+        {
+          "text": "découleraient",
+          "confidence": 0.9787967205047607,
+          "bbox": [
+            218,
+            1251,
+            312,
+            1264
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999789595603943,
+          "bbox": [
+            306,
+            1252,
+            352,
+            1266
+          ]
+        },
+        {
+          "text": "ne pourra être inférieure à la valeur de remplacement",
+          "confidence": 0.990752100944519,
+          "bbox": [
+            417,
+            1244,
+            770,
+            1258
+          ]
+        },
+        {
+          "text": "ces",
+          "confidence": 0.9997944235801697,
+          "bbox": [
+            374,
+            1254,
+            398,
+            1265
+          ]
+        },
+        {
+          "text": "du matériel.",
+          "confidence": 0.9999794960021973,
+          "bbox": [
+            418,
+            1258,
+            494,
+            1272
+          ]
+        },
+        {
+          "text": "Signé par :",
+          "confidence": 0.9940083026885986,
+          "bbox": [
+            806,
+            1252,
+            882,
+            1269
+          ]
+        },
+        {
+          "text": "manquements seront à la charge du locataire.",
+          "confidence": 0.9920220971107483,
+          "bbox": [
+            48,
+            1267,
+            334,
+            1280
+          ]
+        },
+        {
+          "text": "Quelles que soient les circonstances du sinistre,",
+          "confidence": 0.9996747970581055,
+          "bbox": [
+            419,
+            1272,
+            768,
+            1286
+          ]
+        },
+        {
+          "text": "Nom :.",
+          "confidence": 0.9644257426261902,
+          "bbox": [
+            806,
+            1273,
+            850,
+            1288
+          ]
+        },
+        {
+          "text": "7 - TACITE RECONDUCTION",
+          "confidence": 0.994869589805603,
+          "bbox": [
+            48,
+            1292,
+            239,
+            1305
+          ]
+        },
+        {
+          "text": "aucune indemnité ne pourra être réclamée au bailleur",
+          "confidence": 0.9862818121910095,
+          "bbox": [
+            418,
+            1287,
+            769,
+            1300
+          ]
+        },
+        {
+          "text": "par le locataire.",
+          "confidence": 0.9998579621315002,
+          "bbox": [
+            418,
+            1301,
+            515,
+            1315
+          ]
+        },
+        {
+          "text": "Fonction:",
+          "confidence": 0.9503510594367981,
+          "bbox": [
+            806,
+            1293,
+            868,
+            1307
+          ]
+        },
+        {
+          "text": "Les contrats de location qui ne font pas l'objet d'une",
+          "confidence": 0.9921593070030212,
+          "bbox": [
+            48,
+            1307,
+            398,
+            1320
+          ]
+        },
+        {
+          "text": "demande de restitution seront tacitement reconduits.",
+          "confidence": 0.9996190667152405,
+          "bbox": [
+            48,
+            1321,
+            374,
+            1333
+          ]
+        },
+        {
+          "text": "Date :",
+          "confidence": 0.9702981114387512,
+          "bbox": [
+            806,
+            1313,
+            849,
+            1331
+          ]
+        },
+        {
+          "text": "12 - RESILIATION",
+          "confidence": 0.9928199052810669,
+          "bbox": [
+            419,
+            1326,
+            537,
+            1339
+          ]
+        },
+        {
+          "text": "Le présent contrat sera résilié de plein droit par le",
+          "confidence": 0.9858980774879456,
+          "bbox": [
+            418,
+            1340,
+            769,
+            1353
+          ]
+        },
+        {
+          "text": "Cachet et signature (Bon pour accord) :",
+          "confidence": 0.9933722019195557,
+          "bbox": [
+            808,
+            1334,
+            1071,
+            1347
+          ]
+        },
+        {
+          "text": "8- FIN DE LOCATION",
+          "confidence": 0.9753395915031433,
+          "bbox": [
+            47,
+            1345,
+            256,
+            1358
+          ]
+        },
+        {
+          "text": "ENTRETIEN",
+          "confidence": 0.9999054670333862,
+          "bbox": [
+            291,
+            1345,
+            374,
+            1359
+          ]
+        },
+        {
+          "text": "REPARATIONS",
+          "confidence": 0.999968945980072,
+          "bbox": [
+            48,
+            1359,
+            152,
+            1373
+          ]
+        },
+        {
+          "text": "bailleur sans formalité préalable :",
+          "confidence": 0.996491551399231,
+          "bbox": [
+            418,
+            1354,
+            628,
+            1367
+          ]
+        },
+        {
+          "text": "Le locataire doit faire une demande de restitution en",
+          "confidence": 0.9985705018043518,
+          "bbox": [
+            48,
+            1374,
+            398,
+            1387
+          ]
+        },
+        {
+          "text": "- en cas de non-paiement même partiel d'une somme",
+          "confidence": 0.9954155087471008,
+          "bbox": [
+            417,
+            1368,
+            768,
+            1381
+          ]
+        },
+        {
+          "text": "respectant un délai de préavis de 8 jours pour le",
+          "confidence": 0.9998711347579956,
+          "bbox": [
+            48,
+            1388,
+            398,
+            1402
+          ]
+        },
+        {
+          "text": "due à l'échéance fixée,",
+          "confidence": 0.9734249114990234,
+          "bbox": [
+            418,
+            1382,
+            562,
+            1395
+          ]
+        },
+        {
+          "text": "matériel simple et de 15 jours pour le matériel",
+          "confidence": 0.9919204115867615,
+          "bbox": [
+            48,
+            1403,
+            398,
+            1416
+          ]
+        },
+        {
+          "text": "- en cas d'inexécution de l'un des engagements du",
+          "confidence": 0.99854576587677,
+          "bbox": [
+            417,
+            1396,
+            769,
+            1410
+          ]
+        },
+        {
+          "text": "assemblé. Toute demande de restitution et/ou de report",
+          "confidence": 0.9997637867927551,
+          "bbox": [
+            48,
+            1416,
+            398,
+            1430
+          ]
+        },
+        {
+          "text": "locataire. Les offres de payer ou d'exécuter de ce",
+          "confidence": 0.9927694797515869,
+          "bbox": [
+            418,
+            1410,
+            769,
+            1424
+          ]
+        },
+        {
+          "text": "de restitution doit être passée par écrit. Si cette",
+          "confidence": 0.9756366610527039,
+          "bbox": [
+            48,
+            1431,
+            398,
+            1444
+          ]
+        },
+        {
+          "text": "dernier ne pouvant enlever, au bailleur, le droit de",
+          "confidence": 0.9997866749763489,
+          "bbox": [
+            418,
+            1425,
+            769,
+            1438
+          ]
+        },
+        {
+          "text": "demande n'a pas été passée par lettre recommandée",
+          "confidence": 0.997866153717041,
+          "bbox": [
+            48,
+            1445,
+            398,
+            1458
+          ]
+        },
+        {
+          "text": "maintenir la résiliation,",
+          "confidence": 0.9999550580978394,
+          "bbox": [
+            418,
+            1439,
+            559,
+            1452
+          ]
+        },
+        {
+          "text": "avec accusé de réception, le locataire doit s'assurer de",
+          "confidence": 0.9987029433250427,
+          "bbox": [
+            48,
+            1459,
+            398,
+            1472
+          ]
+        },
+        {
+          "text": "- en cas de faillite, liquidation ou redressement",
+          "confidence": 0.9886026382446289,
+          "bbox": [
+            418,
+            1453,
+            770,
+            1466
+          ]
+        },
+        {
+          "text": "la prise en charge par écrit de sa demande par le",
+          "confidence": 0.999271810054779,
+          "bbox": [
+            48,
+            1473,
+            398,
+            1486
+          ]
+        },
+        {
+          "text": "judiciaire.",
+          "confidence": 0.9934951663017273,
+          "bbox": [
+            419,
+            1468,
+            479,
+            1478
+          ]
+        },
+        {
+          "text": "bailleur. Tous frais supplémentaires qui découleraient",
+          "confidence": 0.9972538352012634,
+          "bbox": [
+            48,
+            1486,
+            398,
+            1500
+          ]
+        },
+        {
+          "text": "Le locataire sera alors tenu et sans délai vis à vis du",
+          "confidence": 0.9981777667999268,
+          "bbox": [
+            418,
+            1480,
+            769,
+            1493
+          ]
+        },
+        {
+          "text": "de ces manquements seront à la charge du locataire.",
+          "confidence": 0.985299825668335,
+          "bbox": [
+            48,
+            1500,
+            380,
+            1513
+          ]
+        },
+        {
+          "text": "bailleur de :",
+          "confidence": 0.9940119385719299,
+          "bbox": [
+            419,
+            1495,
+            494,
+            1506
+          ]
+        },
+        {
+          "text": "A la fin de la location le locataire doit restituer à ses",
+          "confidence": 0.9984543919563293,
+          "bbox": [
+            48,
+            1514,
+            398,
+            1527
+          ]
+        },
+        {
+          "text": "- libérer et faire libérer le matériel,",
+          "confidence": 0.9948159456253052,
+          "bbox": [
+            418,
+            1508,
+            629,
+            1521
+          ]
+        },
+        {
+          "text": "frais le matériel en bon état d'entretien et de",
+          "confidence": 0.9998075366020203,
+          "bbox": [
+            48,
+            1528,
+            398,
+            1541
+          ]
+        },
+        {
+          "text": "- restituer le matériel,",
+          "confidence": 0.9987172484397888,
+          "bbox": [
+            417,
+            1522,
+            551,
+            1535
+          ]
+        },
+        {
+          "text": "fonctionnement en tout lieu indiqué par le bailleur.",
+          "confidence": 0.9853340983390808,
+          "bbox": [
+            48,
+            1542,
+            359,
+            1556
+          ]
+        },
+        {
+          "text": "- régler sans délai les loyers, les divers frais de",
+          "confidence": 0.9888564348220825,
+          "bbox": [
+            418,
+            1536,
+            769,
+            1550
+          ]
+        },
+        {
+          "text": "restitution et toutes sommes dues en principal, intérêts",
+          "confidence": 0.9998425245285034,
+          "bbox": [
+            418,
+            1551,
+            769,
+            1564
+          ]
+        },
+        {
+          "text": "Allomat SA - RCS Créteil B 672 950 177",
+          "confidence": 0.9803032875061035,
+          "bbox": [
+            838,
+            1546,
+            1101,
+            1559
+          ]
+        },
+        {
+          "text": "et accessoires.",
+          "confidence": 0.9998883605003357,
+          "bbox": [
+            418,
+            1565,
+            513,
+            1578
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "word_count": 31,
+      "words": [
+        {
+          "text": "ΔLLOMAT",
+          "confidence": 0.795342743396759,
+          "bbox": [
+            179,
+            37,
+            490,
+            86
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9994029402732849,
+          "bbox": [
+            177,
+            84,
+            489,
+            109
+          ]
+        },
+        {
+          "text": "www.allomat.fr",
+          "confidence": 0.9999873042106628,
+          "bbox": [
+            144,
+            128,
+            278,
+            148
+          ]
+        },
+        {
+          "text": "Également à la location",
+          "confidence": 0.9994642734527588,
+          "bbox": [
+            87,
+            203,
+            1045,
+            328
+          ]
+        },
+        {
+          "text": "Conteneurs de Stockage",
+          "confidence": 0.9999878406524658,
+          "bbox": [
+            166,
+            404,
+            556,
+            443
+          ]
+        },
+        {
+          "text": "À la location ou à le vente pour stocker en toute sécurité vos biens sur",
+          "confidence": 0.999718964099884,
+          "bbox": [
+            100,
+            460,
+            724,
+            483
+          ]
+        },
+        {
+          "text": "votre chantier",
+          "confidence": 0.9999842643737793,
+          "bbox": [
+            100,
+            491,
+            221,
+            512
+          ]
+        },
+        {
+          "text": "Barre de protection",
+          "confidence": 0.999983012676239,
+          "bbox": [
+            868,
+            578,
+            1033,
+            599
+          ]
+        },
+        {
+          "text": "antivol ou cadenas",
+          "confidence": 0.9999105930328369,
+          "bbox": [
+            867,
+            607,
+            1026,
+            627
+          ]
+        },
+        {
+          "text": "10M3",
+          "confidence": 0.9997671246528625,
+          "bbox": [
+            272,
+            622,
+            326,
+            642
+          ]
+        },
+        {
+          "text": "33M3",
+          "confidence": 0.9998734593391418,
+          "bbox": [
+            636,
+            622,
+            691,
+            642
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.4180428385734558,
+          "bbox": [
+            814,
+            627,
+            832,
+            646
+          ]
+        },
+        {
+          "text": "protection 10/10 à la",
+          "confidence": 0.9999158978462219,
+          "bbox": [
+            868,
+            633,
+            1044,
+            654
+          ]
+        },
+        {
+          "text": "vente",
+          "confidence": 0.9999843835830688,
+          "bbox": [
+            865,
+            663,
+            919,
+            685
+          ]
+        },
+        {
+          "text": "Courte ou longue durée",
+          "confidence": 0.9999814629554749,
+          "bbox": [
+            868,
+            742,
+            1066,
+            762
+          ]
+        },
+        {
+          "text": "6x2,5m ou",
+          "confidence": 0.9980053305625916,
+          "bbox": [
+            866,
+            841,
+            960,
+            864
+          ]
+        },
+        {
+          "text": "2,43x2,25m",
+          "confidence": 0.998836874961853,
+          "bbox": [
+            867,
+            871,
+            969,
+            892
+          ]
+        },
+        {
+          "text": "Toilettes autonomes",
+          "confidence": 0.9995496869087219,
+          "bbox": [
+            167,
+            975,
+            488,
+            1005
+          ]
+        },
+        {
+          "text": "Pour l'hygiène de vos chantiers ou de vos événements, ALLOMAT propose",
+          "confidence": 0.9988470673561096,
+          "bbox": [
+            101,
+            1034,
+            723,
+            1055
+          ]
+        },
+        {
+          "text": "toute une gamme de WC à la location. ALLOMAT s'occupe de la livraison,",
+          "confidence": 0.9840640425682068,
+          "bbox": [
+            101,
+            1063,
+            722,
+            1083
+          ]
+        },
+        {
+          "text": "de la mise en service ainsi que de l'entretien hebdomadaire (vidange,",
+          "confidence": 0.9944530129432678,
+          "bbox": [
+            100,
+            1088,
+            722,
+            1112
+          ]
+        },
+        {
+          "text": "nettoyage et désinfection avec produit virucide)",
+          "confidence": 0.999904453754425,
+          "bbox": [
+            101,
+            1121,
+            498,
+            1141
+          ]
+        },
+        {
+          "text": "Livraison et restitution",
+          "confidence": 0.9808063507080078,
+          "bbox": [
+            901,
+            1116,
+            1087,
+            1133
+          ]
+        },
+        {
+          "text": "Entretien et vidange",
+          "confidence": 0.999954104423523,
+          "bbox": [
+            900,
+            1212,
+            1070,
+            1233
+          ]
+        },
+        {
+          "text": "hebdomadaire",
+          "confidence": 0.9999966025352478,
+          "bbox": [
+            899,
+            1241,
+            1024,
+            1262
+          ]
+        },
+        {
+          "text": "Maintenance et",
+          "confidence": 0.9998649954795837,
+          "bbox": [
+            898,
+            1325,
+            1035,
+            1349
+          ]
+        },
+        {
+          "text": "ALLOMAT",
+          "confidence": 0.9996739625930786,
+          "bbox": [
+            320,
+            1334,
+            405,
+            1364
+          ]
+        },
+        {
+          "text": "retrait",
+          "confidence": 0.9999728798866272,
+          "bbox": [
+            897,
+            1354,
+            958,
+            1376
+          ]
+        },
+        {
+          "text": "0 825 05 43 21",
+          "confidence": 0.9947831034660339,
+          "bbox": [
+            105,
+            1546,
+            439,
+            1596
+          ]
+        },
+        {
+          "text": "Service 0,15 €/ min",
+          "confidence": 0.9791004657745361,
+          "bbox": [
+            469,
+            1544,
+            688,
+            1572
+          ]
+        },
+        {
+          "text": "+ prix appel",
+          "confidence": 0.9932956099510193,
+          "bbox": [
+            466,
+            1570,
+            603,
+            1607
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "word_count": 17,
+      "words": [
+        {
+          "text": "ΔLLOMΔT",
+          "confidence": 0.9488987922668457,
+          "bbox": [
+            386,
+            73,
+            1005,
+            169
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9998119473457336,
+          "bbox": [
+            386,
+            171,
+            1001,
+            210
+          ]
+        },
+        {
+          "text": "Le Garde Corps DOMINOGARD",
+          "confidence": 0.9951720237731934,
+          "bbox": [
+            74,
+            260,
+            1113,
+            344
+          ]
+        },
+        {
+          "text": "protection collective intégrée et repliable",
+          "confidence": 0.992436945438385,
+          "bbox": [
+            207,
+            357,
+            982,
+            408
+          ]
+        },
+        {
+          "text": "日",
+          "confidence": 0.3736177682876587,
+          "bbox": [
+            877,
+            725,
+            883,
+            730
+          ]
+        },
+        {
+          "text": "Directement intégré sur la toiture de",
+          "confidence": 0.9992165565490723,
+          "bbox": [
+            722,
+            941,
+            1140,
+            968
+          ]
+        },
+        {
+          "text": "nos modules DOMINO",
+          "confidence": 0.9998604655265808,
+          "bbox": [
+            881,
+            995,
+            1140,
+            1024
+          ]
+        },
+        {
+          "text": "Accès à la toiture pour les opérations de",
+          "confidence": 0.9991647601127625,
+          "bbox": [
+            673,
+            1071,
+            1140,
+            1100
+          ]
+        },
+        {
+          "text": "maintenance et de nettoyage en toute",
+          "confidence": 0.9997822642326355,
+          "bbox": [
+            700,
+            1129,
+            1140,
+            1157
+          ]
+        },
+        {
+          "text": "sécurité",
+          "confidence": 0.9999884963035583,
+          "bbox": [
+            1043,
+            1182,
+            1143,
+            1213
+          ]
+        },
+        {
+          "text": "ALLO",
+          "confidence": 0.8812296390533447,
+          "bbox": [
+            566,
+            1280,
+            603,
+            1300
+          ]
+        },
+        {
+          "text": "Dépliable et repliable depuis le sol",
+          "confidence": 0.9998407363891602,
+          "bbox": [
+            748,
+            1310,
+            1142,
+            1336
+          ]
+        },
+        {
+          "text": "apave",
+          "confidence": 0.999977707862854,
+          "bbox": [
+            930,
+            1404,
+            1137,
+            1473
+          ]
+        },
+        {
+          "text": "Testé par",
+          "confidence": 0.9999340772628784,
+          "bbox": [
+            737,
+            1423,
+            854,
+            1458
+          ]
+        },
+        {
+          "text": "CRAMIF",
+          "confidence": 0.9997773170471191,
+          "bbox": [
+            902,
+            1535,
+            1135,
+            1603
+          ]
+        },
+        {
+          "text": "Recommandé par",
+          "confidence": 0.9998231530189514,
+          "bbox": [
+            617,
+            1563,
+            834,
+            1591
+          ]
+        },
+        {
+          "text": "Assurance Maladie d'lle-de-France",
+          "confidence": 0.9927977323532104,
+          "bbox": [
+            911,
+            1595,
+            1116,
+            1610
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "word_count": 22,
+      "words": [
+        {
+          "text": "ΔLLOMΔT",
+          "confidence": 0.8985077142715454,
+          "bbox": [
+            298,
+            102,
+            799,
+            177
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9995049834251404,
+          "bbox": [
+            296,
+            179,
+            795,
+            210
+          ]
+        },
+        {
+          "text": "0 825 05 43 21",
+          "confidence": 0.9953108429908752,
+          "bbox": [
+            146,
+            221,
+            494,
+            272
+          ]
+        },
+        {
+          "text": "Service 0,15 €/ min",
+          "confidence": 0.9779226183891296,
+          "bbox": [
+            525,
+            219,
+            756,
+            246
+          ]
+        },
+        {
+          "text": "+ prix appel",
+          "confidence": 0.9996724724769592,
+          "bbox": [
+            523,
+            247,
+            666,
+            282
+          ]
+        },
+        {
+          "text": "Paris - Metz - Nice - Bordeaux - Lyon",
+          "confidence": 0.9995172023773193,
+          "bbox": [
+            88,
+            946,
+            514,
+            975
+          ]
+        },
+        {
+          "text": "Toulouse - Toulon - Nantes - Marseille",
+          "confidence": 0.9869707226753235,
+          "bbox": [
+            79,
+            1001,
+            523,
+            1025
+          ]
+        },
+        {
+          "text": "Montpellier - Strasbourg - Reims",
+          "confidence": 0.9926415681838989,
+          "bbox": [
+            111,
+            1052,
+            494,
+            1079
+          ]
+        },
+        {
+          "text": "目",
+          "confidence": 0.48598340153694153,
+          "bbox": [
+            94,
+            1200,
+            107,
+            1216
+          ]
+        },
+        {
+          "text": "Fabrication",
+          "confidence": 0.9999914169311523,
+          "bbox": [
+            174,
+            1209,
+            358,
+            1240
+          ]
+        },
+        {
+          "text": "Usine de fabrication",
+          "confidence": 0.9822201728820801,
+          "bbox": [
+            532,
+            1212,
+            748,
+            1241
+          ]
+        },
+        {
+          "text": "euro",
+          "confidence": 0.9999349117279053,
+          "bbox": [
+            842,
+            1219,
+            891,
+            1238
+          ]
+        },
+        {
+          "text": "m",
+          "confidence": 0.9947460889816284,
+          "bbox": [
+            890,
+            1221,
+            915,
+            1237
+          ]
+        },
+        {
+          "text": "o",
+          "confidence": 0.8869976997375488,
+          "bbox": [
+            916,
+            1221,
+            937,
+            1237
+          ]
+        },
+        {
+          "text": "Réseau",
+          "confidence": 0.9999952912330627,
+          "bbox": [
+            174,
+            1302,
+            298,
+            1336
+          ]
+        },
+        {
+          "text": "Un réseau de 12 agences proches de vous",
+          "confidence": 0.9989199638366699,
+          "bbox": [
+            533,
+            1309,
+            979,
+            1335
+          ]
+        },
+        {
+          "text": "Expérience",
+          "confidence": 0.9866756200790405,
+          "bbox": [
+            174,
+            1400,
+            355,
+            1435
+          ]
+        },
+        {
+          "text": "Plus de 50 ans d’expérience",
+          "confidence": 0.9973788261413574,
+          "bbox": [
+            531,
+            1405,
+            827,
+            1435
+          ]
+        },
+        {
+          "text": "Service",
+          "confidence": 0.999995231628418,
+          "bbox": [
+            172,
+            1490,
+            301,
+            1526
+          ]
+        },
+        {
+          "text": "Une équipe pro facilement joignable",
+          "confidence": 0.9999443292617798,
+          "bbox": [
+            534,
+            1500,
+            922,
+            1527
+          ]
+        },
+        {
+          "text": "Références",
+          "confidence": 0.9999944567680359,
+          "bbox": [
+            174,
+            1586,
+            359,
+            1620
+          ]
+        },
+        {
+          "text": "Tous les jours 3000 clients nous font confiance",
+          "confidence": 0.9648930430412292,
+          "bbox": [
+            532,
+            1595,
+            1022,
+            1618
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "word_count": 52,
+      "words": [
+        {
+          "text": "ALLOMAT",
+          "confidence": 0.942374587059021,
+          "bbox": [
+            70,
+            114,
+            240,
+            142
+          ]
+        },
+        {
+          "text": "Le service proche de vous",
+          "confidence": 0.9998453259468079,
+          "bbox": [
+            67,
+            140,
+            237,
+            153
+          ]
+        },
+        {
+          "text": "Partie réservée au créancier",
+          "confidence": 0.9999390840530396,
+          "bbox": [
+            54,
+            178,
+            297,
+            195
+          ]
+        },
+        {
+          "text": "MANDAT DE PRELEVEMENT SEPA INTERENTREPRISES",
+          "confidence": 0.9987075924873352,
+          "bbox": [
+            496,
+            179,
+            1073,
+            196
+          ]
+        },
+        {
+          "text": "Référence Unique de Mandat (RUM)",
+          "confidence": 0.9981416463851929,
+          "bbox": [
+            54,
+            218,
+            302,
+            235
+          ]
+        },
+        {
+          "text": "En signant ce formulaire de mandat, vous autorisez ALLOMAT SAS à envoyer des instructions à votre bangue pour débiter votre compte, et",
+          "confidence": 0.9948515295982361,
+          "bbox": [
+            54,
+            262,
+            1152,
+            279
+          ]
+        },
+        {
+          "text": "votre bangue à débiter votre compte conformément aux instructions d' ALLOMAT SAS ; vous donnez votre accord pour la renonciation à la",
+          "confidence": 0.9858585596084595,
+          "bbox": [
+            53,
+            282,
+            1150,
+            299
+          ]
+        },
+        {
+          "text": "notification préalable du délai de prévenance de 14 jours avant l'échéance de prélèvement.",
+          "confidence": 0.9998446702957153,
+          "bbox": [
+            53,
+            302,
+            745,
+            319
+          ]
+        },
+        {
+          "text": "Après enregistrement par nos services, vous devrez faire parvenir une copie de ce document à votre banque.",
+          "confidence": 0.9955218434333801,
+          "bbox": [
+            54,
+            334,
+            878,
+            351
+          ]
+        },
+        {
+          "text": "Ce mandat est dédié aux prélèvements SEPA interentreprises. Vous n'êtes pas en droit de demander à votre bangue le remboursement d'un",
+          "confidence": 0.993421733379364,
+          "bbox": [
+            54,
+            366,
+            1149,
+            383
+          ]
+        },
+        {
+          "text": "prélèvement SEPA interentreprises autorisé une fois que le montant est débité de votre compte.",
+          "confidence": 0.9952650666236877,
+          "bbox": [
+            53,
+            387,
+            779,
+            404
+          ]
+        },
+        {
+          "text": "Vous pouvez cependant demander à votre banque de ne pas débiter votre compte jusqu'au jour de l'échéance. Vous avez le droit de contester",
+          "confidence": 0.9920703172683716,
+          "bbox": [
+            54,
+            418,
+            1151,
+            435
+          ]
+        },
+        {
+          "text": "auprès de votre banque tout prélèvement SEPA interentreprises que vous estimez non autorisé. La demande doit être présentée sans tarder et,",
+          "confidence": 0.996087372303009,
+          "bbox": [
+            53,
+            439,
+            1150,
+            456
+          ]
+        },
+        {
+          "text": "sauf convention contraire avec votre banque, au plus tard dans les 13 mois après le débit de votre compte. Vos droits concernant le présent",
+          "confidence": 0.9931136965751648,
+          "bbox": [
+            54,
+            460,
+            1150,
+            474
+          ]
+        },
+        {
+          "text": "mandat sont expliqués dans un document que vous pouvez obtenir auprès de votre banque.",
+          "confidence": 0.992073655128479,
+          "bbox": [
+            54,
+            478,
+            751,
+            494
+          ]
+        },
+        {
+          "text": "Veuillez compléter les champs marqués*",
+          "confidence": 0.9904022216796875,
+          "bbox": [
+            54,
+            499,
+            387,
+            519
+          ]
+        },
+        {
+          "text": "Votre nom",
+          "confidence": 0.9999896287918091,
+          "bbox": [
+            58,
+            585,
+            140,
+            603
+          ]
+        },
+        {
+          "text": "Votre adresse",
+          "confidence": 0.9999922513961792,
+          "bbox": [
+            52,
+            648,
+            164,
+            668
+          ]
+        },
+        {
+          "text": "Les coordonnées",
+          "confidence": 0.9999529719352722,
+          "bbox": [
+            53,
+            779,
+            186,
+            796
+          ]
+        },
+        {
+          "text": "de votre compte",
+          "confidence": 0.9999750852584839,
+          "bbox": [
+            53,
+            799,
+            179,
+            816
+          ]
+        },
+        {
+          "text": "Numéro d'identification international du compte bancaire - IBAN (International Bank Account Number)",
+          "confidence": 0.9906100630760193,
+          "bbox": [
+            305,
+            798,
+            979,
+            816
+          ]
+        },
+        {
+          "text": "(joindre un RIB)",
+          "confidence": 0.999416172504425,
+          "bbox": [
+            53,
+            818,
+            184,
+            838
+          ]
+        },
+        {
+          "text": "Nom du créancier",
+          "confidence": 0.9999773502349854,
+          "bbox": [
+            53,
+            877,
+            191,
+            894
+          ]
+        },
+        {
+          "text": "ALLOMAT SAS",
+          "confidence": 0.9998476505279541,
+          "bbox": [
+            281,
+            875,
+            403,
+            895
+          ]
+        },
+        {
+          "text": "FR04ZZZ008474",
+          "confidence": 0.9999898076057434,
+          "bbox": [
+            286,
+            902,
+            419,
+            918
+          ]
+        },
+        {
+          "text": "Identifiant créancier SEPA",
+          "confidence": 0.9972966909408569,
+          "bbox": [
+            287,
+            927,
+            439,
+            941
+          ]
+        },
+        {
+          "text": "Adresse du créancier",
+          "confidence": 0.9999788403511047,
+          "bbox": [
+            54,
+            973,
+            218,
+            990
+          ]
+        },
+        {
+          "text": "14 rue des Prés de I'Hôpital Zi des",
+          "confidence": 0.9930814504623413,
+          "bbox": [
+            284,
+            974,
+            561,
+            991
+          ]
+        },
+        {
+          "text": "Graviers - 94190 Villeneuve St Georges",
+          "confidence": 0.9990524649620056,
+          "bbox": [
+            284,
+            1000,
+            602,
+            1017
+          ]
+        },
+        {
+          "text": "Type de Paiement",
+          "confidence": 0.9999776482582092,
+          "bbox": [
+            53,
+            1048,
+            196,
+            1067
+          ]
+        },
+        {
+          "text": "Paiement récurrent / répétitif ",
+          "confidence": 0.9930959343910217,
+          "bbox": [
+            282,
+            1048,
+            519,
+            1064
+          ]
+        },
+        {
+          "text": "Paiement ponctuel",
+          "confidence": 0.9992930293083191,
+          "bbox": [
+            722,
+            1049,
+            885,
+            1065
+          ]
+        },
+        {
+          "text": "Signé à",
+          "confidence": 0.9998931884765625,
+          "bbox": [
+            52,
+            1098,
+            118,
+            1120
+          ]
+        },
+        {
+          "text": "le ..",
+          "confidence": 0.9525988698005676,
+          "bbox": [
+            518,
+            1100,
+            554,
+            1118
+          ]
+        },
+        {
+          "text": "Lieu",
+          "confidence": 0.9999894499778748,
+          "bbox": [
+            280,
+            1125,
+            315,
+            1144
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.9999940395355225,
+          "bbox": [
+            538,
+            1125,
+            576,
+            1144
+          ]
+        },
+        {
+          "text": "Signature(s)",
+          "confidence": 0.9999876022338867,
+          "bbox": [
+            53,
+            1150,
+            150,
+            1171
+          ]
+        },
+        {
+          "text": "Note : vos droits concernant le présent mandat sont expliqués dans un document que vous pouvez obtenir auprès de votre banque.",
+          "confidence": 0.9951951503753662,
+          "bbox": [
+            52,
+            1253,
+            924,
+            1271
+          ]
+        },
+        {
+          "text": "Les informations contenues dans le présent mandat, qui doit être complété, sont destinées à n'être utilisées par le créancier que pour la gestion de sa relation avec",
+          "confidence": 0.9972116351127625,
+          "bbox": [
+            43,
+            1307,
+            1116,
+            1321
+          ]
+        },
+        {
+          "text": "son client. Elles pourront donner lieu à l'exercice, par ce dernier, de ses droits d'oppositions, d'accès et de rectification tels que prévus aux articles 38 et suivants de la",
+          "confidence": 0.9967089891433716,
+          "bbox": [
+            41,
+            1322,
+            1136,
+            1339
+          ]
+        },
+        {
+          "text": "loi n° 78-17 du 6 janvier 1978 relative à l'information, aux fichiers et aux libertés.",
+          "confidence": 0.9873214364051819,
+          "bbox": [
+            43,
+            1342,
+            569,
+            1356
+          ]
+        },
+        {
+          "text": "A retourner à :",
+          "confidence": 0.9995242953300476,
+          "bbox": [
+            52,
+            1375,
+            165,
+            1392
+          ]
+        },
+        {
+          "text": "Zone réservée à l'usage exclusif du créancier",
+          "confidence": 0.990037202835083,
+          "bbox": [
+            663,
+            1369,
+            964,
+            1383
+          ]
+        },
+        {
+          "text": "ALLOMAT SAS 14 rue des Prés de I'Hôpital",
+          "confidence": 0.9965370297431946,
+          "bbox": [
+            52,
+            1406,
+            449,
+            1427
+          ]
+        },
+        {
+          "text": "Important: avant de nous retourner ce mandat, faites-en",
+          "confidence": 0.9961646795272827,
+          "bbox": [
+            633,
+            1397,
+            1166,
+            1418
+          ]
+        },
+        {
+          "text": "obligatoirement une copie et adressez celle-ci à votre banque",
+          "confidence": 0.9933291077613831,
+          "bbox": [
+            635,
+            1419,
+            1165,
+            1436
+          ]
+        },
+        {
+          "text": "Zi des Graviers - 94190 Villeneuve St Georges",
+          "confidence": 0.9999227523803711,
+          "bbox": [
+            52,
+            1431,
+            472,
+            1451
+          ]
+        },
+        {
+          "text": "accompagnée de la notification des caractéristiques du mandat,",
+          "confidence": 0.9998624920845032,
+          "bbox": [
+            633,
+            1437,
+            1165,
+            1458
+          ]
+        },
+        {
+          "text": "par email : compta.clients@allomat.fr",
+          "confidence": 0.9977266192436218,
+          "bbox": [
+            54,
+            1454,
+            359,
+            1471
+          ]
+        },
+        {
+          "text": "que nous allons vous faire parvenir dès l'enregistrement de celui-",
+          "confidence": 0.9989286661148071,
+          "bbox": [
+            635,
+            1459,
+            1164,
+            1475
+          ]
+        },
+        {
+          "text": "ci par nos services.",
+          "confidence": 0.9994069933891296,
+          "bbox": [
+            635,
+            1477,
+            795,
+            1494
+          ]
+        },
+        {
+          "text": "Merci de ne pas oublier de joindre votre RIB",
+          "confidence": 0.9998060464859009,
+          "bbox": [
+            27,
+            1527,
+            386,
+            1544
+          ]
+        }
+      ]
+    }
+  ]
+}

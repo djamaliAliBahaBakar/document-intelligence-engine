@@ -1,0 +1,3172 @@
+{
+  "engine": "paddleocr",
+  "document": "devis 10.pdf",
+  "duration_seconds": 306.992,
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 116,
+      "words": [
+        {
+          "text": "ELUMI",
+          "confidence": 0.8790346384048462,
+          "bbox": [
+            44,
+            13,
+            347,
+            129
+          ]
+        },
+        {
+          "text": "Elum Energy",
+          "confidence": 0.9999845027923584,
+          "bbox": [
+            676,
+            26,
+            800,
+            56
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999961853027344,
+          "bbox": [
+            674,
+            55,
+            750,
+            87
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.999974250793457,
+          "bbox": [
+            237,
+            123,
+            337,
+            147
+          ]
+        },
+        {
+          "text": "Sféco",
+          "confidence": 0.999966025352478,
+          "bbox": [
+            679,
+            224,
+            725,
+            246
+          ]
+        },
+        {
+          "text": "79 rue des Joncs des bois",
+          "confidence": 0.9866496920585632,
+          "bbox": [
+            681,
+            244,
+            843,
+            263
+          ]
+        },
+        {
+          "text": "84000 Avignon",
+          "confidence": 0.9999720454216003,
+          "bbox": [
+            682,
+            264,
+            783,
+            281
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999938607215881,
+          "bbox": [
+            679,
+            279,
+            732,
+            300
+          ]
+        },
+        {
+          "text": "Devis # QUO07570",
+          "confidence": 0.9988307952880859,
+          "bbox": [
+            50,
+            325,
+            303,
+            355
+          ]
+        },
+        {
+          "text": "PAYMENT TERMS",
+          "confidence": 0.9999508261680603,
+          "bbox": [
+            50,
+            370,
+            172,
+            387
+          ]
+        },
+        {
+          "text": "DELIVERY DATE",
+          "confidence": 0.9999725818634033,
+          "bbox": [
+            592,
+            370,
+            703,
+            387
+          ]
+        },
+        {
+          "text": "Date du devis : QUOTATION DATE",
+          "confidence": 0.9989302754402161,
+          "bbox": [
+            51,
+            414,
+            274,
+            428
+          ]
+        },
+        {
+          "text": "DUE DATE",
+          "confidence": 0.9997579455375671,
+          "bbox": [
+            411,
+            412,
+            487,
+            430
+          ]
+        },
+        {
+          "text": "CONTACT",
+          "confidence": 0.9999914169311523,
+          "bbox": [
+            773,
+            412,
+            845,
+            430
+          ]
+        },
+        {
+          "text": "12/03/2025",
+          "confidence": 0.9999983906745911,
+          "bbox": [
+            49,
+            433,
+            133,
+            451
+          ]
+        },
+        {
+          "text": "11/05/2025",
+          "confidence": 0.9999977946281433,
+          "bbox": [
+            411,
+            433,
+            493,
+            451
+          ]
+        },
+        {
+          "text": "guy-david.audenay@elum-energy.com",
+          "confidence": 0.9992259740829468,
+          "bbox": [
+            773,
+            435,
+            1012,
+            452
+          ]
+        },
+        {
+          "text": "DESCRIPTION",
+          "confidence": 0.9999605417251587,
+          "bbox": [
+            53,
+            474,
+            150,
+            491
+          ]
+        },
+        {
+          "text": "QTY",
+          "confidence": 0.9999923706054688,
+          "bbox": [
+            823,
+            472,
+            862,
+            494
+          ]
+        },
+        {
+          "text": "UNIT. REM.%",
+          "confidence": 0.9982511401176453,
+          "bbox": [
+            888,
+            474,
+            986,
+            491
+          ]
+        },
+        {
+          "text": "TAXES",
+          "confidence": 0.9999943971633911,
+          "bbox": [
+            1003,
+            474,
+            1053,
+            491
+          ]
+        },
+        {
+          "text": "MONTANT",
+          "confidence": 0.9999738931655884,
+          "bbox": [
+            1056,
+            474,
+            1136,
+            491
+          ]
+        },
+        {
+          "text": "PRICE",
+          "confidence": 0.9999833106994629,
+          "bbox": [
+            885,
+            492,
+            936,
+            514
+          ]
+        },
+        {
+          "text": "Coffret PDL/PTR",
+          "confidence": 0.9999945759773254,
+          "bbox": [
+            52,
+            530,
+            168,
+            553
+          ]
+        },
+        {
+          "text": "[ELM_PPC_DL_LANNEXL] ePowerControl PPC (LAN, No Screen, Size XL) / Power Plant controller /",
+          "confidence": 0.9932613372802734,
+          "bbox": [
+            55,
+            583,
+            675,
+            600
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999407529830933,
+          "bbox": [
+            845,
+            583,
+            864,
+            600
+          ]
+        },
+        {
+          "text": "13 000,00",
+          "confidence": 0.9983193874359131,
+          "bbox": [
+            857,
+            582,
+            932,
+            600
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9994386434555054,
+          "bbox": [
+            951,
+            582,
+            987,
+            601
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998697638511658,
+          "bbox": [
+            986,
+            582,
+            1052,
+            600
+          ]
+        },
+        {
+          "text": "13 000,00 €",
+          "confidence": 0.9998146295547485,
+          "bbox": [
+            1053,
+            582,
+            1135,
+            600
+          ]
+        },
+        {
+          "text": "- Country of origin : France - HS Code : 85176200",
+          "confidence": 0.9939181208610535,
+          "bbox": [
+            54,
+            603,
+            381,
+            621
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999617338180542,
+          "bbox": [
+            803,
+            599,
+            861,
+            625
+          ]
+        },
+        {
+          "text": "[HMI_SCH_SCADA_ECOS_10MW] HMI SCADA (< 10 MW) / Onsite SCADA with plant synoptic diagram via HMI /",
+          "confidence": 0.9881442189216614,
+          "bbox": [
+            54,
+            651,
+            768,
+            668
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999580383300781,
+          "bbox": [
+            844,
+            651,
+            861,
+            669
+          ]
+        },
+        {
+          "text": "7 500,00",
+          "confidence": 0.9932070970535278,
+          "bbox": [
+            869,
+            649,
+            934,
+            670
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9993003010749817,
+          "bbox": [
+            951,
+            650,
+            987,
+            669
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.999354898929596,
+          "bbox": [
+            985,
+            651,
+            1051,
+            669
+          ]
+        },
+        {
+          "text": "7 500,00 €",
+          "confidence": 0.9995424151420593,
+          "bbox": [
+            1061,
+            649,
+            1137,
+            670
+          ]
+        },
+        {
+          "text": "- Country of origin : France - HS Code : 85176200",
+          "confidence": 0.9644632339477539,
+          "bbox": [
+            56,
+            674,
+            380,
+            688
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999759197235107,
+          "bbox": [
+            805,
+            670,
+            861,
+            692
+          ]
+        },
+        {
+          "text": "[SWI_PLT_5ETH1SFPSS] Ethernet switch (6 ports : 4Eth + 2 SFP) (Single mode) / Industrial 4-port 10/100/1000T + 2-",
+          "confidence": 0.9938161373138428,
+          "bbox": [
+            55,
+            722,
+            788,
+            739
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            721,
+            861,
+            740
+          ]
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9997362494468689,
+          "bbox": [
+            880,
+            720,
+            934,
+            741
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9993966817855835,
+          "bbox": [
+            951,
+            721,
+            988,
+            740
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998760223388672,
+          "bbox": [
+            981,
+            721,
+            1051,
+            739
+          ]
+        },
+        {
+          "text": "340,00 €",
+          "confidence": 0.9834665656089783,
+          "bbox": [
+            1072,
+            720,
+            1137,
+            741
+          ]
+        },
+        {
+          "text": "port 1G/2.5G SFP Managed Gigabit Switch + Transceiver",
+          "confidence": 0.9921853542327881,
+          "bbox": [
+            55,
+            745,
+            410,
+            759
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999721050262451,
+          "bbox": [
+            805,
+            741,
+            861,
+            763
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan 8517620000",
+          "confidence": 0.979331374168396,
+          "bbox": [
+            56,
+            766,
+            311,
+            779
+          ]
+        },
+        {
+          "text": "[MET_GAV_WM20TCP] AC Meter | 5A | LV & MV | TCP (230Vac) / Power meter at grid, load & genset connection",
+          "confidence": 0.9888173341751099,
+          "bbox": [
+            52,
+            809,
+            766,
+            831
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999648332595825,
+          "bbox": [
+            844,
+            810,
+            860,
+            830
+          ]
+        },
+        {
+          "text": "400,00",
+          "confidence": 0.9998334050178528,
+          "bbox": [
+            881,
+            809,
+            934,
+            831
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9996591806411743,
+          "bbox": [
+            951,
+            811,
+            987,
+            829
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998760223388672,
+          "bbox": [
+            981,
+            811,
+            1051,
+            829
+          ]
+        },
+        {
+          "text": "400,00 €",
+          "confidence": 0.9805180430412292,
+          "bbox": [
+            1072,
+            809,
+            1137,
+            830
+          ]
+        },
+        {
+          "text": "points /",
+          "confidence": 0.997758150100708,
+          "bbox": [
+            52,
+            831,
+            110,
+            852
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999721050262451,
+          "bbox": [
+            805,
+            831,
+            861,
+            853
+          ]
+        },
+        {
+          "text": "- Country of origin : Italy - HS Code : 90303200",
+          "confidence": 0.9820926785469055,
+          "bbox": [
+            55,
+            854,
+            365,
+            871
+          ]
+        },
+        {
+          "text": "Sous-total 21 240,00 €",
+          "confidence": 0.9905757904052734,
+          "bbox": [
+            973,
+            902,
+            1135,
+            918
+          ]
+        },
+        {
+          "text": "Equipements inclus dans le coffret PDL (inclus dans le prix du coffret)",
+          "confidence": 0.9993861317634583,
+          "bbox": [
+            55,
+            950,
+            487,
+            967
+          ]
+        },
+        {
+          "text": "[UPS_GAV_U120W] UPS AC/DC 120W - 3h d'autonomie / Uninterruptible power supply /",
+          "confidence": 0.9931976199150085,
+          "bbox": [
+            55,
+            998,
+            621,
+            1015
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999975323677063,
+          "bbox": [
+            845,
+            998,
+            859,
+            1015
+          ]
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9997794032096863,
+          "bbox": [
+            882,
+            997,
+            934,
+            1015
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9998428225517273,
+          "bbox": [
+            933,
+            997,
+            986,
+            1015
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.999354898929596,
+          "bbox": [
+            985,
+            997,
+            1051,
+            1015
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9977278113365173,
+          "bbox": [
+            1088,
+            995,
+            1138,
+            1018
+          ]
+        },
+        {
+          "text": "- Country of origin : Italy - HS Code : 85044095",
+          "confidence": 0.9827265739440918,
+          "bbox": [
+            55,
+            1019,
+            365,
+            1036
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999721050262451,
+          "bbox": [
+            805,
+            1017,
+            861,
+            1039
+          ]
+        },
+        {
+          "text": "[UPS_GAV_B288WH] Battery 24V 12Ah (288Wh)",
+          "confidence": 0.9818965792655945,
+          "bbox": [
+            55,
+            1066,
+            370,
+            1083
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999645948410034,
+          "bbox": [
+            845,
+            1066,
+            859,
+            1083
+          ]
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9997451305389404,
+          "bbox": [
+            881,
+            1064,
+            934,
+            1085
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9997236728668213,
+          "bbox": [
+            934,
+            1066,
+            985,
+            1084
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998621344566345,
+          "bbox": [
+            985,
+            1066,
+            1051,
+            1083
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            1064,
+            1138,
+            1086
+          ]
+        },
+        {
+          "text": "NOT RESTRICTED AS PER SPECIAL PROVISION A67 - 3h d'autonomie / Additional power supply for the EMS (~6h)",
+          "confidence": 0.9958852529525757,
+          "bbox": [
+            53,
+            1086,
+            776,
+            1105
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999495148658752,
+          "bbox": [
+            804,
+            1084,
+            861,
+            1108
+          ]
+        },
+        {
+          "text": "Lead-acid battery /",
+          "confidence": 0.9992613792419434,
+          "bbox": [
+            54,
+            1109,
+            176,
+            1126
+          ]
+        },
+        {
+          "text": "- Country of origin : Italy - HS Code : 85078000",
+          "confidence": 0.9829204678535461,
+          "bbox": [
+            55,
+            1130,
+            365,
+            1147
+          ]
+        },
+        {
+          "text": "[IOM_MOX_E1214] Iologik E1214 / Remote ethernet I/O : 6DI, 6Relay, 2-port Switch /",
+          "confidence": 0.9905730485916138,
+          "bbox": [
+            55,
+            1178,
+            598,
+            1194
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.9999964237213135,
+          "bbox": [
+            844,
+            1177,
+            861,
+            1195
+          ]
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999133944511414,
+          "bbox": [
+            881,
+            1176,
+            934,
+            1196
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9997198581695557,
+          "bbox": [
+            934,
+            1176,
+            986,
+            1196
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998926520347595,
+          "bbox": [
+            986,
+            1177,
+            1051,
+            1194
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            1175,
+            1138,
+            1197
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9921808242797852,
+          "bbox": [
+            55,
+            1198,
+            383,
+            1215
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999759197235107,
+          "bbox": [
+            805,
+            1196,
+            861,
+            1218
+          ]
+        },
+        {
+          "text": "[IOM MOX E1242] Iologik E1242 / Remote ethernet I/O : 4DI, 4DIO, 4AI, 2-port Switch /",
+          "confidence": 0.979590117931366,
+          "bbox": [
+            55,
+            1248,
+            617,
+            1262
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999978542327881,
+          "bbox": [
+            843,
+            1245,
+            861,
+            1265
+          ]
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9997661709785461,
+          "bbox": [
+            882,
+            1246,
+            933,
+            1264
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.999741792678833,
+          "bbox": [
+            934,
+            1246,
+            986,
+            1264
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998621344566345,
+          "bbox": [
+            985,
+            1246,
+            1051,
+            1263
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            1244,
+            1138,
+            1266
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9921808242797852,
+          "bbox": [
+            55,
+            1267,
+            383,
+            1284
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999721050262451,
+          "bbox": [
+            805,
+            1266,
+            861,
+            1288
+          ]
+        },
+        {
+          "text": "[IOM_MOX_E1210] Iologik E1210 / Remote ethernet I/O : 16DI, 2-port switch /",
+          "confidence": 0.9794588088989258,
+          "bbox": [
+            55,
+            1317,
+            558,
+            1333
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999712705612183,
+          "bbox": [
+            845,
+            1317,
+            859,
+            1333
+          ]
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999133944511414,
+          "bbox": [
+            881,
+            1315,
+            934,
+            1335
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9998356699943542,
+          "bbox": [
+            934,
+            1316,
+            985,
+            1333
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998967051506042,
+          "bbox": [
+            986,
+            1316,
+            1050,
+            1333
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            1314,
+            1138,
+            1336
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9656105637550354,
+          "bbox": [
+            56,
+            1339,
+            382,
+            1353
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999759197235107,
+          "bbox": [
+            805,
+            1335,
+            861,
+            1357
+          ]
+        },
+        {
+          "text": "[SWI_MOX_8PORTS2008] Ethernet switch - 8 ports / Industrial Ethernet Switch - 8 ports /",
+          "confidence": 0.9954390525817871,
+          "bbox": [
+            54,
+            1386,
+            623,
+            1403
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            1385,
+            861,
+            1404
+          ]
+        },
+        {
+          "text": "150,00",
+          "confidence": 0.9999580979347229,
+          "bbox": [
+            883,
+            1385,
+            934,
+            1403
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.999741792678833,
+          "bbox": [
+            934,
+            1385,
+            986,
+            1403
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9641819000244141,
+          "bbox": [
+            985,
+            1385,
+            1050,
+            1403
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            1383,
+            1138,
+            1405
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.988951563835144,
+          "bbox": [
+            55,
+            1407,
+            383,
+            1424
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999653100967407,
+          "bbox": [
+            804,
+            1405,
+            861,
+            1427
+          ]
+        },
+        {
+          "text": "Sous-total 0,00 €",
+          "confidence": 0.9768503904342651,
+          "bbox": [
+            1009,
+            1453,
+            1136,
+            1474
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "confidence": 0.9992569088935852,
+          "bbox": [
+            59,
+            1542,
+            472,
+            1563
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999434947967529,
+          "bbox": [
+            1099,
+            1552,
+            1115,
+            1573
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "confidence": 0.9884978532791138,
+          "bbox": [
+            59,
+            1569,
+            365,
+            1590
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET : 817 860 083 00028 - APE : 7112B - VAT: FR84817860083",
+          "confidence": 0.9753316640853882,
+          "bbox": [
+            59,
+            1595,
+            802,
+            1615
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "confidence": 0.9981621503829956,
+          "bbox": [
+            61,
+            1624,
+            604,
+            1641
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 117,
+      "words": [
+        {
+          "text": "ELUMI",
+          "confidence": 0.9046390652656555,
+          "bbox": [
+            43,
+            12,
+            347,
+            130
+          ]
+        },
+        {
+          "text": "Elum Energy",
+          "confidence": 0.9999845027923584,
+          "bbox": [
+            676,
+            26,
+            800,
+            56
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999961853027344,
+          "bbox": [
+            674,
+            55,
+            750,
+            87
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.999974250793457,
+          "bbox": [
+            237,
+            123,
+            337,
+            147
+          ]
+        },
+        {
+          "text": "Coffret PTR",
+          "confidence": 0.9999929070472717,
+          "bbox": [
+            52,
+            238,
+            136,
+            259
+          ]
+        },
+        {
+          "text": "[ELM_RTU_DL_L] ePowerControl PPC - RTU (Size L) / RTU cabinet for PPC controller /",
+          "confidence": 0.9971897602081299,
+          "bbox": [
+            54,
+            289,
+            598,
+            306
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999574422836304,
+          "bbox": [
+            844,
+            287,
+            861,
+            307
+          ]
+        },
+        {
+          "text": "2 500,00",
+          "confidence": 0.9981956481933594,
+          "bbox": [
+            869,
+            286,
+            934,
+            308
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9991276860237122,
+          "bbox": [
+            951,
+            287,
+            986,
+            307
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998472929000854,
+          "bbox": [
+            986,
+            288,
+            1051,
+            306
+          ]
+        },
+        {
+          "text": "2 500,00 €",
+          "confidence": 0.9992762804031372,
+          "bbox": [
+            1060,
+            287,
+            1137,
+            308
+          ]
+        },
+        {
+          "text": "- Country of origin : France - HS Code : 85176200",
+          "confidence": 0.9880971908569336,
+          "bbox": [
+            55,
+            310,
+            381,
+            327
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.999968409538269,
+          "bbox": [
+            803,
+            306,
+            862,
+            331
+          ]
+        },
+        {
+          "text": "[SWI_PLT_5ETH1SFPSS] Ethernet switch (6 ports : 4Eth + 2 SFP) (Single mode) / Industrial 4-port 10/100/1000T + 2-",
+          "confidence": 0.9963160753250122,
+          "bbox": [
+            55,
+            357,
+            788,
+            374
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999603033065796,
+          "bbox": [
+            843,
+            356,
+            861,
+            376
+          ]
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9998088479042053,
+          "bbox": [
+            879,
+            353,
+            935,
+            378
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9993003010749817,
+          "bbox": [
+            951,
+            356,
+            987,
+            375
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998437166213989,
+          "bbox": [
+            981,
+            355,
+            1052,
+            376
+          ]
+        },
+        {
+          "text": "340,00 €",
+          "confidence": 0.9997707009315491,
+          "bbox": [
+            1072,
+            354,
+            1137,
+            376
+          ]
+        },
+        {
+          "text": "port 1G/2.5G SFP Managed Gigabit Switch + Transceiver",
+          "confidence": 0.999973714351654,
+          "bbox": [
+            54,
+            379,
+            411,
+            396
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999710321426392,
+          "bbox": [
+            804,
+            376,
+            861,
+            398
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan 8517620000",
+          "confidence": 0.9985830783843994,
+          "bbox": [
+            55,
+            400,
+            313,
+            417
+          ]
+        },
+        {
+          "text": "Sous-total 2 840,00 €",
+          "confidence": 0.987674355506897,
+          "bbox": [
+            981,
+            447,
+            1136,
+            467
+          ]
+        },
+        {
+          "text": "Equipements inclus dans le coffret PTR (inclus dans le prix du coffret PTR)",
+          "confidence": 0.9999642968177795,
+          "bbox": [
+            54,
+            495,
+            517,
+            514
+          ]
+        },
+        {
+          "text": "[UPS_GAV_U120W] UPS AC/DC 120W - 6h d'autonomie / Uninterruptible power supply /",
+          "confidence": 0.9858537912368774,
+          "bbox": [
+            54,
+            544,
+            621,
+            561
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999574422836304,
+          "bbox": [
+            844,
+            543,
+            861,
+            563
+          ]
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9997524619102478,
+          "bbox": [
+            881,
+            542,
+            935,
+            563
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.999741792678833,
+          "bbox": [
+            934,
+            544,
+            986,
+            562
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.999354898929596,
+          "bbox": [
+            985,
+            544,
+            1051,
+            562
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            542,
+            1138,
+            564
+          ]
+        },
+        {
+          "text": "- Country of origin : Italy - HS Code : 85044095",
+          "confidence": 0.9835696220397949,
+          "bbox": [
+            55,
+            566,
+            365,
+            583
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999755620956421,
+          "bbox": [
+            802,
+            560,
+            863,
+            587
+          ]
+        },
+        {
+          "text": "[UPS_GAV_B173WH] Battery 24V 7.2Ah (172.8Wh)",
+          "confidence": 0.9939964413642883,
+          "bbox": [
+            55,
+            614,
+            385,
+            631
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            613,
+            861,
+            632
+          ]
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9999145865440369,
+          "bbox": [
+            881,
+            612,
+            935,
+            632
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.999741792678833,
+          "bbox": [
+            934,
+            613,
+            986,
+            631
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998472929000854,
+          "bbox": [
+            986,
+            613,
+            1051,
+            631
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            611,
+            1138,
+            633
+          ]
+        },
+        {
+          "text": "NOT RESTRICTED AS PER SPECIAL PROVISION A67 - 6h d'autonomie / Additional power supply | Lead-acid battery /",
+          "confidence": 0.9984745979309082,
+          "bbox": [
+            53,
+            632,
+            791,
+            652
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999710321426392,
+          "bbox": [
+            804,
+            632,
+            861,
+            654
+          ]
+        },
+        {
+          "text": "- Country of origin : Italy - HS Code : 85078000",
+          "confidence": 0.9774039387702942,
+          "bbox": [
+            56,
+            657,
+            365,
+            671
+          ]
+        },
+        {
+          "text": "[IOM_MOX_E1214] Iologik E1214 / Remote ethernet I/O : 6DI, 6Relay, 2-port Switch /",
+          "confidence": 0.9904581308364868,
+          "bbox": [
+            54,
+            704,
+            598,
+            721
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999978542327881,
+          "bbox": [
+            843,
+            702,
+            861,
+            722
+          ]
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9997644424438477,
+          "bbox": [
+            882,
+            703,
+            934,
+            721
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.999741792678833,
+          "bbox": [
+            934,
+            703,
+            986,
+            721
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998472929000854,
+          "bbox": [
+            986,
+            703,
+            1051,
+            721
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9977278113365173,
+          "bbox": [
+            1088,
+            701,
+            1138,
+            724
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9914069771766663,
+          "bbox": [
+            55,
+            725,
+            384,
+            742
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999774694442749,
+          "bbox": [
+            802,
+            719,
+            863,
+            746
+          ]
+        },
+        {
+          "text": "[IOM_MOX_E1210] Iologik E1210 / Remote ethernet I/O : 16DI, 2-port switch /",
+          "confidence": 0.9789376854896545,
+          "bbox": [
+            55,
+            772,
+            557,
+            789
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999974966049194,
+          "bbox": [
+            843,
+            772,
+            861,
+            791
+          ]
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999133944511414,
+          "bbox": [
+            881,
+            771,
+            934,
+            791
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9998745322227478,
+          "bbox": [
+            933,
+            771,
+            986,
+            791
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9997888803482056,
+          "bbox": [
+            985,
+            769,
+            1052,
+            791
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9266048073768616,
+          "bbox": [
+            1088,
+            770,
+            1138,
+            792
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9806448221206665,
+          "bbox": [
+            56,
+            795,
+            383,
+            809
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999710321426392,
+          "bbox": [
+            804,
+            791,
+            861,
+            813
+          ]
+        },
+        {
+          "text": "[IOM_MOX_E1240] Iologik E1240 / Remote ethernet I/O : 8AI, 2-port Switch /",
+          "confidence": 0.9894334077835083,
+          "bbox": [
+            54,
+            842,
+            548,
+            859
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            841,
+            861,
+            860
+          ]
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9997661709785461,
+          "bbox": [
+            882,
+            841,
+            933,
+            859
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9998835921287537,
+          "bbox": [
+            935,
+            841,
+            985,
+            859
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998472929000854,
+          "bbox": [
+            986,
+            841,
+            1051,
+            859
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9977278113365173,
+          "bbox": [
+            1088,
+            839,
+            1138,
+            862
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9914069771766663,
+          "bbox": [
+            55,
+            863,
+            384,
+            880
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999653100967407,
+          "bbox": [
+            804,
+            861,
+            861,
+            883
+          ]
+        },
+        {
+          "text": "[SWI_MOX_8PORTS2008] Ethernet switch - 8 ports / Industrial Ethernet Switch - 8 ports /",
+          "confidence": 0.9921428561210632,
+          "bbox": [
+            54,
+            911,
+            623,
+            927
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            910,
+            861,
+            929
+          ]
+        },
+        {
+          "text": "150,00",
+          "confidence": 0.9999110698699951,
+          "bbox": [
+            881,
+            909,
+            935,
+            929
+          ]
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9998630881309509,
+          "bbox": [
+            933,
+            909,
+            987,
+            929
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9973700642585754,
+          "bbox": [
+            979,
+            906,
+            1052,
+            930
+          ]
+        },
+        {
+          "text": "0,00 €",
+          "confidence": 0.9910919070243835,
+          "bbox": [
+            1087,
+            908,
+            1138,
+            930
+          ]
+        },
+        {
+          "text": "- Country of origin : Taiwan - HS Code : 85176200",
+          "confidence": 0.9641697406768799,
+          "bbox": [
+            56,
+            933,
+            382,
+            947
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.999968409538269,
+          "bbox": [
+            803,
+            928,
+            862,
+            953
+          ]
+        },
+        {
+          "text": "Sous-total 0,00 €",
+          "confidence": 0.9868605136871338,
+          "bbox": [
+            1009,
+            979,
+            1137,
+            999
+          ]
+        },
+        {
+          "text": "Software",
+          "confidence": 0.9999970197677612,
+          "bbox": [
+            52,
+            1027,
+            118,
+            1049
+          ]
+        },
+        {
+          "text": "Push FTP (> 1 MWp) / FTP push to third party servers",
+          "confidence": 0.9992420673370361,
+          "bbox": [
+            52,
+            1074,
+            393,
+            1095
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999574422836304,
+          "bbox": [
+            844,
+            1075,
+            861,
+            1095
+          ]
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9998774528503418,
+          "bbox": [
+            879,
+            1072,
+            935,
+            1097
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9993003010749817,
+          "bbox": [
+            951,
+            1075,
+            987,
+            1094
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998392462730408,
+          "bbox": [
+            984,
+            1074,
+            1052,
+            1095
+          ]
+        },
+        {
+          "text": "500,00 €",
+          "confidence": 0.9853441715240479,
+          "bbox": [
+            1072,
+            1074,
+            1137,
+            1095
+          ]
+        },
+        {
+          "text": "- Country of origin :",
+          "confidence": 0.9992864727973938,
+          "bbox": [
+            55,
+            1098,
+            180,
+            1115
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999710321426392,
+          "bbox": [
+            804,
+            1095,
+            861,
+            1117
+          ]
+        },
+        {
+          "text": "Communication avec Agrégateur via Modbus TCP / License to allow a SCADA or a building management to access to",
+          "confidence": 0.9975035786628723,
+          "bbox": [
+            54,
+            1146,
+            782,
+            1163
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            1145,
+            861,
+            1164
+          ]
+        },
+        {
+          "text": "1 500,00",
+          "confidence": 0.9971253871917725,
+          "bbox": [
+            869,
+            1144,
+            934,
+            1165
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9994386434555054,
+          "bbox": [
+            951,
+            1145,
+            987,
+            1164
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.999354898929596,
+          "bbox": [
+            985,
+            1145,
+            1051,
+            1163
+          ]
+        },
+        {
+          "text": "1 500,00 €",
+          "confidence": 0.9997608065605164,
+          "bbox": [
+            1061,
+            1144,
+            1137,
+            1165
+          ]
+        },
+        {
+          "text": "live data from the controller with Elum data model",
+          "confidence": 0.9996632933616638,
+          "bbox": [
+            54,
+            1167,
+            368,
+            1184
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.999968409538269,
+          "bbox": [
+            803,
+            1163,
+            862,
+            1188
+          ]
+        },
+        {
+          "text": "- Country of origin :",
+          "confidence": 0.9996949434280396,
+          "bbox": [
+            54,
+            1187,
+            181,
+            1206
+          ]
+        },
+        {
+          "text": "Sous-total 2 000,00 €",
+          "confidence": 0.9865332245826721,
+          "bbox": [
+            981,
+            1234,
+            1136,
+            1254
+          ]
+        },
+        {
+          "text": "Services",
+          "confidence": 0.9999937415122986,
+          "bbox": [
+            51,
+            1281,
+            113,
+            1303
+          ]
+        },
+        {
+          "text": "FAT chez le postier - forfait 1 jour (en France métropolitaine) / Onsite commissioning of Elum controller by Elum",
+          "confidence": 0.9975088238716125,
+          "bbox": [
+            54,
+            1332,
+            753,
+            1348
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999580383300781,
+          "bbox": [
+            844,
+            1331,
+            861,
+            1349
+          ]
+        },
+        {
+          "text": "1 200,00",
+          "confidence": 0.9871459007263184,
+          "bbox": [
+            869,
+            1330,
+            934,
+            1350
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9996591806411743,
+          "bbox": [
+            951,
+            1331,
+            987,
+            1349
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9992352724075317,
+          "bbox": [
+            984,
+            1330,
+            1052,
+            1350
+          ]
+        },
+        {
+          "text": "1 200,00 €",
+          "confidence": 0.9957292675971985,
+          "bbox": [
+            1061,
+            1330,
+            1136,
+            1350
+          ]
+        },
+        {
+          "text": "engineer (daily rate) - Excl airplane, hotel and accomodation",
+          "confidence": 0.9900882840156555,
+          "bbox": [
+            54,
+            1353,
+            424,
+            1370
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999605417251587,
+          "bbox": [
+            804,
+            1348,
+            862,
+            1373
+          ]
+        },
+        {
+          "text": "- Country of origin :",
+          "confidence": 0.9797024726867676,
+          "bbox": [
+            54,
+            1372,
+            181,
+            1392
+          ]
+        },
+        {
+          "text": "Mise en service sur site - forfait 3 jours (en France métropolitaine) / Onsite commissioning of Elum controller by Elum",
+          "confidence": 0.9935639500617981,
+          "bbox": [
+            54,
+            1422,
+            784,
+            1439
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999971866607666,
+          "bbox": [
+            844,
+            1421,
+            861,
+            1440
+          ]
+        },
+        {
+          "text": "3 600,00",
+          "confidence": 0.9985178709030151,
+          "bbox": [
+            869,
+            1420,
+            934,
+            1441
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9994386434555054,
+          "bbox": [
+            951,
+            1421,
+            987,
+            1440
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.999561607837677,
+          "bbox": [
+            982,
+            1421,
+            1051,
+            1439
+          ]
+        },
+        {
+          "text": "3 600,00 €",
+          "confidence": 0.9998445510864258,
+          "bbox": [
+            1061,
+            1420,
+            1137,
+            1441
+          ]
+        },
+        {
+          "text": "engineer (daily rate) - Excl airplane, hotel and accomodation",
+          "confidence": 0.9961896538734436,
+          "bbox": [
+            55,
+            1445,
+            423,
+            1459
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.999968409538269,
+          "bbox": [
+            803,
+            1439,
+            862,
+            1464
+          ]
+        },
+        {
+          "text": "- Country of origin :",
+          "confidence": 0.9996949434280396,
+          "bbox": [
+            54,
+            1463,
+            181,
+            1482
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "confidence": 0.9926851391792297,
+          "bbox": [
+            60,
+            1543,
+            472,
+            1563
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999958276748657,
+          "bbox": [
+            1098,
+            1551,
+            1116,
+            1573
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "confidence": 0.9989638328552246,
+          "bbox": [
+            60,
+            1570,
+            365,
+            1590
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET: 817 860 083 00028 - APE : 7112B - VAT: FR84817860083",
+          "confidence": 0.9698253870010376,
+          "bbox": [
+            60,
+            1596,
+            802,
+            1615
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "confidence": 0.9981289505958557,
+          "bbox": [
+            61,
+            1624,
+            604,
+            1641
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 65,
+      "words": [
+        {
+          "text": "ELUM",
+          "confidence": 0.947207510471344,
+          "bbox": [
+            45,
+            16,
+            346,
+            128
+          ]
+        },
+        {
+          "text": "Elum Energy",
+          "confidence": 0.9580540060997009,
+          "bbox": [
+            678,
+            28,
+            798,
+            55
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.999994695186615,
+          "bbox": [
+            677,
+            60,
+            748,
+            84
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.9999825358390808,
+          "bbox": [
+            238,
+            123,
+            337,
+            147
+          ]
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999944567680359,
+          "bbox": [
+            982,
+            240,
+            1056,
+            257
+          ]
+        },
+        {
+          "text": "4 800,00 €",
+          "confidence": 0.999350368976593,
+          "bbox": [
+            1048,
+            240,
+            1135,
+            257
+          ]
+        },
+        {
+          "text": "Frais d'expédition",
+          "confidence": 0.9970064163208008,
+          "bbox": [
+            54,
+            289,
+            169,
+            306
+          ]
+        },
+        {
+          "text": "DHL France (<31.5kg) / Shipping",
+          "confidence": 0.9841071963310242,
+          "bbox": [
+            53,
+            336,
+            260,
+            355
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999712705612183,
+          "bbox": [
+            845,
+            337,
+            859,
+            353
+          ]
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.999844491481781,
+          "bbox": [
+            881,
+            335,
+            934,
+            355
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9997328519821167,
+          "bbox": [
+            951,
+            336,
+            986,
+            354
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9368180632591248,
+          "bbox": [
+            986,
+            337,
+            1051,
+            353
+          ]
+        },
+        {
+          "text": "800,00 €",
+          "confidence": 0.9998313188552856,
+          "bbox": [
+            1073,
+            335,
+            1137,
+            355
+          ]
+        },
+        {
+          "text": "- Country of origin :",
+          "confidence": 0.9996258020401001,
+          "bbox": [
+            55,
+            357,
+            179,
+            374
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999469518661499,
+          "bbox": [
+            804,
+            353,
+            861,
+            378
+          ]
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999950528144836,
+          "bbox": [
+            994,
+            406,
+            1064,
+            424
+          ]
+        },
+        {
+          "text": "800,00 €",
+          "confidence": 0.999875009059906,
+          "bbox": [
+            1072,
+            406,
+            1134,
+            424
+          ]
+        },
+        {
+          "text": "Montant hors taxes",
+          "confidence": 0.9999750852584839,
+          "bbox": [
+            597,
+            456,
+            723,
+            473
+          ]
+        },
+        {
+          "text": "31 680,00 €",
+          "confidence": 0.9998804330825806,
+          "bbox": [
+            1054,
+            455,
+            1136,
+            473
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.999635636806488,
+          "bbox": [
+            596,
+            503,
+            660,
+            521
+          ]
+        },
+        {
+          "text": "6 336,00 €",
+          "confidence": 0.9996398687362671,
+          "bbox": [
+            1062,
+            503,
+            1136,
+            521
+          ]
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999944567680359,
+          "bbox": [
+            595,
+            551,
+            636,
+            570
+          ]
+        },
+        {
+          "text": "38 016,00 €",
+          "confidence": 0.9997100830078125,
+          "bbox": [
+            1054,
+            552,
+            1136,
+            569
+          ]
+        },
+        {
+          "text": "Options",
+          "confidence": 0.9999936819076538,
+          "bbox": [
+            48,
+            589,
+            132,
+            617
+          ]
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9999961853027344,
+          "bbox": [
+            53,
+            628,
+            131,
+            645
+          ]
+        },
+        {
+          "text": "Prix unitaire",
+          "confidence": 0.9999929666519165,
+          "bbox": [
+            1054,
+            628,
+            1136,
+            644
+          ]
+        },
+        {
+          "text": "[HMI ARC SCREEN] HMI supervision screen (eConf interface)",
+          "confidence": 0.9958745837211609,
+          "bbox": [
+            56,
+            664,
+            442,
+            678
+          ]
+        },
+        {
+          "text": "2 500,00 €",
+          "confidence": 0.9993747472763062,
+          "bbox": [
+            1062,
+            662,
+            1135,
+            680
+          ]
+        },
+        {
+          "text": "Communication agrégateur via API ou SMS",
+          "confidence": 0.9959019422531128,
+          "bbox": [
+            54,
+            710,
+            324,
+            728
+          ]
+        },
+        {
+          "text": "1 500,00 €",
+          "confidence": 0.9983272552490234,
+          "bbox": [
+            1062,
+            709,
+            1134,
+            727
+          ]
+        },
+        {
+          "text": "Payment details :",
+          "confidence": 0.998429000377655,
+          "bbox": [
+            50,
+            775,
+            161,
+            792
+          ]
+        },
+        {
+          "text": "For payments in EUR - France",
+          "confidence": 0.9957073330879211,
+          "bbox": [
+            51,
+            819,
+            240,
+            833
+          ]
+        },
+        {
+          "text": "For payments in EUR - Other countries",
+          "confidence": 0.9971017837524414,
+          "bbox": [
+            593,
+            819,
+            837,
+            833
+          ]
+        },
+        {
+          "text": "IBAN: FR76 1020 7003 3324 2190 9248 194",
+          "confidence": 0.998173177242279,
+          "bbox": [
+            51,
+            840,
+            334,
+            854
+          ]
+        },
+        {
+          "text": "IBAN : FR76 3000 4029 3900 0101 3570 370",
+          "confidence": 0.9812090992927551,
+          "bbox": [
+            593,
+            840,
+            879,
+            854
+          ]
+        },
+        {
+          "text": "BIC: CCBPFRPPMTG",
+          "confidence": 0.9834751486778259,
+          "bbox": [
+            51,
+            861,
+            183,
+            875
+          ]
+        },
+        {
+          "text": "BIC: BNPAFRPPXXX",
+          "confidence": 0.9895514249801636,
+          "bbox": [
+            593,
+            861,
+            724,
+            875
+          ]
+        },
+        {
+          "text": "RIB:10207003332421909248194",
+          "confidence": 0.9999582767486572,
+          "bbox": [
+            51,
+            882,
+            268,
+            896
+          ]
+        },
+        {
+          "text": "RIB:30004029390001013570370",
+          "confidence": 0.9999614357948303,
+          "bbox": [
+            593,
+            882,
+            810,
+            896
+          ]
+        },
+        {
+          "text": "For payments in USD",
+          "confidence": 0.9973930716514587,
+          "bbox": [
+            51,
+            924,
+            183,
+            938
+          ]
+        },
+        {
+          "text": "IBAN: FR76 3000 4029 9900 0100 3910 404",
+          "confidence": 0.9906343221664429,
+          "bbox": [
+            51,
+            945,
+            337,
+            959
+          ]
+        },
+        {
+          "text": "BIC: BNPAFRPPXXX",
+          "confidence": 0.9983280897140503,
+          "bbox": [
+            51,
+            966,
+            182,
+            980
+          ]
+        },
+        {
+          "text": "RIB:30004029990001003910404",
+          "confidence": 0.9999432563781738,
+          "bbox": [
+            51,
+            987,
+            268,
+            1001
+          ]
+        },
+        {
+          "text": "Late fees (annual rate): 10.00%.",
+          "confidence": 0.9999637603759766,
+          "bbox": [
+            50,
+            1028,
+            246,
+            1045
+          ]
+        },
+        {
+          "text": "No discount for early payment",
+          "confidence": 0.998317301273346,
+          "bbox": [
+            51,
+            1051,
+            241,
+            1064
+          ]
+        },
+        {
+          "text": "Lump-sum compensation for recovery costs in the event of late payment: €40",
+          "confidence": 0.9999359846115112,
+          "bbox": [
+            51,
+            1071,
+            531,
+            1085
+          ]
+        },
+        {
+          "text": "The client's bank fees are to be paid by the client and must be taken into account when paying.",
+          "confidence": 0.9925968647003174,
+          "bbox": [
+            49,
+            1090,
+            635,
+            1108
+          ]
+        },
+        {
+          "text": "Elum SAS",
+          "confidence": 0.9998939633369446,
+          "bbox": [
+            349,
+            1141,
+            460,
+            1162
+          ]
+        },
+        {
+          "text": "9 rue d'Enghien - 75010 Paris",
+          "confidence": 0.9931224584579468,
+          "bbox": [
+            338,
+            1165,
+            475,
+            1178
+          ]
+        },
+        {
+          "text": "Tel: 01 84 25 69 47",
+          "confidence": 0.9754372835159302,
+          "bbox": [
+            362,
+            1176,
+            451,
+            1189
+          ]
+        },
+        {
+          "text": "SIRET: 81786008300028 - APE 7112F",
+          "confidence": 0.9464001059532166,
+          "bbox": [
+            320,
+            1186,
+            492,
+            1199
+          ]
+        },
+        {
+          "text": "TVA: FR 84 817 860 083",
+          "confidence": 0.9996141195297241,
+          "bbox": [
+            350,
+            1197,
+            462,
+            1210
+          ]
+        },
+        {
+          "text": "Whlw",
+          "confidence": 0.6707320809364319,
+          "bbox": [
+            463,
+            1204,
+            564,
+            1262
+          ]
+        },
+        {
+          "text": "Reference Offre: QUO07570.A",
+          "confidence": 0.9996596574783325,
+          "bbox": [
+            51,
+            1273,
+            234,
+            1286
+          ]
+        },
+        {
+          "text": "Nom du projet:",
+          "confidence": 0.9999863505363464,
+          "bbox": [
+            50,
+            1306,
+            142,
+            1324
+          ]
+        },
+        {
+          "text": "Details proiet: 10 MWc en soutirage / 22 onduleurs Huawei 330 KTL / 1 PDL/PTR + 1 PTR",
+          "confidence": 0.9927592277526855,
+          "bbox": [
+            52,
+            1341,
+            578,
+            1355
+          ]
+        },
+        {
+          "text": "Pays: France",
+          "confidence": 0.9997976422309875,
+          "bbox": [
+            50,
+            1376,
+            128,
+            1393
+          ]
+        },
+        {
+          "text": "Délais de paiement: 30 jours",
+          "confidence": 0.9975798726081848,
+          "bbox": [
+            51,
+            1413,
+            217,
+            1427
+          ]
+        },
+        {
+          "text": "Monnaie: Euros HT",
+          "confidence": 0.9999715089797974,
+          "bbox": [
+            51,
+            1448,
+            165,
+            1462
+          ]
+        },
+        {
+          "text": "Termes de paiements:",
+          "confidence": 0.9999603033065796,
+          "bbox": [
+            49,
+            1480,
+            181,
+            1498
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "confidence": 0.9933171272277832,
+          "bbox": [
+            61,
+            1542,
+            471,
+            1563
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999963045120239,
+          "bbox": [
+            1098,
+            1551,
+            1115,
+            1572
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "confidence": 0.9948149919509888,
+          "bbox": [
+            61,
+            1572,
+            364,
+            1589
+          ]
+        },
+        {
+          "text": "RCS Paris: 817 860 083 - SIRET: 817 860 083 00028 - APE: 7112B - VAT: FR84817860083",
+          "confidence": 0.9504097700119019,
+          "bbox": [
+            62,
+            1599,
+            800,
+            1613
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "confidence": 0.9973171353340149,
+          "bbox": [
+            61,
+            1624,
+            604,
+            1641
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "word_count": 16,
+      "words": [
+        {
+          "text": "ELUVI",
+          "confidence": 0.8792048692703247,
+          "bbox": [
+            42,
+            12,
+            348,
+            130
+          ]
+        },
+        {
+          "text": "Elum Energy",
+          "confidence": 0.999986469745636,
+          "bbox": [
+            678,
+            28,
+            798,
+            55
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999940395355225,
+          "bbox": [
+            678,
+            60,
+            748,
+            84
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.999984085559845,
+          "bbox": [
+            239,
+            123,
+            337,
+            147
+          ]
+        },
+        {
+          "text": "• Pré-paiement à la commande: 60%",
+          "confidence": 0.9893503189086914,
+          "bbox": [
+            65,
+            228,
+            281,
+            242
+          ]
+        },
+        {
+          "text": "• Livraison: 30%",
+          "confidence": 0.9769961833953857,
+          "bbox": [
+            65,
+            249,
+            165,
+            263
+          ]
+        },
+        {
+          "text": "• FAT: 5%",
+          "confidence": 0.9315730333328247,
+          "bbox": [
+            62,
+            266,
+            133,
+            286
+          ]
+        },
+        {
+          "text": "• SAT: 5%",
+          "confidence": 0.9596351981163025,
+          "bbox": [
+            63,
+            289,
+            131,
+            306
+          ]
+        },
+        {
+          "text": "Délais de livraison: 15 semaines après pré-paiement",
+          "confidence": 0.9998940229415894,
+          "bbox": [
+            52,
+            327,
+            352,
+            341
+          ]
+        },
+        {
+          "text": "Incoterm: CIP France",
+          "confidence": 0.9997681379318237,
+          "bbox": [
+            50,
+            360,
+            176,
+            377
+          ]
+        },
+        {
+          "text": "Offre commerciale basée sur les Conditions Générales de Vente de Elum Energy (GTC/CGV)",
+          "confidence": 0.9995741844177246,
+          "bbox": [
+            51,
+            396,
+            583,
+            410
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "confidence": 0.9987642765045166,
+          "bbox": [
+            61,
+            1543,
+            472,
+            1563
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.9999814033508301,
+          "bbox": [
+            1100,
+            1554,
+            1114,
+            1570
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "confidence": 0.9987053871154785,
+          "bbox": [
+            60,
+            1570,
+            365,
+            1590
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET : 817 860 083 00028 - APE: 7112B - VAT: FR84817860083",
+          "confidence": 0.9743307828903198,
+          "bbox": [
+            61,
+            1597,
+            801,
+            1614
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "confidence": 0.989277184009552,
+          "bbox": [
+            62,
+            1624,
+            604,
+            1641
+          ]
+        }
+      ]
+    }
+  ]
+}

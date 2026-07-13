@@ -1,0 +1,1106 @@
+{
+  "engine": "easyocr",
+  "document": "devis 2.pdf",
+  "duration_seconds": 57.658,
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 58,
+      "words": [
+        {
+          "text": "Beautiran, le 28 Janvier 2025",
+          "confidence": 0.5361072715078764,
+          "bbox": [
+            830,
+            33,
+            1045,
+            53
+          ]
+        },
+        {
+          "text": "CM,e",
+          "confidence": 0.13813692331314087,
+          "bbox": [
+            93,
+            39,
+            286,
+            126
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.9945855515111858,
+          "bbox": [
+            831,
+            107,
+            899,
+            127
+          ]
+        },
+        {
+          "text": "Sud Ouest",
+          "confidence": 0.8815321498068523,
+          "bbox": [
+            131,
+            115,
+            239,
+            151
+          ]
+        },
+        {
+          "text": "79 Rue Des Joncs Des Bois",
+          "confidence": 0.8014973983061091,
+          "bbox": [
+            831,
+            133,
+            1067,
+            153
+          ]
+        },
+        {
+          "text": "Cahbge Jlaintenance Ekchrique",
+          "confidence": 0.1676341057005244,
+          "bbox": [
+            113,
+            152,
+            245,
+            170
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "confidence": 0.697514947104336,
+          "bbox": [
+            831,
+            157,
+            981,
+            177
+          ]
+        },
+        {
+          "text": "Offre de prix n",
+          "confidence": 0.9546610771988664,
+          "bbox": [
+            69,
+            256,
+            277,
+            293
+          ]
+        },
+        {
+          "text": "002.143/25",
+          "confidence": 0.9477665995213959,
+          "bbox": [
+            304,
+            260,
+            448,
+            290
+          ]
+        },
+        {
+          "text": "Affaire",
+          "confidence": 0.9999116422051837,
+          "bbox": [
+            68,
+            294,
+            130,
+            318
+          ]
+        },
+        {
+          "text": "A24013 CHEVAL",
+          "confidence": 0.9882160379570135,
+          "bbox": [
+            137,
+            295,
+            283,
+            315
+          ]
+        },
+        {
+          "text": "AVattention de A. DASI",
+          "confidence": 0.7026079707241238,
+          "bbox": [
+            815,
+            295,
+            1029,
+            315
+          ]
+        },
+        {
+          "text": "Devis effectué par Olivier CANTELAUBE",
+          "confidence": 0.7161342787234576,
+          "bbox": [
+            68,
+            321,
+            404,
+            346
+          ]
+        },
+        {
+          "text": "Désignation",
+          "confidence": 0.9996711582690632,
+          "bbox": [
+            401,
+            377,
+            499,
+            395
+          ]
+        },
+        {
+          "text": "Prix unitaire",
+          "confidence": 0.9867839075380984,
+          "bbox": [
+            835,
+            375,
+            943,
+            393
+          ]
+        },
+        {
+          "text": "Qu_",
+          "confidence": 0.6076394854747263,
+          "bbox": [
+            951,
+            377,
+            977,
+            393
+          ]
+        },
+        {
+          "text": "Total HT.",
+          "confidence": 0.4892055437394971,
+          "bbox": [
+            1027,
+            375,
+            1109,
+            393
+          ]
+        },
+        {
+          "text": "Chiffrage suivant vos descriptifs et schémas",
+          "confidence": 0.8262803355355793,
+          "bbox": [
+            72,
+            425,
+            425,
+            446
+          ]
+        },
+        {
+          "text": "Matériel de marque SCHNEIDER",
+          "confidence": 0.9936760016543774,
+          "bbox": [
+            70,
+            472,
+            406,
+            498
+          ]
+        },
+        {
+          "text": "TGBT PV",
+          "confidence": 0.8554560352795811,
+          "bbox": [
+            70,
+            548,
+            168,
+            572
+          ]
+        },
+        {
+          "text": "Suivant face avant",
+          "confidence": 0.9986587539655504,
+          "bbox": [
+            465,
+            553,
+            617,
+            572
+          ]
+        },
+        {
+          "text": "8 991,00",
+          "confidence": 0.6161961671862648,
+          "bbox": [
+            877,
+            551,
+            947,
+            571
+          ]
+        },
+        {
+          "text": "8 991,00",
+          "confidence": 0.6849866441689487,
+          "bbox": [
+            1081,
+            551,
+            1151,
+            571
+          ]
+        },
+        {
+          "text": "ARMOIREAC",
+          "confidence": 0.5679889960665764,
+          "bbox": [
+            71,
+            570,
+            214,
+            598
+          ]
+        },
+        {
+          "text": "Suivant face avant",
+          "confidence": 0.7835389354084965,
+          "bbox": [
+            465,
+            579,
+            617,
+            595
+          ]
+        },
+        {
+          "text": "1 565,00/",
+          "confidence": 0.7796410123931848,
+          "bbox": [
+            879,
+            575,
+            949,
+            595
+          ]
+        },
+        {
+          "text": "695,00",
+          "confidence": 0.9956833336710897,
+          "bbox": [
+            1095,
+            575,
+            1153,
+            595
+          ]
+        },
+        {
+          "text": "TRANSPORT SUR SITE INCLUS DANS L'OFFRE",
+          "confidence": 0.9441460214012423,
+          "bbox": [
+            70,
+            647,
+            564,
+            672
+          ]
+        },
+        {
+          "text": "L'Entreprise C.ME. Sud-Ouest",
+          "confidence": 0.8973820712653297,
+          "bbox": [
+            156,
+            1159,
+            385,
+            1180
+          ]
+        },
+        {
+          "text": "Le Client",
+          "confidence": 0.9870613591012284,
+          "bbox": [
+            555,
+            1161,
+            625,
+            1177
+          ]
+        },
+        {
+          "text": "bon pour accord",
+          "confidence": 0.9758987448439633,
+          "bbox": [
+            635,
+            1161,
+            749,
+            1177
+          ]
+        },
+        {
+          "text": "TOTAL HT.",
+          "confidence": 0.8504415969390621,
+          "bbox": [
+            865,
+            1169,
+            959,
+            1189
+          ]
+        },
+        {
+          "text": "13 686,00 €",
+          "confidence": 0.7409725527397836,
+          "bbox": [
+            1020,
+            1168,
+            1128,
+            1192
+          ]
+        },
+        {
+          "text": "Laurent LACOTTE",
+          "confidence": 0.937434893572615,
+          "bbox": [
+            199,
+            1183,
+            341,
+            1203
+          ]
+        },
+        {
+          "text": "zone industrielle de Calens",
+          "confidence": 0.830771855618127,
+          "bbox": [
+            185,
+            1210,
+            381,
+            1229
+          ]
+        },
+        {
+          "text": "TVA. 20%",
+          "confidence": 0.6773700033116057,
+          "bbox": [
+            871,
+            1221,
+            955,
+            1239
+          ]
+        },
+        {
+          "text": "2 737,20 €",
+          "confidence": 0.9829836751308526,
+          "bbox": [
+            1026,
+            1218,
+            1124,
+            1242
+          ]
+        },
+        {
+          "text": "33640 Beautiran",
+          "confidence": 0.8530860495444986,
+          "bbox": [
+            207,
+            1235,
+            333,
+            1253
+          ]
+        },
+        {
+          "text": "TOTAL T.TC.",
+          "confidence": 0.590310148384971,
+          "bbox": [
+            859,
+            1269,
+            965,
+            1289
+          ]
+        },
+        {
+          "text": "16 423,20 €",
+          "confidence": 0.9625012117749391,
+          "bbox": [
+            1020,
+            1268,
+            1128,
+            1292
+          ]
+        },
+        {
+          "text": "(Offre de prix valable",
+          "confidence": 0.7611119735030222,
+          "bbox": [
+            167,
+            1285,
+            321,
+            1303
+          ]
+        },
+        {
+          "text": "1l01S )",
+          "confidence": 0.13440755112682018,
+          "bbox": [
+            335,
+            1287,
+            375,
+            1301
+          ]
+        },
+        {
+          "text": "(cachet et signature)",
+          "confidence": 0.971809838154771,
+          "bbox": [
+            579,
+            1285,
+            727,
+            1303
+          ]
+        },
+        {
+          "text": "CME Sud-Ouest",
+          "confidence": 0.7631171668023214,
+          "bbox": [
+            469,
+            1337,
+            557,
+            1351
+          ]
+        },
+        {
+          "text": "1+, zone industnelle de Calens",
+          "confidence": 0.643101554690459,
+          "bbox": [
+            563,
+            1337,
+            725,
+            1351
+          ]
+        },
+        {
+          "text": "33640 Beaufiran",
+          "confidence": 0.6138242954416584,
+          "bbox": [
+            729,
+            1337,
+            819,
+            1351
+          ]
+        },
+        {
+          "text": "N\" Siret _",
+          "confidence": 0.6472000286688847,
+          "bbox": [
+            387,
+            1361,
+            431,
+            1375
+          ]
+        },
+        {
+          "text": "443 104 443 000 17",
+          "confidence": 0.4221130289624204,
+          "bbox": [
+            435,
+            1359,
+            543,
+            1375
+          ]
+        },
+        {
+          "text": "Code APE 2712Z = N\" TVA Intracommunautaire FR 24 443 104 443",
+          "confidence": 0.4927572932226046,
+          "bbox": [
+            549,
+            1359,
+            901,
+            1375
+          ]
+        },
+        {
+          "text": "Tel ; 05 56 67 52 99",
+          "confidence": 0.602926701410858,
+          "bbox": [
+            457,
+            1383,
+            563,
+            1399
+          ]
+        },
+        {
+          "text": "Fax",
+          "confidence": 0.9998199546233127,
+          "bbox": [
+            571,
+            1385,
+            595,
+            1397
+          ]
+        },
+        {
+          "text": "05 56 67 23 52 =",
+          "confidence": 0.7117875176366129,
+          "bbox": [
+            601,
+            1383,
+            689,
+            1397
+          ]
+        },
+        {
+          "text": "2-mall",
+          "confidence": 0.11263627080441324,
+          "bbox": [
+            692,
+            1386,
+            722,
+            1394
+          ]
+        },
+        {
+          "text": "contact@cmie-so.fr",
+          "confidence": 0.23307919168443525,
+          "bbox": [
+            731,
+            1385,
+            831,
+            1399
+          ]
+        },
+        {
+          "text": "Direction commerciale",
+          "confidence": 0.9967463839752903,
+          "bbox": [
+            409,
+            1409,
+            525,
+            1423
+          ]
+        },
+        {
+          "text": "laurent lacotte@cme-so fr-",
+          "confidence": 0.691548386993038,
+          "bbox": [
+            529,
+            1409,
+            669,
+            1425
+          ]
+        },
+        {
+          "text": "Bureau déludes",
+          "confidence": 0.6899300850286854,
+          "bbox": [
+            673,
+            1409,
+            761,
+            1423
+          ]
+        },
+        {
+          "text": "be cmeso@cme-so fr",
+          "confidence": 0.7398859262132327,
+          "bbox": [
+            765,
+            1409,
+            879,
+            1423
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 27,
+      "words": [
+        {
+          "text": "COFFRET POLYESTER PLA",
+          "confidence": 0.914813020155053,
+          "bbox": [
+            82,
+            76,
+            420,
+            100
+          ]
+        },
+        {
+          "text": "1500 X 1250 X 420",
+          "confidence": 0.7177310786795021,
+          "bbox": [
+            80,
+            114,
+            300,
+            138
+          ]
+        },
+        {
+          "text": "AVEC PORTE",
+          "confidence": 0.9955528789198907,
+          "bbox": [
+            84,
+            152,
+            252,
+            176
+          ]
+        },
+        {
+          "text": "AVEC SOCLE H",
+          "confidence": 0.9794934183560112,
+          "bbox": [
+            90,
+            189,
+            288,
+            214
+          ]
+        },
+        {
+          "text": "200mm",
+          "confidence": 0.649734942303286,
+          "bbox": [
+            298,
+            193,
+            384,
+            213
+          ]
+        },
+        {
+          "text": "TGBT PV",
+          "confidence": 0.9970014992868151,
+          "bbox": [
+            499,
+            417,
+            613,
+            437
+          ]
+        },
+        {
+          "text": "RESERVE",
+          "confidence": 0.9990224719414791,
+          "bbox": [
+            571,
+            729,
+            695,
+            749
+          ]
+        },
+        {
+          "text": ";",
+          "confidence": 0.506337667921116,
+          "bbox": [
+            890,
+            802,
+            914,
+            860
+          ]
+        },
+        {
+          "text": "2|2ll2l2",
+          "confidence": 0.10270214446598144,
+          "bbox": [
+            525,
+            869,
+            713,
+            907
+          ]
+        },
+        {
+          "text": "DIRECT",
+          "confidence": 0.9997215187755392,
+          "bbox": [
+            564,
+            956,
+            668,
+            980
+          ]
+        },
+        {
+          "text": "PLAGE",
+          "confidence": 0.9997924004699577,
+          "bbox": [
+            343,
+            1014,
+            435,
+            1038
+          ]
+        },
+        {
+          "text": "ALIM",
+          "confidence": 0.99995356798172,
+          "bbox": [
+            360,
+            1048,
+            432,
+            1072
+          ]
+        },
+        {
+          "text": "SOCLE H",
+          "confidence": 0.8622062942781589,
+          "bbox": [
+            454,
+            1171,
+            572,
+            1196
+          ]
+        },
+        {
+          "text": "2O0mm",
+          "confidence": 0.31896063801379615,
+          "bbox": [
+            583,
+            1171,
+            671,
+            1195
+          ]
+        },
+        {
+          "text": "1250",
+          "confidence": 0.9997829794883728,
+          "bbox": [
+            536,
+            1336,
+            596,
+            1360
+          ]
+        },
+        {
+          "text": "Numéro projet",
+          "confidence": 0.7820425324642084,
+          "bbox": [
+            69,
+            1497,
+            167,
+            1511
+          ]
+        },
+        {
+          "text": "Nom clieni",
+          "confidence": 0.66513456122887,
+          "bbox": [
+            566,
+            1494,
+            641,
+            1510
+          ]
+        },
+        {
+          "text": "Norn projel",
+          "confidence": 0.7416775727961136,
+          "bbox": [
+            69,
+            1515,
+            145,
+            1531
+          ]
+        },
+        {
+          "text": "Nouveau proiet",
+          "confidence": 0.5658130771145822,
+          "bbox": [
+            197,
+            1517,
+            301,
+            1531
+          ]
+        },
+        {
+          "text": "PrismaSeT G",
+          "confidence": 0.5990479337629983,
+          "bbox": [
+            567,
+            1515,
+            659,
+            1529
+          ]
+        },
+        {
+          "text": "Norn équipement",
+          "confidence": 0.9485305363430553,
+          "bbox": [
+            69,
+            1535,
+            185,
+            1549
+          ]
+        },
+        {
+          "text": "TGBT PV",
+          "confidence": 0.9410986823015537,
+          "bbox": [
+            197,
+            1533,
+            263,
+            1549
+          ]
+        },
+        {
+          "text": "In : 400 A,",
+          "confidence": 0.8278300879428281,
+          "bbox": [
+            565,
+            1535,
+            633,
+            1549
+          ]
+        },
+        {
+          "text": "Icc",
+          "confidence": 0.9996573944481701,
+          "bbox": [
+            639,
+            1535,
+            665,
+            1549
+          ]
+        },
+        {
+          "text": "20.0 kAJ",
+          "confidence": 0.3593866223673758,
+          "bbox": [
+            671,
+            1535,
+            727,
+            1549
+          ]
+        },
+        {
+          "text": "Réserve elfective",
+          "confidence": 0.9070473050179603,
+          "bbox": [
+            564,
+            1552,
+            683,
+            1570
+          ]
+        },
+        {
+          "text": "Folio",
+          "confidence": 0.9969911215309488,
+          "bbox": [
+            567,
+            1589,
+            603,
+            1603
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 23,
+      "words": [
+        {
+          "text": "COFFRET POLYESTER PLA",
+          "confidence": 0.7776818894277048,
+          "bbox": [
+            82,
+            92,
+            554,
+            124
+          ]
+        },
+        {
+          "text": "QUANTITE",
+          "confidence": 0.9998812272591806,
+          "bbox": [
+            834,
+            104,
+            1032,
+            136
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999976158156301,
+          "bbox": [
+            1054,
+            104,
+            1078,
+            132
+          ]
+        },
+        {
+          "text": "750 X 750 X 420",
+          "confidence": 0.5483435811111773,
+          "bbox": [
+            80,
+            144,
+            348,
+            174
+          ]
+        },
+        {
+          "text": "AVEC PORTE",
+          "confidence": 0.9988464401102632,
+          "bbox": [
+            86,
+            198,
+            320,
+            228
+          ]
+        },
+        {
+          "text": "VEC PRESSEETOUPE EN BAS",
+          "confidence": 0.9563628169114825,
+          "bbox": [
+            110,
+            260,
+            620,
+            292
+          ]
+        },
+        {
+          "text": "COFFRET REDUCTION",
+          "confidence": 0.7838279713258787,
+          "bbox": [
+            352,
+            436,
+            751,
+            466
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.2796314054738822,
+          "bbox": [
+            852,
+            756,
+            882,
+            816
+          ]
+        },
+        {
+          "text": "750",
+          "confidence": 0.6996545791625977,
+          "bbox": [
+            530,
+            1108,
+            592,
+            1138
+          ]
+        },
+        {
+          "text": "Numéro projet",
+          "confidence": 0.9963762253115473,
+          "bbox": [
+            93,
+            1423,
+            227,
+            1443
+          ]
+        },
+        {
+          "text": "Nom client",
+          "confidence": 0.7554967090193938,
+          "bbox": [
+            609,
+            1425,
+            709,
+            1441
+          ]
+        },
+        {
+          "text": "Nom projet",
+          "confidence": 0.7230769872637643,
+          "bbox": [
+            91,
+            1451,
+            197,
+            1469
+          ]
+        },
+        {
+          "text": "Nouveau projet",
+          "confidence": 0.9991401583798644,
+          "bbox": [
+            269,
+            1453,
+            413,
+            1469
+          ]
+        },
+        {
+          "text": "PrismaSeT G",
+          "confidence": 0.8583102806242403,
+          "bbox": [
+            605,
+            1451,
+            735,
+            1471
+          ]
+        },
+        {
+          "text": "Nom équipement",
+          "confidence": 0.952459707068722,
+          "bbox": [
+            91,
+            1477,
+            253,
+            1497
+          ]
+        },
+        {
+          "text": "COFFRET REDUCTION",
+          "confidence": 0.9918470157511797,
+          "bbox": [
+            267,
+            1477,
+            497,
+            1497
+          ]
+        },
+        {
+          "text": "In : 400 A,",
+          "confidence": 0.9777747924190752,
+          "bbox": [
+            607,
+            1477,
+            703,
+            1497
+          ]
+        },
+        {
+          "text": "Icc",
+          "confidence": 0.9983443106724864,
+          "bbox": [
+            711,
+            1481,
+            743,
+            1497
+          ]
+        },
+        {
+          "text": "20.0 kA",
+          "confidence": 0.9912576456423569,
+          "bbox": [
+            755,
+            1477,
+            831,
+            1497
+          ]
+        },
+        {
+          "text": "IP : 30",
+          "confidence": 0.9350858880731039,
+          "bbox": [
+            837,
+            1477,
+            901,
+            1497
+          ]
+        },
+        {
+          "text": "Réserve effective",
+          "confidence": 0.9984236916523349,
+          "bbox": [
+            606,
+            1507,
+            769,
+            1528
+          ]
+        },
+        {
+          "text": "%",
+          "confidence": 0.9904352165681871,
+          "bbox": [
+            805,
+            1507,
+            827,
+            1525
+          ]
+        },
+        {
+          "text": "Folio",
+          "confidence": 0.9999599092698651,
+          "bbox": [
+            605,
+            1559,
+            655,
+            1577
+          ]
+        }
+      ]
+    }
+  ]
+}

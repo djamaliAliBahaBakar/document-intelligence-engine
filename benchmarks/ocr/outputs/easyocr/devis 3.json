@@ -1,0 +1,2010 @@
+{
+  "engine": "easyocr",
+  "document": "devis 3.pdf",
+  "duration_seconds": 49.314,
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 96,
+      "words": [
+        {
+          "text": "Agence d'AVIGNON",
+          "confidence": 0.963922139177325,
+          "bbox": [
+            964,
+            52,
+            1138,
+            82
+          ]
+        },
+        {
+          "text": "SOPRASSISTANCE",
+          "confidence": 0.9964180362447737,
+          "bbox": [
+            43,
+            63,
+            393,
+            107
+          ]
+        },
+        {
+          "text": "Oualibat",
+          "confidence": 0.2653428699010668,
+          "bbox": [
+            638,
+            88,
+            670,
+            96
+          ]
+        },
+        {
+          "text": "125 rue des Quatre Gendarmes d'Ouvéa",
+          "confidence": 0.5419614537843209,
+          "bbox": [
+            748,
+            80,
+            1136,
+            106
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "confidence": 0.9991917843954085,
+          "bbox": [
+            976,
+            104,
+            1136,
+            128
+          ]
+        },
+        {
+          "text": "Etanchéité & Service",
+          "confidence": 0.8653388554887607,
+          "bbox": [
+            231,
+            117,
+            389,
+            137
+          ]
+        },
+        {
+          "text": "Tel.",
+          "confidence": 0.8512601256370544,
+          "bbox": [
+            950,
+            128,
+            988,
+            152
+          ]
+        },
+        {
+          "text": "04.90.74.89.20",
+          "confidence": 0.6853750725467301,
+          "bbox": [
+            996,
+            128,
+            1136,
+            152
+          ]
+        },
+        {
+          "text": "INTERVENTIONS RAPIDES",
+          "confidence": 0.6602015953046745,
+          "bbox": [
+            25,
+            157,
+            195,
+            173
+          ]
+        },
+        {
+          "text": "PETITS TRAVAUX",
+          "confidence": 0.5741739933664476,
+          "bbox": [
+            207,
+            157,
+            321,
+            173
+          ]
+        },
+        {
+          "text": "ENTRETIEN",
+          "confidence": 0.9563428879691998,
+          "bbox": [
+            333,
+            157,
+            411,
+            173
+          ]
+        },
+        {
+          "text": "485 197 552 00170",
+          "confidence": 0.6823892586133712,
+          "bbox": [
+            962,
+            152,
+            1136,
+            176
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9026973222099866,
+          "bbox": [
+            662,
+            260,
+            876,
+            286
+          ]
+        },
+        {
+          "text": "Site d'intervention",
+          "confidence": 0.8602596226781808,
+          "bbox": [
+            72,
+            282,
+            254,
+            306
+          ]
+        },
+        {
+          "text": "79 RUE DES JONCS DES BOIS",
+          "confidence": 0.8033230804308948,
+          "bbox": [
+            660,
+            284,
+            986,
+            312
+          ]
+        },
+        {
+          "text": "84000 AVIGNON (FR)",
+          "confidence": 0.8394457248602697,
+          "bbox": [
+            660,
+            308,
+            884,
+            336
+          ]
+        },
+        {
+          "text": "PLINVEST",
+          "confidence": 0.999433817132681,
+          "bbox": [
+            74,
+            322,
+            172,
+            346
+          ]
+        },
+        {
+          "text": "ZA LA HORSIERE",
+          "confidence": 0.9849717204051668,
+          "bbox": [
+            74,
+            342,
+            230,
+            366
+          ]
+        },
+        {
+          "text": "13870 ROGNONAS (FR)",
+          "confidence": 0.9926940323512836,
+          "bbox": [
+            74,
+            362,
+            284,
+            386
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9999975476469553,
+          "bbox": [
+            62,
+            482,
+            142,
+            512
+          ]
+        },
+        {
+          "text": "Page 1/2",
+          "confidence": 0.96476149843967,
+          "bbox": [
+            1046,
+            485,
+            1118,
+            511
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.690064798879964,
+          "bbox": [
+            109,
+            521,
+            145,
+            541
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.989880913755572,
+          "bbox": [
+            233,
+            523,
+            273,
+            541
+          ]
+        },
+        {
+          "text": "Version",
+          "confidence": 0.9891913438843767,
+          "bbox": [
+            327,
+            521,
+            385,
+            541
+          ]
+        },
+        {
+          "text": "Votre référence",
+          "confidence": 0.9926095155405399,
+          "bbox": [
+            587,
+            523,
+            699,
+            539
+          ]
+        },
+        {
+          "text": "Commercial",
+          "confidence": 0.998443189282074,
+          "bbox": [
+            961,
+            523,
+            1047,
+            539
+          ]
+        },
+        {
+          "text": "SFECO - AVIGNON VISITE 31/03/2025",
+          "confidence": 0.784663575616846,
+          "bbox": [
+            427,
+            553,
+            709,
+            573
+          ]
+        },
+        {
+          "text": "PLINVEST",
+          "confidence": 0.9677958744263929,
+          "bbox": [
+            719,
+            553,
+            803,
+            573
+          ]
+        },
+        {
+          "text": "Alexandre LEONARDI",
+          "confidence": 0.9757105986817349,
+          "bbox": [
+            879,
+            555,
+            1019,
+            573
+          ]
+        },
+        {
+          "text": "02/04/2025",
+          "confidence": 0.9286105791639024,
+          "bbox": [
+            77,
+            567,
+            161,
+            587
+          ]
+        },
+        {
+          "text": "25040008",
+          "confidence": 0.8471481676557794,
+          "bbox": [
+            209,
+            571,
+            275,
+            587
+          ]
+        },
+        {
+          "text": "AOO",
+          "confidence": 0.5221374564630082,
+          "bbox": [
+            339,
+            569,
+            371,
+            589
+          ]
+        },
+        {
+          "text": "ROGNONAS",
+          "confidence": 0.9452300593167068,
+          "bbox": [
+            429,
+            571,
+            519,
+            591
+          ]
+        },
+        {
+          "text": "Désignation des ouvrages",
+          "confidence": 0.9999493601397741,
+          "bbox": [
+            255,
+            633,
+            437,
+            653
+          ]
+        },
+        {
+          "text": "Unité",
+          "confidence": 0.9997269847718789,
+          "bbox": [
+            737,
+            631,
+            777,
+            651
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9988048030081746,
+          "bbox": [
+            815,
+            631,
+            843,
+            651
+          ]
+        },
+        {
+          "text": "Prix unitaire",
+          "confidence": 0.999969764440337,
+          "bbox": [
+            885,
+            633,
+            971,
+            651
+          ]
+        },
+        {
+          "text": "Montant HT",
+          "confidence": 0.8947738066470297,
+          "bbox": [
+            1005,
+            631,
+            1089,
+            651
+          ]
+        },
+        {
+          "text": "Le client s'engage à mettre à disposition",
+          "confidence": 0.7471226707229626,
+          "bbox": [
+            60,
+            663,
+            432,
+            691
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.9994298007651231,
+          "bbox": [
+            435,
+            671,
+            459,
+            685
+          ]
+        },
+        {
+          "text": "chariot élévateur pour",
+          "confidence": 0.9982883763143463,
+          "bbox": [
+            460,
+            664,
+            668,
+            688
+          ]
+        },
+        {
+          "text": "l'approvisionnement du matériel , ainsi qu'une benne pour le",
+          "confidence": 0.648584468530671,
+          "bbox": [
+            60,
+            684,
+            610,
+            710
+          ]
+        },
+        {
+          "text": "traitement des déchets",
+          "confidence": 0.854878131766408,
+          "bbox": [
+            60,
+            708,
+            276,
+            732
+          ]
+        },
+        {
+          "text": "SOUDURE PLOT SOPRASOLAR",
+          "confidence": 0.9757101118500637,
+          "bbox": [
+            119,
+            742,
+            394,
+            763
+          ]
+        },
+        {
+          "text": "602,00",
+          "confidence": 0.9087215097073985,
+          "bbox": [
+            825,
+            751,
+            869,
+            765
+          ]
+        },
+        {
+          "text": "15,00",
+          "confidence": 0.9991056437298996,
+          "bbox": [
+            933,
+            745,
+            977,
+            765
+          ]
+        },
+        {
+          "text": "030,00",
+          "confidence": 0.9400318677277438,
+          "bbox": [
+            1059,
+            747,
+            1111,
+            765
+          ]
+        },
+        {
+          "text": "TRACAGE & IMPLANTATION SUR TOITURE",
+          "confidence": 0.7408041152351497,
+          "bbox": [
+            119,
+            777,
+            505,
+            797
+          ]
+        },
+        {
+          "text": "1900,00",
+          "confidence": 0.9207803064554043,
+          "bbox": [
+            817,
+            785,
+            869,
+            801
+          ]
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9954506222742487,
+          "bbox": [
+            941,
+            781,
+            977,
+            801
+          ]
+        },
+        {
+          "text": "900,00",
+          "confidence": 0.8256956970417845,
+          "bbox": [
+            1057,
+            781,
+            1111,
+            801
+          ]
+        },
+        {
+          "text": "PLAN D'IMPLANTATION A NOUS FOURNIR IMPERATIVEMENT",
+          "confidence": 0.888991829196416,
+          "bbox": [
+            60,
+            810,
+            682,
+            834
+          ]
+        },
+        {
+          "text": "AVEC LES EMPLACEMENTS PRECIS DES PLOTS_",
+          "confidence": 0.8224747290409716,
+          "bbox": [
+            62,
+            832,
+            530,
+            856
+          ]
+        },
+        {
+          "text": "Travaux non pris en charge garantie décennale. Soprema n'aillant pas",
+          "confidence": 0.7853784802473404,
+          "bbox": [
+            60,
+            898,
+            702,
+            925
+          ]
+        },
+        {
+          "text": "posé le complexe d'étanchéité, nous ne pourrons pas être tenu pour",
+          "confidence": 0.922998363808843,
+          "bbox": [
+            58,
+            919,
+            684,
+            946
+          ]
+        },
+        {
+          "text": "responsable en cas d'infiltrations",
+          "confidence": 0.9439403649212736,
+          "bbox": [
+            59,
+            942,
+            362,
+            968
+          ]
+        },
+        {
+          "text": "Notre intervention",
+          "confidence": 0.6088004903256221,
+          "bbox": [
+            61,
+            977,
+            215,
+            997
+          ]
+        },
+        {
+          "text": "génèrera",
+          "confidence": 0.9999815396097729,
+          "bbox": [
+            222,
+            976,
+            300,
+            1000
+          ]
+        },
+        {
+          "text": "entre",
+          "confidence": 0.999997707583045,
+          "bbox": [
+            307,
+            981,
+            353,
+            997
+          ]
+        },
+        {
+          "text": "et 15 kg de déchets",
+          "confidence": 0.8936928852182547,
+          "bbox": [
+            376,
+            976,
+            558,
+            1000
+          ]
+        },
+        {
+          "text": "inertes",
+          "confidence": 0.9999972064724094,
+          "bbox": [
+            565,
+            979,
+            623,
+            997
+          ]
+        },
+        {
+          "text": "qui",
+          "confidence": 0.9736582162271815,
+          "bbox": [
+            631,
+            981,
+            659,
+            999
+          ]
+        },
+        {
+          "text": "seront",
+          "confidence": 0.5014664913560084,
+          "bbox": [
+            665,
+            981,
+            721,
+            997
+          ]
+        },
+        {
+          "text": "triés",
+          "confidence": 0.7747712439747134,
+          "bbox": [
+            61,
+            999,
+            101,
+            1015
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.9999566733146458,
+          "bbox": [
+            105,
+            1001,
+            127,
+            1015
+          ]
+        },
+        {
+          "text": "dépôt de l'agence Soprema",
+          "confidence": 0.6889230580401492,
+          "bbox": [
+            128,
+            994,
+            358,
+            1019
+          ]
+        },
+        {
+          "text": "Un montant forfaitaire estimatif de 45 €HT pour le traitement de ces déchets",
+          "confidence": 0.7608239698691189,
+          "bbox": [
+            60,
+            1014,
+            720,
+            1038
+          ]
+        },
+        {
+          "text": "est inclus dans notre offre",
+          "confidence": 0.8002491178292194,
+          "bbox": [
+            63,
+            1035,
+            281,
+            1053
+          ]
+        },
+        {
+          "text": "Toutes",
+          "confidence": 0.6325722920765019,
+          "bbox": [
+            62,
+            1054,
+            119,
+            1074
+          ]
+        },
+        {
+          "text": "informations",
+          "confidence": 0.7545209492551789,
+          "bbox": [
+            127,
+            1053,
+            235,
+            1073
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.999838812383438,
+          "bbox": [
+            249,
+            1057,
+            277,
+            1073
+          ]
+        },
+        {
+          "text": "point",
+          "confidence": 0.9999836865077046,
+          "bbox": [
+            317,
+            1055,
+            361,
+            1075
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999937622721186,
+          "bbox": [
+            373,
+            1055,
+            397,
+            1073
+          ]
+        },
+        {
+          "text": "collecte",
+          "confidence": 0.8411407933764105,
+          "bbox": [
+            405,
+            1053,
+            471,
+            1073
+          ]
+        },
+        {
+          "text": "est",
+          "confidence": 0.9969213604927063,
+          "bbox": [
+            485,
+            1057,
+            513,
+            1073
+          ]
+        },
+        {
+          "text": "disponible",
+          "confidence": 0.9999984921078464,
+          "bbox": [
+            520,
+            1052,
+            608,
+            1076
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.8730900287628174,
+          "bbox": [
+            623,
+            1059,
+            651,
+            1073
+          ]
+        },
+        {
+          "text": "simple",
+          "confidence": 0.9999328390487651,
+          "bbox": [
+            660,
+            1052,
+            720,
+            1076
+          ]
+        },
+        {
+          "text": "demande",
+          "confidence": 0.999997566927724,
+          "bbox": [
+            61,
+            1073,
+            139,
+            1093
+          ]
+        },
+        {
+          "text": "Une prise de courant et un point d'eau devront nous être mis à disposition",
+          "confidence": 0.5903080535413516,
+          "bbox": [
+            60,
+            1102,
+            666,
+            1126
+          ]
+        },
+        {
+          "text": "la durée de notre intervention.",
+          "confidence": 0.9015179585273327,
+          "bbox": [
+            101,
+            1125,
+            353,
+            1145
+          ]
+        },
+        {
+          "text": "Suite",
+          "confidence": 0.9999654004316152,
+          "bbox": [
+            991,
+            1573,
+            1029,
+            1589
+          ]
+        },
+        {
+          "text": "SOPRASSISTANCE pzr SOPREMA Entreprises",
+          "confidence": 0.8350460133854489,
+          "bbox": [
+            27,
+            1600,
+            207,
+            1618
+          ]
+        },
+        {
+          "text": "Societé (",
+          "confidence": 0.1110510816770378,
+          "bbox": [
+            27,
+            1617,
+            61,
+            1629
+          ]
+        },
+        {
+          "text": "Actons Simplifige",
+          "confidence": 0.5474643082511297,
+          "bbox": [
+            73,
+            1617,
+            147,
+            1631
+          ]
+        },
+        {
+          "text": "capita]",
+          "confidence": 0.661466345483498,
+          "bbox": [
+            157,
+            1617,
+            185,
+            1631
+          ]
+        },
+        {
+          "text": "5120 OCO € - RCS STRASBOURG 485197 552 - SIRET 455197552 00584 -NAF 23994 -IDU : FR7o81co O4FRCZ-Banques",
+          "confidence": 0.11506536461802813,
+          "bbox": [
+            197,
+            1615,
+            695,
+            1631
+          ]
+        },
+        {
+          "text": "BNP PARIEAS - CIC -LCL -BTF BANGUE - LA BhNqUE POSTALE",
+          "confidence": 0.20399704045658895,
+          "bbox": [
+            699,
+            1615,
+            953,
+            1631
+          ]
+        },
+        {
+          "text": "Siegesocill",
+          "confidence": 0.5707271828100902,
+          "bbox": [
+            27,
+            1631,
+            75,
+            1645
+          ]
+        },
+        {
+          "text": "Directiori Generzle : 15 rue de Sairt Nazue 67100 STRASBOURG - Tel : 03.88.79.81 00-Fax: 03.88.72.81.01",
+          "confidence": 0.17948314412590477,
+          "bbox": [
+            85,
+            1631,
+            521,
+            1645
+          ]
+        },
+        {
+          "text": "horesse postale =",
+          "confidence": 0.3811555189419553,
+          "bbox": [
+            525,
+            1631,
+            591,
+            1645
+          ]
+        },
+        {
+          "text": "10931-67029 STRASBOURG Cedex",
+          "confidence": 0.7868725890783044,
+          "bbox": [
+            605,
+            1631,
+            751,
+            1645
+          ]
+        },
+        {
+          "text": "soprassistance fr",
+          "confidence": 0.9977605226134593,
+          "bbox": [
+            1007,
+            1635,
+            1139,
+            1651
+          ]
+        },
+        {
+          "text": "Assurance ALLIANZ GlOBAL CORPORAIE& SPcOkLITYSE",
+          "confidence": 0.09315159914053826,
+          "bbox": [
+            27,
+            1645,
+            263,
+            1659
+          ]
+        },
+        {
+          "text": "Cours Michelet 520/6 PARIS L A DEtENSE (EDEX",
+          "confidence": 0.1778037399880477,
+          "bbox": [
+            273,
+            1645,
+            469,
+            1659
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.9989385604858398,
+          "bbox": [
+            60,
+            1129,
+            104,
+            1143
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 103,
+      "words": [
+        {
+          "text": "Agence d'AVIGNON",
+          "confidence": 0.963922139177325,
+          "bbox": [
+            964,
+            52,
+            1138,
+            82
+          ]
+        },
+        {
+          "text": "SOPRASSISTANCE",
+          "confidence": 0.9964180362447737,
+          "bbox": [
+            43,
+            63,
+            393,
+            107
+          ]
+        },
+        {
+          "text": "Oualibat",
+          "confidence": 0.2653428699010668,
+          "bbox": [
+            638,
+            88,
+            670,
+            96
+          ]
+        },
+        {
+          "text": "125 rue des Quatre Gendarmes d'Ouvéa",
+          "confidence": 0.8821363572951402,
+          "bbox": [
+            746,
+            80,
+            1136,
+            106
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "confidence": 0.9991917843954085,
+          "bbox": [
+            976,
+            104,
+            1136,
+            128
+          ]
+        },
+        {
+          "text": "Etanchéité & Service",
+          "confidence": 0.8653388554887607,
+          "bbox": [
+            231,
+            117,
+            389,
+            137
+          ]
+        },
+        {
+          "text": "Tel.",
+          "confidence": 0.8512601256370544,
+          "bbox": [
+            950,
+            128,
+            988,
+            152
+          ]
+        },
+        {
+          "text": "04.90.74.89.20",
+          "confidence": 0.6853750725467301,
+          "bbox": [
+            996,
+            128,
+            1136,
+            152
+          ]
+        },
+        {
+          "text": "INTERVENTIONS RAPIDES",
+          "confidence": 0.6602015953046745,
+          "bbox": [
+            25,
+            157,
+            195,
+            173
+          ]
+        },
+        {
+          "text": "PETITS TRAVAUX",
+          "confidence": 0.5741739933664476,
+          "bbox": [
+            207,
+            157,
+            321,
+            173
+          ]
+        },
+        {
+          "text": "ENTRETIEN",
+          "confidence": 0.9563428879691998,
+          "bbox": [
+            333,
+            157,
+            411,
+            173
+          ]
+        },
+        {
+          "text": "485 197 552 00170",
+          "confidence": 0.6823892586133712,
+          "bbox": [
+            962,
+            152,
+            1136,
+            176
+          ]
+        },
+        {
+          "text": "Devis 25040008.A00",
+          "confidence": 0.8452311363909449,
+          "bbox": [
+            62,
+            288,
+            330,
+            320
+          ]
+        },
+        {
+          "text": "Page 2/2",
+          "confidence": 0.997979350622961,
+          "bbox": [
+            1046,
+            291,
+            1118,
+            317
+          ]
+        },
+        {
+          "text": "Désignation des ouvrages",
+          "confidence": 0.9979164097619918,
+          "bbox": [
+            252,
+            340,
+            438,
+            364
+          ]
+        },
+        {
+          "text": "Unité",
+          "confidence": 0.965217263665771,
+          "bbox": [
+            737,
+            341,
+            777,
+            359
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9592140397236311,
+          "bbox": [
+            815,
+            341,
+            843,
+            359
+          ]
+        },
+        {
+          "text": "Prix unitaire",
+          "confidence": 0.9955922974485636,
+          "bbox": [
+            885,
+            343,
+            971,
+            361
+          ]
+        },
+        {
+          "text": "Montant HT",
+          "confidence": 0.99718870753433,
+          "bbox": [
+            1007,
+            341,
+            1089,
+            359
+          ]
+        },
+        {
+          "text": "n\" Client",
+          "confidence": 0.8254759953785874,
+          "bbox": [
+            63,
+            967,
+            127,
+            987
+          ]
+        },
+        {
+          "text": "C2020779",
+          "confidence": 0.9972112993207175,
+          "bbox": [
+            199,
+            967,
+            275,
+            985
+          ]
+        },
+        {
+          "text": "Base HT",
+          "confidence": 0.9986843647260459,
+          "bbox": [
+            380,
+            956,
+            462,
+            980
+          ]
+        },
+        {
+          "text": "Taux",
+          "confidence": 0.999953031539917,
+          "bbox": [
+            542,
+            956,
+            590,
+            980
+          ]
+        },
+        {
+          "text": "Montant TVA",
+          "confidence": 0.8761425416512558,
+          "bbox": [
+            684,
+            956,
+            800,
+            980
+          ]
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999537250446036,
+          "bbox": [
+            954,
+            956,
+            1008,
+            980
+          ]
+        },
+        {
+          "text": "n\" Devis",
+          "confidence": 0.6688321685965289,
+          "bbox": [
+            63,
+            1003,
+            125,
+            1021
+          ]
+        },
+        {
+          "text": "25040008",
+          "confidence": 0.7151477995260253,
+          "bbox": [
+            199,
+            1001,
+            273,
+            1021
+          ]
+        },
+        {
+          "text": "10 930,00",
+          "confidence": 0.99885363302458,
+          "bbox": [
+            417,
+            1009,
+            481,
+            1025
+          ]
+        },
+        {
+          "text": "20.00% sur encaissement",
+          "confidence": 0.6228991612986962,
+          "bbox": [
+            517,
+            1011,
+            667,
+            1025
+          ]
+        },
+        {
+          "text": "2 186,00",
+          "confidence": 0.8067639293547119,
+          "bbox": [
+            765,
+            1009,
+            823,
+            1025
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.7949958379411465,
+          "bbox": [
+            839,
+            1017,
+            865,
+            1037
+          ]
+        },
+        {
+          "text": "10 930,00 €",
+          "confidence": 0.9995094268721523,
+          "bbox": [
+            1006,
+            1014,
+            1128,
+            1042
+          ]
+        },
+        {
+          "text": "Version",
+          "confidence": 0.9999367367514842,
+          "bbox": [
+            63,
+            1035,
+            119,
+            1053
+          ]
+        },
+        {
+          "text": "AOO",
+          "confidence": 0.8462817825251717,
+          "bbox": [
+            219,
+            1033,
+            253,
+            1053
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9995272525083146,
+          "bbox": [
+            839,
+            1053,
+            873,
+            1073
+          ]
+        },
+        {
+          "text": "2 186,00 €",
+          "confidence": 0.8259200071260028,
+          "bbox": [
+            1020,
+            1052,
+            1128,
+            1080
+          ]
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.9999675138218107,
+          "bbox": [
+            63,
+            1069,
+            121,
+            1085
+          ]
+        },
+        {
+          "text": "13 116,00 €",
+          "confidence": 0.9324786391222182,
+          "bbox": [
+            191,
+            1067,
+            279,
+            1085
+          ]
+        },
+        {
+          "text": "REFERENCE A RAPPELER",
+          "confidence": 0.9825287054765549,
+          "bbox": [
+            92,
+            1100,
+            300,
+            1124
+          ]
+        },
+        {
+          "text": "TTC",
+          "confidence": 0.9770620465278625,
+          "bbox": [
+            839,
+            1089,
+            875,
+            1109
+          ]
+        },
+        {
+          "text": "13 116,00 €",
+          "confidence": 0.9960675668250801,
+          "bbox": [
+            1008,
+            1090,
+            1128,
+            1118
+          ]
+        },
+        {
+          "text": "Conditions de règlement",
+          "confidence": 0.9956087794106508,
+          "bbox": [
+            62,
+            1130,
+            316,
+            1156
+          ]
+        },
+        {
+          "text": "Virement à 30 jours fdm",
+          "confidence": 0.7976814903298702,
+          "bbox": [
+            336,
+            1130,
+            588,
+            1156
+          ]
+        },
+        {
+          "text": "Acompte à la commande",
+          "confidence": 0.7802728301439514,
+          "bbox": [
+            62,
+            1152,
+            316,
+            1176
+          ]
+        },
+        {
+          "text": "30%",
+          "confidence": 0.9739104571248604,
+          "bbox": [
+            331,
+            1153,
+            383,
+            1173
+          ]
+        },
+        {
+          "text": "Offre valable 2 mois",
+          "confidence": 0.9261271198405044,
+          "bbox": [
+            62,
+            1172,
+            272,
+            1196
+          ]
+        },
+        {
+          "text": "POINT FINANCIER IMPORTANT",
+          "confidence": 0.8775340669990721,
+          "bbox": [
+            63,
+            1216,
+            382,
+            1237
+          ]
+        },
+        {
+          "text": "Nous souhaitons",
+          "confidence": 0.9279547499875436,
+          "bbox": [
+            65,
+            1259,
+            221,
+            1279
+          ]
+        },
+        {
+          "text": "vous sensibiliser",
+          "confidence": 0.8045506941481109,
+          "bbox": [
+            229,
+            1259,
+            385,
+            1279
+          ]
+        },
+        {
+          "text": "et vous inviter à la",
+          "confidence": 0.9199355359433953,
+          "bbox": [
+            391,
+            1259,
+            573,
+            1279
+          ]
+        },
+        {
+          "text": "vigilance du fait de la multiplication des escroqueries par",
+          "confidence": 0.8361736341569256,
+          "bbox": [
+            576,
+            1254,
+            1126,
+            1285
+          ]
+        },
+        {
+          "text": "usurpation",
+          "confidence": 0.999992950592831,
+          "bbox": [
+            61,
+            1278,
+            164,
+            1305
+          ]
+        },
+        {
+          "text": "d'identité, consistant à contacter une",
+          "confidence": 0.759095437832134,
+          "bbox": [
+            170,
+            1278,
+            518,
+            1304
+          ]
+        },
+        {
+          "text": "personne",
+          "confidence": 0.9999730680135795,
+          "bbox": [
+            523,
+            1283,
+            609,
+            1301
+          ]
+        },
+        {
+          "text": "ou une société cliente en l'informant",
+          "confidence": 0.660463175366934,
+          "bbox": [
+            614,
+            1278,
+            958,
+            1302
+          ]
+        },
+        {
+          "text": "d'un changement",
+          "confidence": 0.9577507272935145,
+          "bbox": [
+            962,
+            1279,
+            1126,
+            1303
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.9999983481878129,
+          "bbox": [
+            63,
+            1303,
+            99,
+            1321
+          ]
+        },
+        {
+          "text": "coordonnées",
+          "confidence": 0.9999931348804297,
+          "bbox": [
+            107,
+            1301,
+            227,
+            1321
+          ]
+        },
+        {
+          "text": "bancaires",
+          "confidence": 0.9999941984728274,
+          "bbox": [
+            237,
+            1301,
+            327,
+            1321
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999954481433951,
+          "bbox": [
+            335,
+            1303,
+            361,
+            1321
+          ]
+        },
+        {
+          "text": "son",
+          "confidence": 0.9985571437764277,
+          "bbox": [
+            367,
+            1303,
+            403,
+            1321
+          ]
+        },
+        {
+          "text": "fournisseur",
+          "confidence": 0.9999989217110219,
+          "bbox": [
+            411,
+            1301,
+            519,
+            1321
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.9999467267991122,
+          "bbox": [
+            529,
+            1305,
+            551,
+            1321
+          ]
+        },
+        {
+          "text": "vous",
+          "confidence": 0.9977990984916687,
+          "bbox": [
+            557,
+            1303,
+            603,
+            1321
+          ]
+        },
+        {
+          "text": "rappeler que",
+          "confidence": 0.8603940868052931,
+          "bbox": [
+            609,
+            1298,
+            738,
+            1327
+          ]
+        },
+        {
+          "text": "nous",
+          "confidence": 0.9998798370361328,
+          "bbox": [
+            743,
+            1303,
+            791,
+            1321
+          ]
+        },
+        {
+          "text": "ne",
+          "confidence": 0.9999967968410157,
+          "bbox": [
+            801,
+            1305,
+            827,
+            1321
+          ]
+        },
+        {
+          "text": "vous",
+          "confidence": 0.9987249374389648,
+          "bbox": [
+            835,
+            1303,
+            881,
+            1321
+          ]
+        },
+        {
+          "text": "contacterons   jamais par",
+          "confidence": 0.8092812673323305,
+          "bbox": [
+            888,
+            1300,
+            1126,
+            1324
+          ]
+        },
+        {
+          "text": "téléphone ou par courriel afin de vous demander de réaliser un paiement sur un nouveau compte bancaire.",
+          "confidence": 0.6910897885096178,
+          "bbox": [
+            62,
+            1320,
+            1036,
+            1346
+          ]
+        },
+        {
+          "text": "Seules les coordonnées",
+          "confidence": 0.8793715744733644,
+          "bbox": [
+            63,
+            1343,
+            287,
+            1363
+          ]
+        },
+        {
+          "text": "bancaires",
+          "confidence": 0.9999765156320791,
+          "bbox": [
+            295,
+            1343,
+            387,
+            1363
+          ]
+        },
+        {
+          "text": "remises",
+          "confidence": 0.9997828918207292,
+          "bbox": [
+            397,
+            1343,
+            473,
+            1363
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.9999962067857412,
+          "bbox": [
+            479,
+            1347,
+            505,
+            1363
+          ]
+        },
+        {
+          "text": "mains propres",
+          "confidence": 0.6485223433480448,
+          "bbox": [
+            511,
+            1345,
+            647,
+            1365
+          ]
+        },
+        {
+          "text": "par votre correspondant SOPREMA",
+          "confidence": 0.6816090445861099,
+          "bbox": [
+            654,
+            1340,
+            986,
+            1367
+          ]
+        },
+        {
+          "text": "ENTREPRISES",
+          "confidence": 0.9981485776381186,
+          "bbox": [
+            993,
+            1343,
+            1123,
+            1363
+          ]
+        },
+        {
+          "text": "clairement identifié lors de la conclusion du contrat, sont valables.",
+          "confidence": 0.804908215774835,
+          "bbox": [
+            62,
+            1362,
+            664,
+            1388
+          ]
+        },
+        {
+          "text": "Si vous",
+          "confidence": 0.6310466665614347,
+          "bbox": [
+            63,
+            1387,
+            137,
+            1407
+          ]
+        },
+        {
+          "text": "avez",
+          "confidence": 0.9999738335609436,
+          "bbox": [
+            143,
+            1391,
+            187,
+            1407
+          ]
+        },
+        {
+          "text": "un doute",
+          "confidence": 0.6731471002980077,
+          "bbox": [
+            193,
+            1387,
+            279,
+            1407
+          ]
+        },
+        {
+          "text": "n'hésitez pas",
+          "confidence": 0.5839116911377241,
+          "bbox": [
+            298,
+            1384,
+            426,
+            1410
+          ]
+        },
+        {
+          "text": "à contacter I'Agence concernée, dont les coordonnées figurent sur le site",
+          "confidence": 0.6035142242101683,
+          "bbox": [
+            430,
+            1382,
+            1126,
+            1410
+          ]
+        },
+        {
+          "text": "Soprema-Entreprises fr",
+          "confidence": 0.8811367540781453,
+          "bbox": [
+            61,
+            1405,
+            282,
+            1432
+          ]
+        },
+        {
+          "text": "BON POUR ACCORD",
+          "confidence": 0.9897124060124033,
+          "bbox": [
+            741,
+            1469,
+            919,
+            1489
+          ]
+        },
+        {
+          "text": "LE",
+          "confidence": 0.9970100647479772,
+          "bbox": [
+            741,
+            1491,
+            765,
+            1509
+          ]
+        },
+        {
+          "text": "SIGNATURE",
+          "confidence": 0.999852254496499,
+          "bbox": [
+            739,
+            1527,
+            851,
+            1547
+          ]
+        },
+        {
+          "text": "SOPRASSISTANCE pzr SOPREMA Entreprises",
+          "confidence": 0.8350460133854489,
+          "bbox": [
+            27,
+            1600,
+            207,
+            1618
+          ]
+        },
+        {
+          "text": "Societé (",
+          "confidence": 0.1110510816770378,
+          "bbox": [
+            27,
+            1617,
+            61,
+            1629
+          ]
+        },
+        {
+          "text": "Actons Simplifige",
+          "confidence": 0.5474643082511297,
+          "bbox": [
+            73,
+            1617,
+            147,
+            1631
+          ]
+        },
+        {
+          "text": "capita]",
+          "confidence": 0.661466345483498,
+          "bbox": [
+            157,
+            1617,
+            185,
+            1631
+          ]
+        },
+        {
+          "text": "5120 OCO € - RCS STRASBOURG 485197 552 - SIRET 455197552 00584 -NAF 23994 -IDU : FR7o81co O4FRCZ-Banques",
+          "confidence": 0.11506536461802813,
+          "bbox": [
+            197,
+            1615,
+            695,
+            1631
+          ]
+        },
+        {
+          "text": "BNP PARIEAS - CIC -LCL -BTF BANGUE - LA BhNqUE POSTALE",
+          "confidence": 0.20399704045658895,
+          "bbox": [
+            699,
+            1615,
+            953,
+            1631
+          ]
+        },
+        {
+          "text": "Siegesocill",
+          "confidence": 0.5707271828100902,
+          "bbox": [
+            27,
+            1631,
+            75,
+            1645
+          ]
+        },
+        {
+          "text": "Directiori Generzle : 15 rue de Sairt-Nazje 67100 STRASBOURG - Tel : 03.88 .79.8+ 00",
+          "confidence": 0.20443728519703713,
+          "bbox": [
+            85,
+            1631,
+            433,
+            1645
+          ]
+        },
+        {
+          "text": "03.88.79.81.01",
+          "confidence": 0.21794008956395508,
+          "bbox": [
+            457,
+            1631,
+            521,
+            1645
+          ]
+        },
+        {
+          "text": "postale ",
+          "confidence": 0.9935358709002746,
+          "bbox": [
+            557,
+            1631,
+            591,
+            1645
+          ]
+        },
+        {
+          "text": "10931-67029 STRASBOURG Cedex",
+          "confidence": 0.7868725890783044,
+          "bbox": [
+            605,
+            1631,
+            751,
+            1645
+          ]
+        },
+        {
+          "text": "soprassistance fr",
+          "confidence": 0.9977605226134593,
+          "bbox": [
+            1007,
+            1635,
+            1139,
+            1651
+          ]
+        },
+        {
+          "text": "Assurance ALLIANZ GlOBAL CORPORAIE& SPcOkLITYSE",
+          "confidence": 0.09315159914053826,
+          "bbox": [
+            27,
+            1645,
+            263,
+            1659
+          ]
+        },
+        {
+          "text": "Cours Michelet 520/6 PARIS L A DEtENSE (EDEX",
+          "confidence": 0.1778037399880477,
+          "bbox": [
+            273,
+            1645,
+            469,
+            1659
+          ]
+        },
+        {
+          "text": "Fr:",
+          "confidence": 0.2750100432604765,
+          "bbox": [
+            435,
+            1629,
+            457,
+            1645
+          ]
+        },
+        {
+          "text": "Alsse",
+          "confidence": 0.15135888558145494,
+          "bbox": [
+            525,
+            1630,
+            555,
+            1643
+          ]
+        }
+      ]
+    }
+  ]
+}
