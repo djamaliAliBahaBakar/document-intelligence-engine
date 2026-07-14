@@ -1,0 +1,1783 @@
+{
+  "engine": "mistralocr",
+  "model": "mistral-ocr-4-0",
+  "duration_seconds": 0.77,
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 179,
+      "words": [
+        {
+          "text": "Beautiran,",
+          "confidence": 0.980086211524572,
+          "bbox": null
+        },
+        {
+          "text": "le",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "28",
+          "confidence": 0.9998171747131154,
+          "bbox": null
+        },
+        {
+          "text": "Janvier",
+          "confidence": 0.9999946356109105,
+          "bbox": null
+        },
+        {
+          "text": "2025",
+          "confidence": 0.9999715339013037,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.9953043085862715,
+          "bbox": null
+        },
+        {
+          "text": "79",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "Rue",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "Des",
+          "confidence": 0.9999866487378297,
+          "bbox": null
+        },
+        {
+          "text": "Joncs",
+          "confidence": 0.9981858775944612,
+          "bbox": null
+        },
+        {
+          "text": "Des",
+          "confidence": 0.999995112442896,
+          "bbox": null
+        },
+        {
+          "text": "Bois",
+          "confidence": 0.9999765163221908,
+          "bbox": null
+        },
+        {
+          "text": "84000",
+          "confidence": 0.9999963760560785,
+          "bbox": null
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.999930047831511,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9959299004209012,
+          "bbox": null
+        },
+        {
+          "text": "Offre",
+          "confidence": 0.9975315617846584,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.999998927117538,
+          "bbox": null
+        },
+        {
+          "text": "prix",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "n°",
+          "confidence": 0.9998367556529183,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9465805295002067,
+          "bbox": null
+        },
+        {
+          "text": "002.143/25",
+          "confidence": 0.9999990571646036,
+          "bbox": null
+        },
+        {
+          "text": "Affaire",
+          "confidence": 0.9999952486915618,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999922514562126,
+          "bbox": null
+        },
+        {
+          "text": "A24013",
+          "confidence": 0.9999955381908695,
+          "bbox": null
+        },
+        {
+          "text": "CHEVAL",
+          "confidence": 0.9999963385870991,
+          "bbox": null
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9995412803068329,
+          "bbox": null
+        },
+        {
+          "text": "effectué",
+          "confidence": 0.9999942779868433,
+          "bbox": null
+        },
+        {
+          "text": "par",
+          "confidence": 0.9999456435183514,
+          "bbox": null
+        },
+        {
+          "text": "Olivier",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "CANTELAUBE",
+          "confidence": 0.999556882884858,
+          "bbox": null
+        },
+        {
+          "text": "A",
+          "confidence": 0.9997874950036895,
+          "bbox": null
+        },
+        {
+          "text": "l'attention",
+          "confidence": 0.9998927438416823,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "A.",
+          "confidence": 0.9999996821086923,
+          "bbox": null
+        },
+        {
+          "text": "DASI",
+          "confidence": 0.9032999886774704,
+          "bbox": null
+        },
+        {
+          "text": "Désignation",
+          "confidence": 0.9519710347884266,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.9519710347884266,
+          "bbox": null
+        },
+        {
+          "text": "unitaire",
+          "confidence": 0.9999776634961131,
+          "bbox": null
+        },
+        {
+          "text": "Qu.",
+          "confidence": 0.9999776634961131,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999776634961131,
+          "bbox": null
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.9999993931174772,
+          "bbox": null
+        },
+        {
+          "text": "Chiffrage",
+          "confidence": 0.9726238088349918,
+          "bbox": null
+        },
+        {
+          "text": "suivant",
+          "confidence": 0.999991059383269,
+          "bbox": null
+        },
+        {
+          "text": "vos",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "descriptifs",
+          "confidence": 0.9999645664310087,
+          "bbox": null
+        },
+        {
+          "text": "et",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "schémas",
+          "confidence": 0.9929679496043198,
+          "bbox": null
+        },
+        {
+          "text": "Matériel",
+          "confidence": 0.9904783854369464,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "marque",
+          "confidence": 0.9999939203633587,
+          "bbox": null
+        },
+        {
+          "text": "SCHNEIDER",
+          "confidence": 0.9978212646127838,
+          "bbox": null
+        },
+        {
+          "text": "TGBT",
+          "confidence": 0.9978212646127838,
+          "bbox": null
+        },
+        {
+          "text": "PV",
+          "confidence": 0.9992554774166448,
+          "bbox": null
+        },
+        {
+          "text": "Suivant",
+          "confidence": 0.9992554774166448,
+          "bbox": null
+        },
+        {
+          "text": "face",
+          "confidence": 0.999994397195003,
+          "bbox": null
+        },
+        {
+          "text": "avant",
+          "confidence": 0.9999972805495461,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.9999972805495461,
+          "bbox": null
+        },
+        {
+          "text": "991,00",
+          "confidence": 0.999999637957228,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.999999637957228,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.999999637957228,
+          "bbox": null
+        },
+        {
+          "text": "991,00",
+          "confidence": 0.9999822539647438,
+          "bbox": null
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9999822539647438,
+          "bbox": null
+        },
+        {
+          "text": "AC",
+          "confidence": 0.9999964864800235,
+          "bbox": null
+        },
+        {
+          "text": "Suivant",
+          "confidence": 0.9999964864800235,
+          "bbox": null
+        },
+        {
+          "text": "face",
+          "confidence": 0.999991059383269,
+          "bbox": null
+        },
+        {
+          "text": "avant",
+          "confidence": 0.9999996945263487,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999996945263487,
+          "bbox": null
+        },
+        {
+          "text": "565,00",
+          "confidence": 0.9999997924877088,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999997924877088,
+          "bbox": null
+        },
+        {
+          "text": "4",
+          "confidence": 0.9999997924877088,
+          "bbox": null
+        },
+        {
+          "text": "695,00",
+          "confidence": 0.9999983459772792,
+          "bbox": null
+        },
+        {
+          "text": "TRANSPORT",
+          "confidence": 0.9932697335724823,
+          "bbox": null
+        },
+        {
+          "text": "SUR",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "SITE",
+          "confidence": 0.9999985694905718,
+          "bbox": null
+        },
+        {
+          "text": "INCLUS",
+          "confidence": 0.9996639825766246,
+          "bbox": null
+        },
+        {
+          "text": "DANS",
+          "confidence": 0.9999339624169533,
+          "bbox": null
+        },
+        {
+          "text": "L'OFFRE",
+          "confidence": 0.9981771324644584,
+          "bbox": null
+        },
+        {
+          "text": "L'Entreprise",
+          "confidence": 0.9981771324644584,
+          "bbox": null
+        },
+        {
+          "text": "C.M.E.",
+          "confidence": 0.9999907528950144,
+          "bbox": null
+        },
+        {
+          "text": "Sud-Ouest",
+          "confidence": 0.9939737614010556,
+          "bbox": null
+        },
+        {
+          "text": "Le",
+          "confidence": 0.9939737614010556,
+          "bbox": null
+        },
+        {
+          "text": "Client",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "bon",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "pour",
+          "confidence": 0.9999964237340748,
+          "bbox": null
+        },
+        {
+          "text": "accord",
+          "confidence": 0.9999943336388406,
+          "bbox": null
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.88320398857409,
+          "bbox": null
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.9978470405899017,
+          "bbox": null
+        },
+        {
+          "text": "13",
+          "confidence": 0.9978470405899017,
+          "bbox": null
+        },
+        {
+          "text": "686,00",
+          "confidence": 0.9999737920447545,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999985444027538,
+          "bbox": null
+        },
+        {
+          "text": "Laurent",
+          "confidence": 0.8624095540437329,
+          "bbox": null
+        },
+        {
+          "text": "LACOTTE",
+          "confidence": 0.9999381505967341,
+          "bbox": null
+        },
+        {
+          "text": "14,",
+          "confidence": 0.9999381505967341,
+          "bbox": null
+        },
+        {
+          "text": "zone",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "industrielle",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999448091463223,
+          "bbox": null
+        },
+        {
+          "text": "Calens",
+          "confidence": 0.9999653189326142,
+          "bbox": null
+        },
+        {
+          "text": "33640",
+          "confidence": 0.9999653189326142,
+          "bbox": null
+        },
+        {
+          "text": "Beautiran",
+          "confidence": 0.9763171946370612,
+          "bbox": null
+        },
+        {
+          "text": "(Offre",
+          "confidence": 0.9763171946370612,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "prix",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "valable",
+          "confidence": 0.9998763952461884,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999999403953606,
+          "bbox": null
+        },
+        {
+          "text": "mois)",
+          "confidence": 0.9999839585459098,
+          "bbox": null
+        },
+        {
+          "text": "(cachet",
+          "confidence": 0.9707142347838007,
+          "bbox": null
+        },
+        {
+          "text": "et",
+          "confidence": 0.9999966621509202,
+          "bbox": null
+        },
+        {
+          "text": "signature)",
+          "confidence": 0.9999654936857582,
+          "bbox": null
+        },
+        {
+          "text": "T.V.A.",
+          "confidence": 0.9999484864750954,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999922600342688,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999922600342688,
+          "bbox": null
+        },
+        {
+          "text": "737,20",
+          "confidence": 0.99998205094976,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999998494199159,
+          "bbox": null
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.9999119848487106,
+          "bbox": null
+        },
+        {
+          "text": "T.T.C.",
+          "confidence": 0.9999991854042715,
+          "bbox": null
+        },
+        {
+          "text": "16",
+          "confidence": 0.9999991854042715,
+          "bbox": null
+        },
+        {
+          "text": "423,20",
+          "confidence": 0.9999863934141949,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999976456484551,
+          "bbox": null
+        },
+        {
+          "text": "CME",
+          "confidence": 0.9999896686373901,
+          "bbox": null
+        },
+        {
+          "text": "Sud-Ouest",
+          "confidence": 0.999994850192711,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9998952260097348,
+          "bbox": null
+        },
+        {
+          "text": "14,",
+          "confidence": 0.99999657274835,
+          "bbox": null
+        },
+        {
+          "text": "zone",
+          "confidence": 0.9999939203633587,
+          "bbox": null
+        },
+        {
+          "text": "industrielle",
+          "confidence": 0.9999846222381212,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999327704835214,
+          "bbox": null
+        },
+        {
+          "text": "Calens",
+          "confidence": 0.9999488790793511,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999948740268748,
+          "bbox": null
+        },
+        {
+          "text": "33640",
+          "confidence": 0.9999829932276114,
+          "bbox": null
+        },
+        {
+          "text": "Beautiran",
+          "confidence": 0.9999628799653925,
+          "bbox": null
+        },
+        {
+          "text": "N°",
+          "confidence": 0.9999268715147208,
+          "bbox": null
+        },
+        {
+          "text": "Siret",
+          "confidence": 0.9994202954448381,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9979663803733947,
+          "bbox": null
+        },
+        {
+          "text": "443",
+          "confidence": 0.9999992251411118,
+          "bbox": null
+        },
+        {
+          "text": "104",
+          "confidence": 0.9999999701976798,
+          "bbox": null
+        },
+        {
+          "text": "443",
+          "confidence": 0.9999997317791967,
+          "bbox": null
+        },
+        {
+          "text": "000",
+          "confidence": 0.9999776788039636,
+          "bbox": null
+        },
+        {
+          "text": "17",
+          "confidence": 0.9999976158240618,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999414716651684,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999586360869611,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.9999865891376204,
+          "bbox": null
+        },
+        {
+          "text": "2712Z",
+          "confidence": 0.9991999602576047,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.6788002528691295,
+          "bbox": null
+        },
+        {
+          "text": "N°",
+          "confidence": 0.9999957084842587,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999626888833015,
+          "bbox": null
+        },
+        {
+          "text": "Intracommunautaire",
+          "confidence": 0.8334049842539367,
+          "bbox": null
+        },
+        {
+          "text": "FR",
+          "confidence": 0.9999035689838597,
+          "bbox": null
+        },
+        {
+          "text": "24",
+          "confidence": 0.9999972581955584,
+          "bbox": null
+        },
+        {
+          "text": "443",
+          "confidence": 0.9999996721745714,
+          "bbox": null
+        },
+        {
+          "text": "104",
+          "confidence": 0.999999821186103,
+          "bbox": null
+        },
+        {
+          "text": "443",
+          "confidence": 0.9999995827676589,
+          "bbox": null
+        },
+        {
+          "text": "Tel",
+          "confidence": 0.9763877476349602,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999765163221908,
+          "bbox": null
+        },
+        {
+          "text": "05",
+          "confidence": 0.9999992847448311,
+          "bbox": null
+        },
+        {
+          "text": "56",
+          "confidence": 0.9999974171402484,
+          "bbox": null
+        },
+        {
+          "text": "67",
+          "confidence": 0.9999957879606458,
+          "bbox": null
+        },
+        {
+          "text": "52",
+          "confidence": 0.9999924501498781,
+          "bbox": null
+        },
+        {
+          "text": "99",
+          "confidence": 0.9999954700712786,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9599500503918248,
+          "bbox": null
+        },
+        {
+          "text": "Fax",
+          "confidence": 0.9999688873432871,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999759203026506,
+          "bbox": null
+        },
+        {
+          "text": "05",
+          "confidence": 0.9999996026359368,
+          "bbox": null
+        },
+        {
+          "text": "56",
+          "confidence": 0.999999364217514,
+          "bbox": null
+        },
+        {
+          "text": "67",
+          "confidence": 0.9999919733218906,
+          "bbox": null
+        },
+        {
+          "text": "23",
+          "confidence": 0.9999850196455025,
+          "bbox": null
+        },
+        {
+          "text": "52",
+          "confidence": 0.9999980131835129,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997655702989592,
+          "bbox": null
+        },
+        {
+          "text": "e-mail",
+          "confidence": 0.9998948876221416,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999921322487634,
+          "bbox": null
+        },
+        {
+          "text": "contact@cme-so.fr",
+          "confidence": 0.9996727748686783,
+          "bbox": null
+        },
+        {
+          "text": "Direction",
+          "confidence": 0.9999837877990074,
+          "bbox": null
+        },
+        {
+          "text": "commerciale",
+          "confidence": 0.9999510073827051,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999929667012066,
+          "bbox": null
+        },
+        {
+          "text": "laurent.lacotte@cme-so.fr",
+          "confidence": 0.9995046933061162,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999805692637573,
+          "bbox": null
+        },
+        {
+          "text": "Bureau",
+          "confidence": 0.998827879239005,
+          "bbox": null
+        },
+        {
+          "text": "d'études",
+          "confidence": 0.9999831653220217,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999692449491794,
+          "bbox": null
+        },
+        {
+          "text": "be.cmeso@cme-so.fr",
+          "confidence": 0.9989481266359831,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "![img-0.jpeg](img-0.jpeg)",
+          "type": "image",
+          "bbox": [
+            45,
+            15,
+            139,
+            89
+          ]
+        },
+        {
+          "text": "Beautiran, le 28 Janvier 2025",
+          "type": "header",
+          "bbox": [
+            500,
+            19,
+            131,
+            12
+          ]
+        },
+        {
+          "text": "SFECO",
+          "type": "text",
+          "bbox": [
+            501,
+            64,
+            42,
+            12
+          ]
+        },
+        {
+          "text": "79 Rue Des Joncs Des Bois",
+          "type": "text",
+          "bbox": [
+            502,
+            81,
+            142,
+            11
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "type": "text",
+          "bbox": [
+            502,
+            95,
+            90,
+            12
+          ]
+        },
+        {
+          "text": "Offre de prix n° : 002.143/25",
+          "type": "title",
+          "bbox": [
+            42,
+            156,
+            228,
+            20
+          ]
+        },
+        {
+          "text": "Affaire : A24013 CHEVAL",
+          "type": "text",
+          "bbox": [
+            41,
+            177,
+            130,
+            15
+          ]
+        },
+        {
+          "text": "Devis effectué par Olivier CANTELAUBE",
+          "type": "text",
+          "bbox": [
+            41,
+            194,
+            202,
+            14
+          ]
+        },
+        {
+          "text": "A l'attention de A. DASI",
+          "type": "text",
+          "bbox": [
+            490,
+            177,
+            131,
+            14
+          ]
+        },
+        {
+          "text": "Désignation Prix unitaire Qu. Total H.T. Chiffrage suivant vos descriptifs et schémas Matériel de marque SCHNEIDER TGBT PV Suivant face avant 8 991,00 1 8 991,00 ARMOIRE AC Suivant face avant 1 565,00 3 4 695,00 TRANSPORT SUR SITE INCLUS DANS L'OFFRE L'Entreprise C.M.E. Sud-Ouest Le Client : bon pour accord TOTAL H.T. 13 686,00 € Laurent LACOTTE 14, zone industrielle de Calens 33640 Beautiran (Offre de prix valable 1 mois) (cachet et signature) T.V.A. 20% 2 737,20 € TOTAL T.T.C. 16 423,20 €",
+          "type": "table",
+          "bbox": [
+            40,
+            222,
+            659,
+            567
+          ]
+        },
+        {
+          "text": "CME Sud-Ouest - 14, zone industrielle de Calens - 33640 Beautiran",
+          "type": "footer",
+          "bbox": [
+            282,
+            806,
+            212,
+            10
+          ]
+        },
+        {
+          "text": "N° Siret : 443 104 443 000 17 - Code APE 2712Z - N° TVA Intracommunautaire FR 24 443 104 443",
+          "type": "footer",
+          "bbox": [
+            233,
+            820,
+            310,
+            11
+          ]
+        },
+        {
+          "text": "Tel : 05 56 67 52 99 - Fax : 05 56 67 23 52 - e-mail : contact@cme-so.fr",
+          "type": "footer",
+          "bbox": [
+            275,
+            835,
+            227,
+            10
+          ]
+        },
+        {
+          "text": "Direction commerciale : laurent.lacotte@cme-so.fr - Bureau d'études : be.cmeso@cme-so.fr",
+          "type": "footer",
+          "bbox": [
+            246,
+            850,
+            284,
+            10
+          ]
+        }
+      ],
+      "avg_confidence": 0.993022550809307,
+      "min_confidence": 0.6788002528691295
+    },
+    {
+      "page_number": 2,
+      "word_count": 55,
+      "words": [
+        {
+          "text": "COFFRET",
+          "confidence": 0.9997117625717533,
+          "bbox": null
+        },
+        {
+          "text": "POLYESTER",
+          "confidence": 0.9999519985305192,
+          "bbox": null
+        },
+        {
+          "text": "PLA",
+          "confidence": 0.9999297906597954,
+          "bbox": null
+        },
+        {
+          "text": "1500",
+          "confidence": 0.9999983608751752,
+          "bbox": null
+        },
+        {
+          "text": "X",
+          "confidence": 0.9999922514562126,
+          "bbox": null
+        },
+        {
+          "text": "1250",
+          "confidence": 0.9999997615814848,
+          "bbox": null
+        },
+        {
+          "text": "X",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "420",
+          "confidence": 0.999999582767666,
+          "bbox": null
+        },
+        {
+          "text": "AVEC",
+          "confidence": 0.9999975562157335,
+          "bbox": null
+        },
+        {
+          "text": "PORTE",
+          "confidence": 0.9998945528482672,
+          "bbox": null
+        },
+        {
+          "text": "AVEC",
+          "confidence": 0.999998807908554,
+          "bbox": null
+        },
+        {
+          "text": "SOCLE",
+          "confidence": 0.9992564265844837,
+          "bbox": null
+        },
+        {
+          "text": "H",
+          "confidence": 0.9999866487378297,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999892712787918,
+          "bbox": null
+        },
+        {
+          "text": "200mm",
+          "confidence": 0.9999979933169114,
+          "bbox": null
+        },
+        {
+          "text": "TGBT",
+          "confidence": 0.9998951783426565,
+          "bbox": null
+        },
+        {
+          "text": "PV",
+          "confidence": 0.9999952316511552,
+          "bbox": null
+        },
+        {
+          "text": "Numéro",
+          "confidence": 0.9988160304285373,
+          "bbox": null
+        },
+        {
+          "text": "projet",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9943468795181789,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9943468795181789,
+          "bbox": null
+        },
+        {
+          "text": "client",
+          "confidence": 0.9999923706636761,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999935836292513,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9999935836292513,
+          "bbox": null
+        },
+        {
+          "text": "projet",
+          "confidence": 0.9999762779146959,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9959244613881112,
+          "bbox": null
+        },
+        {
+          "text": "Nouveau",
+          "confidence": 0.9982013924576999,
+          "bbox": null
+        },
+        {
+          "text": "projet",
+          "confidence": 0.997433585143285,
+          "bbox": null
+        },
+        {
+          "text": "PrismaSeT",
+          "confidence": 0.997433585143285,
+          "bbox": null
+        },
+        {
+          "text": "G",
+          "confidence": 0.9996861900388363,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9996861900388363,
+          "bbox": null
+        },
+        {
+          "text": "équipement",
+          "confidence": 0.9992966833548531,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9913560446098477,
+          "bbox": null
+        },
+        {
+          "text": "TGBT",
+          "confidence": 0.9991056522374465,
+          "bbox": null
+        },
+        {
+          "text": "PV",
+          "confidence": 0.999865162109414,
+          "bbox": null
+        },
+        {
+          "text": "In",
+          "confidence": 0.999865162109414,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999917746265009,
+          "bbox": null
+        },
+        {
+          "text": "400",
+          "confidence": 0.9999848308830661,
+          "bbox": null
+        },
+        {
+          "text": "A,",
+          "confidence": 0.9998755216527229,
+          "bbox": null
+        },
+        {
+          "text": "Icc",
+          "confidence": 0.9306057693919348,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998556583877783,
+          "bbox": null
+        },
+        {
+          "text": "20.0",
+          "confidence": 0.9940600527368246,
+          "bbox": null
+        },
+        {
+          "text": "kA,",
+          "confidence": 0.9999527061606219,
+          "bbox": null
+        },
+        {
+          "text": "IP",
+          "confidence": 0.9999561329040609,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999723442092404,
+          "bbox": null
+        },
+        {
+          "text": "30",
+          "confidence": 0.998362792981528,
+          "bbox": null
+        },
+        {
+          "text": "Réserve",
+          "confidence": 0.998362792981528,
+          "bbox": null
+        },
+        {
+          "text": "effective",
+          "confidence": 0.9897739039059925,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "0",
+          "confidence": 0.9999964833395314,
+          "bbox": null
+        },
+        {
+          "text": "%",
+          "confidence": 0.9767197420413871,
+          "bbox": null
+        },
+        {
+          "text": "Folio",
+          "confidence": 0.9767197420413871,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998203838716296,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999971985913039,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9998807287203171,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "COFFRET POLYESTER PLA",
+          "type": "text",
+          "bbox": [
+            49,
+            46,
+            206,
+            15
+          ]
+        },
+        {
+          "text": "1500 X 1250 X 420",
+          "type": "text",
+          "bbox": [
+            50,
+            68,
+            130,
+            15
+          ]
+        },
+        {
+          "text": "AVEC PORTE",
+          "type": "text",
+          "bbox": [
+            50,
+            92,
+            103,
+            14
+          ]
+        },
+        {
+          "text": "AVEC SOCLE H : 200mm",
+          "type": "text",
+          "bbox": [
+            53,
+            115,
+            181,
+            14
+          ]
+        },
+        {
+          "text": "TGBT PV",
+          "type": "text",
+          "bbox": [
+            301,
+            251,
+            70,
+            14
+          ]
+        },
+        {
+          "text": "![img-1.jpeg](img-1.jpeg)",
+          "type": "image",
+          "bbox": [
+            185,
+            315,
+            380,
+            519
+          ]
+        },
+        {
+          "text": "Numéro projet : Nom client : Nom projet : Nouveau projet PrismaSeT G Nom équipement : TGBT PV In : 400 A, Icc : 20.0 kA, IP : 30 Réserve effective : 0 % Folio : 1 /",
+          "type": "table",
+          "bbox": [
+            38,
+            900,
+            641,
+            71
+          ]
+        }
+      ],
+      "avg_confidence": 0.9968690604127335,
+      "min_confidence": 0.9306057693919348
+    },
+    {
+      "page_number": 3,
+      "word_count": 57,
+      "words": [
+        {
+          "text": "COFFRET",
+          "confidence": 0.9999253646198458,
+          "bbox": null
+        },
+        {
+          "text": "POLYESTER",
+          "confidence": 0.999978900712307,
+          "bbox": null
+        },
+        {
+          "text": "PLA",
+          "confidence": 0.99992728761822,
+          "bbox": null
+        },
+        {
+          "text": "QUANTITE",
+          "confidence": 0.999986335834838,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999780659713836,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "750",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "X",
+          "confidence": 0.9999864103261001,
+          "bbox": null
+        },
+        {
+          "text": "750",
+          "confidence": 0.9999987483042663,
+          "bbox": null
+        },
+        {
+          "text": "X",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "420",
+          "confidence": 0.9999999701976798,
+          "bbox": null
+        },
+        {
+          "text": "AVEC",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "PORTE",
+          "confidence": 0.9996530109174561,
+          "bbox": null
+        },
+        {
+          "text": "AVEC",
+          "confidence": 0.9999988675131295,
+          "bbox": null
+        },
+        {
+          "text": "PRESSEETOUPE",
+          "confidence": 0.9956277458987086,
+          "bbox": null
+        },
+        {
+          "text": "EN",
+          "confidence": 0.9999283603516352,
+          "bbox": null
+        },
+        {
+          "text": "BAS",
+          "confidence": 0.9999648344963598,
+          "bbox": null
+        },
+        {
+          "text": "COFFRET",
+          "confidence": 0.9999530513716525,
+          "bbox": null
+        },
+        {
+          "text": "REDUCTION",
+          "confidence": 0.9999957681235729,
+          "bbox": null
+        },
+        {
+          "text": "Numéro",
+          "confidence": 0.9997811642822027,
+          "bbox": null
+        },
+        {
+          "text": "projet",
+          "confidence": 0.9999946356109105,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9997149844153436,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9997149844153436,
+          "bbox": null
+        },
+        {
+          "text": "client",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999976054794337,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9999976054794337,
+          "bbox": null
+        },
+        {
+          "text": "projet",
+          "confidence": 0.9999967813595916,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9974832853092495,
+          "bbox": null
+        },
+        {
+          "text": "Nouveau",
+          "confidence": 0.999292755014804,
+          "bbox": null
+        },
+        {
+          "text": "projet",
+          "confidence": 0.9994272125484311,
+          "bbox": null
+        },
+        {
+          "text": "PrismaSeT",
+          "confidence": 0.9994272125484311,
+          "bbox": null
+        },
+        {
+          "text": "G",
+          "confidence": 0.9999245551008765,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9999245551008765,
+          "bbox": null
+        },
+        {
+          "text": "équipement",
+          "confidence": 0.9994644412463745,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999775891557117,
+          "bbox": null
+        },
+        {
+          "text": "COFFRET",
+          "confidence": 0.9999690667682782,
+          "bbox": null
+        },
+        {
+          "text": "REDUCTION",
+          "confidence": 0.9999037941497937,
+          "bbox": null
+        },
+        {
+          "text": "In",
+          "confidence": 0.9999037941497937,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "400",
+          "confidence": 0.9999971091843656,
+          "bbox": null
+        },
+        {
+          "text": "A,",
+          "confidence": 0.9999214477700237,
+          "bbox": null
+        },
+        {
+          "text": "Icc",
+          "confidence": 0.9395024587545691,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999915362117302,
+          "bbox": null
+        },
+        {
+          "text": "20.0",
+          "confidence": 0.9988123548777795,
+          "bbox": null
+        },
+        {
+          "text": "kA,",
+          "confidence": 0.9999764270315797,
+          "bbox": null
+        },
+        {
+          "text": "IP",
+          "confidence": 0.9999938011552557,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999985694905718,
+          "bbox": null
+        },
+        {
+          "text": "30",
+          "confidence": 0.9997429131261695,
+          "bbox": null
+        },
+        {
+          "text": "Réserve",
+          "confidence": 0.9997429131261695,
+          "bbox": null
+        },
+        {
+          "text": "effective",
+          "confidence": 0.9994719434234494,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "0",
+          "confidence": 0.9999995827676731,
+          "bbox": null
+        },
+        {
+          "text": "%",
+          "confidence": 0.9889282465121684,
+          "bbox": null
+        },
+        {
+          "text": "Folio",
+          "confidence": 0.9889282465121684,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999648344963598,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999991059312681,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.999982763363072,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "COFFRET POLYESTER PLA",
+          "type": "text",
+          "bbox": [
+            47,
+            54,
+            292,
+            19
+          ]
+        },
+        {
+          "text": "QUANTITE : 3",
+          "type": "text",
+          "bbox": [
+            502,
+            61,
+            150,
+            21
+          ]
+        },
+        {
+          "text": "750 X 750 X 420",
+          "type": "text",
+          "bbox": [
+            46,
+            86,
+            164,
+            18
+          ]
+        },
+        {
+          "text": "AVEC PORTE",
+          "type": "text",
+          "bbox": [
+            48,
+            118,
+            146,
+            19
+          ]
+        },
+        {
+          "text": "AVEC PRESSEETOUPE EN BAS",
+          "type": "text",
+          "bbox": [
+            47,
+            156,
+            327,
+            18
+          ]
+        },
+        {
+          "text": "COFFRET REDUCTION",
+          "type": "text",
+          "bbox": [
+            211,
+            262,
+            244,
+            18
+          ]
+        },
+        {
+          "text": "![img-2.jpeg](img-2.jpeg)",
+          "type": "image",
+          "bbox": [
+            228,
+            362,
+            318,
+            338
+          ]
+        },
+        {
+          "text": "Numéro projet : Nom client : Nom projet : Nouveau projet PrismaSeT G Nom équipement : COFFRET REDUCTION In : 400 A, Icc : 20.0 kA, IP : 30 Réserve effective : 0 % Folio : 1 /",
+          "type": "table",
+          "bbox": [
+            46,
+            855,
+            628,
+            106
+          ]
+        }
+      ],
+      "avg_confidence": 0.9983113473553207,
+      "min_confidence": 0.9395024587545691
+    }
+  ]
+}

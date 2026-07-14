@@ -1,0 +1,4200 @@
+{
+  "engine": "paddleocr",
+  "document": "devis_6.pdf",
+  "duration_seconds": 177.403,
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 80,
+      "words": [
+        {
+          "text": "GREEN",
+          "confidence": 0.9999856948852539,
+          "bbox": [
+            921,
+            77,
+            1136,
+            130
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9999974370002747,
+          "bbox": [
+            110,
+            106,
+            221,
+            153
+          ]
+        },
+        {
+          "text": "PCWER",
+          "confidence": 0.8838712573051453,
+          "bbox": [
+            921,
+            127,
+            1140,
+            179
+          ]
+        },
+        {
+          "text": "N°SQ 09408",
+          "confidence": 0.983898937702179,
+          "bbox": [
+            112,
+            165,
+            299,
+            196
+          ]
+        },
+        {
+          "text": "Adresse facturation",
+          "confidence": 0.9999869465827942,
+          "bbox": [
+            112,
+            246,
+            273,
+            267
+          ]
+        },
+        {
+          "text": "Adresse livraison",
+          "confidence": 0.9999431371688843,
+          "bbox": [
+            999,
+            246,
+            1137,
+            267
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9998013973236084,
+          "bbox": [
+            111,
+            282,
+            269,
+            302
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "confidence": 0.9998055100440979,
+          "bbox": [
+            980,
+            282,
+            1138,
+            302
+          ]
+        },
+        {
+          "text": "79 rue des Joncs des Bois",
+          "confidence": 0.9997755289077759,
+          "bbox": [
+            112,
+            313,
+            322,
+            330
+          ]
+        },
+        {
+          "text": "79 rue des Joncs des Bois",
+          "confidence": 0.9998229146003723,
+          "bbox": [
+            926,
+            313,
+            1137,
+            330
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "confidence": 0.9999368190765381,
+          "bbox": [
+            111,
+            340,
+            252,
+            360
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "confidence": 0.9998905658721924,
+          "bbox": [
+            996,
+            340,
+            1138,
+            359
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999949336051941,
+          "bbox": [
+            110,
+            368,
+            172,
+            390
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999940991401672,
+          "bbox": [
+            1076,
+            368,
+            1139,
+            390
+          ]
+        },
+        {
+          "text": "Hubert BONILLO (Commercial et Logistique)",
+          "confidence": 0.9904952645301819,
+          "bbox": [
+            112,
+            399,
+            478,
+            419
+          ]
+        },
+        {
+          "text": "Hubert BONILLO (Commercial et Logistique)",
+          "confidence": 0.9972063302993774,
+          "bbox": [
+            770,
+            399,
+            1137,
+            419
+          ]
+        },
+        {
+          "text": "f.cavallier@sfeco.fr",
+          "confidence": 0.9999943971633911,
+          "bbox": [
+            972,
+            482,
+            1138,
+            502
+          ]
+        },
+        {
+          "text": "Vos références",
+          "confidence": 0.9999614953994751,
+          "bbox": [
+            110,
+            553,
+            237,
+            576
+          ]
+        },
+        {
+          "text": "Date livraison demandée",
+          "confidence": 0.9999808669090271,
+          "bbox": [
+            903,
+            556,
+            1108,
+            573
+          ]
+        },
+        {
+          "text": "24 février 2025",
+          "confidence": 0.9999794363975525,
+          "bbox": [
+            902,
+            589,
+            1029,
+            609
+          ]
+        },
+        {
+          "text": "Date document",
+          "confidence": 0.9999929666519165,
+          "bbox": [
+            112,
+            623,
+            242,
+            642
+          ]
+        },
+        {
+          "text": "Valide jusqu'au",
+          "confidence": 0.999870240688324,
+          "bbox": [
+            374,
+            622,
+            503,
+            645
+          ]
+        },
+        {
+          "text": "Vendeur",
+          "confidence": 0.9999933242797852,
+          "bbox": [
+            637,
+            622,
+            715,
+            644
+          ]
+        },
+        {
+          "text": "Conditions de livraison",
+          "confidence": 0.9999682307243347,
+          "bbox": [
+            903,
+            625,
+            1089,
+            641
+          ]
+        },
+        {
+          "text": "18 février 2025",
+          "confidence": 0.999951958656311,
+          "bbox": [
+            112,
+            656,
+            238,
+            676
+          ]
+        },
+        {
+          "text": "18 mars 2025",
+          "confidence": 0.9999628067016602,
+          "bbox": [
+            375,
+            656,
+            489,
+            677
+          ]
+        },
+        {
+          "text": "Thomas DUBIEF",
+          "confidence": 0.9999759197235107,
+          "bbox": [
+            638,
+            656,
+            771,
+            676
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.8445106744766235,
+          "bbox": [
+            114,
+            738,
+            146,
+            764
+          ]
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9999967813491821,
+          "bbox": [
+            285,
+            737,
+            395,
+            767
+          ]
+        },
+        {
+          "text": "Prix unitaire",
+          "confidence": 0.9999936819076538,
+          "bbox": [
+            744,
+            729,
+            856,
+            753
+          ]
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.999994158744812,
+          "bbox": [
+            640,
+            739,
+            723,
+            763
+          ]
+        },
+        {
+          "text": "% TVA",
+          "confidence": 0.9997928738594055,
+          "bbox": [
+            924,
+            738,
+            991,
+            763
+          ]
+        },
+        {
+          "text": "Montant HT",
+          "confidence": 0.999980628490448,
+          "bbox": [
+            1022,
+            739,
+            1135,
+            763
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.9998641014099121,
+          "bbox": [
+            822,
+            749,
+            857,
+            773
+          ]
+        },
+        {
+          "text": "01075485-058",
+          "confidence": 0.9999971985816956,
+          "bbox": [
+            117,
+            781,
+            239,
+            801
+          ]
+        },
+        {
+          "text": "SUN2000-50KTL-M3",
+          "confidence": 0.9998993873596191,
+          "bbox": [
+            287,
+            781,
+            455,
+            801
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.999936580657959,
+          "bbox": [
+            718,
+            780,
+            737,
+            804
+          ]
+        },
+        {
+          "text": "2 084,00",
+          "confidence": 0.994629979133606,
+          "bbox": [
+            779,
+            780,
+            855,
+            802
+          ]
+        },
+        {
+          "text": "20",
+          "confidence": 0.9999994039535522,
+          "bbox": [
+            963,
+            778,
+            994,
+            804
+          ]
+        },
+        {
+          "text": "2 084,00",
+          "confidence": 0.9958751201629639,
+          "bbox": [
+            1058,
+            780,
+            1137,
+            803
+          ]
+        },
+        {
+          "text": "Code douanier : 8504408690",
+          "confidence": 0.9979906678199768,
+          "bbox": [
+            288,
+            814,
+            526,
+            834
+          ]
+        },
+        {
+          "text": "01075485-058",
+          "confidence": 0.9999982714653015,
+          "bbox": [
+            117,
+            849,
+            238,
+            866
+          ]
+        },
+        {
+          "text": "SUN2000-50KTL-M3",
+          "confidence": 0.999891996383667,
+          "bbox": [
+            287,
+            848,
+            456,
+            868
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999455213546753,
+          "bbox": [
+            716,
+            846,
+            737,
+            870
+          ]
+        },
+        {
+          "text": "-500,00",
+          "confidence": 0.9999195337295532,
+          "bbox": [
+            787,
+            846,
+            856,
+            871
+          ]
+        },
+        {
+          "text": "20",
+          "confidence": 0.9999990463256836,
+          "bbox": [
+            962,
+            845,
+            994,
+            871
+          ]
+        },
+        {
+          "text": "-500,00",
+          "confidence": 0.9999169707298279,
+          "bbox": [
+            1066,
+            846,
+            1137,
+            871
+          ]
+        },
+        {
+          "text": "Code douanier : 8504408690",
+          "confidence": 0.9979217052459717,
+          "bbox": [
+            288,
+            881,
+            526,
+            901
+          ]
+        },
+        {
+          "text": "DDP",
+          "confidence": 0.9999933242797852,
+          "bbox": [
+            115,
+            912,
+            158,
+            935
+          ]
+        },
+        {
+          "text": "Transport DDP",
+          "confidence": 0.9979181885719299,
+          "bbox": [
+            287,
+            914,
+            408,
+            934
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999383687973022,
+          "bbox": [
+            718,
+            913,
+            735,
+            935
+          ]
+        },
+        {
+          "text": "88,00",
+          "confidence": 0.9997041821479797,
+          "bbox": [
+            802,
+            912,
+            857,
+            937
+          ]
+        },
+        {
+          "text": "20",
+          "confidence": 0.9999992251396179,
+          "bbox": [
+            962,
+            912,
+            994,
+            936
+          ]
+        },
+        {
+          "text": "88,00",
+          "confidence": 0.9936578869819641,
+          "bbox": [
+            1081,
+            912,
+            1138,
+            937
+          ]
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999936819076538,
+          "bbox": [
+            885,
+            946,
+            977,
+            970
+          ]
+        },
+        {
+          "text": "1 672,00",
+          "confidence": 0.9988105297088623,
+          "bbox": [
+            1043,
+            947,
+            1120,
+            969
+          ]
+        },
+        {
+          "text": "TVA 20%",
+          "confidence": 0.9998034238815308,
+          "bbox": [
+            896,
+            976,
+            977,
+            1000
+          ]
+        },
+        {
+          "text": "334,40",
+          "confidence": 0.999988317489624,
+          "bbox": [
+            1056,
+            976,
+            1122,
+            1001
+          ]
+        },
+        {
+          "text": "Total €",
+          "confidence": 0.9998831152915955,
+          "bbox": [
+            873,
+            1010,
+            941,
+            1035
+          ]
+        },
+        {
+          "text": "2 006,40",
+          "confidence": 0.9963855743408203,
+          "bbox": [
+            1057,
+            1010,
+            1136,
+            1035
+          ]
+        },
+        {
+          "text": "Conditions de règlement : 30 JOURS DATE FACTURE / 30 DAYS INVOICE DATE",
+          "confidence": 0.9964107871055603,
+          "bbox": [
+            113,
+            1071,
+            802,
+            1091
+          ]
+        },
+        {
+          "text": "Bon pour accord (tampon + nom et signature)",
+          "confidence": 0.999964714050293,
+          "bbox": [
+            590,
+            1144,
+            967,
+            1164
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.9999164938926697,
+          "bbox": [
+            587,
+            1166,
+            612,
+            1189
+          ]
+        },
+        {
+          "text": "En signant ce devis vous reconnaissez avoir pris connaissance de nos conditions générales de vente et vous déclarez les accepter.",
+          "confidence": 0.9935829043388367,
+          "bbox": [
+            112,
+            1339,
+            630,
+            1352
+          ]
+        },
+        {
+          "text": "Nos CGVs sont attachées au devis, consultables et téléchargeables sur notre site internet : greenpower-technologie.com",
+          "confidence": 0.986732006072998,
+          "bbox": [
+            111,
+            1352,
+            593,
+            1365
+          ]
+        },
+        {
+          "text": "Art 4.4 de nos CGV : Toute somme non payée à l'échéance donnera lieu au paiement par le Client à des pénalités égales à trois fois le taux d'intérêt légal. Ces pénalités sont exigibles de plein droit, et seront d'office portées au débit du",
+          "confidence": 0.9886312484741211,
+          "bbox": [
+            113,
+            1376,
+            1052,
+            1386
+          ]
+        },
+        {
+          "text": "compte du Client . En cas de paiement échelonné accepté par GPT, le non-paiement d'une seule échéance entraînera l'exigibilité immédiate de la totalité de la dette, sans mise en demeure préalable. Toute facture recouvrée par le service",
+          "confidence": 0.9816568493843079,
+          "bbox": [
+            113,
+            1388,
+            1058,
+            1398
+          ]
+        },
+        {
+          "text": "contentieux sera majorée d'une indemnité forfaitaire fixée à trois fois le montant de la facture due.",
+          "confidence": 0.991187572479248,
+          "bbox": [
+            111,
+            1398,
+            509,
+            1411
+          ]
+        },
+        {
+          "text": "Seront également mis à la charge du Client l'ensemble des frais occasionnés par le recouvrement de la créance.",
+          "confidence": 0.9905000925064087,
+          "bbox": [
+            113,
+            1410,
+            558,
+            1420
+          ]
+        },
+        {
+          "text": "Pas d'escompte pour paiement anticipé",
+          "confidence": 0.999717116355896,
+          "bbox": [
+            112,
+            1432,
+            270,
+            1445
+          ]
+        },
+        {
+          "text": "Dans le cadre des livraisons intracommunautaires de biens et services, il y a exonération de TVA, Art 262 Ter-1 du CGI",
+          "confidence": 0.9956244826316833,
+          "bbox": [
+            112,
+            1444,
+            598,
+            1457
+          ]
+        },
+        {
+          "text": "Dans le cadre des livraisons dans les départements d'outre-mer (Guadeloupe, Guyane, Martinique, Mayotte ou Réunion), il y a exonération de TVA, Art. 294 du CGI",
+          "confidence": 0.9986585974693298,
+          "bbox": [
+            112,
+            1456,
+            777,
+            1469
+          ]
+        },
+        {
+          "text": "Dans le cadre d'exportations de France hors UE, il y a exonération de TVA, Art. 262-1 du CGI",
+          "confidence": 0.993228554725647,
+          "bbox": [
+            112,
+            1467,
+            495,
+            1479
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE",
+          "confidence": 0.9999014735221863,
+          "bbox": [
+            113,
+            1505,
+            359,
+            1522
+          ]
+        },
+        {
+          "text": "Parc d'Activité - ECOPARC La Gravelle Sud",
+          "confidence": 0.9989919662475586,
+          "bbox": [
+            739,
+            1505,
+            1079,
+            1522
+          ]
+        },
+        {
+          "text": "SAS au capital de 5 000 000€ - APE 4669B",
+          "confidence": 0.9991857409477234,
+          "bbox": [
+            113,
+            1530,
+            450,
+            1547
+          ]
+        },
+        {
+          "text": "53410 LA GRAVELLE",
+          "confidence": 0.9848825931549072,
+          "bbox": [
+            914,
+            1530,
+            1079,
+            1547
+          ]
+        },
+        {
+          "text": "SIRET 51540209700015 - FR16515402097 - RCS LAVAL",
+          "confidence": 0.9872711300849915,
+          "bbox": [
+            112,
+            1555,
+            553,
+            1572
+          ]
+        },
+        {
+          "text": "Tél : 02 43 91 21 33",
+          "confidence": 0.9913937449455261,
+          "bbox": [
+            913,
+            1553,
+            1080,
+            1573
+          ]
+        },
+        {
+          "text": "Page 1/2",
+          "confidence": 0.9977308511734009,
+          "bbox": [
+            991,
+            1578,
+            1081,
+            1599
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 338,
+      "words": [
+        {
+          "text": "CONDITION GENERALES DE VENTE",
+          "confidence": 0.9993053674697876,
+          "bbox": [
+            496,
+            99,
+            695,
+            111
+          ]
+        },
+        {
+          "text": "ARTICLE 1 - CHAMP D'APPLICATION",
+          "confidence": 0.994161069393158,
+          "bbox": [
+            113,
+            115,
+            262,
+            125
+          ]
+        },
+        {
+          "text": "produits. A la demande du client, et sous réserve de l'acceptation expresse et",
+          "confidence": 0.9998226761817932,
+          "bbox": [
+            440,
+            115,
+            754,
+            125
+          ]
+        },
+        {
+          "text": "9.2 Les parties ont la possibilité de communiquer sur le partenariat en interne",
+          "confidence": 0.9880120754241943,
+          "bbox": [
+            764,
+            115,
+            1079,
+            125
+          ]
+        },
+        {
+          "text": "1.1 Les présentes Conditions Générales de Vente (CGV) concernent la vente",
+          "confidence": 0.9928930401802063,
+          "bbox": [
+            113,
+            128,
+            427,
+            138
+          ]
+        },
+        {
+          "text": "écrite de GREEN POWER TECHNOLOGIE, le transport des produits peut être",
+          "confidence": 0.9969757199287415,
+          "bbox": [
+            440,
+            128,
+            753,
+            138
+          ]
+        },
+        {
+          "text": "et en externe, sous réserve d'une validation systématique expresse et écrite",
+          "confidence": 0.999618411064148,
+          "bbox": [
+            764,
+            128,
+            1079,
+            138
+          ]
+        },
+        {
+          "text": "et la distribution de produits destinés à la production d'énergie par",
+          "confidence": 0.9997694492340088,
+          "bbox": [
+            113,
+            140,
+            427,
+            150
+          ]
+        },
+        {
+          "text": "effectué par GREEN POWER TECHNOLOGIE à ses propres risques et frais",
+          "confidence": 0.994957447052002,
+          "bbox": [
+            439,
+            140,
+            734,
+            150
+          ]
+        },
+        {
+          "text": "de la partie concernée. Toute utilisation non conforme aux principes établis",
+          "confidence": 0.9998660087585449,
+          "bbox": [
+            765,
+            140,
+            1079,
+            150
+          ]
+        },
+        {
+          "text": "technologie photovoltaique (onduleurs), par la société GREEN POWER",
+          "confidence": 0.9951955676078796,
+          "bbox": [
+            113,
+            152,
+            427,
+            162
+          ]
+        },
+        {
+          "text": "5.3 Réception : la réception des produits par le client fait l'objet d'un contrôle",
+          "confidence": 0.9912741780281067,
+          "bbox": [
+            439,
+            152,
+            753,
+            162
+          ]
+        },
+        {
+          "text": "par le s CGV fera l'objet de poursuites de la part de GREEN POWER",
+          "confidence": 0.9939631819725037,
+          "bbox": [
+            765,
+            152,
+            1079,
+            162
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE à ses clients, sociétés étrangères.",
+          "confidence": 0.990431010723114,
+          "bbox": [
+            114,
+            166,
+            309,
+            173
+          ]
+        },
+        {
+          "text": "visuel de conformité de la commande. Le client s'engage à vérifier la",
+          "confidence": 0.9889578223228455,
+          "bbox": [
+            440,
+            166,
+            752,
+            173
+          ]
+        },
+        {
+          "text": "TECHNOLOGlE. Le client s'engage à protéger l'image de margue de GREEN",
+          "confidence": 0.9761113524436951,
+          "bbox": [
+            767,
+            166,
+            1078,
+            173
+          ]
+        },
+        {
+          "text": "1.2 Les CGV prévalent sur tout accord général ou spécial relatif au chat inclus",
+          "confidence": 0.9952085614204407,
+          "bbox": [
+            113,
+            177,
+            427,
+            187
+          ]
+        },
+        {
+          "text": "conformité de la commande (nombre de produits livrés, état de l'emballage),",
+          "confidence": 0.9987407326698303,
+          "bbox": [
+            439,
+            177,
+            752,
+            187
+          ]
+        },
+        {
+          "text": "POWER TECHNOLOGIE. En toutes circonstances, le client n'est pas autorisé à",
+          "confidence": 0.9845377206802368,
+          "bbox": [
+            765,
+            177,
+            1079,
+            187
+          ]
+        },
+        {
+          "text": "dans les différents documents du client.",
+          "confidence": 0.9840580224990845,
+          "bbox": [
+            113,
+            189,
+            276,
+            199
+          ]
+        },
+        {
+          "text": "et à signaler par écrit tout dommage au transporteur. Le client peut",
+          "confidence": 0.9912176728248596,
+          "bbox": [
+            440,
+            191,
+            752,
+            198
+          ]
+        },
+        {
+          "text": "dénigrer les marques et l'image de GREEN POWER TECHNOLOGIE.",
+          "confidence": 0.987524688243866,
+          "bbox": [
+            765,
+            189,
+            1034,
+            199
+          ]
+        },
+        {
+          "text": "1.3 Les CGV peuvent étre complétées par des conditions particulières (CP). En",
+          "confidence": 0.9883949160575867,
+          "bbox": [
+            114,
+            203,
+            426,
+            210
+          ]
+        },
+        {
+          "text": "également détailler les dommages et prendre des photos de la livraison à",
+          "confidence": 0.9998124241828918,
+          "bbox": [
+            440,
+            202,
+            753,
+            211
+          ]
+        },
+        {
+          "text": "ARTICLE 10 - CONFIDENTIALITÉ",
+          "confidence": 0.9987907409667969,
+          "bbox": [
+            764,
+            201,
+            894,
+            210
+          ]
+        },
+        {
+          "text": "cas de contradiction entre le s CGV et les CP, ces dernières prévalent.",
+          "confidence": 0.9902121424674988,
+          "bbox": [
+            113,
+            213,
+            394,
+            223
+          ]
+        },
+        {
+          "text": "I'attention de GREEN POWER TECHNOLOGIE. Tout produit n'ayant pas fait",
+          "confidence": 0.9718489646911621,
+          "bbox": [
+            439,
+            213,
+            753,
+            223
+          ]
+        },
+        {
+          "text": "10.1 Le terme \"information confidentielle\" désigne toute information, quelle",
+          "confidence": 0.9942938089370728,
+          "bbox": [
+            765,
+            213,
+            1079,
+            223
+          ]
+        },
+        {
+          "text": "1.4 Le fait de passer une commande auprès de GREEN POWER TECHNOLOGIE",
+          "confidence": 0.9938479065895081,
+          "bbox": [
+            113,
+            225,
+            427,
+            235
+          ]
+        },
+        {
+          "text": "l'objet de réserves par lettre recommandée avec accusé de réception dans les",
+          "confidence": 0.9997270703315735,
+          "bbox": [
+            440,
+            225,
+            752,
+            235
+          ]
+        },
+        {
+          "text": "que soit sa nature, son objet, sa forme, son support et/ou son contenu, telle",
+          "confidence": 0.9950680136680603,
+          "bbox": [
+            765,
+            225,
+            1079,
+            235
+          ]
+        },
+        {
+          "text": "implique l'acceptation des présentes CGV.",
+          "confidence": 0.995610237121582,
+          "bbox": [
+            113,
+            237,
+            285,
+            247
+          ]
+        },
+        {
+          "text": "trois iours de sa réception auprès du transporteur, conformément à l'article",
+          "confidence": 0.9935609102249146,
+          "bbox": [
+            441,
+            239,
+            751,
+            246
+          ]
+        },
+        {
+          "text": "que notamment toute donnée stratégigue ou financière. tout savoir-faire",
+          "confidence": 0.9883880615234375,
+          "bbox": [
+            767,
+            239,
+            1078,
+            246
+          ]
+        },
+        {
+          "text": "1.5 Tout autre document distribué par GREEN POWER TECHNOLOGIE, te Is",
+          "confidence": 0.9976243376731873,
+          "bbox": [
+            113,
+            250,
+            427,
+            260
+          ]
+        },
+        {
+          "text": "L. 133-3 du Code de commerce, et dont une copie sera adressée",
+          "confidence": 0.9969926476478577,
+          "bbox": [
+            440,
+            250,
+            752,
+            260
+          ]
+        },
+        {
+          "text": "spécifications, dessins, procédés, plans, logiciels, bases de données, éléments",
+          "confidence": 0.9813450574874878,
+          "bbox": [
+            767,
+            251,
+            1078,
+            258
+          ]
+        },
+        {
+          "text": "que catalogues, prospectus, publicités, notices, études réalisées à titre",
+          "confidence": 0.992889940738678,
+          "bbox": [
+            113,
+            262,
+            427,
+            272
+          ]
+        },
+        {
+          "text": "simultanément à GREEN POWER TECHNOLOGIE, sera considéré comme",
+          "confidence": 0.9858139753341675,
+          "bbox": [
+            440,
+            262,
+            753,
+            272
+          ]
+        },
+        {
+          "text": "techniques ou commerciaux, relatifs au contrat, aux produits et/ou aux",
+          "confidence": 0.9936239123344421,
+          "bbox": [
+            765,
+            262,
+            1079,
+            272
+          ]
+        },
+        {
+          "text": "gratuit, n'a gu'une valeur informative et indicative, Il n'a aucune valeur",
+          "confidence": 0.9782419204711914,
+          "bbox": [
+            114,
+            276,
+            426,
+            283
+          ]
+        },
+        {
+          "text": "accepté par le client, En cas de retour des marchandises pour des raisons non",
+          "confidence": 0.9929333925247192,
+          "bbox": [
+            440,
+            276,
+            752,
+            283
+          ]
+        },
+        {
+          "text": "marchandises, (i) communiguée par un article à l'autre partie par quelque",
+          "confidence": 0.9835572838783264,
+          "bbox": [
+            767,
+            276,
+            1078,
+            283
+          ]
+        },
+        {
+          "text": "contractuelle.",
+          "confidence": 0.9999862313270569,
+          "bbox": [
+            112,
+            286,
+            170,
+            296
+          ]
+        },
+        {
+          "text": "mputables à GREEN POWER TECHNOLOGIE, celles-ci vovagent aux risques et",
+          "confidence": 0.9800854325294495,
+          "bbox": [
+            441,
+            288,
+            752,
+            295
+          ]
+        },
+        {
+          "text": "moven que ce soit, et/ou (ii) dont les parties ont eu connaissance au cours de",
+          "confidence": 0.9861751198768616,
+          "bbox": [
+            767,
+            288,
+            1078,
+            295
+          ]
+        },
+        {
+          "text": "ARTICLE 2 - COMMANDES",
+          "confidence": 0.9933494329452515,
+          "bbox": [
+            113,
+            299,
+            221,
+            309
+          ]
+        },
+        {
+          "text": "périls du client jusqu'à leur arrivée au dépôt de GREEN POWER",
+          "confidence": 0.986640453338623,
+          "bbox": [
+            440,
+            299,
+            753,
+            309
+          ]
+        },
+        {
+          "text": "discussions antérieures ou postérieures à la date d'entrée en vigueur du",
+          "confidence": 0.9963197708129883,
+          "bbox": [
+            765,
+            299,
+            1079,
+            309
+          ]
+        },
+        {
+          "text": "2.1. Passation de commandes : toutes les commandes doivent être passées",
+          "confidence": 0.9904873371124268,
+          "bbox": [
+            114,
+            313,
+            426,
+            320
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE. La réception sans réserve des produits par le client couvre",
+          "confidence": 0.99502032995224,
+          "bbox": [
+            440,
+            311,
+            752,
+            321
+          ]
+        },
+        {
+          "text": "contrat, directement ou indirectement, oralement ou par tout autre moven",
+          "confidence": 0.9923697710037231,
+          "bbox": [
+            767,
+            313,
+            1078,
+            320
+          ]
+        },
+        {
+          "text": "par écrit. Le bon de commande, pour être valable, doit comporter les",
+          "confidence": 0.9950063228607178,
+          "bbox": [
+            113,
+            324,
+            427,
+            334
+          ]
+        },
+        {
+          "text": "tout vice apparent et tout produit manguant par rapport à la commande",
+          "confidence": 0.9845199584960938,
+          "bbox": [
+            440,
+            325,
+            751,
+            332
+          ]
+        },
+        {
+          "text": "de transmission.",
+          "confidence": 0.9917978048324585,
+          "bbox": [
+            767,
+            325,
+            833,
+            332
+          ]
+        },
+        {
+          "text": "informations suivantes : identité complète du client, produits commandés,",
+          "confidence": 0.9989833235740662,
+          "bbox": [
+            113,
+            336,
+            427,
+            346
+          ]
+        },
+        {
+          "text": "Toute réclamation relative à la détérioration ou au manquant des produits",
+          "confidence": 0.9929645657539368,
+          "bbox": [
+            439,
+            336,
+            752,
+            346
+          ]
+        },
+        {
+          "text": "10.2 Toute information tombée dans le domaine public (autrement que,",
+          "confidence": 0.9934483766555786,
+          "bbox": [
+            765,
+            336,
+            1079,
+            346
+          ]
+        },
+        {
+          "text": "prix d'achat négocié, volume, date et lieu de livraison souhaités. Toute",
+          "confidence": 0.9930951595306396,
+          "bbox": [
+            113,
+            348,
+            427,
+            357
+          ]
+        },
+        {
+          "text": "livrés, doit être formulée par écrit, quelle gu'en soit la forme, auprès de",
+          "confidence": 0.9826343655586243,
+          "bbox": [
+            439,
+            348,
+            753,
+            357
+          ]
+        },
+        {
+          "text": "directement ou indirectement, à la suite d'une infraction commise par cette",
+          "confidence": 0.9996437430381775,
+          "bbox": [
+            765,
+            348,
+            1079,
+            357
+          ]
+        },
+        {
+          "text": "commande ne devient définitive gu'après acceptation par GREEN POWER",
+          "confidence": 0.9900820255279541,
+          "bbox": [
+            113,
+            359,
+            427,
+            369
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE, dans les dix jours de la réception des",
+          "confidence": 0.991587221622467,
+          "bbox": [
+            440,
+            359,
+            753,
+            369
+          ]
+        },
+        {
+          "text": "autre partie) ou divulguée ou exigée par une autorité réglementaire ou",
+          "confidence": 0.9989916086196899,
+          "bbox": [
+            765,
+            360,
+            1079,
+            370
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE. Dès réception de la commande. GREEN POWER",
+          "confidence": 0.9672366976737976,
+          "bbox": [
+            114,
+            373,
+            426,
+            380
+          ]
+        },
+        {
+          "text": "marchandises. Il appartient au client d'apporter la preuve des désordres",
+          "confidence": 0.998071014881134,
+          "bbox": [
+            439,
+            372,
+            753,
+            382
+          ]
+        },
+        {
+          "text": "judiciaire n'est pas définie dans le contrat comme une information",
+          "confidence": 0.9933080077171326,
+          "bbox": [
+            764,
+            372,
+            1079,
+            382
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE en accuse réception, dans un délai d'une semaine. L'accusé de",
+          "confidence": 0.9993025660514832,
+          "bbox": [
+            113,
+            384,
+            427,
+            394
+          ]
+        },
+        {
+          "text": "constatés. En aucun cas la réclamation du client ne suspend son obligation de",
+          "confidence": 0.9919456243515015,
+          "bbox": [
+            440,
+            384,
+            753,
+            394
+          ]
+        },
+        {
+          "text": "confidentielle.",
+          "confidence": 0.9997879266738892,
+          "bbox": [
+            765,
+            384,
+            825,
+            394
+          ]
+        },
+        {
+          "text": "réception vaut acceptation ferme et définitive et formalisation de la",
+          "confidence": 0.9999102354049683,
+          "bbox": [
+            113,
+            396,
+            428,
+            406
+          ]
+        },
+        {
+          "text": "paver le prix. Aucun retour de marchandise ne sera possible. sans l'accord",
+          "confidence": 0.9804695844650269,
+          "bbox": [
+            440,
+            398,
+            752,
+            405
+          ]
+        },
+        {
+          "text": "10.3 La partie qui reçoit les informations confidentielles s'engage :",
+          "confidence": 0.9937303066253662,
+          "bbox": [
+            765,
+            396,
+            1037,
+            406
+          ]
+        },
+        {
+          "text": "commande. Si le client ne recoit pas d'accusé de réception dans un délai d'une",
+          "confidence": 0.9917012453079224,
+          "bbox": [
+            114,
+            410,
+            426,
+            417
+          ]
+        },
+        {
+          "text": "préalable et écrit, quel qu'en soit le support, de GREEN POWER",
+          "confidence": 0.9869955778121948,
+          "bbox": [
+            439,
+            407,
+            753,
+            419
+          ]
+        },
+        {
+          "text": "Ne pas révéler d'informations confidentielles à des tiers et garder secrètes les",
+          "confidence": 0.9990863800048828,
+          "bbox": [
+            767,
+            410,
+            1078,
+            417
+          ]
+        },
+        {
+          "text": "semaine, la commande n'est pas acceptée par GREEN POWER TECHNOLOGIE",
+          "confidence": 0.9990809559822083,
+          "bbox": [
+            112,
+            421,
+            424,
+            431
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE. Le transport des produits non conformes est effectué par le",
+          "confidence": 0.9997442960739136,
+          "bbox": [
+            440,
+            421,
+            753,
+            431
+          ]
+        },
+        {
+          "text": "informations confidentielles de toute nature échangées, collectées ou nées",
+          "confidence": 0.9935277104377747,
+          "bbox": [
+            765,
+            421,
+            1079,
+            431
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE se réserve le droit de refuser une commande",
+          "confidence": 0.9890074133872986,
+          "bbox": [
+            113,
+            433,
+            427,
+            443
+          ]
+        },
+        {
+          "text": "seul transporteur choisi par GREEN POWER TECHNOLOGIE et à ses frais si les",
+          "confidence": 0.9982500076293945,
+          "bbox": [
+            439,
+            433,
+            753,
+            443
+          ]
+        },
+        {
+          "text": "au cours du présent accord :",
+          "confidence": 0.9843572378158569,
+          "bbox": [
+            767,
+            435,
+            882,
+            442
+          ]
+        },
+        {
+          "text": "d'un client dont la solvabilité n'est pas établie, une commande anormalement",
+          "confidence": 0.992786705493927,
+          "bbox": [
+            114,
+            447,
+            426,
+            454
+          ]
+        },
+        {
+          "text": "désordres sont validés par lui. Les produits endommagés ne peuvent être que",
+          "confidence": 0.9989449977874756,
+          "bbox": [
+            440,
+            446,
+            753,
+            456
+          ]
+        },
+        {
+          "text": "A n'utiliser les informations confidentielles que pour l'exécution des",
+          "confidence": 0.9735653400421143,
+          "bbox": [
+            767,
+            447,
+            1078,
+            454
+          ]
+        },
+        {
+          "text": "élevée juste avant un changement de prix, ou une commande que GREEN",
+          "confidence": 0.9936150908470154,
+          "bbox": [
+            113,
+            458,
+            427,
+            468
+          ]
+        },
+        {
+          "text": "remplacés. Le client ne pourra prétendre à aucun dédommagement ni à la",
+          "confidence": 0.9970695376396179,
+          "bbox": [
+            439,
+            458,
+            752,
+            468
+          ]
+        },
+        {
+          "text": "obligations établies dans le contrat et à ne les utiliser pour aucune autre",
+          "confidence": 0.9934371113777161,
+          "bbox": [
+            765,
+            458,
+            1079,
+            468
+          ]
+        },
+        {
+          "text": "POWER TECHNOLOGIE n'est pas en mesure d'honorer.",
+          "confidence": 0.9914627075195312,
+          "bbox": [
+            113,
+            470,
+            335,
+            480
+          ]
+        },
+        {
+          "text": "résolution de la commande.",
+          "confidence": 0.9887564182281494,
+          "bbox": [
+            440,
+            470,
+            554,
+            480
+          ]
+        },
+        {
+          "text": "raison, commerciale ou autre, sans l'accord écrit préalable de la partie",
+          "confidence": 0.9991940259933472,
+          "bbox": [
+            765,
+            470,
+            1079,
+            480
+          ]
+        },
+        {
+          "text": "2.3. Toute commande impligue automatiquement l'acceptation des CGV et.",
+          "confidence": 0.9825931191444397,
+          "bbox": [
+            113,
+            484,
+            426,
+            491
+          ]
+        },
+        {
+          "text": "5.4 Suspension des livraisons : en cas de non- paiement intégral d'une facture",
+          "confidence": 0.987691342830658,
+          "bbox": [
+            440,
+            484,
+            751,
+            491
+          ]
+        },
+        {
+          "text": "émettrice.",
+          "confidence": 0.9989433288574219,
+          "bbox": [
+            764,
+            480,
+            810,
+            494
+          ]
+        },
+        {
+          "text": "le cas échéant, des conditions particulières néeociées avec le client",
+          "confidence": 0.9934439063072205,
+          "bbox": [
+            113,
+            495,
+            387,
+            502
+          ]
+        },
+        {
+          "text": "échue, après mise en demeure restée sans effet dans les 48 heures, GREEN",
+          "confidence": 0.9998857975006104,
+          "bbox": [
+            440,
+            494,
+            752,
+            504
+          ]
+        },
+        {
+          "text": "Dans ce contexte, le destinataire :",
+          "confidence": 0.9995313286781311,
+          "bbox": [
+            765,
+            494,
+            905,
+            504
+          ]
+        },
+        {
+          "text": "2.4. Passé un délai de 24 heures à compter de l'acceptation de la commande",
+          "confidence": 0.9993462562561035,
+          "bbox": [
+            113,
+            506,
+            427,
+            516
+          ]
+        },
+        {
+          "text": "POWER TECHNOLOGIE se réserve le droit de suspendre toute livraison en",
+          "confidence": 0.9997084140777588,
+          "bbox": [
+            440,
+            506,
+            753,
+            516
+          ]
+        },
+        {
+          "text": "S'engage à prendre toutes les mesures techniques et organisationnelles,",
+          "confidence": 0.9932869672775269,
+          "bbox": [
+            765,
+            506,
+            1078,
+            516
+          ]
+        },
+        {
+          "text": "par GREEN POWER TECHNOLOGIE, toute modification sera soumise à l'accord",
+          "confidence": 0.9985591173171997,
+          "bbox": [
+            113,
+            518,
+            427,
+            528
+          ]
+        },
+        {
+          "text": "cours et/ou à venir.",
+          "confidence": 0.9997957944869995,
+          "bbox": [
+            439,
+            518,
+            520,
+            528
+          ]
+        },
+        {
+          "text": "notamment matérielles, pour assurer la conservation et l'intégrité des",
+          "confidence": 0.9860225319862366,
+          "bbox": [
+            765,
+            518,
+            1079,
+            528
+          ]
+        },
+        {
+          "text": "écrit et exprès de GREEN POWER TECHNOLOGIE.",
+          "confidence": 0.9864932894706726,
+          "bbox": [
+            113,
+            531,
+            312,
+            541
+          ]
+        },
+        {
+          "text": "5.5 Dans le cas où le CLIENT informe GREEN POWER TECHNOLOGIE d'une",
+          "confidence": 0.9954309463500977,
+          "bbox": [
+            440,
+            532,
+            752,
+            539
+          ]
+        },
+        {
+          "text": "documents et informations traités pendant la durée du contrat. Limiter la",
+          "confidence": 0.9967509508132935,
+          "bbox": [
+            767,
+            532,
+            1078,
+            539
+          ]
+        },
+        {
+          "text": "L'annulation de toute commande qui aurait été acceptée par GREEN POWER",
+          "confidence": 0.987727165222168,
+          "bbox": [
+            113,
+            543,
+            427,
+            553
+          ]
+        },
+        {
+          "text": "suspension avant la date de livraison initialement prévue, des pénalités pour",
+          "confidence": 0.9987622499465942,
+          "bbox": [
+            439,
+            543,
+            753,
+            553
+          ]
+        },
+        {
+          "text": "diffusion des informations confidentielles aux seuls membres de son",
+          "confidence": 0.9957404136657715,
+          "bbox": [
+            765,
+            543,
+            1079,
+            553
+          ]
+        },
+        {
+          "text": "TECHNOLO GIE, au- delà du délai de 24 heures à compter de l'acceptation par",
+          "confidence": 0.9899771213531494,
+          "bbox": [
+            113,
+            555,
+            427,
+            565
+          ]
+        },
+        {
+          "text": "stockage seront appliguées à hauteur de 2 % du montant de HT des produits",
+          "confidence": 0.9953596591949463,
+          "bbox": [
+            439,
+            555,
+            753,
+            565
+          ]
+        },
+        {
+          "text": "personnel et/ou aux personnes impliquées dans l'exécution du Contrat. Ces",
+          "confidence": 0.9982064366340637,
+          "bbox": [
+            765,
+            555,
+            1079,
+            565
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE, oblige le client à réparer le dommage qui en",
+          "confidence": 0.9995457530021667,
+          "bbox": [
+            112,
+            566,
+            427,
+            578
+          ]
+        },
+        {
+          "text": "non-délivrés par semaine calendaire de retard, Les pénalités seront facturées",
+          "confidence": 0.9932107329368591,
+          "bbox": [
+            440,
+            569,
+            752,
+            576
+          ]
+        },
+        {
+          "text": "personnes ont été informées du caractère confidentiel des informations et se",
+          "confidence": 0.9930647611618042,
+          "bbox": [
+            767,
+            569,
+            1078,
+            576
+          ]
+        },
+        {
+          "text": "résulterait pour GREEN POWER TECHNOLOGIE.",
+          "confidence": 0.9996578693389893,
+          "bbox": [
+            113,
+            580,
+            305,
+            590
+          ]
+        },
+        {
+          "text": "au CLIENT et celui-ci devra les régler dans un délai de 45 jours à compter de",
+          "confidence": 0.999354898929596,
+          "bbox": [
+            440,
+            580,
+            753,
+            590
+          ]
+        },
+        {
+          "text": "sont engagées à respecter les termes des présentes CGV et/ou le cas échéant",
+          "confidence": 0.9984374046325684,
+          "bbox": [
+            765,
+            580,
+            1079,
+            590
+          ]
+        },
+        {
+          "text": "ARTICLE 3 - PRIX",
+          "confidence": 0.9993785619735718,
+          "bbox": [
+            113,
+            592,
+            182,
+            602
+          ]
+        },
+        {
+          "text": "la réception de la facture. Ces pénalités ne sont pas libératoires.",
+          "confidence": 0.9964966177940369,
+          "bbox": [
+            440,
+            592,
+            700,
+            602
+          ]
+        },
+        {
+          "text": "ont signé un accord de confidentialité contenant des dispositions au moins",
+          "confidence": 0.9967356324195862,
+          "bbox": [
+            765,
+            592,
+            1079,
+            602
+          ]
+        },
+        {
+          "text": "3.1. Prix : les prix des produits vendus par GREEN POWER TECHNOLOGIE sont",
+          "confidence": 0.9934027791023254,
+          "bbox": [
+            113,
+            604,
+            427,
+            614
+          ]
+        },
+        {
+          "text": "ARTICLE 6 - FORCE MAJEURE",
+          "confidence": 0.9631267786026001,
+          "bbox": [
+            440,
+            606,
+            558,
+            613
+          ]
+        },
+        {
+          "text": "aussi contraignantes que celles prévues dans les présentes CGV.",
+          "confidence": 0.9999015927314758,
+          "bbox": [
+            765,
+            605,
+            1027,
+            615
+          ]
+        },
+        {
+          "text": "fixés par le tarif en vigueur au jour de la commande. Les tarifs s'entendent",
+          "confidence": 0.9995360970497131,
+          "bbox": [
+            113,
+            617,
+            427,
+            627
+          ]
+        },
+        {
+          "text": "6.1 Aucune des parties ne pourra être tenue responsable en cas de",
+          "confidence": 0.9919425249099731,
+          "bbox": [
+            439,
+            617,
+            753,
+            627
+          ]
+        },
+        {
+          "text": "Nonobstant ce qui précède, chaque partie peut communiquer des",
+          "confidence": 0.9912078976631165,
+          "bbox": [
+            765,
+            617,
+            1079,
+            627
+          ]
+        },
+        {
+          "text": "hors taxes, sans escompte, ni rabais, ni remise. Ils sont exprimés en euros (€),",
+          "confidence": 0.9938215017318726,
+          "bbox": [
+            112,
+            629,
+            427,
+            638
+          ]
+        },
+        {
+          "text": "manguement à l'une de ses obligations contractuelles dès lors que ce",
+          "confidence": 0.9937648773193359,
+          "bbox": [
+            439,
+            629,
+            753,
+            638
+          ]
+        },
+        {
+          "text": "informations confidentielles :",
+          "confidence": 0.9983183741569519,
+          "bbox": [
+            765,
+            629,
+            887,
+            638
+          ]
+        },
+        {
+          "text": "frais de port et d'emballage en sus. gue la livraison soit globale ou",
+          "confidence": 0.9866242408752441,
+          "bbox": [
+            114,
+            642,
+            426,
+            649
+          ]
+        },
+        {
+          "text": "manguement est causé par un cas de force maieure correspondant à un",
+          "confidence": 0.9971493482589722,
+          "bbox": [
+            440,
+            642,
+            752,
+            649
+          ]
+        },
+        {
+          "text": "A toute autorité officielle, autorité gouvernementale, administration avec",
+          "confidence": 0.9962870478630066,
+          "bbox": [
+            765,
+            640,
+            1069,
+            650
+          ]
+        },
+        {
+          "text": "fractionnée. Les prix s'entendent départ dépôts de GREEN POWER",
+          "confidence": 0.9884781241416931,
+          "bbox": [
+            114,
+            654,
+            426,
+            661
+          ]
+        },
+        {
+          "text": "empêchement indépendant de la volonté des parties, qui ne pouvait être",
+          "confidence": 0.9936450123786926,
+          "bbox": [
+            439,
+            653,
+            753,
+            663
+          ]
+        },
+        {
+          "text": "l'autorisation écrite expresse de l'autre partie ;",
+          "confidence": 0.9898005723953247,
+          "bbox": [
+            764,
+            653,
+            959,
+            663
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE.",
+          "confidence": 0.9967744946479797,
+          "bbox": [
+            113,
+            665,
+            175,
+            675
+          ]
+        },
+        {
+          "text": "raisonnablement prévu lors de la commande et rendant l'exécution des",
+          "confidence": 0.9981932044029236,
+          "bbox": [
+            439,
+            665,
+            753,
+            675
+          ]
+        },
+        {
+          "text": "Si les informations confidentielles étaient accessibles au public au moment de",
+          "confidence": 0.9980751276016235,
+          "bbox": [
+            765,
+            665,
+            1079,
+            675
+          ]
+        },
+        {
+          "text": "3.2 GREEN POWER TECHNOLOGIE peut indiquer à ses clients des prix de",
+          "confidence": 0.9989011287689209,
+          "bbox": [
+            113,
+            677,
+            427,
+            687
+          ]
+        },
+        {
+          "text": "obligations impossible ou tellement exorbitante qu'il est raisonnable dans ces",
+          "confidence": 0.9981632828712463,
+          "bbox": [
+            440,
+            677,
+            753,
+            687
+          ]
+        },
+        {
+          "text": "leur communication par l'autre partie ou si elles sont tombées dans le",
+          "confidence": 0.9982340931892395,
+          "bbox": [
+            765,
+            677,
+            1079,
+            687
+          ]
+        },
+        {
+          "text": "revente conseillés. notamment pour les nouveaux produits. Une telle",
+          "confidence": 0.9912015795707703,
+          "bbox": [
+            114,
+            691,
+            426,
+            698
+          ]
+        },
+        {
+          "text": "conditions de la considérer comme impossible, De convention expresse, sont",
+          "confidence": 0.994049072265625,
+          "bbox": [
+            441,
+            691,
+            752,
+            698
+          ]
+        },
+        {
+          "text": "domaine public après cette communication :",
+          "confidence": 0.983016312122345,
+          "bbox": [
+            767,
+            691,
+            949,
+            698
+          ]
+        },
+        {
+          "text": "communication ne remet nullement en cause la liberté du client de décider",
+          "confidence": 0.9952954649925232,
+          "bbox": [
+            113,
+            702,
+            427,
+            712
+          ]
+        },
+        {
+          "text": "considérés comme cas de force majeure, outre ceux habituellement retenus",
+          "confidence": 0.992488443851471,
+          "bbox": [
+            439,
+            702,
+            753,
+            712
+          ]
+        },
+        {
+          "text": "Si la publication a été imposée par l'application d'une disposition légale ou",
+          "confidence": 0.9977481365203857,
+          "bbox": [
+            765,
+            702,
+            1079,
+            712
+          ]
+        },
+        {
+          "text": "de ses prix de revente et le fait qu'il en assume l'entière responsabilité.",
+          "confidence": 0.9955832958221436,
+          "bbox": [
+            113,
+            714,
+            402,
+            724
+          ]
+        },
+        {
+          "text": "par la jurisprudence, notamment, sans gue cette liste soit limitative, les",
+          "confidence": 0.9909053444862366,
+          "bbox": [
+            441,
+            716,
+            752,
+            723
+          ]
+        },
+        {
+          "text": "réglementaire impérative, d'une décision judiciaire définitive ou d'une",
+          "confidence": 0.9898809790611267,
+          "bbox": [
+            767,
+            716,
+            1078,
+            723
+          ]
+        },
+        {
+          "text": "3.3 Si le délai contractuel de livraison est de 4 mois après la conclusion du",
+          "confidence": 0.9965977072715759,
+          "bbox": [
+            114,
+            728,
+            426,
+            735
+          ]
+        },
+        {
+          "text": "intempéries exceptionnelles , les catastrophes naturelles telles que",
+          "confidence": 0.9865870475769043,
+          "bbox": [
+            440,
+            727,
+            753,
+            737
+          ]
+        },
+        {
+          "text": "sentence arbitrale exécutoire. D'une manière générale, les parties",
+          "confidence": 0.9704185128211975,
+          "bbox": [
+            767,
+            728,
+            1078,
+            735
+          ]
+        },
+        {
+          "text": "contrat ou si la livraison n'a lie u que 4 mois après la conclusion de la vente",
+          "confidence": 0.9994461536407471,
+          "bbox": [
+            113,
+            739,
+            427,
+            749
+          ]
+        },
+        {
+          "text": "tremblements de terre, inondations, incendies, foudre ; les grèves, lock- out",
+          "confidence": 0.9922043681144714,
+          "bbox": [
+            439,
+            739,
+            753,
+            749
+          ]
+        },
+        {
+          "text": "s'interdisent, pendant la durée du Contrat et pendant une période de dix (10)",
+          "confidence": 0.9935964345932007,
+          "bbox": [
+            765,
+            739,
+            1079,
+            749
+          ]
+        },
+        {
+          "text": "pour des raisons imputables au client, les prix peuvent être modifiés à la",
+          "confidence": 0.9995765686035156,
+          "bbox": [
+            113,
+            751,
+            427,
+            761
+          ]
+        },
+        {
+          "text": "ou autres actions syndicales ; les explosions, attentats, guerres, opérations",
+          "confidence": 0.9865426421165466,
+          "bbox": [
+            439,
+            751,
+            753,
+            761
+          ]
+        },
+        {
+          "text": "ans à compter de sa résiliation pour quelque cause que ce soit, de",
+          "confidence": 0.9999268054962158,
+          "bbox": [
+            765,
+            751,
+            1079,
+            761
+          ]
+        },
+        {
+          "text": "hausse ou à la baisse en fonction de la variation des coûts, conséquence",
+          "confidence": 0.9787770509719849,
+          "bbox": [
+            114,
+            765,
+            426,
+            772
+          ]
+        },
+        {
+          "text": "militaires, troubles civils, émeutes, embargos imposés dans le cadre de",
+          "confidence": 0.9848477244377136,
+          "bbox": [
+            440,
+            765,
+            752,
+            772
+          ]
+        },
+        {
+          "text": "communiquer à quelque titre que ce soit, sous guelque forme que ce soit et",
+          "confidence": 0.9791098833084106,
+          "bbox": [
+            767,
+            765,
+            1079,
+            772
+          ]
+        },
+        {
+          "text": "notamment d'une nouvelle convention collective ou de changements dans les",
+          "confidence": 0.9943578243255615,
+          "bbox": [
+            112,
+            775,
+            427,
+            785
+          ]
+        },
+        {
+          "text": "programmes de sanctions économiques.",
+          "confidence": 0.9905924201011658,
+          "bbox": [
+            440,
+            775,
+            605,
+            785
+          ]
+        },
+        {
+          "text": "à quelque fin que ce soit l'ensemble de ces informations confidentielles et",
+          "confidence": 0.9933630228042603,
+          "bbox": [
+            765,
+            775,
+            1079,
+            785
+          ]
+        },
+        {
+          "text": "prix des matériaux.",
+          "confidence": 0.9988512992858887,
+          "bbox": [
+            113,
+            787,
+            191,
+            797
+          ]
+        },
+        {
+          "text": "6.2 La partie touchée par la force majeure s'engage à informer l'autre partie",
+          "confidence": 0.9926331639289856,
+          "bbox": [
+            440,
+            787,
+            753,
+            797
+          ]
+        },
+        {
+          "text": "s'engagent à faire respecter cette obligation par l'ensemble de ses employés,",
+          "confidence": 0.9932832717895508,
+          "bbox": [
+            765,
+            787,
+            1078,
+            797
+          ]
+        },
+        {
+          "text": "3.3 Révision des prix : GREEN POWER TECHNOLOGIE est tenu de réviser",
+          "confidence": 0.9992457032203674,
+          "bbox": [
+            113,
+            799,
+            427,
+            809
+          ]
+        },
+        {
+          "text": "par écrit dans les meilleurs délais de la survenance du cas de force majeure.",
+          "confidence": 0.9957122802734375,
+          "bbox": [
+            440,
+            799,
+            752,
+            809
+          ]
+        },
+        {
+          "text": "agents et éventuels sous-traitants.",
+          "confidence": 0.998626708984375,
+          "bbox": [
+            767,
+            801,
+            906,
+            808
+          ]
+        },
+        {
+          "text": "régulièrement ses prix. Dans I'hypothèse où le prix du marché de tout",
+          "confidence": 0.9753485321998596,
+          "bbox": [
+            114,
+            813,
+            426,
+            820
+          ]
+        },
+        {
+          "text": "La survenance d'un cas de force maieure peut suspendre tout ou partie des",
+          "confidence": 0.9899008870124817,
+          "bbox": [
+            440,
+            813,
+            752,
+            820
+          ]
+        },
+        {
+          "text": "ARTICLE 11 - INFORMATIQUE ET LIBERTÉS",
+          "confidence": 0.9969578385353088,
+          "bbox": [
+            765,
+            811,
+            940,
+            821
+          ]
+        },
+        {
+          "text": "matériau ou composant destiné à la fabrication ou à la livraison des Produits",
+          "confidence": 0.9964508414268494,
+          "bbox": [
+            113,
+            824,
+            427,
+            834
+          ]
+        },
+        {
+          "text": "obligations respectives des parties dans l'exécution du contrat jusqu'au",
+          "confidence": 0.99950110912323,
+          "bbox": [
+            440,
+            824,
+            752,
+            834
+          ]
+        },
+        {
+          "text": "11.1 La \"Réglementation Générale sur les Données Personnelles\" (RGDP)",
+          "confidence": 0.999019980430603,
+          "bbox": [
+            765,
+            824,
+            1079,
+            834
+          ]
+        },
+        {
+          "text": "augmenterait de cing pour cent (5%) ou plus, par rapport au prix convenu à",
+          "confidence": 0.994993269443512,
+          "bbox": [
+            113,
+            836,
+            427,
+            846
+          ]
+        },
+        {
+          "text": "rétablissement des conditions normales de fourniture du service. D'une",
+          "confidence": 0.9912781715393066,
+          "bbox": [
+            440,
+            836,
+            753,
+            846
+          ]
+        },
+        {
+          "text": "désigne la réglementation applicable à l'utilisation des données à caractère",
+          "confidence": 0.9996904134750366,
+          "bbox": [
+            765,
+            836,
+            1079,
+            846
+          ]
+        },
+        {
+          "text": "la date de la commande, il est convenu gue GREEN POWER TECHNOLOGIE est",
+          "confidence": 0.9673979878425598,
+          "bbox": [
+            113,
+            850,
+            426,
+            857
+          ]
+        },
+        {
+          "text": "manière générale, les parties s'engagent à mettre en œuvre, dans la mesure",
+          "confidence": 0.9863932728767395,
+          "bbox": [
+            440,
+            850,
+            752,
+            857
+          ]
+        },
+        {
+          "text": "personnel, et notamment la loi n° 78-17 du 6 janvier 1978 relative à",
+          "confidence": 0.9981377720832825,
+          "bbox": [
+            765,
+            849,
+            1079,
+            859
+          ]
+        },
+        {
+          "text": "en droit d'ajuster les Prix sur la base de cette augmentation de prix.",
+          "confidence": 0.9994864463806152,
+          "bbox": [
+            113,
+            861,
+            388,
+            871
+          ]
+        },
+        {
+          "text": "du possible, tous les moyens nécessaires et raisonnables pour mettre fin aux",
+          "confidence": 0.999947726726532,
+          "bbox": [
+            440,
+            861,
+            753,
+            871
+          ]
+        },
+        {
+          "text": "l'informatique, aux fichiers et aux libertés et toute réglementation destinée à",
+          "confidence": 0.991355299949646,
+          "bbox": [
+            765,
+            861,
+            1079,
+            871
+          ]
+        },
+        {
+          "text": "3.4 Des conditions particulières de remise peuvent être accordées au client",
+          "confidence": 0.9918501973152161,
+          "bbox": [
+            113,
+            873,
+            428,
+            883
+          ]
+        },
+        {
+          "text": "perturbations gui ont eu pour effet d'interrompre temporairement le service",
+          "confidence": 0.9932939410209656,
+          "bbox": [
+            441,
+            875,
+            752,
+            882
+          ]
+        },
+        {
+          "text": "la compléter ou à la remplacer, en particulier, le Règlement (UE) 2016/679",
+          "confidence": 0.9975839853286743,
+          "bbox": [
+            765,
+            873,
+            1079,
+            883
+          ]
+        },
+        {
+          "text": "mais ne sont en aucun cas systématisées. Elles correspondent à des offres",
+          "confidence": 0.9891579747200012,
+          "bbox": [
+            113,
+            887,
+            426,
+            894
+          ]
+        },
+        {
+          "text": "et de minimiser les conséquences de l'événement de force majeure sur le",
+          "confidence": 0.9928669333457947,
+          "bbox": [
+            439,
+            886,
+            753,
+            896
+          ]
+        },
+        {
+          "text": "relatif à la protection des personnes physigues à l'égard du traitement des",
+          "confidence": 0.9935588836669922,
+          "bbox": [
+            767,
+            887,
+            1078,
+            894
+          ]
+        },
+        {
+          "text": "particulières.",
+          "confidence": 0.999661922454834,
+          "bbox": [
+            112,
+            898,
+            167,
+            908
+          ]
+        },
+        {
+          "text": "contrat. En cas de suspension, la durée de la suspension sera prolongée d'une",
+          "confidence": 0.9985535144805908,
+          "bbox": [
+            440,
+            898,
+            753,
+            908
+          ]
+        },
+        {
+          "text": "données à caractère personnel et à la libre circulation de ces données.",
+          "confidence": 0.9980100393295288,
+          "bbox": [
+            765,
+            898,
+            1053,
+            908
+          ]
+        },
+        {
+          "text": "3.5 Les conditions spéciales de remise accordées au client peuvent être",
+          "confidence": 0.9976798295974731,
+          "bbox": [
+            112,
+            910,
+            427,
+            919
+          ]
+        },
+        {
+          "text": "période équivalente à la période de suspension due à la force majeure. Si la",
+          "confidence": 0.9963111877441406,
+          "bbox": [
+            440,
+            910,
+            753,
+            919
+          ]
+        },
+        {
+          "text": "11.2 On entend par données à caractère personnel toute information se",
+          "confidence": 0.9998093843460083,
+          "bbox": [
+            765,
+            910,
+            1079,
+            919
+          ]
+        },
+        {
+          "text": "résiliées à tout moment moyennant un préavis d'un mois en cas de non-",
+          "confidence": 0.9976779222488403,
+          "bbox": [
+            113,
+            921,
+            427,
+            931
+          ]
+        },
+        {
+          "text": "suspension dépasse une période d'un mois, le comité peut être résilié de pleir",
+          "confidence": 0.986017644405365,
+          "bbox": [
+            440,
+            923,
+            751,
+            930
+          ]
+        },
+        {
+          "text": "rapportant à une personne identifiée ou identifiable, Est réputée identifiable",
+          "confidence": 0.976038932800293,
+          "bbox": [
+            767,
+            923,
+            1078,
+            930
+          ]
+        },
+        {
+          "text": "paiement d'une seule facture due, huit jours après une mise en demeure",
+          "confidence": 0.9960645437240601,
+          "bbox": [
+            113,
+            934,
+            427,
+            944
+          ]
+        },
+        {
+          "text": "droit à l'initiative de l'une ou l'autre des parties par simple notification à",
+          "confidence": 0.9963206648826599,
+          "bbox": [
+            440,
+            935,
+            752,
+            942
+          ]
+        },
+        {
+          "text": "une personne qui peut être identifiée directement ou indirectement,",
+          "confidence": 0.99663907289505,
+          "bbox": [
+            765,
+            934,
+            1079,
+            944
+          ]
+        },
+        {
+          "text": "restée infructueuse.",
+          "confidence": 0.9949444532394409,
+          "bbox": [
+            112,
+            946,
+            195,
+            956
+          ]
+        },
+        {
+          "text": "l'autre partie. Les parties seront alors libérées de leurs engagements, sans",
+          "confidence": 0.9988085031509399,
+          "bbox": [
+            440,
+            946,
+            752,
+            956
+          ]
+        },
+        {
+          "text": "notamment par référence à un identifiant ou à un ou plusieurs éléments",
+          "confidence": 0.9922370910644531,
+          "bbox": [
+            765,
+            946,
+            1079,
+            956
+          ]
+        },
+        {
+          "text": "ARTICLE 4 - CONDITIONS DE PAIEMENT",
+          "confidence": 0.9969923496246338,
+          "bbox": [
+            113,
+            958,
+            276,
+            968
+          ]
+        },
+        {
+          "text": "qu'aucune indemnité ne soit due par l'une des parties.",
+          "confidence": 0.9991387128829956,
+          "bbox": [
+            440,
+            958,
+            661,
+            968
+          ]
+        },
+        {
+          "text": "spécifiques propres à son identité.",
+          "confidence": 0.9948409795761108,
+          "bbox": [
+            765,
+            958,
+            906,
+            968
+          ]
+        },
+        {
+          "text": "4.1 Les factures sont pavables intégralement à la commande à partir de la",
+          "confidence": 0.9974473118782043,
+          "bbox": [
+            114,
+            972,
+            426,
+            979
+          ]
+        },
+        {
+          "text": "ARTICLE 7 - RÉSERVE DE PROPRIÉTÉ",
+          "confidence": 0.9889194965362549,
+          "bbox": [
+            440,
+            970,
+            588,
+            980
+          ]
+        },
+        {
+          "text": "11.3 Chague Partie s'engage à respecter la RGPD qui lui est applicable et à",
+          "confidence": 0.9766019582748413,
+          "bbox": [
+            768,
+            972,
+            1078,
+            979
+          ]
+        },
+        {
+          "text": "date d'émission de la facture. Des conditions exceptionnelles peuvent être",
+          "confidence": 0.9879665970802307,
+          "bbox": [
+            113,
+            983,
+            427,
+            993
+          ]
+        },
+        {
+          "text": "7.1. Le transfert de propriété des marchandises livrées au client n'aura lie u",
+          "confidence": 0.9954295754432678,
+          "bbox": [
+            439,
+            983,
+            753,
+            993
+          ]
+        },
+        {
+          "text": "mettre l'autre Partie en mesure de respecter ses propres obligations. A ce",
+          "confidence": 0.9998098015785217,
+          "bbox": [
+            765,
+            983,
+            1079,
+            993
+          ]
+        },
+        {
+          "text": "offertes par GREEN POWER TECHNOLOGIE, aux conditions négociées avec le",
+          "confidence": 0.9997696876525879,
+          "bbox": [
+            113,
+            995,
+            427,
+            1005
+          ]
+        },
+        {
+          "text": "qu'après paiement intégral du prix convenu, en principal et accessoire, même",
+          "confidence": 0.9937100410461426,
+          "bbox": [
+            440,
+            995,
+            753,
+            1005
+          ]
+        },
+        {
+          "text": "titre, chague pays s'engage notamment à mettre en œuvre, à ses frais, les",
+          "confidence": 0.9848872423171997,
+          "bbox": [
+            767,
+            997,
+            1078,
+            1004
+          ]
+        },
+        {
+          "text": "client, dans le cadre d'une relation commerciale stable et suivie",
+          "confidence": 0.9987519383430481,
+          "bbox": [
+            114,
+            1009,
+            373,
+            1016
+          ]
+        },
+        {
+          "text": "en cas d'octroi de délais de paiement. A défaut de paiement à l'échéance,",
+          "confidence": 0.9868388772010803,
+          "bbox": [
+            439,
+            1008,
+            752,
+            1018
+          ]
+        },
+        {
+          "text": "obligations qui lui incombent au titre de la réglementation relative aux",
+          "confidence": 0.9996908903121948,
+          "bbox": [
+            765,
+            1008,
+            1079,
+            1018
+          ]
+        },
+        {
+          "text": "4.2 En cas de paiement par traite ou LCR, celle-ci doit être retournée à GREEN",
+          "confidence": 0.9946170449256897,
+          "bbox": [
+            114,
+            1021,
+            426,
+            1028
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE pourra reprendre possession des",
+          "confidence": 0.9987186193466187,
+          "bbox": [
+            439,
+            1020,
+            753,
+            1030
+          ]
+        },
+        {
+          "text": "données à caractère personnel et à les faire respecter par toute personne à",
+          "confidence": 0.9943557977676392,
+          "bbox": [
+            765,
+            1020,
+            1080,
+            1030
+          ]
+        },
+        {
+          "text": "POWER TECHNOLOGIE au plus tard 8 jours après la date d'émission de la",
+          "confidence": 0.9893726110458374,
+          "bbox": [
+            113,
+            1032,
+            428,
+            1042
+          ]
+        },
+        {
+          "text": "marchandises et résilie r le contrat.",
+          "confidence": 0.9940048456192017,
+          "bbox": [
+            439,
+            1032,
+            583,
+            1042
+          ]
+        },
+        {
+          "text": "laquelle il donne accès à tout ou partie des dites données.",
+          "confidence": 0.9988555312156677,
+          "bbox": [
+            765,
+            1032,
+            1002,
+            1042
+          ]
+        },
+        {
+          "text": "facture.",
+          "confidence": 0.9999977350234985,
+          "bbox": [
+            112,
+            1044,
+            146,
+            1054
+          ]
+        },
+        {
+          "text": "7.2. Le client doit assurer à ses frais les marchandises vendues contre tout",
+          "confidence": 0.9927204251289368,
+          "bbox": [
+            440,
+            1046,
+            752,
+            1052
+          ]
+        },
+        {
+          "text": "ARTICLE 12 - ÉTHIQUE ET CONFORMITÉ",
+          "confidence": 0.998138427734375,
+          "bbox": [
+            765,
+            1044,
+            929,
+            1053
+          ]
+        },
+        {
+          "text": "4.3 Seul l'encaissement effectif de chèques, de lettres de change ou de LCR et",
+          "confidence": 0.9971538186073303,
+          "bbox": [
+            112,
+            1055,
+            426,
+            1065
+          ]
+        },
+        {
+          "text": "risgue de dommage ou de perte et doit pouvoir justifie r de cette assurance à",
+          "confidence": 0.9938806295394897,
+          "bbox": [
+            440,
+            1056,
+            752,
+            1066
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE s'engage à faire preuve d'intégrité et de",
+          "confidence": 0.9989703893661499,
+          "bbox": [
+            765,
+            1056,
+            1079,
+            1066
+          ]
+        },
+        {
+          "text": "le transfert sont considérés comme un paiement au sens des présentes CGV.",
+          "confidence": 0.9994491338729858,
+          "bbox": [
+            112,
+            1068,
+            426,
+            1078
+          ]
+        },
+        {
+          "text": "la demande de GREEN POWER TECHNOL OGIE",
+          "confidence": 0.9291123747825623,
+          "bbox": [
+            440,
+            1069,
+            627,
+            1076
+          ]
+        },
+        {
+          "text": "responsabilité dans la conduite de ses affaires et attend de ses partenaires",
+          "confidence": 0.9955952167510986,
+          "bbox": [
+            765,
+            1068,
+            1079,
+            1078
+          ]
+        },
+        {
+          "text": "4.4 Toute somme non payée à l'échéance prévue donnera lieu au paiement",
+          "confidence": 0.9908391833305359,
+          "bbox": [
+            113,
+            1080,
+            427,
+            1090
+          ]
+        },
+        {
+          "text": "7.3. Le client est autorisé à revendre les marchandises livrées dans le cadre",
+          "confidence": 0.9999159574508667,
+          "bbox": [
+            439,
+            1080,
+            753,
+            1090
+          ]
+        },
+        {
+          "text": "qu'ils partagent ces principes. Par conséguent. le client déclare et garantit",
+          "confidence": 0.9831132888793945,
+          "bbox": [
+            767,
+            1082,
+            1078,
+            1089
+          ]
+        },
+        {
+          "text": "par le client de pénalités égales à trois fois le taux d'intérêt légal. Ces pénalités",
+          "confidence": 0.9962283968925476,
+          "bbox": [
+            113,
+            1093,
+            427,
+            1103
+          ]
+        },
+        {
+          "text": "de l'exploitation normale de son entreprise, mais il ne peut ni les mettre en",
+          "confidence": 0.9911739826202393,
+          "bbox": [
+            440,
+            1094,
+            752,
+            1101
+          ]
+        },
+        {
+          "text": "qu'il se conformera à toutes les règles nationales et internationales",
+          "confidence": 0.9800809621810913,
+          "bbox": [
+            767,
+            1094,
+            1078,
+            1101
+          ]
+        },
+        {
+          "text": "sont exigibles de plein droit et seront automatiquement débitées du compte",
+          "confidence": 0.992564857006073,
+          "bbox": [
+            113,
+            1105,
+            427,
+            1115
+          ]
+        },
+        {
+          "text": "gage ni en transférer la propriété à titre de garantie. En cas de revente,",
+          "confidence": 0.9985520839691162,
+          "bbox": [
+            439,
+            1105,
+            752,
+            1115
+          ]
+        },
+        {
+          "text": "applicables en matière de comportement et de normes éthiques et",
+          "confidence": 0.9965829253196716,
+          "bbox": [
+            765,
+            1105,
+            1079,
+            1115
+          ]
+        },
+        {
+          "text": "du client. En cas de paiement échelonné accepté par GREEN POWER",
+          "confidence": 0.9936524629592896,
+          "bbox": [
+            113,
+            1117,
+            427,
+            1127
+          ]
+        },
+        {
+          "text": "l'acheteur s'engage à en informer immédiatement GREEN POWER",
+          "confidence": 0.9850330948829651,
+          "bbox": [
+            439,
+            1117,
+            753,
+            1127
+          ]
+        },
+        {
+          "text": "responsables, y compris celles relatives à la lutte contre la corruption, aux",
+          "confidence": 0.9981306791305542,
+          "bbox": [
+            765,
+            1117,
+            1079,
+            1127
+          ]
+        },
+        {
+          "text": "TECHNOLOGlE. le non-paiement d'une seule échéance entraînera l'exigibilité",
+          "confidence": 0.987854540348053,
+          "bbox": [
+            114,
+            1131,
+            426,
+            1138
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE afin de lui permettre d'exercer son droit de revendication du",
+          "confidence": 0.9858362078666687,
+          "bbox": [
+            440,
+            1131,
+            752,
+            1138
+          ]
+        },
+        {
+          "text": "sanctions économigues et commerciales et aux mesures restrictives (gel des",
+          "confidence": 0.9921595454216003,
+          "bbox": [
+            765,
+            1131,
+            1078,
+            1138
+          ]
+        },
+        {
+          "text": "immédiate de la totalité de la dette, sans mise en demeure préalable, Toute",
+          "confidence": 0.9847306609153748,
+          "bbox": [
+            114,
+            1143,
+            426,
+            1150
+          ]
+        },
+        {
+          "text": "prix à l'encontre du tiers acquéreur.",
+          "confidence": 0.9999296069145203,
+          "bbox": [
+            440,
+            1142,
+            586,
+            1152
+          ]
+        },
+        {
+          "text": "avoirs, embargo et contrôle des exportations), aux droits de l'homme, à la",
+          "confidence": 0.9852355718612671,
+          "bbox": [
+            764,
+            1141,
+            1078,
+            1151
+          ]
+        },
+        {
+          "text": "facture recouvrée par le service contentieux sera majorée d'une indemnité",
+          "confidence": 0.9963517785072327,
+          "bbox": [
+            113,
+            1154,
+            427,
+            1164
+          ]
+        },
+        {
+          "text": "ARTICLE 8 - GARANTIE - RESPONSABILITÉ",
+          "confidence": 0.9907584190368652,
+          "bbox": [
+            439,
+            1152,
+            612,
+            1164
+          ]
+        },
+        {
+          "text": "protection de l'environnement, au développement durable, au droit du",
+          "confidence": 0.9997402429580688,
+          "bbox": [
+            765,
+            1154,
+            1079,
+            1164
+          ]
+        },
+        {
+          "text": "forfaitaire fixé e à trois fois le montant de la facture due. Tous les frais",
+          "confidence": 0.999018132686615,
+          "bbox": [
+            113,
+            1166,
+            427,
+            1176
+          ]
+        },
+        {
+          "text": "8.1 Aucune action en non-conformité ne peut étre intentée par le client plus",
+          "confidence": 0.9912322163581848,
+          "bbox": [
+            440,
+            1168,
+            752,
+            1175
+          ]
+        },
+        {
+          "text": "travail, au droit de la concurrence et au contrôle des exportations. Ces",
+          "confidence": 0.98908931016922,
+          "bbox": [
+            767,
+            1168,
+            1078,
+            1175
+          ]
+        },
+        {
+          "text": "encourus pour le recouvrement de la créance seront également facturés au",
+          "confidence": 0.9908229112625122,
+          "bbox": [
+            113,
+            1179,
+            427,
+            1189
+          ]
+        },
+        {
+          "text": "de six mois après la livraison des produits. Passé ce délai, aucune action en",
+          "confidence": 0.9974907040596008,
+          "bbox": [
+            439,
+            1179,
+            753,
+            1189
+          ]
+        },
+        {
+          "text": "dispositions sont essentielles. Toute violation de ces dispositions entraînera",
+          "confidence": 0.9973680377006531,
+          "bbox": [
+            765,
+            1179,
+            1079,
+            1189
+          ]
+        },
+        {
+          "text": "client.",
+          "confidence": 0.9999958872795105,
+          "bbox": [
+            112,
+            1191,
+            139,
+            1200
+          ]
+        },
+        {
+          "text": "justice pour non-conformité ne sera recevable. Cette non-conformité ne peut",
+          "confidence": 0.9987350702285767,
+          "bbox": [
+            439,
+            1191,
+            753,
+            1200
+          ]
+        },
+        {
+          "text": "(i) la suspension de la livraison des produits, (ii) l'annulation de la commande.",
+          "confidence": 0.9991117119789124,
+          "bbox": [
+            765,
+            1191,
+            1079,
+            1200
+          ]
+        },
+        {
+          "text": "4.5 En aucun cas, les paiements ne peuvent être suspendus ou compensés de",
+          "confidence": 0.9838578701019287,
+          "bbox": [
+            113,
+            1202,
+            427,
+            1212
+          ]
+        },
+        {
+          "text": "pas non plus être invoguée comme demande reconventionnelle en défense",
+          "confidence": 0.9900689721107483,
+          "bbox": [
+            441,
+            1204,
+            752,
+            1211
+          ]
+        },
+        {
+          "text": "ARTICLE 13 - ÉLECTION DE DOMICILE - ATTRIBUTION DE COMPÉTENCE",
+          "confidence": 0.9966938495635986,
+          "bbox": [
+            764,
+            1201,
+            1056,
+            1211
+          ]
+        },
+        {
+          "text": "quelque manière que ce soit sans l'accord écrit préalable de GREEN POWER",
+          "confidence": 0.9994595050811768,
+          "bbox": [
+            113,
+            1215,
+            427,
+            1225
+          ]
+        },
+        {
+          "text": "d'une demande de paiement par GREEN POWER TECHNOLOGIE.",
+          "confidence": 0.9917494654655457,
+          "bbox": [
+            441,
+            1216,
+            700,
+            1223
+          ]
+        },
+        {
+          "text": "13.1 L'élection de domicile est faite par GREEN POWER TECHNOLOGIE à son",
+          "confidence": 0.992018461227417,
+          "bbox": [
+            767,
+            1216,
+            1078,
+            1223
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE. Tout paiement partiel s'imputera d'abord sur la partie non",
+          "confidence": 0.9965775012969971,
+          "bbox": [
+            113,
+            1226,
+            426,
+            1236
+          ]
+        },
+        {
+          "text": "8.2 Dans le cadre de la garantie contre les vices cachés. GRFEN POWFF",
+          "confidence": 0.9585131406784058,
+          "bbox": [
+            440,
+            1228,
+            751,
+            1235
+          ]
+        },
+        {
+          "text": "siège social.",
+          "confidence": 0.9998931884765625,
+          "bbox": [
+            765,
+            1227,
+            816,
+            1237
+          ]
+        },
+        {
+          "text": "garantie de la créance et ensuite sur les montants dont l'exigibilité est la plus",
+          "confidence": 0.9991915822029114,
+          "bbox": [
+            114,
+            1241,
+            426,
+            1248
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE n'est tenu qu'à la réparation ou au remplacement gratuit des",
+          "confidence": 0.9995625615119934,
+          "bbox": [
+            439,
+            1239,
+            753,
+            1249
+          ]
+        },
+        {
+          "text": "13.2 Tout litige susceptible de s'élever entre GREEN POWER TECHNOLOGIE et",
+          "confidence": 0.9914115071296692,
+          "bbox": [
+            765,
+            1239,
+            1079,
+            1249
+          ]
+        },
+        {
+          "text": "ancienne.",
+          "confidence": 0.9991064071655273,
+          "bbox": [
+            112,
+            1251,
+            153,
+            1262
+          ]
+        },
+        {
+          "text": "marchandises défectueuses, sans que le client puisse prétendre à des",
+          "confidence": 0.9890649318695068,
+          "bbox": [
+            440,
+            1253,
+            752,
+            1260
+          ]
+        },
+        {
+          "text": "le client re latif aux présentes, à leur interprétation, à leur exécution et aux",
+          "confidence": 0.9892009496688843,
+          "bbox": [
+            765,
+            1251,
+            1079,
+            1261
+          ]
+        },
+        {
+          "text": "ARTICLE 5 - LIVRAISONS",
+          "confidence": 0.9953181743621826,
+          "bbox": [
+            113,
+            1263,
+            212,
+            1273
+          ]
+        },
+        {
+          "text": "dommages et intérêts, quelle qu'en soit la raison.",
+          "confidence": 0.988471508026123,
+          "bbox": [
+            441,
+            1265,
+            641,
+            1272
+          ]
+        },
+        {
+          "text": "contrats de vente conclus, ou au paiement du prix, sera porté devant les",
+          "confidence": 0.9998114109039307,
+          "bbox": [
+            765,
+            1264,
+            1079,
+            1274
+          ]
+        },
+        {
+          "text": "5.1 Délais : les délais de livraison sont indicatifs. Ils dépendent notamment du",
+          "confidence": 0.9961875677108765,
+          "bbox": [
+            112,
+            1276,
+            427,
+            1286
+          ]
+        },
+        {
+          "text": "8.3 GREEN POWER TECHNO LOGIE n'est pas responsable des dommages et de",
+          "confidence": 0.9970939755439758,
+          "bbox": [
+            439,
+            1276,
+            753,
+            1286
+          ]
+        },
+        {
+          "text": "tribunaux compétents de RENNES.",
+          "confidence": 0.9971974492073059,
+          "bbox": [
+            765,
+            1276,
+            906,
+            1286
+          ]
+        },
+        {
+          "text": "plein développement des questions techniques et de la disponibilité des",
+          "confidence": 0.9996967315673828,
+          "bbox": [
+            113,
+            1289,
+            427,
+            1299
+          ]
+        },
+        {
+          "text": "l'usure résultant d'une adaptation ou d'un montage spécial, anormal ou nor",
+          "confidence": 0.993100643157959,
+          "bbox": [
+            440,
+            1290,
+            751,
+            1297
+          ]
+        },
+        {
+          "text": "ARTICLE 14 - RENONCIATION ET DROIT APPLICABLE",
+          "confidence": 0.9863414168357849,
+          "bbox": [
+            765,
+            1288,
+            980,
+            1298
+          ]
+        },
+        {
+          "text": "transporteurs. Des événements imprévus, extraordinaires ou indépendants",
+          "confidence": 0.999390721321106,
+          "bbox": [
+            113,
+            1301,
+            427,
+            1311
+          ]
+        },
+        {
+          "text": "conforme des produits décidés unilatéralement par le client, sans l'accord de",
+          "confidence": 0.9968323111534119,
+          "bbox": [
+            440,
+            1302,
+            751,
+            1309
+          ]
+        },
+        {
+          "text": "14.1 Le fait que GREEN POWER TECHNOLOGIE ne se prévale pas à un moment",
+          "confidence": 0.9974365234375,
+          "bbox": [
+            765,
+            1301,
+            1079,
+            1311
+          ]
+        },
+        {
+          "text": "de la volonté de GREEN POWER TECHNOLOGIE, tels que des arrêts de",
+          "confidence": 0.9997915625572205,
+          "bbox": [
+            113,
+            1313,
+            427,
+            1323
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE. GREEN POWER TECHNOLOGIE n'est pas",
+          "confidence": 0.9921054244041443,
+          "bbox": [
+            440,
+            1313,
+            753,
+            1323
+          ]
+        },
+        {
+          "text": "donné de l'une quelconque des clauses des présentes ne peut valoir",
+          "confidence": 0.9948549270629883,
+          "bbox": [
+            765,
+            1313,
+            1079,
+            1323
+          ]
+        },
+        {
+          "text": "production, des pénuries d'équipements, de matières premières ou de main-",
+          "confidence": 0.9961338639259338,
+          "bbox": [
+            113,
+            1326,
+            427,
+            1335
+          ]
+        },
+        {
+          "text": "resoonsable d'une détérioration ou d'un dysfonctionnement résultant d'une",
+          "confidence": 0.9648342132568359,
+          "bbox": [
+            440,
+            1327,
+            752,
+            1333
+          ]
+        },
+        {
+          "text": "renonciation à se prévaloir ultérieurement de ces mêmes clauses. ni des",
+          "confidence": 0.977039635181427,
+          "bbox": [
+            767,
+            1327,
+            1078,
+            1333
+          ]
+        },
+        {
+          "text": "d'oeuvre, peuvent donner lieu à une prolongation proportionnelle des délais",
+          "confidence": 0.980243444442749,
+          "bbox": [
+            113,
+            1337,
+            427,
+            1347
+          ]
+        },
+        {
+          "text": "utilisation anormale des marchandises.",
+          "confidence": 0.9986206889152527,
+          "bbox": [
+            440,
+            1338,
+            599,
+            1345
+          ]
+        },
+        {
+          "text": "autres clauses des CGV.",
+          "confidence": 0.9999603629112244,
+          "bbox": [
+            765,
+            1337,
+            863,
+            1347
+          ]
+        },
+        {
+          "text": "de livraison, sans qu'il y ait faute de la part de GREEN POWER TECHNOLOGIE.",
+          "confidence": 0.9931525588035583,
+          "bbox": [
+            113,
+            1349,
+            426,
+            1359
+          ]
+        },
+        {
+          "text": "8.4 La garantie commerciale de GREEN POWER TECHNOLOGIE est limitée à",
+          "confidence": 0.9987098574638367,
+          "bbox": [
+            439,
+            1349,
+            753,
+            1359
+          ]
+        },
+        {
+          "text": "14.2 Toute question relative aux présentes CGV et aux ventes qu'elles",
+          "confidence": 0.999689519405365,
+          "bbox": [
+            765,
+            1349,
+            1079,
+            1359
+          ]
+        },
+        {
+          "text": "5.2 Risques et transport : les livraisons sont effectuées selon les règles de",
+          "confidence": 0.9972069263458252,
+          "bbox": [
+            113,
+            1361,
+            427,
+            1371
+          ]
+        },
+        {
+          "text": "six mois à compter de la fourniture ou de la réception des produits. La",
+          "confidence": 0.9930393099784851,
+          "bbox": [
+            439,
+            1361,
+            753,
+            1371
+          ]
+        },
+        {
+          "text": "régissent qui ne serait pas traitée par les présentes est régie par le droit",
+          "confidence": 0.996300458908081,
+          "bbox": [
+            765,
+            1361,
+            1079,
+            1371
+          ]
+        },
+        {
+          "text": "I'Incoterm 2020 EXW Parc d'Activité Sud, Zone Ecoparc, 53410 La Gravelle,",
+          "confidence": 0.9916785359382629,
+          "bbox": [
+            113,
+            1373,
+            426,
+            1383
+          ]
+        },
+        {
+          "text": "garantie cesse automatiquement à la fin de cette période.",
+          "confidence": 0.9974028468132019,
+          "bbox": [
+            439,
+            1374,
+            676,
+            1384
+          ]
+        },
+        {
+          "text": "francais, à l'exclusion de tout autre droit",
+          "confidence": 0.9753361344337463,
+          "bbox": [
+            767,
+            1375,
+            932,
+            1382
+          ]
+        },
+        {
+          "text": "FRANCE, Le transport se fait aux risaues et périls du client. Le transfert des",
+          "confidence": 0.9708358645439148,
+          "bbox": [
+            114,
+            1387,
+            426,
+            1394
+          ]
+        },
+        {
+          "text": "ARTICLE 9 - PROPRIÉTÉ INTELLECTUELLE",
+          "confidence": 0.9803240895271301,
+          "bbox": [
+            441,
+            1387,
+            605,
+            1394
+          ]
+        },
+        {
+          "text": "risques des produits vendus a lieu au moment de la mise à disposition des",
+          "confidence": 0.9937641620635986,
+          "bbox": [
+            113,
+            1398,
+            427,
+            1408
+          ]
+        },
+        {
+          "text": "9.1 GREEN POWER TECHNOLOGIE est propriétaire de sa marque et de tous",
+          "confidence": 0.9987302422523499,
+          "bbox": [
+            439,
+            1398,
+            753,
+            1408
+          ]
+        },
+        {
+          "text": "produits dans le dépôt de GREEN POWER TECHNOLOGIE. Le client s'engage à",
+          "confidence": 0.9924671053886414,
+          "bbox": [
+            113,
+            1410,
+            427,
+            1420
+          ]
+        },
+        {
+          "text": "les droits de propriété intellectuelle dont elle dispose. GREEN POWER",
+          "confidence": 0.9994236826896667,
+          "bbox": [
+            439,
+            1410,
+            752,
+            1420
+          ]
+        },
+        {
+          "text": "prendre livraison dans les dix jours suivant l'avis de disponibilité des produits.",
+          "confidence": 0.9973776340484619,
+          "bbox": [
+            113,
+            1423,
+            426,
+            1433
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE autorise le client à communiquer sur la marque de GREEN",
+          "confidence": 0.9800024628639221,
+          "bbox": [
+            440,
+            1424,
+            751,
+            1431
+          ]
+        },
+        {
+          "text": "A défaut de prise de possession dans ce délai, et sauf convention contraire,",
+          "confidence": 0.9975506663322449,
+          "bbox": [
+            112,
+            1435,
+            427,
+            1445
+          ]
+        },
+        {
+          "text": "POWER TECHNOLOGIE dans le cadre strictement réservé à I'objet des CGV.",
+          "confidence": 0.9908920526504517,
+          "bbox": [
+            440,
+            1435,
+            752,
+            1445
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE est en droit de considérer que la vente est",
+          "confidence": 0.9842578172683716,
+          "bbox": [
+            113,
+            1447,
+            427,
+            1457
+          ]
+        },
+        {
+          "text": "Ce droit comprend :",
+          "confidence": 0.9919769763946533,
+          "bbox": [
+            439,
+            1447,
+            523,
+            1457
+          ]
+        },
+        {
+          "text": "résiliée unilatéralement par le client. GREEN POWER TECHNOLOGIE ne peut",
+          "confidence": 0.9919359683990479,
+          "bbox": [
+            113,
+            1460,
+            427,
+            1470
+          ]
+        },
+        {
+          "text": "L'utilisation de la margue et du logo GREEN POWER TECHNOLOGIE est",
+          "confidence": 0.9889131784439087,
+          "bbox": [
+            440,
+            1461,
+            751,
+            1468
+          ]
+        },
+        {
+          "text": "être tenu pour responsable des événements survenant pendant le transport,",
+          "confidence": 0.9998876452445984,
+          "bbox": [
+            113,
+            1472,
+            427,
+            1481
+          ]
+        },
+        {
+          "text": "réservée aux actions de marketing des produits GREEN POWER",
+          "confidence": 0.9814988970756531,
+          "bbox": [
+            439,
+            1472,
+            752,
+            1481
+          ]
+        },
+        {
+          "text": "notamment en cas de destruction, d'endommagement, de perte ou de vol des",
+          "confidence": 0.9991641640663147,
+          "bbox": [
+            113,
+            1483,
+            427,
+            1493
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE.",
+          "confidence": 0.9562336802482605,
+          "bbox": [
+            439,
+            1482,
+            501,
+            1492
+          ]
+        },
+        {
+          "text": "GREEN POWER TECHNOLOGIE",
+          "confidence": 0.9988653659820557,
+          "bbox": [
+            114,
+            1507,
+            357,
+            1521
+          ]
+        },
+        {
+          "text": "Parc d'Activité - ECOPARC La Gravelle Sud",
+          "confidence": 0.9854001402854919,
+          "bbox": [
+            741,
+            1507,
+            1078,
+            1521
+          ]
+        },
+        {
+          "text": "SAS au capital de 5 000 000€ - APE 4669B",
+          "confidence": 0.9971035122871399,
+          "bbox": [
+            113,
+            1531,
+            449,
+            1547
+          ]
+        },
+        {
+          "text": "53410 LA GRAVELLE",
+          "confidence": 0.9990785121917725,
+          "bbox": [
+            916,
+            1532,
+            1078,
+            1546
+          ]
+        },
+        {
+          "text": "SIRET 51540209700015 - FR16515402097 - RCS LAVAL",
+          "confidence": 0.9755954742431641,
+          "bbox": [
+            114,
+            1557,
+            552,
+            1571
+          ]
+        },
+        {
+          "text": "Tél: 02 43 91 21 33",
+          "confidence": 0.9488766193389893,
+          "bbox": [
+            916,
+            1557,
+            1078,
+            1571
+          ]
+        },
+        {
+          "text": "Page 2/2",
+          "confidence": 0.9807844161987305,
+          "bbox": [
+            993,
+            1580,
+            1079,
+            1598
+          ]
+        }
+      ]
+    }
+  ]
+}

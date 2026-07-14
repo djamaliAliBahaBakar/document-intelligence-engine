@@ -1,0 +1,1443 @@
+{
+  "engine": "mistralocr",
+  "model": "mistral-ocr-4-0",
+  "duration_seconds": 0.49,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 241,
+      "words": [
+        {
+          "text": "MAVISUN",
+          "confidence": 0.9750861291249812,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9994592016529572,
+          "bbox": null
+        },
+        {
+          "text": "MON",
+          "confidence": 0.9999287179248457,
+          "bbox": null
+        },
+        {
+          "text": "ÉNERGIE",
+          "confidence": 0.9999248302590744,
+          "bbox": null
+        },
+        {
+          "text": "PROPRE",
+          "confidence": 0.9990408238598393,
+          "bbox": null
+        },
+        {
+          "text": "MAVISUN",
+          "confidence": 0.9999117603050364,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999784235841962,
+          "bbox": null
+        },
+        {
+          "text": "320",
+          "confidence": 0.9999622120822376,
+          "bbox": null
+        },
+        {
+          "text": "Route",
+          "confidence": 0.999925142169393,
+          "bbox": null
+        },
+        {
+          "text": "des",
+          "confidence": 0.9999823573372132,
+          "bbox": null
+        },
+        {
+          "text": "Contamines",
+          "confidence": 0.9989500865722059,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999973774024795,
+          "bbox": null
+        },
+        {
+          "text": "74370",
+          "confidence": 0.9999850991397276,
+          "bbox": null
+        },
+        {
+          "text": "ARGONAY",
+          "confidence": 0.9998075547134,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "Adresse",
+          "confidence": 0.9978006679485489,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999965429424904,
+          "bbox": null
+        },
+        {
+          "text": "facturation",
+          "confidence": 0.9999377680662201,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.99969646608662,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.9860880371582943,
+          "bbox": null
+        },
+        {
+          "text": "SOLUTIONS",
+          "confidence": 0.9999888898188695,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.999994397195003,
+          "bbox": null
+        },
+        {
+          "text": "22",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": "chemin",
+          "confidence": 0.9998824734521726,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999338432228186,
+          "bbox": null
+        },
+        {
+          "text": "Tronchon",
+          "confidence": 0.9999158495253091,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999700793634253,
+          "bbox": null
+        },
+        {
+          "text": "69570",
+          "confidence": 0.9999955892769278,
+          "bbox": null
+        },
+        {
+          "text": "DARDILLY",
+          "confidence": 0.9999572463031846,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999747282700929,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999955892755635,
+          "bbox": null
+        },
+        {
+          "text": "Adresse",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "d'expédition",
+          "confidence": 0.999943618945078,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.999968291333751,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.9999919177010835,
+          "bbox": null
+        },
+        {
+          "text": "SOLUTIONS",
+          "confidence": 0.9999991536147548,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "22",
+          "confidence": 0.9999985694905718,
+          "bbox": null
+        },
+        {
+          "text": "chemin",
+          "confidence": 0.9999873639751784,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999827149515604,
+          "bbox": null
+        },
+        {
+          "text": "Tronchon",
+          "confidence": 0.9999993112357184,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "69570",
+          "confidence": 0.9999988794346746,
+          "bbox": null
+        },
+        {
+          "text": "DARDILLY",
+          "confidence": 0.9999939468853012,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999916554191085,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.999459403710494,
+          "bbox": null
+        },
+        {
+          "text": "SOLUTIONS",
+          "confidence": 0.9999939680474678,
+          "bbox": null
+        },
+        {
+          "text": "22",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": "chemin",
+          "confidence": 0.9999399221272516,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999609008813933,
+          "bbox": null
+        },
+        {
+          "text": "Tronchon",
+          "confidence": 0.9999907150234176,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999957084838798,
+          "bbox": null
+        },
+        {
+          "text": "69570",
+          "confidence": 0.9999956608071681,
+          "bbox": null
+        },
+        {
+          "text": "DARDILLY",
+          "confidence": 0.9999460966270011,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999899865198352,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999949932351057,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9992806130074818,
+          "bbox": null
+        },
+        {
+          "text": "TVA:",
+          "confidence": 0.9999880494887191,
+          "bbox": null
+        },
+        {
+          "text": "FR03919931410",
+          "confidence": 0.9995161941881616,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9875679994652715,
+          "bbox": null
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9963700485468068,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999967813595916,
+          "bbox": null
+        },
+        {
+          "text": "S27364",
+          "confidence": 0.9999769426343385,
+          "bbox": null
+        },
+        {
+          "text": "Date",
+          "confidence": 0.9999948740268748,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9997874950036895,
+          "bbox": null
+        },
+        {
+          "text": "devis",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9992496641112724,
+          "bbox": null
+        },
+        {
+          "text": "18/07/2025",
+          "confidence": 0.9999814041379966,
+          "bbox": null
+        },
+        {
+          "text": "Date",
+          "confidence": 0.9999953508594287,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999896288992495,
+          "bbox": null
+        },
+        {
+          "text": "livraison:",
+          "confidence": 0.9955258306234002,
+          "bbox": null
+        },
+        {
+          "text": "18/08/2025",
+          "confidence": 0.9999963760584489,
+          "bbox": null
+        },
+        {
+          "text": "Échéance",
+          "confidence": 0.9999410503422252,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999960661089133,
+          "bbox": null
+        },
+        {
+          "text": "17/08/2025",
+          "confidence": 0.9999919534537624,
+          "bbox": null
+        },
+        {
+          "text": "Vendeur",
+          "confidence": 0.9998646141454701,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999625696857427,
+          "bbox": null
+        },
+        {
+          "text": "Boris",
+          "confidence": 0.9999889613818495,
+          "bbox": null
+        },
+        {
+          "text": "Jean",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9920061147861319,
+          "bbox": null
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.9920061147861319,
+          "bbox": null
+        },
+        {
+          "text": "date",
+          "confidence": 0.9920061147861319,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999224007757245,
+          "bbox": null
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.990717816873378,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.990717816873378,
+          "bbox": null
+        },
+        {
+          "text": "unitaire",
+          "confidence": 0.9995118152516926,
+          "bbox": null
+        },
+        {
+          "text": "Taxes",
+          "confidence": 0.9995118152516926,
+          "bbox": null
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.9995118152516926,
+          "bbox": null
+        },
+        {
+          "text": "[CP035271]",
+          "confidence": 0.9995118152516926,
+          "bbox": null
+        },
+        {
+          "text": "DM455M10RT-B54HBT-V",
+          "confidence": 0.9991624098346581,
+          "bbox": null
+        },
+        {
+          "text": "DMEGC",
+          "confidence": 0.9197629456883551,
+          "bbox": null
+        },
+        {
+          "text": "MODULE",
+          "confidence": 0.9197629456883551,
+          "bbox": null
+        },
+        {
+          "text": "455",
+          "confidence": 0.9998833992720847,
+          "bbox": null
+        },
+        {
+          "text": "BI-VERRE",
+          "confidence": 0.9996680308219474,
+          "bbox": null
+        },
+        {
+          "text": "CADRE",
+          "confidence": 0.9999954303333621,
+          "bbox": null
+        },
+        {
+          "text": "NOIR",
+          "confidence": 0.9999513898576746,
+          "bbox": null
+        },
+        {
+          "text": "FOND",
+          "confidence": 0.9995883815197534,
+          "bbox": null
+        },
+        {
+          "text": "TRANSPARENT",
+          "confidence": 0.9995883815197534,
+          "bbox": null
+        },
+        {
+          "text": "N-TYPE",
+          "confidence": 0.9999893223953874,
+          "bbox": null
+        },
+        {
+          "text": "BC500",
+          "confidence": 0.9990489213064611,
+          "bbox": null
+        },
+        {
+          "text": "PPE2",
+          "confidence": 0.9945493664978375,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9945493664978375,
+          "bbox": null
+        },
+        {
+          "text": "CODE",
+          "confidence": 0.9999897481064004,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996008082936163,
+          "bbox": null
+        },
+        {
+          "text": "85414300",
+          "confidence": 0.9992568728451825,
+          "bbox": null
+        },
+        {
+          "text": "Poids:",
+          "confidence": 0.9992568728451825,
+          "bbox": null
+        },
+        {
+          "text": "24.5",
+          "confidence": 0.992414403511316,
+          "bbox": null
+        },
+        {
+          "text": "kg",
+          "confidence": 0.9998922019948235,
+          "bbox": null
+        },
+        {
+          "text": "Pays",
+          "confidence": 0.9998922019948235,
+          "bbox": null
+        },
+        {
+          "text": "origine:",
+          "confidence": 0.9992985241642686,
+          "bbox": null
+        },
+        {
+          "text": "chine",
+          "confidence": 0.9983058494315651,
+          "bbox": null
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9983058494315651,
+          "bbox": null
+        },
+        {
+          "text": "palette",
+          "confidence": 0.9998755609865043,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.999985218266486,
+          "bbox": null
+        },
+        {
+          "text": "36",
+          "confidence": 0.9999810461503373,
+          "bbox": null
+        },
+        {
+          "text": "Dim",
+          "confidence": 0.9999810461503373,
+          "bbox": null
+        },
+        {
+          "text": "1762",
+          "confidence": 0.9998763495459103,
+          "bbox": null
+        },
+        {
+          "text": "X",
+          "confidence": 0.9997835627846736,
+          "bbox": null
+        },
+        {
+          "text": "1134",
+          "confidence": 0.9999783521191704,
+          "bbox": null
+        },
+        {
+          "text": "X",
+          "confidence": 0.9999824765407688,
+          "bbox": null
+        },
+        {
+          "text": "30",
+          "confidence": 0.9999807530203243,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999807530203243,
+          "bbox": null
+        },
+        {
+          "text": "560,00",
+          "confidence": 0.9958069079962273,
+          "bbox": null
+        },
+        {
+          "text": "Unités",
+          "confidence": 0.9958069079962273,
+          "bbox": null
+        },
+        {
+          "text": "18/08/2025",
+          "confidence": 0.9958069079962273,
+          "bbox": null
+        },
+        {
+          "text": "49,49",
+          "confidence": 0.9958069079962273,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9366470357361687,
+          "bbox": null
+        },
+        {
+          "text": "Eco-participation,",
+          "confidence": 0.9366470357361687,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9366470357361687,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999692232778769,
+          "bbox": null
+        },
+        {
+          "text": "77",
+          "confidence": 0.9999692232778769,
+          "bbox": null
+        },
+        {
+          "text": "204,40",
+          "confidence": 0.9999857462603828,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9961166047394049,
+          "bbox": null
+        },
+        {
+          "text": "[FGKV01]",
+          "confidence": 0.9961166047394049,
+          "bbox": null
+        },
+        {
+          "text": "FRAIS",
+          "confidence": 0.9999815231493379,
+          "bbox": null
+        },
+        {
+          "text": "DE",
+          "confidence": 0.9999971389852362,
+          "bbox": null
+        },
+        {
+          "text": "PORT",
+          "confidence": 0.9999800924450729,
+          "bbox": null
+        },
+        {
+          "text": "VENTE",
+          "confidence": 0.9997813014501563,
+          "bbox": null
+        },
+        {
+          "text": "et",
+          "confidence": 0.9992585914504831,
+          "bbox": null
+        },
+        {
+          "text": "EMBALLAGE",
+          "confidence": 0.9994518238447969,
+          "bbox": null
+        },
+        {
+          "text": "Dep",
+          "confidence": 0.9994518238447969,
+          "bbox": null
+        },
+        {
+          "text": "13",
+          "confidence": 0.999994794573904,
+          "bbox": null
+        },
+        {
+          "text": "pour",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "les",
+          "confidence": 0.9999967813595916,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999942779875254,
+          "bbox": null
+        },
+        {
+          "text": "site",
+          "confidence": 0.9987220177701537,
+          "bbox": null
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9987220177701537,
+          "bbox": null
+        },
+        {
+          "text": "Unités",
+          "confidence": 0.9987220177701537,
+          "bbox": null
+        },
+        {
+          "text": "(1",
+          "confidence": 0.9998034709685248,
+          "bbox": null
+        },
+        {
+          "text": "carton)",
+          "confidence": 0.9926133453186228,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9926133453186228,
+          "bbox": null
+        },
+        {
+          "text": "750,00",
+          "confidence": 0.9999990803866993,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999655185075728,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999655185075728,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999986546425356,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999986546425356,
+          "bbox": null
+        },
+        {
+          "text": "750,00",
+          "confidence": 0.9999970368223512,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9998858455792111,
+          "bbox": null
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.9242345358603697,
+          "bbox": null
+        },
+        {
+          "text": "hors",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "taxes",
+          "confidence": 0.9680404434175887,
+          "bbox": null
+        },
+        {
+          "text": "78",
+          "confidence": 0.9680404434175887,
+          "bbox": null
+        },
+        {
+          "text": "954,40",
+          "confidence": 0.9999930859162627,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999976032900878,
+          "bbox": null
+        },
+        {
+          "text": "Eco-participations",
+          "confidence": 0.9996615134251813,
+          "bbox": null
+        },
+        {
+          "text": "93,60",
+          "confidence": 0.9996615134251813,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999997741299856,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9998357224131392,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999980628575433,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999992847447459,
+          "bbox": null
+        },
+        {
+          "text": "79",
+          "confidence": 0.9999757217059452,
+          "bbox": null
+        },
+        {
+          "text": "048,00",
+          "confidence": 0.999977708583469,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.999905635557925,
+          "bbox": null
+        },
+        {
+          "text": "15",
+          "confidence": 0.999905635557925,
+          "bbox": null
+        },
+        {
+          "text": "809,60",
+          "confidence": 0.9999776235972653,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999993474875473,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9914132806058563,
+          "bbox": null
+        },
+        {
+          "text": "94",
+          "confidence": 0.9914132806058563,
+          "bbox": null
+        },
+        {
+          "text": "857,60",
+          "confidence": 0.9999939374071453,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999985754586799,
+          "bbox": null
+        },
+        {
+          "text": "Conditions",
+          "confidence": 0.9999815229018083,
+          "bbox": null
+        },
+        {
+          "text": "générales",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996957512810026,
+          "bbox": null
+        },
+        {
+          "text": "https://www.mavisun.com/terms",
+          "confidence": 0.999866611410368,
+          "bbox": null
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.9998311011769575,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9927894250604857,
+          "bbox": null
+        },
+        {
+          "text": "829",
+          "confidence": 0.9985360496545287,
+          "bbox": null
+        },
+        {
+          "text": "138",
+          "confidence": 0.99953517204615,
+          "bbox": null
+        },
+        {
+          "text": "486",
+          "confidence": 0.9951977155020996,
+          "bbox": null
+        },
+        {
+          "text": "00032",
+          "confidence": 0.9970075718176599,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9958363808330131,
+          "bbox": null
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.9992644240877635,
+          "bbox": null
+        },
+        {
+          "text": "ANNECY",
+          "confidence": 0.987719088492979,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997126689886925,
+          "bbox": null
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.9908548649668697,
+          "bbox": null
+        },
+        {
+          "text": "AU",
+          "confidence": 0.9999684105356298,
+          "bbox": null
+        },
+        {
+          "text": "CAPITAL",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "DE",
+          "confidence": 0.9999923706636761,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999585770331862,
+          "bbox": null
+        },
+        {
+          "text": "050",
+          "confidence": 0.9953796759372413,
+          "bbox": null
+        },
+        {
+          "text": "000",
+          "confidence": 0.9999429616497117,
+          "bbox": null
+        },
+        {
+          "text": "EUROS",
+          "confidence": 0.9772712580391744,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.942324666765324,
+          "bbox": null
+        },
+        {
+          "text": "4669A",
+          "confidence": 0.980534543703018,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9983091382575893,
+          "bbox": null
+        },
+        {
+          "text": "N°",
+          "confidence": 0.9998163762588099,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999138191081796,
+          "bbox": null
+        },
+        {
+          "text": "INTRACOM",
+          "confidence": 0.9998299354665804,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.8316311829251614,
+          "bbox": null
+        },
+        {
+          "text": "FR",
+          "confidence": 0.6759631394395773,
+          "bbox": null
+        },
+        {
+          "text": "44",
+          "confidence": 0.9963349882670082,
+          "bbox": null
+        },
+        {
+          "text": "829",
+          "confidence": 0.998016512543431,
+          "bbox": null
+        },
+        {
+          "text": "138",
+          "confidence": 0.9995637952210945,
+          "bbox": null
+        },
+        {
+          "text": "486",
+          "confidence": 0.9995164606357608,
+          "bbox": null
+        },
+        {
+          "text": "ADRESSE",
+          "confidence": 0.9999745240753939,
+          "bbox": null
+        },
+        {
+          "text": "SIEGE",
+          "confidence": 0.9463178822648783,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996571524493582,
+          "bbox": null
+        },
+        {
+          "text": "320",
+          "confidence": 0.9999069671644555,
+          "bbox": null
+        },
+        {
+          "text": "ROUTE",
+          "confidence": 0.9999465973722834,
+          "bbox": null
+        },
+        {
+          "text": "DES",
+          "confidence": 0.9999609008813933,
+          "bbox": null
+        },
+        {
+          "text": "CONTAMINES",
+          "confidence": 0.9983086080531781,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9996161742492132,
+          "bbox": null
+        },
+        {
+          "text": "74370",
+          "confidence": 0.9999640597344642,
+          "bbox": null
+        },
+        {
+          "text": "ARGONAY",
+          "confidence": 0.9999478789022973,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997567530279656,
+          "bbox": null
+        },
+        {
+          "text": "IBAN",
+          "confidence": 0.9998975889344793,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.8522831505135521,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9911450891898622,
+          "bbox": null
+        },
+        {
+          "text": "FR7618106008109674722601319",
+          "confidence": 0.9743211254375168,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9998928423312176,
+          "bbox": null
+        },
+        {
+          "text": "IBAN",
+          "confidence": 0.9994254865038766,
+          "bbox": null
+        },
+        {
+          "text": "FCH",
+          "confidence": 0.9984500391364648,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9995632887422857,
+          "bbox": null
+        },
+        {
+          "text": "FR7618106008109675840938181",
+          "confidence": 0.987372327253814,
+          "bbox": null
+        },
+        {
+          "text": "Page",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999613776818321,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999994039540177,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999971985906217,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "MAVISUN MON ÉNERGIE PROPRE",
+          "type": "header",
+          "bbox": [
+            37,
+            16,
+            138,
+            61
+          ]
+        },
+        {
+          "text": "MAVISUN 320 Route des Contamines 74370 ARGONAY France",
+          "type": "header",
+          "bbox": [
+            190,
+            16,
+            147,
+            67
+          ]
+        },
+        {
+          "text": "Adresse de facturation :",
+          "type": "text",
+          "bbox": [
+            31,
+            136,
+            137,
+            15
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS 22 chemin du Tronchon 69570 DARDILLY France",
+          "type": "text",
+          "bbox": [
+            31,
+            154,
+            135,
+            63
+          ]
+        },
+        {
+          "text": "Adresse d'expédition :",
+          "type": "text",
+          "bbox": [
+            31,
+            220,
+            127,
+            14
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS 22 chemin du Tronchon 69570 DARDILLY France",
+          "type": "text",
+          "bbox": [
+            31,
+            237,
+            135,
+            64
+          ]
+        },
+        {
+          "text": "SFECO SOLUTIONS",
+          "type": "text",
+          "bbox": [
+            408,
+            136,
+            117,
+            15
+          ]
+        },
+        {
+          "text": "22 chemin du Tronchon 69570 DARDILLY France TVA: FR03919931410",
+          "type": "text",
+          "bbox": [
+            408,
+            154,
+            135,
+            62
+          ]
+        },
+        {
+          "text": "Devis S27364",
+          "type": "title",
+          "bbox": [
+            31,
+            324,
+            179,
+            28
+          ]
+        },
+        {
+          "text": "Date du devis :",
+          "type": "text",
+          "bbox": [
+            31,
+            377,
+            88,
+            16
+          ]
+        },
+        {
+          "text": "18/07/2025",
+          "type": "text",
+          "bbox": [
+            31,
+            395,
+            73,
+            15
+          ]
+        },
+        {
+          "text": "Date de livraison:",
+          "type": "text",
+          "bbox": [
+            194,
+            377,
+            100,
+            16
+          ]
+        },
+        {
+          "text": "18/08/2025",
+          "type": "text",
+          "bbox": [
+            194,
+            395,
+            72,
+            15
+          ]
+        },
+        {
+          "text": "Échéance :",
+          "type": "text",
+          "bbox": [
+            355,
+            377,
+            64,
+            16
+          ]
+        },
+        {
+          "text": "17/08/2025",
+          "type": "text",
+          "bbox": [
+            355,
+            395,
+            73,
+            15
+          ]
+        },
+        {
+          "text": "Vendeur :",
+          "type": "text",
+          "bbox": [
+            516,
+            377,
+            59,
+            16
+          ]
+        },
+        {
+          "text": "Boris Jean",
+          "type": "text",
+          "bbox": [
+            516,
+            395,
+            62,
+            15
+          ]
+        },
+        {
+          "text": "Description Quantité date de livraison Prix unitaire Taxes Montant [CP035271] DM455M10RT-B54HBT-V DMEGC MODULE 455 BI-VERRE CADRE NOIR FOND TRANSPARENT N-TYPE BC500 PPE2 HS CODE : 85414300 Poids: 24.5 kg Pays origine: chine Qté palette : 36 Dim 1762 X 1134 X 30 1 560,00 Unités 18/08/2025 49,49 € Eco-participation, TVA 20% 77 204,40 € [FGKV01] FRAIS DE PORT VENTE et EMBALLAGE Dep 13 pour les 3 site 1,00 Unités (1 carton) 1 750,00 € TVA 20% 1 750,00 € Montant hors taxes 78 954,40 € Eco-participations 93,60 € TVA 20% sur 79 048,00 € 15 809,60 € Total 94 857,60 €",
+          "type": "table",
+          "bbox": [
+            31,
+            440,
+            651,
+            358
+          ]
+        },
+        {
+          "text": "Conditions générales : https://www.mavisun.com/terms",
+          "type": "text",
+          "bbox": [
+            31,
+            815,
+            312,
+            17
+          ]
+        },
+        {
+          "text": "SIRET : 829 138 486 00032 - RCS ANNECY - SAS AU CAPITAL DE 1 050 000 EUROS APE 4669A - N° TVA INTRACOM : FR 44 829 138 486",
+          "type": "footer",
+          "bbox": [
+            109,
+            914,
+            489,
+            12
+          ]
+        },
+        {
+          "text": "ADRESSE SIEGE : 320 ROUTE DES CONTAMINES - 74370 ARGONAY - IBAN € : FR7618106008109674722601319 - IBAN FCH : FR7618106008109675840938181",
+          "type": "footer",
+          "bbox": [
+            69,
+            932,
+            575,
+            13
+          ]
+        },
+        {
+          "text": "Page : 1 sur 1",
+          "type": "footer",
+          "bbox": [
+            319,
+            998,
+            78,
+            17
+          ]
+        }
+      ],
+      "avg_confidence": 0.9933596316814306,
+      "min_confidence": 0.6759631394395773
+    }
+  ]
+}

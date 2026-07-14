@@ -1,0 +1,1798 @@
+{
+  "engine": "mistralocr",
+  "model": "mistral-ocr-4-0",
+  "duration_seconds": 0.56,
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 225,
+      "words": [
+        {
+          "text": "DEVIS",
+          "confidence": 0.9966400661742992,
+          "bbox": null
+        },
+        {
+          "text": ":DE198055",
+          "confidence": 0.9214868611775119,
+          "bbox": null
+        },
+        {
+          "text": "SAINT",
+          "confidence": 0.999350250926288,
+          "bbox": null
+        },
+        {
+          "text": "ALBAN,",
+          "confidence": 0.9997913294426821,
+          "bbox": null
+        },
+        {
+          "text": "20/01/2025",
+          "confidence": 0.9999487881085528,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.9305843809042066,
+          "bbox": null
+        },
+        {
+          "text": "84000",
+          "confidence": 0.9995883773079894,
+          "bbox": null
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.9786988650199858,
+          "bbox": null
+        },
+        {
+          "text": "Durée",
+          "confidence": 0.9998339690249877,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999095283384027,
+          "bbox": null
+        },
+        {
+          "text": "validité",
+          "confidence": 0.99985863777234,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998859297211151,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999981522611296,
+          "bbox": null
+        },
+        {
+          "text": "mois",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9956918202878081,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.996304510364437,
+          "bbox": null
+        },
+        {
+          "text": "VAILOG",
+          "confidence": 0.9975364332648448,
+          "bbox": null
+        },
+        {
+          "text": "Chantier",
+          "confidence": 0.9996855108698844,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.99610894943585,
+          "bbox": null
+        },
+        {
+          "text": "Votre",
+          "confidence": 0.9998684102614147,
+          "bbox": null
+        },
+        {
+          "text": "contact",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999672185211188,
+          "bbox": null
+        },
+        {
+          "text": "Maxime",
+          "confidence": 0.999774673272738,
+          "bbox": null
+        },
+        {
+          "text": "AZOULAY",
+          "confidence": 0.9997732811848454,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999860527077029,
+          "bbox": null
+        },
+        {
+          "text": "Email",
+          "confidence": 0.9999817613105537,
+          "bbox": null
+        },
+        {
+          "text": "maxime.azoulay@tmireseau.fr",
+          "confidence": 0.9927806296177808,
+          "bbox": null
+        },
+        {
+          "text": "Page",
+          "confidence": 0.9960676702479223,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9995154118246452,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999955892755635,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9998288452428439,
+          "bbox": null
+        },
+        {
+          "text": "N°",
+          "confidence": 0.9998439647066865,
+          "bbox": null
+        },
+        {
+          "text": "Désignation",
+          "confidence": 0.9998439647066865,
+          "bbox": null
+        },
+        {
+          "text": "Unit.",
+          "confidence": 0.9998439647066865,
+          "bbox": null
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9998439647066865,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.9998439647066865,
+          "bbox": null
+        },
+        {
+          "text": "unitaire",
+          "confidence": 0.988720598229209,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.988720598229209,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.988720598229209,
+          "bbox": null
+        },
+        {
+          "text": "TGBT",
+          "confidence": 0.988720598229209,
+          "bbox": null
+        },
+        {
+          "text": "4,00",
+          "confidence": 0.988720598229209,
+          "bbox": null
+        },
+        {
+          "text": "34",
+          "confidence": 0.988720598229209,
+          "bbox": null
+        },
+        {
+          "text": "661,90€",
+          "confidence": 0.999964263964715,
+          "bbox": null
+        },
+        {
+          "text": "138",
+          "confidence": 0.999964263964715,
+          "bbox": null
+        },
+        {
+          "text": "647,60€",
+          "confidence": 0.9951544313543248,
+          "bbox": null
+        },
+        {
+          "text": "1.1",
+          "confidence": 0.9951544313543248,
+          "bbox": null
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9951544313543248,
+          "bbox": null
+        },
+        {
+          "text": "COMPRENANT",
+          "confidence": 0.9978848028276089,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9997892244503735,
+          "bbox": null
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9997892244503735,
+          "bbox": null
+        },
+        {
+          "text": "34",
+          "confidence": 0.9997892244503735,
+          "bbox": null
+        },
+        {
+          "text": "661,90€",
+          "confidence": 0.9999996377876034,
+          "bbox": null
+        },
+        {
+          "text": "34",
+          "confidence": 0.9999996377876034,
+          "bbox": null
+        },
+        {
+          "text": "661,90€",
+          "confidence": 0.9999724279094387,
+          "bbox": null
+        },
+        {
+          "text": "1.1.1",
+          "confidence": 0.9999724279094387,
+          "bbox": null
+        },
+        {
+          "text": "Armoire",
+          "confidence": 0.9999724279094387,
+          "bbox": null
+        },
+        {
+          "text": "prisma",
+          "confidence": 0.999757110481616,
+          "bbox": null
+        },
+        {
+          "text": "P",
+          "confidence": 0.9999864103261001,
+          "bbox": null
+        },
+        {
+          "text": "avec",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "porte",
+          "confidence": 0.9999786619922026,
+          "bbox": null
+        },
+        {
+          "text": "pleine",
+          "confidence": 0.9999790992859353,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999790992859353,
+          "bbox": null
+        },
+        {
+          "text": "1.1.2",
+          "confidence": 0.9999790992859353,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9999790992859353,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "protection",
+          "confidence": 0.9999681721318864,
+          "bbox": null
+        },
+        {
+          "text": "Schneider",
+          "confidence": 0.9999823573372132,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998681518046898,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9998681518046898,
+          "bbox": null
+        },
+        {
+          "text": "1.1.3",
+          "confidence": 0.9998681518046898,
+          "bbox": null
+        },
+        {
+          "text": "MTZ2",
+          "confidence": 0.9998681518046898,
+          "bbox": null
+        },
+        {
+          "text": "3P",
+          "confidence": 0.9999954700702933,
+          "bbox": null
+        },
+        {
+          "text": "3200A",
+          "confidence": 0.9999778281969682,
+          "bbox": null
+        },
+        {
+          "text": "H1",
+          "confidence": 0.9999901454715546,
+          "bbox": null
+        },
+        {
+          "text": "débrochable",
+          "confidence": 0.988091947920357,
+          "bbox": null
+        },
+        {
+          "text": "avec",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "motorisation",
+          "confidence": 0.9998993691374052,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9998993691374052,
+          "bbox": null
+        },
+        {
+          "text": "1.1.4",
+          "confidence": 0.9998993691374052,
+          "bbox": null
+        },
+        {
+          "text": "Disjoncteur",
+          "confidence": 0.9998993691374052,
+          "bbox": null
+        },
+        {
+          "text": "EasyPact",
+          "confidence": 0.9999543248200127,
+          "bbox": null
+        },
+        {
+          "text": "Solar",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "500A",
+          "confidence": 0.9999826673061518,
+          "bbox": null
+        },
+        {
+          "text": "50kA",
+          "confidence": 0.999992234972557,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.999992234972557,
+          "bbox": null
+        },
+        {
+          "text": "1.1.5",
+          "confidence": 0.999992234972557,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.999992234972557,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "bornes",
+          "confidence": 0.999957884925547,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.999957884925547,
+          "bbox": null
+        },
+        {
+          "text": "1.1.6",
+          "confidence": 0.999957884925547,
+          "bbox": null
+        },
+        {
+          "text": "Petites",
+          "confidence": 0.999957884925547,
+          "bbox": null
+        },
+        {
+          "text": "Fournitures",
+          "confidence": 0.9999092309278473,
+          "bbox": null
+        },
+        {
+          "text": "(dont",
+          "confidence": 0.9999969800405906,
+          "bbox": null
+        },
+        {
+          "text": "flexibar",
+          "confidence": 0.978566739968803,
+          "bbox": null
+        },
+        {
+          "text": "32/5)",
+          "confidence": 0.9999810568244488,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999810568244488,
+          "bbox": null
+        },
+        {
+          "text": "1.1.7",
+          "confidence": 0.9999810568244488,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9999810568244488,
+          "bbox": null
+        },
+        {
+          "text": "d'étiquettes",
+          "confidence": 0.9984873093852483,
+          "bbox": null
+        },
+        {
+          "text": "50x20",
+          "confidence": 0.9999985407833067,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999985407833067,
+          "bbox": null
+        },
+        {
+          "text": "1.1.8",
+          "confidence": 0.9999985407833067,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9999985407833067,
+          "bbox": null
+        },
+        {
+          "text": "d'étiquettes",
+          "confidence": 0.9999856952791566,
+          "bbox": null
+        },
+        {
+          "text": "30x15",
+          "confidence": 0.9999978633167925,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999978633167925,
+          "bbox": null
+        },
+        {
+          "text": "1.1.9",
+          "confidence": 0.9999978633167925,
+          "bbox": null
+        },
+        {
+          "text": "Main",
+          "confidence": 0.9999978633167925,
+          "bbox": null
+        },
+        {
+          "text": "d'œuvre",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "1.1.10",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "Transport",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "Info:",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "Datalogger",
+          "confidence": 0.9995684137411955,
+          "bbox": null
+        },
+        {
+          "text": "non",
+          "confidence": 0.9999952316511552,
+          "bbox": null
+        },
+        {
+          "text": "chiffré",
+          "confidence": 0.9999524818560886,
+          "bbox": null
+        },
+        {
+          "text": "CPI",
+          "confidence": 0.9999524818560886,
+          "bbox": null
+        },
+        {
+          "text": "non",
+          "confidence": 0.9999980926550052,
+          "bbox": null
+        },
+        {
+          "text": "chiffré",
+          "confidence": 0.9998061745137569,
+          "bbox": null
+        },
+        {
+          "text": "Transfo",
+          "confidence": 0.9998061745137569,
+          "bbox": null
+        },
+        {
+          "text": "800V/400V",
+          "confidence": 0.999992287251692,
+          "bbox": null
+        },
+        {
+          "text": "non",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "chiffré",
+          "confidence": 0.9999858064834225,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999858064834225,
+          "bbox": null
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9999858064834225,
+          "bbox": null
+        },
+        {
+          "text": "AC",
+          "confidence": 0.9998586748696102,
+          "bbox": null
+        },
+        {
+          "text": "24,00",
+          "confidence": 0.9998586748696102,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9998586748696102,
+          "bbox": null
+        },
+        {
+          "text": "181,35€",
+          "confidence": 0.9999979046861268,
+          "bbox": null
+        },
+        {
+          "text": "76",
+          "confidence": 0.9999979046861268,
+          "bbox": null
+        },
+        {
+          "text": "352,40€",
+          "confidence": 0.9999960620990707,
+          "bbox": null
+        },
+        {
+          "text": "2.1",
+          "confidence": 0.9999960620990707,
+          "bbox": null
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9999960620990707,
+          "bbox": null
+        },
+        {
+          "text": "COMPRENANT",
+          "confidence": 0.9999961311321565,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999991729892587,
+          "bbox": null
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.9999991729892587,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999991729892587,
+          "bbox": null
+        },
+        {
+          "text": "181,35€",
+          "confidence": 0.9999996376049305,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999996376049305,
+          "bbox": null
+        },
+        {
+          "text": "181,35€",
+          "confidence": 0.9999655605368457,
+          "bbox": null
+        },
+        {
+          "text": "2.1.1",
+          "confidence": 0.9999655605368457,
+          "bbox": null
+        },
+        {
+          "text": "Coffret",
+          "confidence": 0.9999655605368457,
+          "bbox": null
+        },
+        {
+          "text": "polyester",
+          "confidence": 0.999948146649529,
+          "bbox": null
+        },
+        {
+          "text": "1000x800x355",
+          "confidence": 0.9998951266669635,
+          "bbox": null
+        },
+        {
+          "text": "avec",
+          "confidence": 0.9999934435319415,
+          "bbox": null
+        },
+        {
+          "text": "pattes",
+          "confidence": 0.9998460025142585,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999973774024795,
+          "bbox": null
+        },
+        {
+          "text": "fixation",
+          "confidence": 0.9999919301352375,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999919301352375,
+          "bbox": null
+        },
+        {
+          "text": "2.1.2",
+          "confidence": 0.9999919301352375,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9999919301352375,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999967813595916,
+          "bbox": null
+        },
+        {
+          "text": "protection",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "Schneider",
+          "confidence": 0.999993205116773,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999944350917171,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999944350917171,
+          "bbox": null
+        },
+        {
+          "text": "2.1.3",
+          "confidence": 0.9999944350917171,
+          "bbox": null
+        },
+        {
+          "text": "Disjoncteur",
+          "confidence": 0.9999944350917171,
+          "bbox": null
+        },
+        {
+          "text": "EasyPact",
+          "confidence": 0.9999990595728278,
+          "bbox": null
+        },
+        {
+          "text": "Solar",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "500A",
+          "confidence": 0.9999962330027767,
+          "bbox": null
+        },
+        {
+          "text": "36kA",
+          "confidence": 0.9999612351133222,
+          "bbox": null
+        },
+        {
+          "text": "avec",
+          "confidence": 0.9998547049825197,
+          "bbox": null
+        },
+        {
+          "text": "bobine",
+          "confidence": 0.9999749156028349,
+          "bbox": null
+        },
+        {
+          "text": "MX",
+          "confidence": 0.999980822261744,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.999980822261744,
+          "bbox": null
+        },
+        {
+          "text": "2.1.4",
+          "confidence": 0.999980822261744,
+          "bbox": null
+        },
+        {
+          "text": "Disjoncteur",
+          "confidence": 0.999980822261744,
+          "bbox": null
+        },
+        {
+          "text": "EasyPact",
+          "confidence": 0.9999987549274036,
+          "bbox": null
+        },
+        {
+          "text": "Solar",
+          "confidence": 0.9999980926550052,
+          "bbox": null
+        },
+        {
+          "text": "250",
+          "confidence": 0.9999696621812256,
+          "bbox": null
+        },
+        {
+          "text": "36kA",
+          "confidence": 0.9998633034560557,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9998633034560557,
+          "bbox": null
+        },
+        {
+          "text": "2.1.5",
+          "confidence": 0.9998633034560557,
+          "bbox": null
+        },
+        {
+          "text": "Parafoudre",
+          "confidence": 0.9998633034560557,
+          "bbox": null
+        },
+        {
+          "text": "Citel",
+          "confidence": 0.9982719937017933,
+          "bbox": null
+        },
+        {
+          "text": "autoprotegé",
+          "confidence": 0.9957274286498906,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9957274286498906,
+          "bbox": null
+        },
+        {
+          "text": "2.1.6",
+          "confidence": 0.9957274286498906,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9957274286498906,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "bornes",
+          "confidence": 0.9999981806676814,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999981806676814,
+          "bbox": null
+        },
+        {
+          "text": "2.1.7",
+          "confidence": 0.9999981806676814,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9999981806676814,
+          "bbox": null
+        },
+        {
+          "text": "d'étiquettes",
+          "confidence": 0.9999930217645291,
+          "bbox": null
+        },
+        {
+          "text": "50x20",
+          "confidence": 0.9999990520817603,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999990520817603,
+          "bbox": null
+        },
+        {
+          "text": "2.1.8",
+          "confidence": 0.9999990520817603,
+          "bbox": null
+        },
+        {
+          "text": "Ensemble",
+          "confidence": 0.9999990520817603,
+          "bbox": null
+        },
+        {
+          "text": "d'étiquettes",
+          "confidence": 0.9999937645127793,
+          "bbox": null
+        },
+        {
+          "text": "30x15",
+          "confidence": 0.99999934923737,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.99999934923737,
+          "bbox": null
+        },
+        {
+          "text": "TMI",
+          "confidence": 0.9978932486096198,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.999931697745375,
+          "bbox": null
+        },
+        {
+          "text": "43",
+          "confidence": 0.9999867679666045,
+          "bbox": null
+        },
+        {
+          "text": "AV",
+          "confidence": 0.9987623531294957,
+          "bbox": null
+        },
+        {
+          "text": "LEON",
+          "confidence": 0.9999731309661916,
+          "bbox": null
+        },
+        {
+          "text": "JOUHAUX",
+          "confidence": 0.9981051036775658,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999971389852362,
+          "bbox": null
+        },
+        {
+          "text": "31140",
+          "confidence": 0.9992852425362014,
+          "bbox": null
+        },
+        {
+          "text": "SAINT",
+          "confidence": 0.9999810460826691,
+          "bbox": null
+        },
+        {
+          "text": "ALBAN",
+          "confidence": 0.9999712715846127,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999879600069962,
+          "bbox": null
+        },
+        {
+          "text": "Siret:",
+          "confidence": 0.9994566354591402,
+          "bbox": null
+        },
+        {
+          "text": "421",
+          "confidence": 0.9999925196783118,
+          "bbox": null
+        },
+        {
+          "text": "999",
+          "confidence": 0.999878810790569,
+          "bbox": null
+        },
+        {
+          "text": "731",
+          "confidence": 0.9999855759052755,
+          "bbox": null
+        },
+        {
+          "text": "00050",
+          "confidence": 0.9999754833156166,
+          "bbox": null
+        },
+        {
+          "text": "Tel:",
+          "confidence": 0.9985398903133462,
+          "bbox": null
+        },
+        {
+          "text": "05.62.21.32.42",
+          "confidence": 0.9999288007302577,
+          "bbox": null
+        },
+        {
+          "text": "SARL",
+          "confidence": 0.999989867313338,
+          "bbox": null
+        },
+        {
+          "text": "au",
+          "confidence": 0.9999935627400018,
+          "bbox": null
+        },
+        {
+          "text": "capital",
+          "confidence": 0.999974847472739,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999803308534772,
+          "bbox": null
+        },
+        {
+          "text": "300",
+          "confidence": 0.9999298212785135,
+          "bbox": null
+        },
+        {
+          "text": "000€",
+          "confidence": 0.9988059076726709,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999798540367254,
+          "bbox": null
+        },
+        {
+          "text": "TVA:",
+          "confidence": 0.9999160599052292,
+          "bbox": null
+        },
+        {
+          "text": "FR19421999731",
+          "confidence": 0.9989638870424769,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999862911193472,
+          "bbox": null
+        },
+        {
+          "text": "APE:",
+          "confidence": 0.999858925295038,
+          "bbox": null
+        },
+        {
+          "text": "4669A",
+          "confidence": 0.9991221061969409,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "![img-0.jpeg](img-0.jpeg)",
+          "type": "image",
+          "bbox": [
+            24,
+            12,
+            277,
+            107
+          ]
+        },
+        {
+          "text": "DEVIS :DE198055",
+          "type": "text",
+          "bbox": [
+            48,
+            165,
+            149,
+            19
+          ]
+        },
+        {
+          "text": "SAINT ALBAN, 20/01/2025",
+          "type": "text",
+          "bbox": [
+            125,
+            212,
+            147,
+            15
+          ]
+        },
+        {
+          "text": "SFECO",
+          "type": "text",
+          "bbox": [
+            378,
+            165,
+            49,
+            14
+          ]
+        },
+        {
+          "text": "84000 AVIGNON",
+          "type": "text",
+          "bbox": [
+            378,
+            215,
+            122,
+            15
+          ]
+        },
+        {
+          "text": "Durée de validité : 2 mois",
+          "type": "text",
+          "bbox": [
+            378,
+            263,
+            131,
+            14
+          ]
+        },
+        {
+          "text": "Description : VAILOG",
+          "type": "text",
+          "bbox": [
+            26,
+            285,
+            151,
+            15
+          ]
+        },
+        {
+          "text": "Chantier :",
+          "type": "text",
+          "bbox": [
+            26,
+            302,
+            53,
+            13
+          ]
+        },
+        {
+          "text": "Votre contact : Maxime AZOULAY - Email maxime.azoulay@tmireseau.fr",
+          "type": "text",
+          "bbox": [
+            26,
+            316,
+            384,
+            15
+          ]
+        },
+        {
+          "text": "Page 1 sur 2",
+          "type": "text",
+          "bbox": [
+            623,
+            367,
+            67,
+            16
+          ]
+        },
+        {
+          "text": "N° Désignation Unit. Qté Prix unitaire Total 1 TGBT 4,00 34 661,90€ 138 647,60€ 1.1 ARMOIRE COMPRENANT : 1,00 34 661,90€ 34 661,90€ 1.1.1 Armoire prisma P avec porte pleine U 1.1.2 Ensemble de protection Schneider : U 1.1.3 MTZ2 3P 3200A H1 débrochable avec motorisation U 1.1.4 Disjoncteur EasyPact Solar 500A 50kA U 1.1.5 Ensemble de bornes U 1.1.6 Petites Fournitures (dont flexibar 32/5) U 1.1.7 Ensemble d'étiquettes 50x20 U 1.1.8 Ensemble d'étiquettes 30x15 U 1.1.9 Main d'œuvre U 1.1.10 Transport U Info: Datalogger non chiffré CPI non chiffré Transfo 800V/400V non chiffré 2 ARMOIRE AC 24,00 3 181,35€ 76 352,40€ 2.1 ARMOIRE COMPRENANT : 1,00 3 181,35€ 3 181,35€ 2.1.1 Coffret polyester 1000x800x355 avec pattes de fixation U 2.1.2 Ensemble de protection Schneider : U 2.1.3 Disjoncteur EasyPact Solar 500A 36kA avec bobine MX U 2.1.4 Disjoncteur EasyPact Solar 250 36kA U 2.1.5 Parafoudre Citel autoprotegé U 2.1.6 Ensemble de bornes U 2.1.7 Ensemble d'étiquettes 50x20 U 2.1.8 Ensemble d'étiquettes 30x15 U",
+          "type": "table",
+          "bbox": [
+            22,
+            389,
+            666,
+            533
+          ]
+        },
+        {
+          "text": "TMI - 43 AV LEON JOUHAUX - 31140 SAINT ALBAN - Siret: 421 999 731 00050",
+          "type": "footer",
+          "bbox": [
+            198,
+            949,
+            317,
+            13
+          ]
+        },
+        {
+          "text": "Tel: 05.62.21.32.42",
+          "type": "footer",
+          "bbox": [
+            318,
+            963,
+            78,
+            12
+          ]
+        },
+        {
+          "text": "SARL au capital de 300 000€ - TVA: FR19421999731 - APE: 4669A",
+          "type": "footer",
+          "bbox": [
+            225,
+            979,
+            264,
+            14
+          ]
+        }
+      ],
+      "avg_confidence": 0.9983989253123848,
+      "min_confidence": 0.9214868611775119
+    },
+    {
+      "page_number": 2,
+      "word_count": 81,
+      "words": [
+        {
+          "text": "Devis",
+          "confidence": 0.9993401633615955,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9995032633448353,
+          "bbox": null
+        },
+        {
+          "text": "DE198055.00",
+          "confidence": 0.9175092193172415,
+          "bbox": null
+        },
+        {
+          "text": "(A)",
+          "confidence": 0.9999993145471611,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "20/01/2025",
+          "confidence": 0.9999997724187092,
+          "bbox": null
+        },
+        {
+          "text": "Page",
+          "confidence": 0.999998927117538,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999997615815062,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999935627477325,
+          "bbox": null
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9996229640044612,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999537489348336,
+          "bbox": null
+        },
+        {
+          "text": "VAILOG",
+          "confidence": 0.9920972212826169,
+          "bbox": null
+        },
+        {
+          "text": "N°",
+          "confidence": 0.9997009092698569,
+          "bbox": null
+        },
+        {
+          "text": "Désignation",
+          "confidence": 0.9997009092698569,
+          "bbox": null
+        },
+        {
+          "text": "Unit.",
+          "confidence": 0.9997009092698569,
+          "bbox": null
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.9997009092698569,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.9997009092698569,
+          "bbox": null
+        },
+        {
+          "text": "unitaire",
+          "confidence": 0.9999987901184194,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999987901184194,
+          "bbox": null
+        },
+        {
+          "text": "2.1.9",
+          "confidence": 0.9999987901184194,
+          "bbox": null
+        },
+        {
+          "text": "Main",
+          "confidence": 0.9999987901184194,
+          "bbox": null
+        },
+        {
+          "text": "d'œuvre",
+          "confidence": 0.9994908701514293,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9994908701514293,
+          "bbox": null
+        },
+        {
+          "text": "2.1.10",
+          "confidence": 0.9994908701514293,
+          "bbox": null
+        },
+        {
+          "text": "Transport",
+          "confidence": 0.9994908701514293,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9994908701514293,
+          "bbox": null
+        },
+        {
+          "text": "Mode",
+          "confidence": 0.8727665838319575,
+          "bbox": null
+        },
+        {
+          "text": "règlement",
+          "confidence": 0.9951033738460399,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998334923544098,
+          "bbox": null
+        },
+        {
+          "text": "Virement",
+          "confidence": 0.9998106675186554,
+          "bbox": null
+        },
+        {
+          "text": "à",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "45",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "jours",
+          "confidence": 0.9999856786160567,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9975517840859093,
+          "bbox": null
+        },
+        {
+          "text": "acquittée",
+          "confidence": 0.9997697575377104,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999916554191085,
+          "bbox": null
+        },
+        {
+          "text": "encaissement",
+          "confidence": 0.9978996250740967,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9727638446194418,
+          "bbox": null
+        },
+        {
+          "text": "HT",
+          "confidence": 0.9994449192770234,
+          "bbox": null
+        },
+        {
+          "text": "215",
+          "confidence": 0.9994449192770234,
+          "bbox": null
+        },
+        {
+          "text": "000,00€",
+          "confidence": 0.9998819017184996,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9998819017184996,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999948740268748,
+          "bbox": null
+        },
+        {
+          "text": "(20.00%)",
+          "confidence": 0.9998254920863707,
+          "bbox": null
+        },
+        {
+          "text": "43",
+          "confidence": 0.9998254920863707,
+          "bbox": null
+        },
+        {
+          "text": "000,00€",
+          "confidence": 0.9999996423724795,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999996423724795,
+          "bbox": null
+        },
+        {
+          "text": "TTC",
+          "confidence": 0.9999960609525682,
+          "bbox": null
+        },
+        {
+          "text": "258",
+          "confidence": 0.9999960609525682,
+          "bbox": null
+        },
+        {
+          "text": "000,00€",
+          "confidence": 0.9999997576079181,
+          "bbox": null
+        },
+        {
+          "text": "TMI",
+          "confidence": 0.9450337516848957,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "43",
+          "confidence": 0.9999996821086591,
+          "bbox": null
+        },
+        {
+          "text": "AV",
+          "confidence": 0.9992996594014745,
+          "bbox": null
+        },
+        {
+          "text": "LEON",
+          "confidence": 0.9999926090924244,
+          "bbox": null
+        },
+        {
+          "text": "JOUHAUX",
+          "confidence": 0.9994768700911307,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "31140",
+          "confidence": 0.9999620544654274,
+          "bbox": null
+        },
+        {
+          "text": "SAINT",
+          "confidence": 0.999985218266486,
+          "bbox": null
+        },
+        {
+          "text": "ALBAN",
+          "confidence": 0.9999122137217256,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "Siret:",
+          "confidence": 0.9997250669567829,
+          "bbox": null
+        },
+        {
+          "text": "421",
+          "confidence": 0.9999997019768649,
+          "bbox": null
+        },
+        {
+          "text": "999",
+          "confidence": 0.9999885858514965,
+          "bbox": null
+        },
+        {
+          "text": "731",
+          "confidence": 0.9999996423722735,
+          "bbox": null
+        },
+        {
+          "text": "00050",
+          "confidence": 0.999997695292832,
+          "bbox": null
+        },
+        {
+          "text": "Tel:",
+          "confidence": 0.9998508354023109,
+          "bbox": null
+        },
+        {
+          "text": "05.62.21.32.42",
+          "confidence": 0.9999954303488092,
+          "bbox": null
+        },
+        {
+          "text": "SARL",
+          "confidence": 0.9999972283920937,
+          "bbox": null
+        },
+        {
+          "text": "au",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "capital",
+          "confidence": 0.9999965429424904,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "300",
+          "confidence": 0.9999981224578396,
+          "bbox": null
+        },
+        {
+          "text": "000€",
+          "confidence": 0.9994093375218264,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "TVA:",
+          "confidence": 0.9998065409738339,
+          "bbox": null
+        },
+        {
+          "text": "FR19421999731",
+          "confidence": 0.9998561770590282,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "APE:",
+          "confidence": 0.9999563955022585,
+          "bbox": null
+        },
+        {
+          "text": "4669A",
+          "confidence": 0.9999820793064436,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "Devis : DE198055.00 (A) du 20/01/2025",
+          "type": "header",
+          "bbox": [
+            25,
+            22,
+            283,
+            18
+          ]
+        },
+        {
+          "text": "Page 2 sur 2",
+          "type": "header",
+          "bbox": [
+            620,
+            22,
+            69,
+            18
+          ]
+        },
+        {
+          "text": "Description : VAILOG",
+          "type": "header",
+          "bbox": [
+            25,
+            41,
+            153,
+            17
+          ]
+        },
+        {
+          "text": "N° Désignation Unit. Qté Prix unitaire Total 2.1.9 Main d'œuvre U 2.1.10 Transport U",
+          "type": "table",
+          "bbox": [
+            22,
+            58,
+            663,
+            75
+          ]
+        },
+        {
+          "text": "Mode règlement : Virement à 45 jours",
+          "type": "text",
+          "bbox": [
+            22,
+            152,
+            176,
+            15
+          ]
+        },
+        {
+          "text": "TVA acquittée sur encaissement",
+          "type": "text",
+          "bbox": [
+            22,
+            178,
+            147,
+            16
+          ]
+        },
+        {
+          "text": "Total HT 215 000,00€ Total TVA (20.00%) 43 000,00€ Total TTC 258 000,00€",
+          "type": "table",
+          "bbox": [
+            354,
+            148,
+            331,
+            73
+          ]
+        },
+        {
+          "text": "TMI - 43 AV LEON JOUHAUX - 31140 SAINT ALBAN - Siret: 421 999 731 00050",
+          "type": "footer",
+          "bbox": [
+            198,
+            948,
+            317,
+            15
+          ]
+        },
+        {
+          "text": "Tel: 05.62.21.32.42",
+          "type": "footer",
+          "bbox": [
+            318,
+            962,
+            79,
+            14
+          ]
+        },
+        {
+          "text": "SARL au capital de 300 000€ - TVA: FR19421999731 - APE: 4669A",
+          "type": "footer",
+          "bbox": [
+            223,
+            978,
+            267,
+            16
+          ]
+        }
+      ],
+      "avg_confidence": 0.9960486674990888,
+      "min_confidence": 0.8727665838319575
+    }
+  ]
+}

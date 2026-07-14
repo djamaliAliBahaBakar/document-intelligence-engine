@@ -1,0 +1,614 @@
+{
+  "engine": "paddleocr",
+  "document": "devis_12.pdf",
+  "duration_seconds": 11.561,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 60,
+      "words": [
+        {
+          "text": "sol-direct.fr",
+          "confidence": 0.9999719262123108,
+          "bbox": [
+            99,
+            110,
+            304,
+            148
+          ]
+        },
+        {
+          "text": "Devis #13385",
+          "confidence": 0.9999287128448486,
+          "bbox": [
+            574,
+            117,
+            772,
+            145
+          ]
+        },
+        {
+          "text": "10 Place du Temple Neuf",
+          "confidence": 0.9912624359130859,
+          "bbox": [
+            99,
+            160,
+            302,
+            181
+          ]
+        },
+        {
+          "text": "du 28 février 2025",
+          "confidence": 0.999954879283905,
+          "bbox": [
+            570,
+            161,
+            723,
+            182
+          ]
+        },
+        {
+          "text": "67000 STRASBOURG - FR",
+          "confidence": 0.9991432428359985,
+          "bbox": [
+            98,
+            188,
+            300,
+            208
+          ]
+        },
+        {
+          "text": "03 67 10 69 60 - commercial@sol-direct.fr",
+          "confidence": 0.9981001019477844,
+          "bbox": [
+            97,
+            213,
+            439,
+            233
+          ]
+        },
+        {
+          "text": "SFECO Solutions",
+          "confidence": 0.9999783039093018,
+          "bbox": [
+            570,
+            246,
+            734,
+            270
+          ]
+        },
+        {
+          "text": "79 rue des joncs des bois",
+          "confidence": 0.9997648596763611,
+          "bbox": [
+            569,
+            279,
+            774,
+            300
+          ]
+        },
+        {
+          "text": "84000 AVIGNON - France",
+          "confidence": 0.9998267889022827,
+          "bbox": [
+            569,
+            309,
+            777,
+            330
+          ]
+        },
+        {
+          "text": "Contact Client",
+          "confidence": 0.9999881982803345,
+          "bbox": [
+            96,
+            382,
+            218,
+            406
+          ]
+        },
+        {
+          "text": "Adresse de livraison",
+          "confidence": 0.9994438290596008,
+          "bbox": [
+            571,
+            383,
+            736,
+            404
+          ]
+        },
+        {
+          "text": "M. Arthur FURST",
+          "confidence": 0.9999628663063049,
+          "bbox": [
+            96,
+            412,
+            238,
+            436
+          ]
+        },
+        {
+          "text": "SFECO Solutions",
+          "confidence": 0.9999793767929077,
+          "bbox": [
+            568,
+            414,
+            703,
+            435
+          ]
+        },
+        {
+          "text": "Tél:0612603940",
+          "confidence": 0.9997835159301758,
+          "bbox": [
+            97,
+            444,
+            240,
+            465
+          ]
+        },
+        {
+          "text": "Lieu-dit « Choisy-aux-Bœufs",
+          "confidence": 0.9972625970840454,
+          "bbox": [
+            570,
+            445,
+            798,
+            465
+          ]
+        },
+        {
+          "text": "Email: a.furst@poulaillon.fr",
+          "confidence": 0.9995725750923157,
+          "bbox": [
+            98,
+            472,
+            320,
+            491
+          ]
+        },
+        {
+          "text": "95470 Vémars - France",
+          "confidence": 0.9997971653938293,
+          "bbox": [
+            569,
+            468,
+            761,
+            494
+          ]
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.9999843239784241,
+          "bbox": [
+            95,
+            546,
+            179,
+            575
+          ]
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9997022747993469,
+          "bbox": [
+            253,
+            546,
+            358,
+            574
+          ]
+        },
+        {
+          "text": "Prix tarif U.H.T.",
+          "confidence": 0.999987006187439,
+          "bbox": [
+            570,
+            550,
+            702,
+            571
+          ]
+        },
+        {
+          "text": "Prix Net H.T.",
+          "confidence": 0.9999836683273315,
+          "bbox": [
+            811,
+            546,
+            923,
+            573
+          ]
+        },
+        {
+          "text": "Total Net H.T.",
+          "confidence": 0.9999870657920837,
+          "bbox": [
+            977,
+            548,
+            1099,
+            573
+          ]
+        },
+        {
+          "text": "100",
+          "confidence": 0.9999982714653015,
+          "bbox": [
+            93,
+            587,
+            137,
+            615
+          ]
+        },
+        {
+          "text": "Plaque de roulage en PEHD",
+          "confidence": 0.9989734888076782,
+          "bbox": [
+            257,
+            590,
+            479,
+            611
+          ]
+        },
+        {
+          "text": "160,00 €",
+          "confidence": 0.9999150633811951,
+          "bbox": [
+            594,
+            587,
+            677,
+            615
+          ]
+        },
+        {
+          "text": "160,00 €",
+          "confidence": 0.9996215105056763,
+          "bbox": [
+            825,
+            587,
+            907,
+            615
+          ]
+        },
+        {
+          "text": "16 000,00 €",
+          "confidence": 0.9863796234130859,
+          "bbox": [
+            1005,
+            587,
+            1112,
+            615
+          ]
+        },
+        {
+          "text": "Dim : 2400 x 1200 x 21 mm",
+          "confidence": 0.9693914651870728,
+          "bbox": [
+            256,
+            617,
+            479,
+            636
+          ]
+        },
+        {
+          "text": "Charge : 80 tonnes",
+          "confidence": 0.9982337951660156,
+          "bbox": [
+            257,
+            641,
+            413,
+            662
+          ]
+        },
+        {
+          "text": "Doube faces antidérapantes",
+          "confidence": 0.9999841451644897,
+          "bbox": [
+            255,
+            663,
+            486,
+            686
+          ]
+        },
+        {
+          "text": "Matière : PEHD Recyclé",
+          "confidence": 0.9780967831611633,
+          "bbox": [
+            257,
+            689,
+            449,
+            709
+          ]
+        },
+        {
+          "text": "Nbre de poignées : 6",
+          "confidence": 0.9944862127304077,
+          "bbox": [
+            257,
+            712,
+            429,
+            733
+          ]
+        },
+        {
+          "text": "Poids : 40 kg",
+          "confidence": 0.9905151128768921,
+          "bbox": [
+            254,
+            734,
+            363,
+            759
+          ]
+        },
+        {
+          "text": "200",
+          "confidence": 0.9999987483024597,
+          "bbox": [
+            93,
+            779,
+            137,
+            807
+          ]
+        },
+        {
+          "text": "Connecteur acier en U",
+          "confidence": 0.9896736145019531,
+          "bbox": [
+            257,
+            783,
+            442,
+            803
+          ]
+        },
+        {
+          "text": "4,00 €",
+          "confidence": 0.9999164938926697,
+          "bbox": [
+            607,
+            779,
+            671,
+            808
+          ]
+        },
+        {
+          "text": "4,00 €",
+          "confidence": 0.9999005198478699,
+          "bbox": [
+            836,
+            779,
+            901,
+            808
+          ]
+        },
+        {
+          "text": "800,00 €",
+          "confidence": 0.9999294877052307,
+          "bbox": [
+            1028,
+            779,
+            1114,
+            807
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999349117279053,
+          "bbox": [
+            94,
+            832,
+            117,
+            857
+          ]
+        },
+        {
+          "text": "Transport",
+          "confidence": 0.9999976754188538,
+          "bbox": [
+            252,
+            830,
+            343,
+            858
+          ]
+        },
+        {
+          "text": "OFFERT",
+          "confidence": 0.999993622303009,
+          "bbox": [
+            1043,
+            831,
+            1117,
+            856
+          ]
+        },
+        {
+          "text": "Marchandises H.T.",
+          "confidence": 0.9999856352806091,
+          "bbox": [
+            568,
+            895,
+            725,
+            918
+          ]
+        },
+        {
+          "text": "16 800,00 €",
+          "confidence": 0.999948263168335,
+          "bbox": [
+            1002,
+            893,
+            1111,
+            920
+          ]
+        },
+        {
+          "text": "Total H.T.",
+          "confidence": 0.9999719858169556,
+          "bbox": [
+            565,
+            921,
+            658,
+            950
+          ]
+        },
+        {
+          "text": "16 800,00 €",
+          "confidence": 0.999908447265625,
+          "bbox": [
+            1003,
+            923,
+            1111,
+            948
+          ]
+        },
+        {
+          "text": "Livraison sous 6 à 8 jours",
+          "confidence": 0.9999663233757019,
+          "bbox": [
+            98,
+            955,
+            300,
+            976
+          ]
+        },
+        {
+          "text": "TVA (20%)",
+          "confidence": 0.9752801060676575,
+          "bbox": [
+            566,
+            951,
+            665,
+            980
+          ]
+        },
+        {
+          "text": "3 360,00 €",
+          "confidence": 0.9991827011108398,
+          "bbox": [
+            1014,
+            953,
+            1111,
+            978
+          ]
+        },
+        {
+          "text": "Validité de l'offre : 1 mois",
+          "confidence": 0.9988904595375061,
+          "bbox": [
+            96,
+            984,
+            306,
+            1006
+          ]
+        },
+        {
+          "text": "Total TTC à payer",
+          "confidence": 0.9998481869697571,
+          "bbox": [
+            566,
+            980,
+            719,
+            1010
+          ]
+        },
+        {
+          "text": "20 160,00 €",
+          "confidence": 0.9996674060821533,
+          "bbox": [
+            1003,
+            983,
+            1110,
+            1008
+          ]
+        },
+        {
+          "text": "Offre valable uniquement dans son intégralité",
+          "confidence": 0.9916743040084839,
+          "bbox": [
+            97,
+            1044,
+            468,
+            1066
+          ]
+        },
+        {
+          "text": "Votre contact commercial",
+          "confidence": 0.9999873042106628,
+          "bbox": [
+            97,
+            1117,
+            312,
+            1137
+          ]
+        },
+        {
+          "text": "Termes du contrat",
+          "confidence": 0.9999098777770996,
+          "bbox": [
+            569,
+            1117,
+            726,
+            1138
+          ]
+        },
+        {
+          "text": "M. Bastien NAEGELEN",
+          "confidence": 0.9774129986763,
+          "bbox": [
+            97,
+            1144,
+            277,
+            1165
+          ]
+        },
+        {
+          "text": "Virement à 45 jours FDM",
+          "confidence": 0.9999343752861023,
+          "bbox": [
+            570,
+            1145,
+            775,
+            1166
+          ]
+        },
+        {
+          "text": "Tél. 03 67 10 69 60",
+          "confidence": 0.9992814064025879,
+          "bbox": [
+            97,
+            1175,
+            254,
+            1195
+          ]
+        },
+        {
+          "text": "Email. bastien@sol-direct.fr",
+          "confidence": 0.9999213814735413,
+          "bbox": [
+            98,
+            1204,
+            323,
+            1224
+          ]
+        },
+        {
+          "text": "sol-direct est une marque de web direct sas",
+          "confidence": 0.9999467730522156,
+          "bbox": [
+            414,
+            1589,
+            774,
+            1613
+          ]
+        },
+        {
+          "text": "RCS Strasbourg 833 909 138 - TVA FR 38833909138 - capital 50 000 euros",
+          "confidence": 0.9934212565422058,
+          "bbox": [
+            295,
+            1615,
+            893,
+            1637
+          ]
+        }
+      ]
+    }
+  ]
+}

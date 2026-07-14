@@ -1,0 +1,7703 @@
+{
+  "engine": "mistralocr",
+  "model": "mistral-ocr-4-0",
+  "duration_seconds": 0.96,
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 474,
+      "words": [
+        {
+          "text": "ELUM",
+          "confidence": 0.9096926713759075,
+          "bbox": null
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.5556102567349183,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.999842611712184,
+          "bbox": null
+        },
+        {
+          "text": "Energy",
+          "confidence": 0.9999946356109105,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.8885382605087643,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999865295319578,
+          "bbox": null
+        },
+        {
+          "text": "Sféco",
+          "confidence": 0.8818150494758441,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999567288990747,
+          "bbox": null
+        },
+        {
+          "text": "79",
+          "confidence": 0.9997774857837297,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.9999850990607846,
+          "bbox": null
+        },
+        {
+          "text": "des",
+          "confidence": 0.999881162465012,
+          "bbox": null
+        },
+        {
+          "text": "Joncs",
+          "confidence": 0.9940745023261173,
+          "bbox": null
+        },
+        {
+          "text": "des",
+          "confidence": 0.99991262722786,
+          "bbox": null
+        },
+        {
+          "text": "bois",
+          "confidence": 0.9999078597062382,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999779467683537,
+          "bbox": null
+        },
+        {
+          "text": "84000",
+          "confidence": 0.9982402201901314,
+          "bbox": null
+        },
+        {
+          "text": "Avignon",
+          "confidence": 0.999957593961552,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999713905890374,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999849798550975,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.8354813620338538,
+          "bbox": null
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9474540235035294,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999929667012066,
+          "bbox": null
+        },
+        {
+          "text": "QUO07570",
+          "confidence": 0.9961837639945121,
+          "bbox": null
+        },
+        {
+          "text": "PAYMENT",
+          "confidence": 0.9998534659627737,
+          "bbox": null
+        },
+        {
+          "text": "TERMS",
+          "confidence": 0.9999800527851488,
+          "bbox": null
+        },
+        {
+          "text": "DELIVERY",
+          "confidence": 0.9999821190215472,
+          "bbox": null
+        },
+        {
+          "text": "DATE",
+          "confidence": 0.999997854237364,
+          "bbox": null
+        },
+        {
+          "text": "Date",
+          "confidence": 0.9999585168898854,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9992794225871926,
+          "bbox": null
+        },
+        {
+          "text": "devis",
+          "confidence": 0.9999656689032875,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996567950896345,
+          "bbox": null
+        },
+        {
+          "text": "QUOTATION",
+          "confidence": 0.9999935269823684,
+          "bbox": null
+        },
+        {
+          "text": "DATE",
+          "confidence": 0.999967456924635,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9985523944563316,
+          "bbox": null
+        },
+        {
+          "text": "12/03/2025",
+          "confidence": 0.9996743533974543,
+          "bbox": null
+        },
+        {
+          "text": "DUE",
+          "confidence": 0.9999864104858659,
+          "bbox": null
+        },
+        {
+          "text": "DATE",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.999968291333751,
+          "bbox": null
+        },
+        {
+          "text": "11/05/2025",
+          "confidence": 0.9995138211628968,
+          "bbox": null
+        },
+        {
+          "text": "CONTACT",
+          "confidence": 0.9999970368066624,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9902756269110029,
+          "bbox": null
+        },
+        {
+          "text": "guy-david.audenay@elum-energy.com",
+          "confidence": 0.9992351772934275,
+          "bbox": null
+        },
+        {
+          "text": "DESCRIPTION",
+          "confidence": 0.9983926504204303,
+          "bbox": null
+        },
+        {
+          "text": "QTY",
+          "confidence": 0.9983926504204303,
+          "bbox": null
+        },
+        {
+          "text": "UNIT",
+          "confidence": 0.9983926504204303,
+          "bbox": null
+        },
+        {
+          "text": "PRICE",
+          "confidence": 0.9238120533772435,
+          "bbox": null
+        },
+        {
+          "text": "REM.%",
+          "confidence": 0.9238120533772435,
+          "bbox": null
+        },
+        {
+          "text": "TAXES",
+          "confidence": 0.9238120533772435,
+          "bbox": null
+        },
+        {
+          "text": "MONTANT",
+          "confidence": 0.9238120533772435,
+          "bbox": null
+        },
+        {
+          "text": "Coffret",
+          "confidence": 0.992960537205191,
+          "bbox": null
+        },
+        {
+          "text": "PDL/PTR",
+          "confidence": 0.9748254105491929,
+          "bbox": null
+        },
+        {
+          "text": "[ELMPPCDLLANNEXL]",
+          "confidence": 0.9748254105491929,
+          "bbox": null
+        },
+        {
+          "text": "ePowerControl",
+          "confidence": 0.9994401548692515,
+          "bbox": null
+        },
+        {
+          "text": "PPC",
+          "confidence": 0.9995566188978895,
+          "bbox": null
+        },
+        {
+          "text": "(LAN,",
+          "confidence": 0.9961989079810528,
+          "bbox": null
+        },
+        {
+          "text": "No",
+          "confidence": 0.9998757993463431,
+          "bbox": null
+        },
+        {
+          "text": "Screen,",
+          "confidence": 0.9997978032542826,
+          "bbox": null
+        },
+        {
+          "text": "Size",
+          "confidence": 0.9998995166672116,
+          "bbox": null
+        },
+        {
+          "text": "XL)",
+          "confidence": 0.9939166606048675,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.999892246414295,
+          "bbox": null
+        },
+        {
+          "text": "Power",
+          "confidence": 0.9999883176260755,
+          "bbox": null
+        },
+        {
+          "text": "Plant",
+          "confidence": 0.9999918938339075,
+          "bbox": null
+        },
+        {
+          "text": "controller",
+          "confidence": 0.9999933243243502,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.990768294577547,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.990768294577547,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999779467683537,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999724634116024,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999669801176596,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9982067375964653,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9998574460087201,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9944221324543085,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999055951592553,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999471930724098,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9987109847699175,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9733975462622558,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9733975462622558,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9733975462622558,
+          "bbox": null
+        },
+        {
+          "text": "13",
+          "confidence": 0.9733975462622558,
+          "bbox": null
+        },
+        {
+          "text": "000,00",
+          "confidence": 0.9993345892657363,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9993345892657363,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9993345892657363,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9998867793836639,
+          "bbox": null
+        },
+        {
+          "text": "13",
+          "confidence": 0.9998867793836639,
+          "bbox": null
+        },
+        {
+          "text": "000,00",
+          "confidence": 0.9999936138517498,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9947233496588828,
+          "bbox": null
+        },
+        {
+          "text": "[HMISCHSCADAECOS10MW]",
+          "confidence": 0.9947233496588828,
+          "bbox": null
+        },
+        {
+          "text": "HMI",
+          "confidence": 0.9988021365919311,
+          "bbox": null
+        },
+        {
+          "text": "SCADA",
+          "confidence": 0.9978371335702105,
+          "bbox": null
+        },
+        {
+          "text": "(<",
+          "confidence": 0.7697595835845303,
+          "bbox": null
+        },
+        {
+          "text": "10",
+          "confidence": 0.9998573770133774,
+          "bbox": null
+        },
+        {
+          "text": "MW)",
+          "confidence": 0.9997913200092932,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9998575651864731,
+          "bbox": null
+        },
+        {
+          "text": "Onsite",
+          "confidence": 0.9993672053182571,
+          "bbox": null
+        },
+        {
+          "text": "SCADA",
+          "confidence": 0.9998944561543227,
+          "bbox": null
+        },
+        {
+          "text": "with",
+          "confidence": 0.999968291333751,
+          "bbox": null
+        },
+        {
+          "text": "plant",
+          "confidence": 0.9999640000901282,
+          "bbox": null
+        },
+        {
+          "text": "synoptic",
+          "confidence": 0.999808072895943,
+          "bbox": null
+        },
+        {
+          "text": "diagram",
+          "confidence": 0.9999858142961154,
+          "bbox": null
+        },
+        {
+          "text": "via",
+          "confidence": 0.9999864103261001,
+          "bbox": null
+        },
+        {
+          "text": "HMI",
+          "confidence": 0.9996588891792848,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9921913015452022,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9921913015452022,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999947548186582,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999411140801217,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999706753740273,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999858142961154,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999903187639958,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999903187639958,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999903187639958,
+          "bbox": null
+        },
+        {
+          "text": "7",
+          "confidence": 0.9999903187639958,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999991320095613,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999991320095613,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999991320095613,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999996764321761,
+          "bbox": null
+        },
+        {
+          "text": "7",
+          "confidence": 0.9999996764321761,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999990633569729,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9470342857214522,
+          "bbox": null
+        },
+        {
+          "text": "[SWIPLT5ETH15FPSS]",
+          "confidence": 0.9470342857214522,
+          "bbox": null
+        },
+        {
+          "text": "Ethernet",
+          "confidence": 0.9998768719663205,
+          "bbox": null
+        },
+        {
+          "text": "switch",
+          "confidence": 0.9997639021543535,
+          "bbox": null
+        },
+        {
+          "text": "(6",
+          "confidence": 0.9963194780460464,
+          "bbox": null
+        },
+        {
+          "text": "ports",
+          "confidence": 0.9999176331638507,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9898662881256188,
+          "bbox": null
+        },
+        {
+          "text": "4Eth",
+          "confidence": 0.9418439937045968,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.9991931278156385,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.999904762475766,
+          "bbox": null
+        },
+        {
+          "text": "SFP)",
+          "confidence": 0.9942365840905585,
+          "bbox": null
+        },
+        {
+          "text": "(Single",
+          "confidence": 0.9946507692021138,
+          "bbox": null
+        },
+        {
+          "text": "mode)",
+          "confidence": 0.9998178189227913,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999375382330494,
+          "bbox": null
+        },
+        {
+          "text": "Industrial",
+          "confidence": 0.9999170372176026,
+          "bbox": null
+        },
+        {
+          "text": "4-port",
+          "confidence": 0.9997588013696344,
+          "bbox": null
+        },
+        {
+          "text": "10/100/1000T",
+          "confidence": 0.997598326722106,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.9982069751226993,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9807815339564053,
+          "bbox": null
+        },
+        {
+          "text": "1G/2.5G",
+          "confidence": 0.9816324592575106,
+          "bbox": null
+        },
+        {
+          "text": "SFP",
+          "confidence": 0.9971874787563422,
+          "bbox": null
+        },
+        {
+          "text": "Managed",
+          "confidence": 0.9995800828672216,
+          "bbox": null
+        },
+        {
+          "text": "Gigabit",
+          "confidence": 0.9998682910823691,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9994224071748239,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.9978833986275762,
+          "bbox": null
+        },
+        {
+          "text": "Transceiver",
+          "confidence": 0.998810786803532,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.998810786803532,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999886752461923,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9961289396891279,
+          "bbox": null
+        },
+        {
+          "text": "8517620000",
+          "confidence": 0.9995001503926803,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9995001503926803,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9995001503926803,
+          "bbox": null
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9995001503926803,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9995001503926803,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9995001503926803,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999984251891718,
+          "bbox": null
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9999984251891718,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9968267983826727,
+          "bbox": null
+        },
+        {
+          "text": "[METGAVWM20TCP]",
+          "confidence": 0.9968267983826727,
+          "bbox": null
+        },
+        {
+          "text": "AC",
+          "confidence": 0.9998474353900711,
+          "bbox": null
+        },
+        {
+          "text": "Meter",
+          "confidence": 0.9998494613353214,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9848648465480427,
+          "bbox": null
+        },
+        {
+          "text": "5A",
+          "confidence": 0.9691065678198316,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9977588923682487,
+          "bbox": null
+        },
+        {
+          "text": "LV",
+          "confidence": 0.9963435605326686,
+          "bbox": null
+        },
+        {
+          "text": "&",
+          "confidence": 0.9986507137907507,
+          "bbox": null
+        },
+        {
+          "text": "MV",
+          "confidence": 0.9995196981614873,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.998548115304606,
+          "bbox": null
+        },
+        {
+          "text": "TCP",
+          "confidence": 0.9992897789887448,
+          "bbox": null
+        },
+        {
+          "text": "(230Vac)",
+          "confidence": 0.9976831131146761,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9997752218229847,
+          "bbox": null
+        },
+        {
+          "text": "Power",
+          "confidence": 0.9999830725678546,
+          "bbox": null
+        },
+        {
+          "text": "meter",
+          "confidence": 0.9999755626925522,
+          "bbox": null
+        },
+        {
+          "text": "at",
+          "confidence": 0.9999697217572346,
+          "bbox": null
+        },
+        {
+          "text": "grid,",
+          "confidence": 0.9999844236180117,
+          "bbox": null
+        },
+        {
+          "text": "load",
+          "confidence": 0.9999743706604208,
+          "bbox": null
+        },
+        {
+          "text": "&",
+          "confidence": 0.9999533336005572,
+          "bbox": null
+        },
+        {
+          "text": "genset",
+          "confidence": 0.9987511569444774,
+          "bbox": null
+        },
+        {
+          "text": "connection",
+          "confidence": 0.999995112442896,
+          "bbox": null
+        },
+        {
+          "text": "points",
+          "confidence": 0.9854434426320245,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9996251997590343,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9996251997590343,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999901057270286,
+          "bbox": null
+        },
+        {
+          "text": "Italy",
+          "confidence": 0.9966728889362219,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999736554414602,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999952316511552,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999915362117302,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.999991297797926,
+          "bbox": null
+        },
+        {
+          "text": "90303200",
+          "confidence": 0.9997934353978996,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9997934353978996,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9997934353978996,
+          "bbox": null
+        },
+        {
+          "text": "400,00",
+          "confidence": 0.9997934353978996,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9997934353978996,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9997934353978996,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999983812712399,
+          "bbox": null
+        },
+        {
+          "text": "400,00",
+          "confidence": 0.9999983812712399,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999204368255193,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9665436710467992,
+          "bbox": null
+        },
+        {
+          "text": "21",
+          "confidence": 0.9665436710467992,
+          "bbox": null
+        },
+        {
+          "text": "240,00",
+          "confidence": 0.9999562356665477,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999906769444666,
+          "bbox": null
+        },
+        {
+          "text": "Equipements",
+          "confidence": 0.9966820208496149,
+          "bbox": null
+        },
+        {
+          "text": "inclus",
+          "confidence": 0.9999804500586101,
+          "bbox": null
+        },
+        {
+          "text": "dans",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "le",
+          "confidence": 0.9999867679437158,
+          "bbox": null
+        },
+        {
+          "text": "coffret",
+          "confidence": 0.9995837744765231,
+          "bbox": null
+        },
+        {
+          "text": "PDL",
+          "confidence": 0.9999879004104605,
+          "bbox": null
+        },
+        {
+          "text": "(inclus",
+          "confidence": 0.9991155933121801,
+          "bbox": null
+        },
+        {
+          "text": "dans",
+          "confidence": 0.9999450475372202,
+          "bbox": null
+        },
+        {
+          "text": "le",
+          "confidence": 0.9994925452480943,
+          "bbox": null
+        },
+        {
+          "text": "prix",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999555369130402,
+          "bbox": null
+        },
+        {
+          "text": "coffret)",
+          "confidence": 0.9988282280595981,
+          "bbox": null
+        },
+        {
+          "text": "[UPSGAVU120W]",
+          "confidence": 0.9988282280595981,
+          "bbox": null
+        },
+        {
+          "text": "UPS",
+          "confidence": 0.9995620976943403,
+          "bbox": null
+        },
+        {
+          "text": "AC/DC",
+          "confidence": 0.998894028909638,
+          "bbox": null
+        },
+        {
+          "text": "120W",
+          "confidence": 0.9991368636269988,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9953434166040923,
+          "bbox": null
+        },
+        {
+          "text": "3h",
+          "confidence": 0.9988651080565033,
+          "bbox": null
+        },
+        {
+          "text": "d'autonomie",
+          "confidence": 0.9996920632680938,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9997799880720509,
+          "bbox": null
+        },
+        {
+          "text": "Uninterruptible",
+          "confidence": 0.9996038177638825,
+          "bbox": null
+        },
+        {
+          "text": "power",
+          "confidence": 0.9999949932351057,
+          "bbox": null
+        },
+        {
+          "text": "supply",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999724043741061,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999724043741061,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999970197767496,
+          "bbox": null
+        },
+        {
+          "text": "Italy",
+          "confidence": 0.9981870200947556,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999618544824983,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999947548186582,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999889136593714,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999965429424904,
+          "bbox": null
+        },
+        {
+          "text": "85044095",
+          "confidence": 0.9990248000934049,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9990248000934049,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9990248000934049,
+          "bbox": null
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9990248000934049,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9990248000934049,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9990248000934049,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999977490675213,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999977490675213,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9847524119138896,
+          "bbox": null
+        },
+        {
+          "text": "[UPSGAVB288WH]",
+          "confidence": 0.9847524119138896,
+          "bbox": null
+        },
+        {
+          "text": "Battery",
+          "confidence": 0.9999809268774651,
+          "bbox": null
+        },
+        {
+          "text": "24V",
+          "confidence": 0.9988518528574077,
+          "bbox": null
+        },
+        {
+          "text": "12Ah",
+          "confidence": 0.9985918495619016,
+          "bbox": null
+        },
+        {
+          "text": "(288Wh)",
+          "confidence": 0.9926686899832496,
+          "bbox": null
+        },
+        {
+          "text": "NOT",
+          "confidence": 0.9926686899832496,
+          "bbox": null
+        },
+        {
+          "text": "RESTRICTED",
+          "confidence": 0.9999944513919139,
+          "bbox": null
+        },
+        {
+          "text": "AS",
+          "confidence": 0.9999415908602124,
+          "bbox": null
+        },
+        {
+          "text": "PER",
+          "confidence": 0.9999879600069962,
+          "bbox": null
+        },
+        {
+          "text": "SPECIAL",
+          "confidence": 0.9999697217572346,
+          "bbox": null
+        },
+        {
+          "text": "PROVISION",
+          "confidence": 0.9997935568653161,
+          "bbox": null
+        },
+        {
+          "text": "A67",
+          "confidence": 0.9981707708038737,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9977472623583163,
+          "bbox": null
+        },
+        {
+          "text": "3h",
+          "confidence": 0.9997609753561398,
+          "bbox": null
+        },
+        {
+          "text": "d'autonomie",
+          "confidence": 0.9999237317442821,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9998011984301817,
+          "bbox": null
+        },
+        {
+          "text": "Additional",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "power",
+          "confidence": 0.9999971389852362,
+          "bbox": null
+        },
+        {
+          "text": "supply",
+          "confidence": 0.9999967813595916,
+          "bbox": null
+        },
+        {
+          "text": "for",
+          "confidence": 0.9999556561097608,
+          "bbox": null
+        },
+        {
+          "text": "the",
+          "confidence": 0.9999904633477849,
+          "bbox": null
+        },
+        {
+          "text": "EMS",
+          "confidence": 0.9993347781655164,
+          "bbox": null
+        },
+        {
+          "text": "(-6h)",
+          "confidence": 0.8936577363872602,
+          "bbox": null
+        },
+        {
+          "text": "Lead-acid",
+          "confidence": 0.8936577363872602,
+          "bbox": null
+        },
+        {
+          "text": "battery",
+          "confidence": 0.9999856950894335,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9987574748074226,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9987574748074226,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999941587791524,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999971389852362,
+          "bbox": null
+        },
+        {
+          "text": "Italy",
+          "confidence": 0.9993544218932489,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999765163221908,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999871255623688,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "85078000",
+          "confidence": 0.9997864659041141,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9997864659041141,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9997864659041141,
+          "bbox": null
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9997864659041141,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9997864659041141,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9997864659041141,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999993548685955,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999993548685955,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9658759395055234,
+          "bbox": null
+        },
+        {
+          "text": "[IOMMOXE1214]",
+          "confidence": 0.9658759395055234,
+          "bbox": null
+        },
+        {
+          "text": "Iologik",
+          "confidence": 0.9847834231278214,
+          "bbox": null
+        },
+        {
+          "text": "E1214",
+          "confidence": 0.9995996792351862,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9997220811841415,
+          "bbox": null
+        },
+        {
+          "text": "Remote",
+          "confidence": 0.9999406372966204,
+          "bbox": null
+        },
+        {
+          "text": "ethernet",
+          "confidence": 0.9960688179624776,
+          "bbox": null
+        },
+        {
+          "text": "I/O",
+          "confidence": 0.9983404599923738,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.99606175643102,
+          "bbox": null
+        },
+        {
+          "text": "6DI,",
+          "confidence": 0.9580478176006206,
+          "bbox": null
+        },
+        {
+          "text": "6Relay,",
+          "confidence": 0.9962165407813838,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9998389105468629,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9999926090786457,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999866488625425,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999866488625425,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9930714962099372,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999431404007152,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999961853172863,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999883176260755,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999905216895114,
+          "bbox": null
+        },
+        {
+          "text": "5",
+          "confidence": 0.9999905216895114,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999905216895114,
+          "bbox": null
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999905216895114,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999905216895114,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999905216895114,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999997405446888,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999997405446888,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9997507769954562,
+          "bbox": null
+        },
+        {
+          "text": "[IOMMOXE1242]",
+          "confidence": 0.9997507769954562,
+          "bbox": null
+        },
+        {
+          "text": "Iologik",
+          "confidence": 0.9998864252384798,
+          "bbox": null
+        },
+        {
+          "text": "E1242",
+          "confidence": 0.9997582831999955,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.999943378794853,
+          "bbox": null
+        },
+        {
+          "text": "Remote",
+          "confidence": 0.999998927117538,
+          "bbox": null
+        },
+        {
+          "text": "ethernet",
+          "confidence": 0.9999637087106849,
+          "bbox": null
+        },
+        {
+          "text": "I/O",
+          "confidence": 0.9999574443914979,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998516064617196,
+          "bbox": null
+        },
+        {
+          "text": "4DI,",
+          "confidence": 0.9993909333591158,
+          "bbox": null
+        },
+        {
+          "text": "4DIO,",
+          "confidence": 0.9756917493603268,
+          "bbox": null
+        },
+        {
+          "text": "4AI,",
+          "confidence": 0.9465333178979031,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9999613778318605,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999956786965786,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999956786965786,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9995554278869826,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999929667012066,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999836685934766,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999976093874308,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999976093874308,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999976093874308,
+          "bbox": null
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999976093874308,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999976093874308,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999976093874308,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999991234668554,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999991234668554,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9998971239839769,
+          "bbox": null
+        },
+        {
+          "text": "[IOMMOXE1210]",
+          "confidence": 0.9998971239839769,
+          "bbox": null
+        },
+        {
+          "text": "Iologik",
+          "confidence": 0.9999718386795826,
+          "bbox": null
+        },
+        {
+          "text": "E1210",
+          "confidence": 0.9998644229005769,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999564905017542,
+          "bbox": null
+        },
+        {
+          "text": "Remote",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "ethernet",
+          "confidence": 0.9999486368685512,
+          "bbox": null
+        },
+        {
+          "text": "I/O",
+          "confidence": 0.9999744302671776,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999414716651684,
+          "bbox": null
+        },
+        {
+          "text": "16DI,",
+          "confidence": 0.9976538630421811,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9998103101586194,
+          "bbox": null
+        },
+        {
+          "text": "switch",
+          "confidence": 0.9987950556489675,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999963790476647,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999963790476647,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.999735901989869,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999947548186582,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.999998927117538,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999578016931774,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999988514055085,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999988514055085,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999988514055085,
+          "bbox": null
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999988514055085,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999988514055085,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999988514055085,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999999228645949,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999999228645949,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9575139321061331,
+          "bbox": null
+        },
+        {
+          "text": "[SWIMOX8PORTS2008]",
+          "confidence": 0.9575139321061331,
+          "bbox": null
+        },
+        {
+          "text": "Ethernet",
+          "confidence": 0.9999209704854103,
+          "bbox": null
+        },
+        {
+          "text": "switch",
+          "confidence": 0.9999434979901243,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9992766847306069,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.9998729991601791,
+          "bbox": null
+        },
+        {
+          "text": "ports",
+          "confidence": 0.9999790196052284,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9997790348116907,
+          "bbox": null
+        },
+        {
+          "text": "Industrial",
+          "confidence": 0.9999897481064004,
+          "bbox": null
+        },
+        {
+          "text": "Ethernet",
+          "confidence": 0.9998093015118814,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9999724634116024,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9996383306497574,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.9999377766695047,
+          "bbox": null
+        },
+        {
+          "text": "ports",
+          "confidence": 0.9999837877990074,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999728513330018,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999728513330018,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.999998927117538,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9998215755328766,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999934435319415,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.999985218266486,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999911563229641,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999911563229641,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999911563229641,
+          "bbox": null
+        },
+        {
+          "text": "150,00",
+          "confidence": 0.9999911563229641,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999911563229641,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999911563229641,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999998527415047,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999998527415047,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999920131433356,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9993338127017892,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9993338127017892,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999876262913329,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999755031275637,
+          "bbox": null
+        },
+        {
+          "text": "Energy,",
+          "confidence": 0.9999898376857972,
+          "bbox": null
+        },
+        {
+          "text": "9",
+          "confidence": 0.9999777085214948,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.9999790196052284,
+          "bbox": null
+        },
+        {
+          "text": "d'Enghien,",
+          "confidence": 0.9972966828582337,
+          "bbox": null
+        },
+        {
+          "text": "75010",
+          "confidence": 0.9999790197709424,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999831917733143,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999379555705479,
+          "bbox": null
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.9999585168898854,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9985115067608592,
+          "bbox": null
+        },
+        {
+          "text": "Share",
+          "confidence": 0.9999343199921671,
+          "bbox": null
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.9999817613105537,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996769280272925,
+          "bbox": null
+        },
+        {
+          "text": "17.667,96€",
+          "confidence": 0.9960459299274953,
+          "bbox": null
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.9996606168688582,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999649536978265,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998805665550504,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9999322050383654,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9998304848825,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.9984142347578492,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9981959284695272,
+          "bbox": null
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.9963016407664598,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999125080362685,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9998975517095823,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9999828043706284,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.9990723346276242,
+          "bbox": null
+        },
+        {
+          "text": "00028",
+          "confidence": 0.9994793247461086,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999725826157975,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.9999574145517924,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999241886396754,
+          "bbox": null
+        },
+        {
+          "text": "7112B",
+          "confidence": 0.9997919143050912,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999506497906105,
+          "bbox": null
+        },
+        {
+          "text": "VAT:",
+          "confidence": 0.9923837392928592,
+          "bbox": null
+        },
+        {
+          "text": "FR84817860083",
+          "confidence": 0.994416612704643,
+          "bbox": null
+        },
+        {
+          "text": "Bank",
+          "confidence": 0.9999561329040609,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998669801283535,
+          "bbox": null
+        },
+        {
+          "text": "BNP",
+          "confidence": 0.999991059383269,
+          "bbox": null
+        },
+        {
+          "text": "PARIBAS,",
+          "confidence": 0.9999349560047025,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.999972821162015,
+          "bbox": null
+        },
+        {
+          "text": "Boulevard",
+          "confidence": 0.9998456478015768,
+          "bbox": null
+        },
+        {
+          "text": "Haussmann",
+          "confidence": 0.999655674007253,
+          "bbox": null
+        },
+        {
+          "text": "75009",
+          "confidence": 0.9999525593705829,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999802116501774,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9998369482867208,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "ELUM ENERGY",
+          "type": "header",
+          "bbox": [
+            30,
+            12,
+            172,
+            75
+          ]
+        },
+        {
+          "text": "Elum Energy France",
+          "type": "header",
+          "bbox": [
+            408,
+            16,
+            73,
+            31
+          ]
+        },
+        {
+          "text": "Sféco 79 rue des Joncs des bois 84000 Avignon France",
+          "type": "text",
+          "bbox": [
+            410,
+            135,
+            99,
+            43
+          ]
+        },
+        {
+          "text": "Devis QUO07570",
+          "type": "title",
+          "bbox": [
+            28,
+            193,
+            153,
+            19
+          ]
+        },
+        {
+          "text": "PAYMENT TERMS",
+          "type": "text",
+          "bbox": [
+            28,
+            220,
+            74,
+            11
+          ]
+        },
+        {
+          "text": "DELIVERY DATE",
+          "type": "text",
+          "bbox": [
+            356,
+            220,
+            67,
+            11
+          ]
+        },
+        {
+          "text": "Date du devis : QUOTATION DATE 12/03/2025",
+          "type": "text",
+          "bbox": [
+            28,
+            246,
+            138,
+            23
+          ]
+        },
+        {
+          "text": "DUE DATE 11/05/2025",
+          "type": "text",
+          "bbox": [
+            247,
+            246,
+            50,
+            23
+          ]
+        },
+        {
+          "text": "CONTACT guy-david.audenay@elum-energy.com",
+          "type": "text",
+          "bbox": [
+            463,
+            246,
+            147,
+            23
+          ]
+        },
+        {
+          "text": "DESCRIPTION QTY UNIT PRICE REM.% TAXES MONTANT Coffret PDL/PTR [ELMPPCDLLANNEXL] ePowerControl PPC (LAN, No Screen, Size XL) / Power Plant controller / - Country of origin : France - HS Code : 85176200 1 Unité(s) 13 000,00 0,00 TVA 20% 13 000,00 € [HMISCHSCADAECOS10MW] HMI SCADA (< 10 MW) / Onsite SCADA with plant synoptic diagram via HMI / - Country of origin : France - HS Code : 85176200 1 Unité(s) 7 500,00 0,00 TVA 20% 7 500,00 € [SWIPLT5ETH15FPSS] Ethernet switch (6 ports : 4Eth + 2 SFP) (Single mode) / Industrial 4-port 10/100/1000T + 2-port 1G/2.5G SFP Managed Gigabit Switch + Transceiver - Country of origin : Taiwan 8517620000 1 Unité(s) 340,00 0,00 TVA 20% 340,00 € [METGAVWM20TCP] AC Meter 5A LV & MV TCP (230Vac) / Power meter at grid, load & genset connection points / - Country of origin : Italy - HS Code : 90303200 1 Unité(s) 400,00 0,00 TVA 20% 400,00 € Sous-total 21 240,00 € Equipements inclus dans le coffret PDL (inclus dans le prix du coffret) [UPSGAVU120W] UPS AC/DC 120W - 3h d'autonomie / Uninterruptible power supply / - Country of origin : Italy - HS Code : 85044095 1 Unité(s) 220,00 100,00 TVA 20% 0,00 € [UPSGAVB288WH] Battery 24V 12Ah (288Wh) NOT RESTRICTED AS PER SPECIAL PROVISION A67 - 3h d'autonomie / Additional power supply for the EMS (-6h) Lead-acid battery / - Country of origin : Italy - HS Code : 85078000 1 Unité(s) 340,00 100,00 TVA 20% 0,00 € [IOMMOXE1214] Iologik E1214 / Remote ethernet I/O : 6DI, 6Relay, 2-port Switch / - Country of origin : Taiwan - HS Code : 85176200 5 Unité(s) 350,00 100,00 TVA 20% 0,00 € [IOMMOXE1242] Iologik E1242 / Remote ethernet I/O : 4DI, 4DIO, 4AI, 2-port Switch / - Country of origin : Taiwan - HS Code : 85176200 2 Unité(s) 350,00 100,00 TVA 20% 0,00 € [IOMMOXE1210] Iologik E1210 / Remote ethernet I/O : 16DI, 2-port switch / - Country of origin : Taiwan - HS Code : 85176200 1 Unité(s) 350,00 100,00 TVA 20% 0,00 € [SWIMOX8PORTS2008] Ethernet switch - 8 ports / Industrial Ethernet Switch - 8 ports / - Country of origin : Taiwan - HS Code : 85176200 1 Unité(s) 150,00 100,00 TVA 20% 0,00 € Sous-total 0,00 €",
+          "type": "table",
+          "bbox": [
+            28,
+            279,
+            657,
+            609
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            34,
+            927,
+            251,
+            16
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "type": "footer",
+          "bbox": [
+            34,
+            944,
+            186,
+            15
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET : 817 860 083 00028 - APE : 7112B - VAT: FR84817860083",
+          "type": "footer",
+          "bbox": [
+            34,
+            960,
+            450,
+            15
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            34,
+            976,
+            331,
+            14
+          ]
+        },
+        {
+          "text": "1",
+          "type": "footer",
+          "bbox": [
+            661,
+            934,
+            10,
+            14
+          ]
+        }
+      ],
+      "avg_confidence": 0.9940217428764954,
+      "min_confidence": 0.5556102567349183
+    },
+    {
+      "page_number": 2,
+      "word_count": 510,
+      "words": [
+        {
+          "text": "ELUM",
+          "confidence": 0.9402914148028085,
+          "bbox": null
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.5855236890743878,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9997239452227725,
+          "bbox": null
+        },
+        {
+          "text": "Energy",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.7947885084109806,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999684105356298,
+          "bbox": null
+        },
+        {
+          "text": "Coffret",
+          "confidence": 0.9878722871191166,
+          "bbox": null
+        },
+        {
+          "text": "PTR",
+          "confidence": 0.9999411141346881,
+          "bbox": null
+        },
+        {
+          "text": "[ELMRTUDLL]",
+          "confidence": 0.9865058572704307,
+          "bbox": null
+        },
+        {
+          "text": "ePowerControl",
+          "confidence": 0.9994394966985007,
+          "bbox": null
+        },
+        {
+          "text": "PPC",
+          "confidence": 0.9990549682045361,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9980029489476615,
+          "bbox": null
+        },
+        {
+          "text": "RTU",
+          "confidence": 0.9988006384056939,
+          "bbox": null
+        },
+        {
+          "text": "(Size",
+          "confidence": 0.9986587250672886,
+          "bbox": null
+        },
+        {
+          "text": "L)",
+          "confidence": 0.9975625646376448,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9994212164692705,
+          "bbox": null
+        },
+        {
+          "text": "RTU",
+          "confidence": 0.9981291125901042,
+          "bbox": null
+        },
+        {
+          "text": "cabinet",
+          "confidence": 0.9999834301824576,
+          "bbox": null
+        },
+        {
+          "text": "for",
+          "confidence": 0.9998402850698193,
+          "bbox": null
+        },
+        {
+          "text": "PPC",
+          "confidence": 0.9998687677986372,
+          "bbox": null
+        },
+        {
+          "text": "controller",
+          "confidence": 0.9999917746265009,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9766509991642855,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9766509991642855,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999440939703319,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.999995112442896,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999821189265068,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9913372995902973,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9995899690304098,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9922122663043211,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9998144255866991,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9997942870865237,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9993920448008593,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9717474182005167,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9717474182005167,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9717474182005167,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9717474182005167,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9798945015192791,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9798945015192791,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9798945015192791,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9998009670203133,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9998009670203133,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999956403729687,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9128401568787079,
+          "bbox": null
+        },
+        {
+          "text": "[SWIPLT5ETH15FP55]",
+          "confidence": 0.9128401568787079,
+          "bbox": null
+        },
+        {
+          "text": "Ethernet",
+          "confidence": 0.9998443369063489,
+          "bbox": null
+        },
+        {
+          "text": "switch",
+          "confidence": 0.9998364716001731,
+          "bbox": null
+        },
+        {
+          "text": "(6",
+          "confidence": 0.9983340210991295,
+          "bbox": null
+        },
+        {
+          "text": "ports",
+          "confidence": 0.9999496962111042,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9945443920778149,
+          "bbox": null
+        },
+        {
+          "text": "4Eth",
+          "confidence": 0.9721896439736414,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.999493617064232,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9993427219302095,
+          "bbox": null
+        },
+        {
+          "text": "SFP)",
+          "confidence": 0.9449751543087406,
+          "bbox": null
+        },
+        {
+          "text": "(Single",
+          "confidence": 0.9964570101742956,
+          "bbox": null
+        },
+        {
+          "text": "mode)",
+          "confidence": 0.9998382400274636,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.999935869517765,
+          "bbox": null
+        },
+        {
+          "text": "Industrial",
+          "confidence": 0.9999473122717736,
+          "bbox": null
+        },
+        {
+          "text": "4-port",
+          "confidence": 0.9998372063428962,
+          "bbox": null
+        },
+        {
+          "text": "10/100/1000T",
+          "confidence": 0.9986358024426962,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.9996177227945009,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9813703999571737,
+          "bbox": null
+        },
+        {
+          "text": "1G/2.5G",
+          "confidence": 0.990390461736701,
+          "bbox": null
+        },
+        {
+          "text": "SFP",
+          "confidence": 0.9907299548369837,
+          "bbox": null
+        },
+        {
+          "text": "Managed",
+          "confidence": 0.9997885674270962,
+          "bbox": null
+        },
+        {
+          "text": "Gigabit",
+          "confidence": 0.999878063767645,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9996277288148872,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.9987099146650313,
+          "bbox": null
+        },
+        {
+          "text": "Transceiver",
+          "confidence": 0.998312273968445,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.998312273968445,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999822381318528,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999934435319415,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9947651728452519,
+          "bbox": null
+        },
+        {
+          "text": "8517620000",
+          "confidence": 0.9995997451764129,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9995997451764129,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9995997451764129,
+          "bbox": null
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9995997451764129,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9995997451764129,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9995997451764129,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999983624468924,
+          "bbox": null
+        },
+        {
+          "text": "340,00",
+          "confidence": 0.9999983624468924,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9992987534979239,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.999906411997044,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9995839699328775,
+          "bbox": null
+        },
+        {
+          "text": "840,00",
+          "confidence": 0.9999211781193784,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "Equipements",
+          "confidence": 0.9928278624969391,
+          "bbox": null
+        },
+        {
+          "text": "inclus",
+          "confidence": 0.9999808076722754,
+          "bbox": null
+        },
+        {
+          "text": "dans",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "le",
+          "confidence": 0.9999796156266157,
+          "bbox": null
+        },
+        {
+          "text": "coffret",
+          "confidence": 0.9998545587388441,
+          "bbox": null
+        },
+        {
+          "text": "PTR",
+          "confidence": 0.999994158787963,
+          "bbox": null
+        },
+        {
+          "text": "(inclus",
+          "confidence": 0.9997819942143724,
+          "bbox": null
+        },
+        {
+          "text": "dans",
+          "confidence": 0.9999614968828868,
+          "bbox": null
+        },
+        {
+          "text": "le",
+          "confidence": 0.99924835478265,
+          "bbox": null
+        },
+        {
+          "text": "prix",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999598280839657,
+          "bbox": null
+        },
+        {
+          "text": "coffret",
+          "confidence": 0.9999309382112169,
+          "bbox": null
+        },
+        {
+          "text": "PTR)",
+          "confidence": 0.9999663130426443,
+          "bbox": null
+        },
+        {
+          "text": "[UPSGAVU120W]",
+          "confidence": 0.9972081036106878,
+          "bbox": null
+        },
+        {
+          "text": "UPS",
+          "confidence": 0.999503501528654,
+          "bbox": null
+        },
+        {
+          "text": "AC/DC",
+          "confidence": 0.9988798259361337,
+          "bbox": null
+        },
+        {
+          "text": "120W",
+          "confidence": 0.9985011177524683,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9982075690547383,
+          "bbox": null
+        },
+        {
+          "text": "6h",
+          "confidence": 0.9960619589690052,
+          "bbox": null
+        },
+        {
+          "text": "d'autonomie",
+          "confidence": 0.999703318301814,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9998522023325969,
+          "bbox": null
+        },
+        {
+          "text": "Uninterruptible",
+          "confidence": 0.9994864407303582,
+          "bbox": null
+        },
+        {
+          "text": "power",
+          "confidence": 0.9999955892755635,
+          "bbox": null
+        },
+        {
+          "text": "supply",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999257577318139,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999257577318139,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999959469005546,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999836685934766,
+          "bbox": null
+        },
+        {
+          "text": "Italy",
+          "confidence": 0.9979283900046548,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997445997380877,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999747282700929,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999941587791524,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999721058045592,
+          "bbox": null
+        },
+        {
+          "text": "85044095",
+          "confidence": 0.9992378600385325,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9992378600385325,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9992378600385325,
+          "bbox": null
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9992378600385325,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9992378600385325,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9992378600385325,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999899801186708,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999899801186708,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9956680028424014,
+          "bbox": null
+        },
+        {
+          "text": "[UPSGAVB173WH]",
+          "confidence": 0.9956680028424014,
+          "bbox": null
+        },
+        {
+          "text": "Battery",
+          "confidence": 0.9999831917733143,
+          "bbox": null
+        },
+        {
+          "text": "24V",
+          "confidence": 0.9990040569778103,
+          "bbox": null
+        },
+        {
+          "text": "7.2Ah",
+          "confidence": 0.9983415948972362,
+          "bbox": null
+        },
+        {
+          "text": "(172.8Wh)",
+          "confidence": 0.9932861138008643,
+          "bbox": null
+        },
+        {
+          "text": "NOT",
+          "confidence": 0.9932861138008643,
+          "bbox": null
+        },
+        {
+          "text": "RESTRICTED",
+          "confidence": 0.9999946681372023,
+          "bbox": null
+        },
+        {
+          "text": "AS",
+          "confidence": 0.9999333664464221,
+          "bbox": null
+        },
+        {
+          "text": "PER",
+          "confidence": 0.9999866487378297,
+          "bbox": null
+        },
+        {
+          "text": "SPECIAL",
+          "confidence": 0.9999425444247136,
+          "bbox": null
+        },
+        {
+          "text": "PROVISION",
+          "confidence": 0.99955647133054,
+          "bbox": null
+        },
+        {
+          "text": "A67",
+          "confidence": 0.998077427944293,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9977990064075072,
+          "bbox": null
+        },
+        {
+          "text": "6h",
+          "confidence": 0.9992646427924509,
+          "bbox": null
+        },
+        {
+          "text": "d'autonomie",
+          "confidence": 0.9999569484140327,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9997493657102343,
+          "bbox": null
+        },
+        {
+          "text": "Additional",
+          "confidence": 0.9999881984200047,
+          "bbox": null
+        },
+        {
+          "text": "power",
+          "confidence": 0.9999938011552557,
+          "bbox": null
+        },
+        {
+          "text": "supply",
+          "confidence": 0.999994397195003,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9880788932108308,
+          "bbox": null
+        },
+        {
+          "text": "Lead-acid",
+          "confidence": 0.999786773588201,
+          "bbox": null
+        },
+        {
+          "text": "battery",
+          "confidence": 0.9999969005680498,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9995511683607632,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9995511683607632,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999960661089133,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999921322487634,
+          "bbox": null
+        },
+        {
+          "text": "Italy",
+          "confidence": 0.9994650366247227,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999578016931774,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.99998879445232,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999816421070834,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "85078000",
+          "confidence": 0.9996252560618635,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9996252560618635,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9996252560618635,
+          "bbox": null
+        },
+        {
+          "text": "220,00",
+          "confidence": 0.9996252560618635,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9996252560618635,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9996252560618635,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999997054831,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999997054831,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9694500411143313,
+          "bbox": null
+        },
+        {
+          "text": "[IOMMOXE1214]",
+          "confidence": 0.9694500411143313,
+          "bbox": null
+        },
+        {
+          "text": "Iologik",
+          "confidence": 0.9907143463101803,
+          "bbox": null
+        },
+        {
+          "text": "E1214",
+          "confidence": 0.9998032369236578,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.999409547595015,
+          "bbox": null
+        },
+        {
+          "text": "Remote",
+          "confidence": 0.9999718673999347,
+          "bbox": null
+        },
+        {
+          "text": "ethernet",
+          "confidence": 0.9957955548316136,
+          "bbox": null
+        },
+        {
+          "text": "I/O",
+          "confidence": 0.999388693021896,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9954897659744796,
+          "bbox": null
+        },
+        {
+          "text": "6DI,",
+          "confidence": 0.9739887724136753,
+          "bbox": null
+        },
+        {
+          "text": "6Relay,",
+          "confidence": 0.9904843379245551,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9999212099069774,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9999949932351057,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999749227284731,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999749227284731,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9984475670851,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999668609159512,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999883176260755,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999880587519104,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999880587519104,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999880587519104,
+          "bbox": null
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999880587519104,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999880587519104,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999880587519104,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999997545692887,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999997545692887,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9998571152167498,
+          "bbox": null
+        },
+        {
+          "text": "[IOMMOXE1210]",
+          "confidence": 0.9998571152167498,
+          "bbox": null
+        },
+        {
+          "text": "Iologik",
+          "confidence": 0.9998217415415558,
+          "bbox": null
+        },
+        {
+          "text": "E1210",
+          "confidence": 0.9998783449809844,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999216856339493,
+          "bbox": null
+        },
+        {
+          "text": "Remote",
+          "confidence": 0.999998927117538,
+          "bbox": null
+        },
+        {
+          "text": "ethernet",
+          "confidence": 0.9999759335482126,
+          "bbox": null
+        },
+        {
+          "text": "I/O",
+          "confidence": 0.9999865295319578,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998930807024512,
+          "bbox": null
+        },
+        {
+          "text": "16DI,",
+          "confidence": 0.9991802316693162,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9998604969784549,
+          "bbox": null
+        },
+        {
+          "text": "switch",
+          "confidence": 0.9935253794583248,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999956787043235,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999956787043235,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9998628089343713,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999961853172863,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999710329823779,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999973983762223,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999973983762223,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999973983762223,
+          "bbox": null
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999973983762223,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999973983762223,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999973983762223,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999998948153596,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999998948153596,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999507468668061,
+          "bbox": null
+        },
+        {
+          "text": "[IOMMOXE1240]",
+          "confidence": 0.9999507468668061,
+          "bbox": null
+        },
+        {
+          "text": "Iologik",
+          "confidence": 0.9999847416614159,
+          "bbox": null
+        },
+        {
+          "text": "E1240",
+          "confidence": 0.9999451870581764,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999666225125773,
+          "bbox": null
+        },
+        {
+          "text": "Remote",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "ethernet",
+          "confidence": 0.9999783043807196,
+          "bbox": null
+        },
+        {
+          "text": "I/O",
+          "confidence": 0.9999535110084103,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999395645427589,
+          "bbox": null
+        },
+        {
+          "text": "8AI,",
+          "confidence": 0.9745778822631649,
+          "bbox": null
+        },
+        {
+          "text": "2-port",
+          "confidence": 0.9998983266784943,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9999958276922101,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999986141959402,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999986141959402,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9999431404007152,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999610200823912,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999982022041748,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999982022041748,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999982022041748,
+          "bbox": null
+        },
+        {
+          "text": "350,00",
+          "confidence": 0.9999982022041748,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999982022041748,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999982022041748,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999998878030522,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999998878030522,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9548893484012826,
+          "bbox": null
+        },
+        {
+          "text": "[SWIMOX8PORTS2008]",
+          "confidence": 0.9548893484012826,
+          "bbox": null
+        },
+        {
+          "text": "Ethernet",
+          "confidence": 0.9999507689867486,
+          "bbox": null
+        },
+        {
+          "text": "switch",
+          "confidence": 0.9999182291177295,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9994558674069822,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.9998925447110075,
+          "bbox": null
+        },
+        {
+          "text": "ports",
+          "confidence": 0.9999793772183819,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9997805838566004,
+          "bbox": null
+        },
+        {
+          "text": "Industrial",
+          "confidence": 0.9999890328655274,
+          "bbox": null
+        },
+        {
+          "text": "Ethernet",
+          "confidence": 0.9999434979901243,
+          "bbox": null
+        },
+        {
+          "text": "Switch",
+          "confidence": 0.9999861719135179,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9998107314751487,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.999963225288863,
+          "bbox": null
+        },
+        {
+          "text": "ports",
+          "confidence": 0.9999923706636761,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999752949374111,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999752949374111,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "Taiwan",
+          "confidence": 0.9999493386194785,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999964237340748,
+          "bbox": null
+        },
+        {
+          "text": "HS",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "Code",
+          "confidence": 0.9999514841747886,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "85176200",
+          "confidence": 0.9999820329500526,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999820329500526,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999820329500526,
+          "bbox": null
+        },
+        {
+          "text": "150,00",
+          "confidence": 0.9999820329500526,
+          "bbox": null
+        },
+        {
+          "text": "100,00",
+          "confidence": 0.9999820329500526,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999820329500526,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999997405446595,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999997405446595,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999605059332498,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999970674642467,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999954700758109,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999952316511552,
+          "bbox": null
+        },
+        {
+          "text": "Software",
+          "confidence": 0.9997432891208254,
+          "bbox": null
+        },
+        {
+          "text": "Push",
+          "confidence": 0.9999705736129372,
+          "bbox": null
+        },
+        {
+          "text": "FTP",
+          "confidence": 0.9999719866022398,
+          "bbox": null
+        },
+        {
+          "text": "(>",
+          "confidence": 0.9747951986740228,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9994121194359303,
+          "bbox": null
+        },
+        {
+          "text": "MWp)",
+          "confidence": 0.9981770181650432,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9998781829478556,
+          "bbox": null
+        },
+        {
+          "text": "FTP",
+          "confidence": 0.9997889249066705,
+          "bbox": null
+        },
+        {
+          "text": "push",
+          "confidence": 0.9999564905017542,
+          "bbox": null
+        },
+        {
+          "text": "to",
+          "confidence": 0.9999210896780105,
+          "bbox": null
+        },
+        {
+          "text": "third",
+          "confidence": 0.9999926090786457,
+          "bbox": null
+        },
+        {
+          "text": "party",
+          "confidence": 0.9999871255623688,
+          "bbox": null
+        },
+        {
+          "text": "servers",
+          "confidence": 0.9996922984018933,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9996922984018933,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999755626925522,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9997039258877326,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9997039258877326,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9997039258877326,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9997039258877326,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9997039258877326,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9997039258877326,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999993098420973,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999993098420973,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999649678817399,
+          "bbox": null
+        },
+        {
+          "text": "Communication",
+          "confidence": 0.9999649678817399,
+          "bbox": null
+        },
+        {
+          "text": "avec",
+          "confidence": 0.9999436171854098,
+          "bbox": null
+        },
+        {
+          "text": "Agrégateur",
+          "confidence": 0.9976446150835621,
+          "bbox": null
+        },
+        {
+          "text": "via",
+          "confidence": 0.9992610911895522,
+          "bbox": null
+        },
+        {
+          "text": "Modbus",
+          "confidence": 0.9997964410317622,
+          "bbox": null
+        },
+        {
+          "text": "TCP",
+          "confidence": 0.9999538681349789,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9998877174616545,
+          "bbox": null
+        },
+        {
+          "text": "License",
+          "confidence": 0.9994599161149075,
+          "bbox": null
+        },
+        {
+          "text": "to",
+          "confidence": 0.9999856950894335,
+          "bbox": null
+        },
+        {
+          "text": "allow",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "a",
+          "confidence": 0.999914891812595,
+          "bbox": null
+        },
+        {
+          "text": "SCADA",
+          "confidence": 0.999653280836104,
+          "bbox": null
+        },
+        {
+          "text": "or",
+          "confidence": 0.9998685294404747,
+          "bbox": null
+        },
+        {
+          "text": "a",
+          "confidence": 0.9999957084838798,
+          "bbox": null
+        },
+        {
+          "text": "building",
+          "confidence": 0.9998076332215631,
+          "bbox": null
+        },
+        {
+          "text": "management",
+          "confidence": 0.9999830725678546,
+          "bbox": null
+        },
+        {
+          "text": "to",
+          "confidence": 0.9999604240811819,
+          "bbox": null
+        },
+        {
+          "text": "access",
+          "confidence": 0.9999915362117302,
+          "bbox": null
+        },
+        {
+          "text": "to",
+          "confidence": 0.9999585168898854,
+          "bbox": null
+        },
+        {
+          "text": "live",
+          "confidence": 0.9206400597828892,
+          "bbox": null
+        },
+        {
+          "text": "data",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "from",
+          "confidence": 0.9999806884689187,
+          "bbox": null
+        },
+        {
+          "text": "the",
+          "confidence": 0.9999730594272631,
+          "bbox": null
+        },
+        {
+          "text": "controller",
+          "confidence": 0.9999705561718785,
+          "bbox": null
+        },
+        {
+          "text": "with",
+          "confidence": 0.999658582005906,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9992815579285895,
+          "bbox": null
+        },
+        {
+          "text": "data",
+          "confidence": 0.9997841585713534,
+          "bbox": null
+        },
+        {
+          "text": "model",
+          "confidence": 0.9997622200717392,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997622200717392,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999976158197796,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999973774024795,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999434165658115,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999434165658115,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999434165658115,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999434165658115,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999874837327838,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999874837327838,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999874837327838,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999987568203296,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999987568203296,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999970027488184,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999968111827595,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999982357078909,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9999982714689271,
+          "bbox": null
+        },
+        {
+          "text": "000,00",
+          "confidence": 0.9999952657196945,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "Services",
+          "confidence": 0.9999902249342363,
+          "bbox": null
+        },
+        {
+          "text": "FAT",
+          "confidence": 0.9999595827822678,
+          "bbox": null
+        },
+        {
+          "text": "chez",
+          "confidence": 0.9999879600069962,
+          "bbox": null
+        },
+        {
+          "text": "le",
+          "confidence": 0.999925142169393,
+          "bbox": null
+        },
+        {
+          "text": "postier",
+          "confidence": 0.9979788825082857,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9993054925111361,
+          "bbox": null
+        },
+        {
+          "text": "forfait",
+          "confidence": 0.9999139382999274,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999220438777465,
+          "bbox": null
+        },
+        {
+          "text": "jour",
+          "confidence": 0.9999367038714213,
+          "bbox": null
+        },
+        {
+          "text": "(en",
+          "confidence": 0.9995251626250945,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999449283417642,
+          "bbox": null
+        },
+        {
+          "text": "métropolitaine)",
+          "confidence": 0.9999219406239618,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999432595995958,
+          "bbox": null
+        },
+        {
+          "text": "Onsite",
+          "confidence": 0.9999610035801233,
+          "bbox": null
+        },
+        {
+          "text": "commissioning",
+          "confidence": 0.9999232100039848,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999697217572346,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9998805695974925,
+          "bbox": null
+        },
+        {
+          "text": "controller",
+          "confidence": 0.9999684105356298,
+          "bbox": null
+        },
+        {
+          "text": "by",
+          "confidence": 0.9999855758836753,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999795202836876,
+          "bbox": null
+        },
+        {
+          "text": "engineer",
+          "confidence": 0.9958382723586874,
+          "bbox": null
+        },
+        {
+          "text": "(daily",
+          "confidence": 0.9999769591425212,
+          "bbox": null
+        },
+        {
+          "text": "rate)",
+          "confidence": 0.9998203108632375,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9995847281389071,
+          "bbox": null
+        },
+        {
+          "text": "Excl",
+          "confidence": 0.9887366682695871,
+          "bbox": null
+        },
+        {
+          "text": "airplane,",
+          "confidence": 0.9370330526614545,
+          "bbox": null
+        },
+        {
+          "text": "hotel",
+          "confidence": 0.9999958276922101,
+          "bbox": null
+        },
+        {
+          "text": "and",
+          "confidence": 0.9989877467554572,
+          "bbox": null
+        },
+        {
+          "text": "accomodation",
+          "confidence": 0.846086721861126,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.846086721861126,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999917746265009,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996922972466384,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9996922972466384,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9996922972466384,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9996922972466384,
+          "bbox": null
+        },
+        {
+          "text": "200,00",
+          "confidence": 0.9999900575888775,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9999900575888775,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999900575888775,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.99999950613362,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.99999950613362,
+          "bbox": null
+        },
+        {
+          "text": "200,00",
+          "confidence": 0.9999932221693744,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.999968655943135,
+          "bbox": null
+        },
+        {
+          "text": "Mise",
+          "confidence": 0.999968655943135,
+          "bbox": null
+        },
+        {
+          "text": "en",
+          "confidence": 0.9999833109787883,
+          "bbox": null
+        },
+        {
+          "text": "service",
+          "confidence": 0.9999787811971367,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999700793634253,
+          "bbox": null
+        },
+        {
+          "text": "site",
+          "confidence": 0.99992728761822,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9998462436543534,
+          "bbox": null
+        },
+        {
+          "text": "forfait",
+          "confidence": 0.9999897481064004,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999864103711195,
+          "bbox": null
+        },
+        {
+          "text": "jours",
+          "confidence": 0.9998076332215631,
+          "bbox": null
+        },
+        {
+          "text": "(en",
+          "confidence": 0.9999835494498046,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999154877575644,
+          "bbox": null
+        },
+        {
+          "text": "métropolitaine)",
+          "confidence": 0.9999938384518823,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999895096921129,
+          "bbox": null
+        },
+        {
+          "text": "Onsite",
+          "confidence": 0.9999965770069126,
+          "bbox": null
+        },
+        {
+          "text": "commissioning",
+          "confidence": 0.9999893649564011,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999923468339147,
+          "bbox": null
+        },
+        {
+          "text": "controller",
+          "confidence": 0.9999817613105537,
+          "bbox": null
+        },
+        {
+          "text": "by",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999908448334092,
+          "bbox": null
+        },
+        {
+          "text": "engineer",
+          "confidence": 0.99995911288632,
+          "bbox": null
+        },
+        {
+          "text": "(daily",
+          "confidence": 0.9999969005687319,
+          "bbox": null
+        },
+        {
+          "text": "rate)",
+          "confidence": 0.9999941786950944,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999612584807916,
+          "bbox": null
+        },
+        {
+          "text": "Excl",
+          "confidence": 0.9998421918100967,
+          "bbox": null
+        },
+        {
+          "text": "airplane,",
+          "confidence": 0.9999454172062309,
+          "bbox": null
+        },
+        {
+          "text": "hotel",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "and",
+          "confidence": 0.9999798540367254,
+          "bbox": null
+        },
+        {
+          "text": "accomodation",
+          "confidence": 0.9999478611261478,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999478611261478,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999922687382204,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999922687382204,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9999922687382204,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999922687382204,
+          "bbox": null
+        },
+        {
+          "text": "600,00",
+          "confidence": 0.999982310346645,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.999982310346645,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.999982310346645,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999993954395104,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9999993954395104,
+          "bbox": null
+        },
+        {
+          "text": "600,00",
+          "confidence": 0.9999966110662383,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999985873754641,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999808076731848,
+          "bbox": null
+        },
+        {
+          "text": "Energy,",
+          "confidence": 0.9999822238343955,
+          "bbox": null
+        },
+        {
+          "text": "9",
+          "confidence": 0.9999668610992084,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.9999737746439785,
+          "bbox": null
+        },
+        {
+          "text": "d'Enghien,",
+          "confidence": 0.9977590409046875,
+          "bbox": null
+        },
+        {
+          "text": "75010",
+          "confidence": 0.9999770727939751,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999543449247886,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999946356109105,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999672782274904,
+          "bbox": null
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.9999655497017356,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.999273708868738,
+          "bbox": null
+        },
+        {
+          "text": "Share",
+          "confidence": 0.9997339956414152,
+          "bbox": null
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.9999853374722015,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9995811548645059,
+          "bbox": null
+        },
+        {
+          "text": "17.667,96€",
+          "confidence": 0.9979569757045677,
+          "bbox": null
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.9997089158573599,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999624504845601,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998933190664664,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.999967546487995,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9999201661339845,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.998486511956334,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9980504448072691,
+          "bbox": null
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.9984856619107509,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999337240286982,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9999446606218817,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9999846818531061,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.9990797097896762,
+          "bbox": null
+        },
+        {
+          "text": "00028",
+          "confidence": 0.9996755877994344,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999819997211749,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.9999456737276226,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999446899472569,
+          "bbox": null
+        },
+        {
+          "text": "7112B",
+          "confidence": 0.9998004510185429,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999651921008026,
+          "bbox": null
+        },
+        {
+          "text": "VAT:",
+          "confidence": 0.9953312594457782,
+          "bbox": null
+        },
+        {
+          "text": "FR84817860083",
+          "confidence": 0.9956823118882739,
+          "bbox": null
+        },
+        {
+          "text": "Bank",
+          "confidence": 0.99995911288632,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998798514722953,
+          "bbox": null
+        },
+        {
+          "text": "BNP",
+          "confidence": 0.9999909401759619,
+          "bbox": null
+        },
+        {
+          "text": "PARIBAS,",
+          "confidence": 0.9999454053500243,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999706755877522,
+          "bbox": null
+        },
+        {
+          "text": "Boulevard",
+          "confidence": 0.9997793922878564,
+          "bbox": null
+        },
+        {
+          "text": "Haussmann",
+          "confidence": 0.999408880382391,
+          "bbox": null
+        },
+        {
+          "text": "75009",
+          "confidence": 0.9999751059373896,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999985694905718,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999877215940446,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.9998251505542384,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "ELUM ENERGY",
+          "type": "header",
+          "bbox": [
+            30,
+            12,
+            172,
+            75
+          ]
+        },
+        {
+          "text": "Elum Energy France",
+          "type": "header",
+          "bbox": [
+            408,
+            15,
+            73,
+            32
+          ]
+        },
+        {
+          "text": "Coffret PTR",
+          "type": "text",
+          "bbox": [
+            30,
+            141,
+            51,
+            12
+          ]
+        },
+        {
+          "text": "[ELMRTUDLL] ePowerControl PPC - RTU (Size L) / RTU cabinet for PPC controller / - Country of origin : France - HS Code : 85176200 1 Unité(s) 2 500,00 0,00 TVA 20% 2 500,00 € [SWIPLT5ETH15FP55] Ethernet switch (6 ports : 4Eth + 2 SFP) (Single mode) / Industrial 4-port 10/100/1000T + 2-port 1G/2.5G SFP Managed Gigabit Switch + Transceiver - Country of origin : Taiwan 8517620000 1 Unité(s) 340,00 0,00 TVA 20% 340,00 €",
+          "type": "table",
+          "bbox": [
+            30,
+            169,
+            655,
+            81
+          ]
+        },
+        {
+          "text": "Sous-total 2 840,00 €",
+          "type": "text",
+          "bbox": [
+            590,
+            267,
+            95,
+            11
+          ]
+        },
+        {
+          "text": "Equipements inclus dans le coffret PTR (inclus dans le prix du coffret PTR)",
+          "type": "text",
+          "bbox": [
+            30,
+            296,
+            282,
+            13
+          ]
+        },
+        {
+          "text": "[UPSGAVU120W] UPS AC/DC 120W - 6h d'autonomie / Uninterruptible power supply / - Country of origin : Italy - HS Code : 85044095 1 Unité(s) 220,00 100,00 TVA 20% 0,00 € [UPSGAVB173WH] Battery 24V 7.2Ah (172.8Wh) NOT RESTRICTED AS PER SPECIAL PROVISION A67 - 6h d'autonomie / Additional power supply Lead-acid battery / - Country of origin : Italy - HS Code : 85078000 1 Unité(s) 220,00 100,00 TVA 20% 0,00 € [IOMMOXE1214] Iologik E1214 / Remote ethernet I/O : 6DI, 6Relay, 2-port Switch / - Country of origin : Taiwan - HS Code : 85176200 2 Unité(s) 350,00 100,00 TVA 20% 0,00 € [IOMMOXE1210] Iologik E1210 / Remote ethernet I/O : 16DI, 2-port switch / - Country of origin : Taiwan - HS Code : 85176200 2 Unité(s) 350,00 100,00 TVA 20% 0,00 € [IOMMOXE1240] Iologik E1240 / Remote ethernet I/O : 8AI, 2-port Switch / - Country of origin : Taiwan - HS Code : 85176200 1 Unité(s) 350,00 100,00 TVA 20% 0,00 € [SWIMOX8PORTS2008] Ethernet switch - 8 ports / Industrial Ethernet Switch - 8 ports / - Country of origin : Taiwan - HS Code : 85176200 1 Unité(s) 150,00 100,00 TVA 20% 0,00 €",
+          "type": "table",
+          "bbox": [
+            30,
+            324,
+            655,
+            249
+          ]
+        },
+        {
+          "text": "Sous-total 0,00 €",
+          "type": "text",
+          "bbox": [
+            607,
+            588,
+            78,
+            13
+          ]
+        },
+        {
+          "text": "Software",
+          "type": "text",
+          "bbox": [
+            30,
+            617,
+            39,
+            13
+          ]
+        },
+        {
+          "text": "Push FTP (> 1 MWp) / FTP push to third party servers - Country of origin : 1 Unité(s) 500,00 0,00 TVA 20% 500,00 € Communication avec Agrégateur via Modbus TCP / License to allow a SCADA or a building management to access to live data from the controller with Elum data model - Country of origin : 1 Unité(s) 1 500,00 0,00 TVA 20% 1 500,00 €",
+          "type": "table",
+          "bbox": [
+            30,
+            646,
+            655,
+            81
+          ]
+        },
+        {
+          "text": "Sous-total 2 000,00 €",
+          "type": "text",
+          "bbox": [
+            590,
+            742,
+            95,
+            13
+          ]
+        },
+        {
+          "text": "Services",
+          "type": "text",
+          "bbox": [
+            30,
+            771,
+            36,
+            13
+          ]
+        },
+        {
+          "text": "FAT chez le postier - forfait 1 jour (en France métropolitaine) / Onsite commissioning of Elum controller by Elum engineer (daily rate) - Excl airplane, hotel and accomodation - Country of origin : 1 Unité(s) 1 200,00 0,00 TVA 20% 1 200,00 € Mise en service sur site - forfait 3 jours (en France métropolitaine) / Onsite commissioning of Elum controller by Elum engineer (daily rate) - Excl airplane, hotel and accomodation - Country of origin : 1 Unité(s) 3 600,00 0,00 TVA 20% 3 600,00 €",
+          "type": "table",
+          "bbox": [
+            30,
+            800,
+            655,
+            94
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            33,
+            927,
+            252,
+            16
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "type": "footer",
+          "bbox": [
+            33,
+            944,
+            187,
+            15
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET : 817 860 083 00028 - APE : 7112B - VAT: FR84817860083",
+          "type": "footer",
+          "bbox": [
+            33,
+            960,
+            451,
+            15
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            33,
+            976,
+            332,
+            14
+          ]
+        },
+        {
+          "text": "2",
+          "type": "footer",
+          "bbox": [
+            662,
+            934,
+            12,
+            14
+          ]
+        }
+      ],
+      "avg_confidence": 0.99581863448225,
+      "min_confidence": 0.5855236890743878
+    },
+    {
+      "page_number": 3,
+      "word_count": 295,
+      "words": [
+        {
+          "text": "ELUM",
+          "confidence": 0.9709576826640831,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.4963034316601192,
+          "bbox": null
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.9999760002416088,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9998889145535724,
+          "bbox": null
+        },
+        {
+          "text": "Energy",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.99997663552505,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999992847447459,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999693409846417,
+          "bbox": null
+        },
+        {
+          "text": "4",
+          "confidence": 0.9999005917843927,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.9999803481188553,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999821189265068,
+          "bbox": null
+        },
+        {
+          "text": "Frais",
+          "confidence": 0.9996551486540222,
+          "bbox": null
+        },
+        {
+          "text": "d'expédition",
+          "confidence": 0.9999478734559322,
+          "bbox": null
+        },
+        {
+          "text": "DHL",
+          "confidence": 0.999962848144446,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999064294658246,
+          "bbox": null
+        },
+        {
+          "text": "(<31.5kg)",
+          "confidence": 0.9764276668661902,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "Shipping",
+          "confidence": 0.9999935627400018,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9995925894864655,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9983734167002857,
+          "bbox": null
+        },
+        {
+          "text": "Country",
+          "confidence": 0.9999885560391694,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999957084838798,
+          "bbox": null
+        },
+        {
+          "text": "origin",
+          "confidence": 0.9999971389852362,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.998900550710572,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9976490109923654,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.9611548895515161,
+          "bbox": null
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9858268045726644,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999582784885006,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9998033398635099,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.9999594731193399,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9998270572365549,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9931696709157557,
+          "bbox": null
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.9996845785600149,
+          "bbox": null
+        },
+        {
+          "text": "Sous-total",
+          "confidence": 0.9999940395976691,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.9999933073154513,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999971389852362,
+          "bbox": null
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.9999563889031488,
+          "bbox": null
+        },
+        {
+          "text": "hors",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "taxes",
+          "confidence": 0.9998237205412498,
+          "bbox": null
+        },
+        {
+          "text": "31",
+          "confidence": 0.9998173561101997,
+          "bbox": null
+        },
+        {
+          "text": "680,00",
+          "confidence": 0.9999460367623013,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999941587791524,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999954700840115,
+          "bbox": null
+        },
+        {
+          "text": "20%",
+          "confidence": 0.9999960363243868,
+          "bbox": null
+        },
+        {
+          "text": "6",
+          "confidence": 0.9999986886999537,
+          "bbox": null
+        },
+        {
+          "text": "336,00",
+          "confidence": 0.9999614296421224,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999942779868433,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.999993205116773,
+          "bbox": null
+        },
+        {
+          "text": "38",
+          "confidence": 0.9999974568762803,
+          "bbox": null
+        },
+        {
+          "text": "016,00",
+          "confidence": 0.9999825106319636,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999958276922101,
+          "bbox": null
+        },
+        {
+          "text": "Options",
+          "confidence": 0.9999345583805643,
+          "bbox": null
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9624301338630683,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.9624301338630683,
+          "bbox": null
+        },
+        {
+          "text": "unitaire",
+          "confidence": 0.9692749561818385,
+          "bbox": null
+        },
+        {
+          "text": "[HMIARCSCREEN]",
+          "confidence": 0.9692749561818385,
+          "bbox": null
+        },
+        {
+          "text": "HMI",
+          "confidence": 0.999958696363732,
+          "bbox": null
+        },
+        {
+          "text": "supervision",
+          "confidence": 0.9999895096921129,
+          "bbox": null
+        },
+        {
+          "text": "screen",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "(eConf",
+          "confidence": 0.9997719726857734,
+          "bbox": null
+        },
+        {
+          "text": "interface)",
+          "confidence": 0.99999658837006,
+          "bbox": null
+        },
+        {
+          "text": "2",
+          "confidence": 0.99999658837006,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999975136481123,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999994436906743,
+          "bbox": null
+        },
+        {
+          "text": "Communication",
+          "confidence": 0.9999994436906743,
+          "bbox": null
+        },
+        {
+          "text": "agrégateur",
+          "confidence": 0.9983034982105157,
+          "bbox": null
+        },
+        {
+          "text": "via",
+          "confidence": 0.9999885560391694,
+          "bbox": null
+        },
+        {
+          "text": "API",
+          "confidence": 0.9998300364485936,
+          "bbox": null
+        },
+        {
+          "text": "ou",
+          "confidence": 0.9999904633477849,
+          "bbox": null
+        },
+        {
+          "text": "SMS",
+          "confidence": 0.9999783730373916,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999783730373916,
+          "bbox": null
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.9999998126711634,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999974489362373,
+          "bbox": null
+        },
+        {
+          "text": "Payment",
+          "confidence": 0.9999901057270286,
+          "bbox": null
+        },
+        {
+          "text": "details",
+          "confidence": 0.9982814571428007,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999386109847371,
+          "bbox": null
+        },
+        {
+          "text": "For",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "payments",
+          "confidence": 0.9999980926550052,
+          "bbox": null
+        },
+        {
+          "text": "in",
+          "confidence": 0.99998879445232,
+          "bbox": null
+        },
+        {
+          "text": "EUR",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "–",
+          "confidence": 0.7546416633819832,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.999969006545237,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999805692637573,
+          "bbox": null
+        },
+        {
+          "text": "IBAN:",
+          "confidence": 0.999760868478857,
+          "bbox": null
+        },
+        {
+          "text": "FR76",
+          "confidence": 0.9998840059158572,
+          "bbox": null
+        },
+        {
+          "text": "1020",
+          "confidence": 0.9999159895098849,
+          "bbox": null
+        },
+        {
+          "text": "7003",
+          "confidence": 0.9992212411484378,
+          "bbox": null
+        },
+        {
+          "text": "3324",
+          "confidence": 0.9994138868201033,
+          "bbox": null
+        },
+        {
+          "text": "2190",
+          "confidence": 0.9998440086226832,
+          "bbox": null
+        },
+        {
+          "text": "9248",
+          "confidence": 0.9992685907957691,
+          "bbox": null
+        },
+        {
+          "text": "194",
+          "confidence": 0.9999368235892782,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999964237340748,
+          "bbox": null
+        },
+        {
+          "text": "BIC:",
+          "confidence": 0.9999844434565108,
+          "bbox": null
+        },
+        {
+          "text": "CCBPFRPPMTG",
+          "confidence": 0.8780935563902341,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.999234190400676,
+          "bbox": null
+        },
+        {
+          "text": "RIB:",
+          "confidence": 0.9999369431493619,
+          "bbox": null
+        },
+        {
+          "text": "10207003332421909248194",
+          "confidence": 0.9417811725787238,
+          "bbox": null
+        },
+        {
+          "text": "For",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "payments",
+          "confidence": 0.9999693641511719,
+          "bbox": null
+        },
+        {
+          "text": "in",
+          "confidence": 0.999997854237364,
+          "bbox": null
+        },
+        {
+          "text": "EUR",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "–",
+          "confidence": 0.9993576364353933,
+          "bbox": null
+        },
+        {
+          "text": "Other",
+          "confidence": 0.9999868871505255,
+          "bbox": null
+        },
+        {
+          "text": "countries",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999952316511552,
+          "bbox": null
+        },
+        {
+          "text": "IBAN",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9045934454135017,
+          "bbox": null
+        },
+        {
+          "text": "FR76",
+          "confidence": 0.9998942325705812,
+          "bbox": null
+        },
+        {
+          "text": "3000",
+          "confidence": 0.9999531772422471,
+          "bbox": null
+        },
+        {
+          "text": "4029",
+          "confidence": 0.9999438087036633,
+          "bbox": null
+        },
+        {
+          "text": "3900",
+          "confidence": 0.9986239189997083,
+          "bbox": null
+        },
+        {
+          "text": "0101",
+          "confidence": 0.9998056839794747,
+          "bbox": null
+        },
+        {
+          "text": "3570",
+          "confidence": 0.9998308058612304,
+          "bbox": null
+        },
+        {
+          "text": "370",
+          "confidence": 0.9998554532754798,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "BIC:",
+          "confidence": 0.9977936320268606,
+          "bbox": null
+        },
+        {
+          "text": "BNPAFRPPXXX",
+          "confidence": 0.9781126935179085,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9998872407290764,
+          "bbox": null
+        },
+        {
+          "text": "RIB:",
+          "confidence": 0.9999773211881205,
+          "bbox": null
+        },
+        {
+          "text": "30004029390001013570370",
+          "confidence": 0.9458424317815491,
+          "bbox": null
+        },
+        {
+          "text": "For",
+          "confidence": 0.9999980926550052,
+          "bbox": null
+        },
+        {
+          "text": "payments",
+          "confidence": 0.9998650732971539,
+          "bbox": null
+        },
+        {
+          "text": "in",
+          "confidence": 0.9999886752461923,
+          "bbox": null
+        },
+        {
+          "text": "USD",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999785427891018,
+          "bbox": null
+        },
+        {
+          "text": "IBAN",
+          "confidence": 0.9999994039540177,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9996298730000804,
+          "bbox": null
+        },
+        {
+          "text": "FR76",
+          "confidence": 0.999891442801306,
+          "bbox": null
+        },
+        {
+          "text": "3000",
+          "confidence": 0.9999022596467231,
+          "bbox": null
+        },
+        {
+          "text": "4029",
+          "confidence": 0.9998834543296355,
+          "bbox": null
+        },
+        {
+          "text": "9900",
+          "confidence": 0.9983197979896913,
+          "bbox": null
+        },
+        {
+          "text": "0100",
+          "confidence": 0.9998799247702412,
+          "bbox": null
+        },
+        {
+          "text": "3910",
+          "confidence": 0.9999154410193104,
+          "bbox": null
+        },
+        {
+          "text": "404",
+          "confidence": 0.9999518419049634,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "BIC:",
+          "confidence": 0.9998554505451167,
+          "bbox": null
+        },
+        {
+          "text": "BNPAFRPPXXX",
+          "confidence": 0.9842908149479559,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999396837375756,
+          "bbox": null
+        },
+        {
+          "text": "RIB:",
+          "confidence": 0.9999894799339862,
+          "bbox": null
+        },
+        {
+          "text": "30004029990001003910404",
+          "confidence": 0.9294310726735467,
+          "bbox": null
+        },
+        {
+          "text": "Late",
+          "confidence": 0.9999339624169533,
+          "bbox": null
+        },
+        {
+          "text": "fees",
+          "confidence": 0.9999715097912857,
+          "bbox": null
+        },
+        {
+          "text": "(annual",
+          "confidence": 0.9999952614540181,
+          "bbox": null
+        },
+        {
+          "text": "rate):",
+          "confidence": 0.9999710339369299,
+          "bbox": null
+        },
+        {
+          "text": "10.00%.",
+          "confidence": 0.985008421626798,
+          "bbox": null
+        },
+        {
+          "text": "No",
+          "confidence": 0.9999892712787918,
+          "bbox": null
+        },
+        {
+          "text": "discount",
+          "confidence": 0.9999794964234012,
+          "bbox": null
+        },
+        {
+          "text": "for",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "early",
+          "confidence": 0.9999952316511552,
+          "bbox": null
+        },
+        {
+          "text": "payment",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "Lump-sum",
+          "confidence": 0.9998926711372014,
+          "bbox": null
+        },
+        {
+          "text": "compensation",
+          "confidence": 0.9999926090786457,
+          "bbox": null
+        },
+        {
+          "text": "for",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "recovery",
+          "confidence": 0.9999482658453687,
+          "bbox": null
+        },
+        {
+          "text": "costs",
+          "confidence": 0.9999941587791524,
+          "bbox": null
+        },
+        {
+          "text": "in",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "the",
+          "confidence": 0.9999893904859,
+          "bbox": null
+        },
+        {
+          "text": "event",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "of",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "late",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "payment:",
+          "confidence": 0.9999589601544618,
+          "bbox": null
+        },
+        {
+          "text": "€40",
+          "confidence": 0.9997016530469385,
+          "bbox": null
+        },
+        {
+          "text": "The",
+          "confidence": 0.9999947548186582,
+          "bbox": null
+        },
+        {
+          "text": "client's",
+          "confidence": 0.9990856002505368,
+          "bbox": null
+        },
+        {
+          "text": "bank",
+          "confidence": 0.9999958276922101,
+          "bbox": null
+        },
+        {
+          "text": "fees",
+          "confidence": 0.9999961853172863,
+          "bbox": null
+        },
+        {
+          "text": "are",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "to",
+          "confidence": 0.9999895096921129,
+          "bbox": null
+        },
+        {
+          "text": "be",
+          "confidence": 0.9999997615814777,
+          "bbox": null
+        },
+        {
+          "text": "paid",
+          "confidence": 0.9999963045256735,
+          "bbox": null
+        },
+        {
+          "text": "by",
+          "confidence": 0.9999992847447459,
+          "bbox": null
+        },
+        {
+          "text": "the",
+          "confidence": 0.9999948740268748,
+          "bbox": null
+        },
+        {
+          "text": "client",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": "and",
+          "confidence": 0.999997854237364,
+          "bbox": null
+        },
+        {
+          "text": "must",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "be",
+          "confidence": 0.9999966621509202,
+          "bbox": null
+        },
+        {
+          "text": "taken",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "into",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "account",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "when",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "paying.",
+          "confidence": 0.999991834296595,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.99996233147165,
+          "bbox": null
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.9999955892755635,
+          "bbox": null
+        },
+        {
+          "text": "9",
+          "confidence": 0.9947684756352235,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.999902734679677,
+          "bbox": null
+        },
+        {
+          "text": "d'Enghien",
+          "confidence": 0.9983509766657889,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9596319167032176,
+          "bbox": null
+        },
+        {
+          "text": "75010",
+          "confidence": 0.9945968043996228,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999616160839557,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9998131147615048,
+          "bbox": null
+        },
+        {
+          "text": "Tél",
+          "confidence": 0.9856006748671732,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.5602787518225838,
+          "bbox": null
+        },
+        {
+          "text": "01",
+          "confidence": 0.998114325083772,
+          "bbox": null
+        },
+        {
+          "text": "84",
+          "confidence": 0.8822682967085885,
+          "bbox": null
+        },
+        {
+          "text": "25",
+          "confidence": 0.868363091657976,
+          "bbox": null
+        },
+        {
+          "text": "00",
+          "confidence": 0.6367335416297911,
+          "bbox": null
+        },
+        {
+          "text": "47",
+          "confidence": 0.7929440727428003,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9984731182169064,
+          "bbox": null
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.9968675696201696,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9978581150154436,
+          "bbox": null
+        },
+        {
+          "text": "8178000830028",
+          "confidence": 0.6039092207932332,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9901227426817982,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.9995497315502546,
+          "bbox": null
+        },
+        {
+          "text": "71128",
+          "confidence": 0.48879307146743056,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.995444285648528,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.997217442807686,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.8592506466179023,
+          "bbox": null
+        },
+        {
+          "text": "FR",
+          "confidence": 0.9993431117734396,
+          "bbox": null
+        },
+        {
+          "text": "84",
+          "confidence": 0.9928059153357571,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.992799278850611,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9789798084272305,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.989046592912783,
+          "bbox": null
+        },
+        {
+          "text": "Reference",
+          "confidence": 0.9993964502549958,
+          "bbox": null
+        },
+        {
+          "text": "Offre:",
+          "confidence": 0.9913328909141423,
+          "bbox": null
+        },
+        {
+          "text": "QUO07570.A",
+          "confidence": 0.8891456161398759,
+          "bbox": null
+        },
+        {
+          "text": "Nom",
+          "confidence": 0.9999800924450729,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999961853172863,
+          "bbox": null
+        },
+        {
+          "text": "projet:",
+          "confidence": 0.9998759382532202,
+          "bbox": null
+        },
+        {
+          "text": "Details",
+          "confidence": 0.8019835851687509,
+          "bbox": null
+        },
+        {
+          "text": "projet:",
+          "confidence": 0.9989787469774004,
+          "bbox": null
+        },
+        {
+          "text": "10",
+          "confidence": 0.9999959469016156,
+          "bbox": null
+        },
+        {
+          "text": "MWc",
+          "confidence": 0.9830810808508529,
+          "bbox": null
+        },
+        {
+          "text": "en",
+          "confidence": 0.9999641192914955,
+          "bbox": null
+        },
+        {
+          "text": "soutirage",
+          "confidence": 0.9591855904410642,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999444515564443,
+          "bbox": null
+        },
+        {
+          "text": "22",
+          "confidence": 0.9999895891896171,
+          "bbox": null
+        },
+        {
+          "text": "onduleurs",
+          "confidence": 0.9978500953253038,
+          "bbox": null
+        },
+        {
+          "text": "Huawei",
+          "confidence": 0.9999493386194785,
+          "bbox": null
+        },
+        {
+          "text": "330",
+          "confidence": 0.9995549300801313,
+          "bbox": null
+        },
+        {
+          "text": "KTL",
+          "confidence": 0.998478738086727,
+          "bbox": null
+        },
+        {
+          "text": "/",
+          "confidence": 0.9999091707720544,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999603651822504,
+          "bbox": null
+        },
+        {
+          "text": "PDL/PTR",
+          "confidence": 0.9939724261528468,
+          "bbox": null
+        },
+        {
+          "text": "+",
+          "confidence": 0.9999070253984754,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.999921688559451,
+          "bbox": null
+        },
+        {
+          "text": "PTR",
+          "confidence": 0.9999128060334622,
+          "bbox": null
+        },
+        {
+          "text": "Pays:",
+          "confidence": 0.9997170799906675,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.999993205116773,
+          "bbox": null
+        },
+        {
+          "text": "Délais",
+          "confidence": 0.9951930904053438,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.999949934606805,
+          "bbox": null
+        },
+        {
+          "text": "paiement:",
+          "confidence": 0.9999727971799285,
+          "bbox": null
+        },
+        {
+          "text": "30",
+          "confidence": 0.9999984900182078,
+          "bbox": null
+        },
+        {
+          "text": "jours",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "Monnaie:",
+          "confidence": 0.9997164094001783,
+          "bbox": null
+        },
+        {
+          "text": "Euros",
+          "confidence": 0.9999303866209199,
+          "bbox": null
+        },
+        {
+          "text": "HT",
+          "confidence": 0.9999902249342363,
+          "bbox": null
+        },
+        {
+          "text": "Termes",
+          "confidence": 0.9989306204209187,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "paiements:",
+          "confidence": 0.99978244714759,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999915362367979,
+          "bbox": null
+        },
+        {
+          "text": "Energy,",
+          "confidence": 0.999997481728327,
+          "bbox": null
+        },
+        {
+          "text": "9",
+          "confidence": 0.9999997615815062,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.9999661457096376,
+          "bbox": null
+        },
+        {
+          "text": "d'Enghien,",
+          "confidence": 0.9999659625339493,
+          "bbox": null
+        },
+        {
+          "text": "75010",
+          "confidence": 0.9999982913369089,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999917150293967,
+          "bbox": null
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9976958796546183,
+          "bbox": null
+        },
+        {
+          "text": "Share",
+          "confidence": 0.9999889136593714,
+          "bbox": null
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.9999991655356624,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999164412717095,
+          "bbox": null
+        },
+        {
+          "text": "17.667,96€",
+          "confidence": 0.9988274977070289,
+          "bbox": null
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.9998107217975317,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999756818971167,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9998317988532609,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.999942187032085,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.9998085330120992,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9992641860190823,
+          "bbox": null
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.9846467262589367,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999796156266157,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9999745197700998,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9999935329435845,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.9997095853684624,
+          "bbox": null
+        },
+        {
+          "text": "00028",
+          "confidence": 0.999794506064187,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999939203633587,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.9999953508598834,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9998790172097274,
+          "bbox": null
+        },
+        {
+          "text": "7112B",
+          "confidence": 0.9911995739310628,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999828341569776,
+          "bbox": null
+        },
+        {
+          "text": "VAT:",
+          "confidence": 0.9999229370567331,
+          "bbox": null
+        },
+        {
+          "text": "FR84817860083",
+          "confidence": 0.9992880576500872,
+          "bbox": null
+        },
+        {
+          "text": "Bank",
+          "confidence": 0.999985933501902,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999836685934766,
+          "bbox": null
+        },
+        {
+          "text": "BNP",
+          "confidence": 0.9999868871505255,
+          "bbox": null
+        },
+        {
+          "text": "PARIBAS,",
+          "confidence": 0.9999073719568554,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999983310737406,
+          "bbox": null
+        },
+        {
+          "text": "Boulevard",
+          "confidence": 0.9999440939703319,
+          "bbox": null
+        },
+        {
+          "text": "Haussmann",
+          "confidence": 0.9998239365080511,
+          "bbox": null
+        },
+        {
+          "text": "75009",
+          "confidence": 0.9999965032138914,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999953508594287,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9995045733565407,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "ELUM ENERGY",
+          "type": "header",
+          "bbox": [
+            30,
+            12,
+            172,
+            75
+          ]
+        },
+        {
+          "text": "Elum Energy France",
+          "type": "header",
+          "bbox": [
+            408,
+            16,
+            73,
+            32
+          ]
+        },
+        {
+          "text": "Sous-total 4 800,00 €",
+          "type": "text",
+          "bbox": [
+            590,
+            142,
+            95,
+            12
+          ]
+        },
+        {
+          "text": "Frais d'expédition",
+          "type": "text",
+          "bbox": [
+            30,
+            170,
+            72,
+            13
+          ]
+        },
+        {
+          "text": "DHL France (<31.5kg) / Shipping - Country of origin :",
+          "type": "text",
+          "bbox": [
+            30,
+            200,
+            128,
+            25
+          ]
+        },
+        {
+          "text": "1 800,00 0,00 TVA 20% 800,00 € Unité(s)",
+          "type": "text",
+          "bbox": [
+            485,
+            200,
+            200,
+            25
+          ]
+        },
+        {
+          "text": "Sous-total 800,00 €",
+          "type": "text",
+          "bbox": [
+            597,
+            242,
+            88,
+            13
+          ]
+        },
+        {
+          "text": "Montant hors taxes 31 680,00 €",
+          "type": "text",
+          "bbox": [
+            359,
+            271,
+            326,
+            13
+          ]
+        },
+        {
+          "text": "TVA 20% 6 336,00 €",
+          "type": "text",
+          "bbox": [
+            359,
+            301,
+            326,
+            13
+          ]
+        },
+        {
+          "text": "Total 38 016,00 €",
+          "type": "text",
+          "bbox": [
+            359,
+            330,
+            326,
+            12
+          ]
+        },
+        {
+          "text": "Options",
+          "type": "text",
+          "bbox": [
+            27,
+            354,
+            50,
+            15
+          ]
+        },
+        {
+          "text": "Description Prix unitaire [HMIARCSCREEN] HMI supervision screen (eConf interface) 2 500,00 € Communication agrégateur via API ou SMS 1 500,00 €",
+          "type": "table",
+          "bbox": [
+            27,
+            375,
+            658,
+            64
+          ]
+        },
+        {
+          "text": "Payment details :",
+          "type": "text",
+          "bbox": [
+            27,
+            465,
+            69,
+            13
+          ]
+        },
+        {
+          "text": "For payments in EUR – France IBAN: FR76 1020 7003 3324 2190 9248 194 BIC: CCBPFRPPMTG RIB: 10207003332421909248194",
+          "type": "text",
+          "bbox": [
+            27,
+            491,
+            175,
+            50
+          ]
+        },
+        {
+          "text": "For payments in EUR – Other countries IBAN : FR76 3000 4029 3900 0101 3570 370 BIC: BNPAFRPPXXX RIB: 30004029390001013570370",
+          "type": "text",
+          "bbox": [
+            356,
+            491,
+            176,
+            50
+          ]
+        },
+        {
+          "text": "For payments in USD IBAN : FR76 3000 4029 9900 0100 3910 404 BIC: BNPAFRPPXXX RIB: 30004029990001003910404",
+          "type": "text",
+          "bbox": [
+            27,
+            554,
+            177,
+            50
+          ]
+        },
+        {
+          "text": "Late fees (annual rate): 10.00%.",
+          "type": "text",
+          "bbox": [
+            27,
+            617,
+            121,
+            12
+          ]
+        },
+        {
+          "text": "No discount for early payment",
+          "type": "text",
+          "bbox": [
+            27,
+            630,
+            119,
+            12
+          ]
+        },
+        {
+          "text": "Lump-sum compensation for recovery costs in the event of late payment: €40",
+          "type": "text",
+          "bbox": [
+            27,
+            643,
+            294,
+            12
+          ]
+        },
+        {
+          "text": "The client's bank fees are to be paid by the client and must be taken into account when paying.",
+          "type": "text",
+          "bbox": [
+            27,
+            656,
+            357,
+            12
+          ]
+        },
+        {
+          "text": "Elum SAS",
+          "type": "text",
+          "bbox": [
+            208,
+            686,
+            69,
+            15
+          ]
+        },
+        {
+          "text": "9 rue d'Enghien - 75010 Paris Tél : 01 84 25 00 47 SIRET : 8178000830028 - APE 71128 TVA : FR 84 817 860 083",
+          "type": "text",
+          "bbox": [
+            191,
+            700,
+            104,
+            30
+          ]
+        },
+        {
+          "text": "",
+          "type": "signature",
+          "bbox": [
+            281,
+            731,
+            54,
+            32
+          ]
+        },
+        {
+          "text": "Reference Offre: QUO07570.A",
+          "type": "text",
+          "bbox": [
+            27,
+            765,
+            114,
+            11
+          ]
+        },
+        {
+          "text": "Nom du projet:",
+          "type": "text",
+          "bbox": [
+            27,
+            786,
+            59,
+            11
+          ]
+        },
+        {
+          "text": "Details projet: 10 MWc en soutirage / 22 onduleurs Huawei 330 KTL / 1 PDL/PTR + 1 PTR",
+          "type": "text",
+          "bbox": [
+            27,
+            807,
+            323,
+            12
+          ]
+        },
+        {
+          "text": "Pays: France",
+          "type": "text",
+          "bbox": [
+            27,
+            828,
+            50,
+            12
+          ]
+        },
+        {
+          "text": "Délais de paiement: 30 jours",
+          "type": "text",
+          "bbox": [
+            27,
+            850,
+            104,
+            12
+          ]
+        },
+        {
+          "text": "Monnaie: Euros HT",
+          "type": "text",
+          "bbox": [
+            27,
+            870,
+            72,
+            11
+          ]
+        },
+        {
+          "text": "Termes de paiements:",
+          "type": "text",
+          "bbox": [
+            27,
+            892,
+            82,
+            12
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            33,
+            927,
+            252,
+            16
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "type": "footer",
+          "bbox": [
+            33,
+            945,
+            187,
+            14
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET : 817 860 083 00028 - APE : 7112B - VAT: FR84817860083",
+          "type": "footer",
+          "bbox": [
+            33,
+            961,
+            451,
+            14
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            33,
+            977,
+            332,
+            13
+          ]
+        },
+        {
+          "text": "3",
+          "type": "footer",
+          "bbox": [
+            662,
+            935,
+            9,
+            13
+          ]
+        }
+      ],
+      "avg_confidence": 0.9852522969910102,
+      "min_confidence": 0.48879307146743056
+    },
+    {
+      "page_number": 4,
+      "word_count": 94,
+      "words": [
+        {
+          "text": "ELUM",
+          "confidence": 0.9753866280742548,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.7484071772508164,
+          "bbox": null
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.9999347412159123,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.999888079805102,
+          "bbox": null
+        },
+        {
+          "text": "Energy",
+          "confidence": 0.9999935627400018,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999438555760236,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.817172070838908,
+          "bbox": null
+        },
+        {
+          "text": "Pré-paiement",
+          "confidence": 0.9948379344827435,
+          "bbox": null
+        },
+        {
+          "text": "à",
+          "confidence": 0.9999957084838798,
+          "bbox": null
+        },
+        {
+          "text": "la",
+          "confidence": 0.9999922514562126,
+          "bbox": null
+        },
+        {
+          "text": "commande:",
+          "confidence": 0.9999633376352774,
+          "bbox": null
+        },
+        {
+          "text": "60%",
+          "confidence": 0.99995902379939,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999258573209157,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.999894987645265,
+          "bbox": null
+        },
+        {
+          "text": "Livraison:",
+          "confidence": 0.9996933834612893,
+          "bbox": null
+        },
+        {
+          "text": "30%",
+          "confidence": 0.9999447804536328,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999865295319578,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9991435002364706,
+          "bbox": null
+        },
+        {
+          "text": "FAT:",
+          "confidence": 0.9990853447205237,
+          "bbox": null
+        },
+        {
+          "text": "5%",
+          "confidence": 0.9999923309370998,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999942779868433,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999961853172863,
+          "bbox": null
+        },
+        {
+          "text": "SAT:",
+          "confidence": 0.9996365085952167,
+          "bbox": null
+        },
+        {
+          "text": "5%",
+          "confidence": 0.9999895494728052,
+          "bbox": null
+        },
+        {
+          "text": "Délais",
+          "confidence": 0.9972719337733136,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999771123402672,
+          "bbox": null
+        },
+        {
+          "text": "livraison:",
+          "confidence": 0.9999848607521131,
+          "bbox": null
+        },
+        {
+          "text": "15",
+          "confidence": 0.9999755230862393,
+          "bbox": null
+        },
+        {
+          "text": "semaines",
+          "confidence": 0.9999616160839557,
+          "bbox": null
+        },
+        {
+          "text": "après",
+          "confidence": 0.9999949932351057,
+          "bbox": null
+        },
+        {
+          "text": "pré-paiement",
+          "confidence": 0.999271411432483,
+          "bbox": null
+        },
+        {
+          "text": "Incoterm:",
+          "confidence": 0.9813853438262293,
+          "bbox": null
+        },
+        {
+          "text": "CIP",
+          "confidence": 0.9996502431197272,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9998538707700327,
+          "bbox": null
+        },
+        {
+          "text": "Offre",
+          "confidence": 0.9996714813386688,
+          "bbox": null
+        },
+        {
+          "text": "commerciale",
+          "confidence": 0.9999446899472569,
+          "bbox": null
+        },
+        {
+          "text": "basée",
+          "confidence": 0.9999715097912857,
+          "bbox": null
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "les",
+          "confidence": 0.9999959469005546,
+          "bbox": null
+        },
+        {
+          "text": "Conditions",
+          "confidence": 0.9998367099361437,
+          "bbox": null
+        },
+        {
+          "text": "Générales",
+          "confidence": 0.999911225482206,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999985694905718,
+          "bbox": null
+        },
+        {
+          "text": "Vente",
+          "confidence": 0.9999711521845835,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999692449491794,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9998556884928006,
+          "bbox": null
+        },
+        {
+          "text": "Energy",
+          "confidence": 0.9999898673126559,
+          "bbox": null
+        },
+        {
+          "text": "(GTC/CGV)",
+          "confidence": 0.9933655900328433,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999905229514082,
+          "bbox": null
+        },
+        {
+          "text": "Energy,",
+          "confidence": 0.999991625758432,
+          "bbox": null
+        },
+        {
+          "text": "9",
+          "confidence": 0.9999981522594243,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.9999609008813933,
+          "bbox": null
+        },
+        {
+          "text": "d'Enghien,",
+          "confidence": 0.9988991691582625,
+          "bbox": null
+        },
+        {
+          "text": "75010",
+          "confidence": 0.9999953309979854,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999545833252356,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999935627400018,
+          "bbox": null
+        },
+        {
+          "text": "Elum",
+          "confidence": 0.9999877811970498,
+          "bbox": null
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.9999829533624089,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9987596180848439,
+          "bbox": null
+        },
+        {
+          "text": "Share",
+          "confidence": 0.9999828341569776,
+          "bbox": null
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.9999953508594287,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9993072781886866,
+          "bbox": null
+        },
+        {
+          "text": "17.667,96€",
+          "confidence": 0.9981592454955366,
+          "bbox": null
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.9998653239843671,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9998580418976274,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999545833252356,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9999631957041313,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.999976009843435,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.99993134093326,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9988809248582694,
+          "bbox": null
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.9993158362350765,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999545833252356,
+          "bbox": null
+        },
+        {
+          "text": "817",
+          "confidence": 0.9999979138421953,
+          "bbox": null
+        },
+        {
+          "text": "860",
+          "confidence": 0.9999998509884418,
+          "bbox": null
+        },
+        {
+          "text": "083",
+          "confidence": 0.9999517825546559,
+          "bbox": null
+        },
+        {
+          "text": "00028",
+          "confidence": 0.9999604440324326,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999966621509202,
+          "bbox": null
+        },
+        {
+          "text": "APE",
+          "confidence": 0.9999758905508399,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999636424897494,
+          "bbox": null
+        },
+        {
+          "text": "7112B",
+          "confidence": 0.9999592921318483,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999854566779314,
+          "bbox": null
+        },
+        {
+          "text": "VAT:",
+          "confidence": 0.9999187666740722,
+          "bbox": null
+        },
+        {
+          "text": "FR84817860083",
+          "confidence": 0.999124394085671,
+          "bbox": null
+        },
+        {
+          "text": "Bank",
+          "confidence": 0.9999840262101118,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.999761042494754,
+          "bbox": null
+        },
+        {
+          "text": "BNP",
+          "confidence": 0.9999920130413283,
+          "bbox": null
+        },
+        {
+          "text": "PARIBAS,",
+          "confidence": 0.9999255411009784,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999908806057373,
+          "bbox": null
+        },
+        {
+          "text": "Boulevard",
+          "confidence": 0.9999474314675137,
+          "bbox": null
+        },
+        {
+          "text": "Haussmann",
+          "confidence": 0.9998672185795394,
+          "bbox": null
+        },
+        {
+          "text": "75009",
+          "confidence": 0.9999865693572856,
+          "bbox": null
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.9999969005680498,
+          "bbox": null
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.9999847414437658,
+          "bbox": null
+        },
+        {
+          "text": "4",
+          "confidence": 0.9999302674272115,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "ELUM ENERGY",
+          "type": "header",
+          "bbox": [
+            30,
+            12,
+            172,
+            75
+          ]
+        },
+        {
+          "text": "Elum Energy France",
+          "type": "header",
+          "bbox": [
+            408,
+            15,
+            75,
+            33
+          ]
+        },
+        {
+          "text": "- Pré-paiement à la commande: 60% - Livraison: 30% - FAT: 5% - SAT: 5%",
+          "type": "list",
+          "bbox": [
+            35,
+            133,
+            136,
+            51
+          ]
+        },
+        {
+          "text": "Délais de livraison: 15 semaines après pré-paiement",
+          "type": "text",
+          "bbox": [
+            27,
+            193,
+            186,
+            13
+          ]
+        },
+        {
+          "text": "Incoterm: CIP France",
+          "type": "text",
+          "bbox": [
+            27,
+            214,
+            79,
+            12
+          ]
+        },
+        {
+          "text": "Offre commerciale basée sur les Conditions Générales de Vente de Elum Energy (GTC/CGV)",
+          "type": "text",
+          "bbox": [
+            27,
+            234,
+            327,
+            14
+          ]
+        },
+        {
+          "text": "Elum Energy, 9 rue d'Enghien, 75010 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            33,
+            927,
+            252,
+            17
+          ]
+        },
+        {
+          "text": "Elum SAS - Share Capital : 17.667,96€",
+          "type": "footer",
+          "bbox": [
+            33,
+            945,
+            187,
+            15
+          ]
+        },
+        {
+          "text": "RCS Paris : 817 860 083 - SIRET : 817 860 083 00028 - APE : 7112B - VAT: FR84817860083",
+          "type": "footer",
+          "bbox": [
+            33,
+            961,
+            453,
+            15
+          ]
+        },
+        {
+          "text": "Bank : BNP PARIBAS, 1 Boulevard Haussmann 75009 Paris FRANCE",
+          "type": "footer",
+          "bbox": [
+            33,
+            977,
+            333,
+            16
+          ]
+        },
+        {
+          "text": "4",
+          "type": "footer",
+          "bbox": [
+            662,
+            934,
+            12,
+            15
+          ]
+        }
+      ],
+      "avg_confidence": 0.9946108682575234,
+      "min_confidence": 0.7484071772508164
+    }
+  ]
+}

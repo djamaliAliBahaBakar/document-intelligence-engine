@@ -1,0 +1,1328 @@
+{
+  "engine": "mistralocr",
+  "model": "mistral-ocr-4-0",
+  "duration_seconds": 0.71,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 224,
+      "words": [
+        {
+          "text": "sol-direct.fr",
+          "confidence": 0.9979767407947965,
+          "bbox": null
+        },
+        {
+          "text": "10",
+          "confidence": 0.9999836685934766,
+          "bbox": null
+        },
+        {
+          "text": "Place",
+          "confidence": 0.9999797348316635,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9999780659713836,
+          "bbox": null
+        },
+        {
+          "text": "Temple",
+          "confidence": 0.9999986886995842,
+          "bbox": null
+        },
+        {
+          "text": "Neuf",
+          "confidence": 0.9987166920153423,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9839748536933408,
+          "bbox": null
+        },
+        {
+          "text": "67000",
+          "confidence": 0.9999884130757973,
+          "bbox": null
+        },
+        {
+          "text": "STRASBOURG",
+          "confidence": 0.9998339529976811,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997525827448208,
+          "bbox": null
+        },
+        {
+          "text": "FR",
+          "confidence": 0.99998354938796,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999966621509202,
+          "bbox": null
+        },
+        {
+          "text": "03",
+          "confidence": 0.9999892712787918,
+          "bbox": null
+        },
+        {
+          "text": "67",
+          "confidence": 0.9999972979305893,
+          "bbox": null
+        },
+        {
+          "text": "10",
+          "confidence": 0.9999968608329186,
+          "bbox": null
+        },
+        {
+          "text": "69",
+          "confidence": 0.9999823574041357,
+          "bbox": null
+        },
+        {
+          "text": "60",
+          "confidence": 0.9999764369705689,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9997693832217586,
+          "bbox": null
+        },
+        {
+          "text": "commercial@sol-direct.fr",
+          "confidence": 0.9999555819552186,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9465955903929225,
+          "bbox": null
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.9975481322337398,
+          "bbox": null
+        },
+        {
+          "text": "13385",
+          "confidence": 0.9999969516596021,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9998469586985235,
+          "bbox": null
+        },
+        {
+          "text": "28",
+          "confidence": 0.9999999205271481,
+          "bbox": null
+        },
+        {
+          "text": "février",
+          "confidence": 0.9999945164027223,
+          "bbox": null
+        },
+        {
+          "text": "2025",
+          "confidence": 0.999994230314321,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.8670344812176259,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.99839273940997,
+          "bbox": null
+        },
+        {
+          "text": "Solutions",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "79",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "rue",
+          "confidence": 0.9999928474936721,
+          "bbox": null
+        },
+        {
+          "text": "des",
+          "confidence": 0.9999895096921129,
+          "bbox": null
+        },
+        {
+          "text": "joncs",
+          "confidence": 0.9902653827401683,
+          "bbox": null
+        },
+        {
+          "text": "des",
+          "confidence": 0.9999624504845601,
+          "bbox": null
+        },
+        {
+          "text": "bois",
+          "confidence": 0.9999853374722015,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": "84000",
+          "confidence": 0.9999963522169789,
+          "bbox": null
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.9999683664313627,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999823573372132,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999969005680498,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9997387615048174,
+          "bbox": null
+        },
+        {
+          "text": "Contact",
+          "confidence": 0.9999916554191085,
+          "bbox": null
+        },
+        {
+          "text": "Client",
+          "confidence": 0.9999967813595916,
+          "bbox": null
+        },
+        {
+          "text": "M.",
+          "confidence": 0.9999989867224652,
+          "bbox": null
+        },
+        {
+          "text": "Arthur",
+          "confidence": 0.9999446899472569,
+          "bbox": null
+        },
+        {
+          "text": "FURST",
+          "confidence": 0.9999463593732903,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "Tél",
+          "confidence": 0.9996926537474085,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9992928740234575,
+          "bbox": null
+        },
+        {
+          "text": "0612603940",
+          "confidence": 0.9997141670548083,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999982118638471,
+          "bbox": null
+        },
+        {
+          "text": "Email:",
+          "confidence": 0.996497260559968,
+          "bbox": null
+        },
+        {
+          "text": "a.furst@poulaillon.fr",
+          "confidence": 0.995210553209816,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999998807907247,
+          "bbox": null
+        },
+        {
+          "text": "Adresse",
+          "confidence": 0.9998781829478556,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.9999432595995958,
+          "bbox": null
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.997459728008088,
+          "bbox": null
+        },
+        {
+          "text": "Solutions",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999858142961154,
+          "bbox": null
+        },
+        {
+          "text": "Lieu-dit",
+          "confidence": 0.9999037180265837,
+          "bbox": null
+        },
+        {
+          "text": "«",
+          "confidence": 0.999937776622214,
+          "bbox": null
+        },
+        {
+          "text": "Choisy-aux-Bœufs",
+          "confidence": 0.9996645984397483,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9616482851408548,
+          "bbox": null
+        },
+        {
+          "text": "95470",
+          "confidence": 0.999964524602443,
+          "bbox": null
+        },
+        {
+          "text": "Vémars",
+          "confidence": 0.9977419314030227,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.9999828341569776,
+          "bbox": null
+        },
+        {
+          "text": "France",
+          "confidence": 0.9999961853172863,
+          "bbox": null
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.9993718902198893,
+          "bbox": null
+        },
+        {
+          "text": "Description",
+          "confidence": 0.9993718902198893,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.9993718902198893,
+          "bbox": null
+        },
+        {
+          "text": "tarif",
+          "confidence": 0.9999560137072835,
+          "bbox": null
+        },
+        {
+          "text": "U.H.T.",
+          "confidence": 0.999995398568458,
+          "bbox": null
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.999995398568458,
+          "bbox": null
+        },
+        {
+          "text": "Net",
+          "confidence": 0.9999849798550975,
+          "bbox": null
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.9999992533744835,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9999992533744835,
+          "bbox": null
+        },
+        {
+          "text": "Net",
+          "confidence": 0.9999898673126559,
+          "bbox": null
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.9999310058901681,
+          "bbox": null
+        },
+        {
+          "text": "100",
+          "confidence": 0.9999310058901681,
+          "bbox": null
+        },
+        {
+          "text": "Plaque",
+          "confidence": 0.9999310058901681,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "roulage",
+          "confidence": 0.9991210762157023,
+          "bbox": null
+        },
+        {
+          "text": "en",
+          "confidence": 0.9999974966112362,
+          "bbox": null
+        },
+        {
+          "text": "PEHD",
+          "confidence": 0.8861661178744367,
+          "bbox": null
+        },
+        {
+          "text": "Dim",
+          "confidence": 0.8861661178744367,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999146534361616,
+          "bbox": null
+        },
+        {
+          "text": "2400",
+          "confidence": 0.9999903918472757,
+          "bbox": null
+        },
+        {
+          "text": "x",
+          "confidence": 0.9999865295319578,
+          "bbox": null
+        },
+        {
+          "text": "1200",
+          "confidence": 0.9999950886243938,
+          "bbox": null
+        },
+        {
+          "text": "x",
+          "confidence": 0.9999933243243502,
+          "bbox": null
+        },
+        {
+          "text": "21",
+          "confidence": 0.9999939601081879,
+          "bbox": null
+        },
+        {
+          "text": "mm",
+          "confidence": 0.9997200470510652,
+          "bbox": null
+        },
+        {
+          "text": "Charge",
+          "confidence": 0.9997200470510652,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999829533624089,
+          "bbox": null
+        },
+        {
+          "text": "80",
+          "confidence": 0.9999948740325023,
+          "bbox": null
+        },
+        {
+          "text": "tonnes",
+          "confidence": 0.9728031938929222,
+          "bbox": null
+        },
+        {
+          "text": "Doube",
+          "confidence": 0.9728031938929222,
+          "bbox": null
+        },
+        {
+          "text": "faces",
+          "confidence": 0.9999075021477618,
+          "bbox": null
+        },
+        {
+          "text": "antidérapantes",
+          "confidence": 0.9994213163382287,
+          "bbox": null
+        },
+        {
+          "text": "Matière",
+          "confidence": 0.9994213163382287,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999582784885006,
+          "bbox": null
+        },
+        {
+          "text": "PEHD",
+          "confidence": 0.99992469061808,
+          "bbox": null
+        },
+        {
+          "text": "Recyclé",
+          "confidence": 0.9996333629381493,
+          "bbox": null
+        },
+        {
+          "text": "Nbre",
+          "confidence": 0.9996333629381493,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999915362117302,
+          "bbox": null
+        },
+        {
+          "text": "poignées",
+          "confidence": 0.9999042841587545,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999926090786457,
+          "bbox": null
+        },
+        {
+          "text": "6",
+          "confidence": 0.9999451878590325,
+          "bbox": null
+        },
+        {
+          "text": "Poids",
+          "confidence": 0.9999451878590325,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999964237340748,
+          "bbox": null
+        },
+        {
+          "text": "40",
+          "confidence": 0.9999994039539194,
+          "bbox": null
+        },
+        {
+          "text": "kg",
+          "confidence": 0.9999956157806238,
+          "bbox": null
+        },
+        {
+          "text": "160,00",
+          "confidence": 0.9999956157806238,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999983240662854,
+          "bbox": null
+        },
+        {
+          "text": "160,00",
+          "confidence": 0.9999983240662854,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999738131774929,
+          "bbox": null
+        },
+        {
+          "text": "16",
+          "confidence": 0.9999738131774929,
+          "bbox": null
+        },
+        {
+          "text": "000,00",
+          "confidence": 0.9999899014071073,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999974994566431,
+          "bbox": null
+        },
+        {
+          "text": "200",
+          "confidence": 0.9999974994566431,
+          "bbox": null
+        },
+        {
+          "text": "Connecteur",
+          "confidence": 0.9999974994566431,
+          "bbox": null
+        },
+        {
+          "text": "acier",
+          "confidence": 0.9999038073576505,
+          "bbox": null
+        },
+        {
+          "text": "en",
+          "confidence": 0.999991297797926,
+          "bbox": null
+        },
+        {
+          "text": "U",
+          "confidence": 0.9999958913011762,
+          "bbox": null
+        },
+        {
+          "text": "4,00",
+          "confidence": 0.9999958913011762,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999987204915418,
+          "bbox": null
+        },
+        {
+          "text": "4,00",
+          "confidence": 0.9999987204915418,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.999990316295813,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.999990316295813,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9996513780242254,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9996513780242254,
+          "bbox": null
+        },
+        {
+          "text": "Transport",
+          "confidence": 0.9996513780242254,
+          "bbox": null
+        },
+        {
+          "text": "OFFERT",
+          "confidence": 0.9996513780242254,
+          "bbox": null
+        },
+        {
+          "text": "Marchandises",
+          "confidence": 0.8511022321489563,
+          "bbox": null
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.9990804347274194,
+          "bbox": null
+        },
+        {
+          "text": "16",
+          "confidence": 0.9990804347274194,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.9999973263169816,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.999992500325995,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9995598874979239,
+          "bbox": null
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.9999925832840717,
+          "bbox": null
+        },
+        {
+          "text": "16",
+          "confidence": 0.9999925832840717,
+          "bbox": null
+        },
+        {
+          "text": "800,00",
+          "confidence": 0.9999936819728397,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999994557846903,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9490930574189629,
+          "bbox": null
+        },
+        {
+          "text": "(",
+          "confidence": 0.9377013666406484,
+          "bbox": null
+        },
+        {
+          "text": "20%)",
+          "confidence": 0.9860337878173278,
+          "bbox": null
+        },
+        {
+          "text": "3",
+          "confidence": 0.9860337878173278,
+          "bbox": null
+        },
+        {
+          "text": "360,00",
+          "confidence": 0.9999980415660256,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9999966621802521,
+          "bbox": null
+        },
+        {
+          "text": "Total",
+          "confidence": 0.9825671280431885,
+          "bbox": null
+        },
+        {
+          "text": "TTC",
+          "confidence": 0.9999884368330701,
+          "bbox": null
+        },
+        {
+          "text": "à",
+          "confidence": 0.9999858142961154,
+          "bbox": null
+        },
+        {
+          "text": "payer",
+          "confidence": 0.999996955219846,
+          "bbox": null
+        },
+        {
+          "text": "20",
+          "confidence": 0.999996955219846,
+          "bbox": null
+        },
+        {
+          "text": "160,00",
+          "confidence": 0.9999995742527498,
+          "bbox": null
+        },
+        {
+          "text": "€",
+          "confidence": 0.9887968413088793,
+          "bbox": null
+        },
+        {
+          "text": "Livraison",
+          "confidence": 0.9432931642376389,
+          "bbox": null
+        },
+        {
+          "text": "sous",
+          "confidence": 0.9999976158197796,
+          "bbox": null
+        },
+        {
+          "text": "6",
+          "confidence": 0.9999971389870552,
+          "bbox": null
+        },
+        {
+          "text": "à",
+          "confidence": 0.9999976158197796,
+          "bbox": null
+        },
+        {
+          "text": "8",
+          "confidence": 0.9999989271178933,
+          "bbox": null
+        },
+        {
+          "text": "jours",
+          "confidence": 0.9999922514562126,
+          "bbox": null
+        },
+        {
+          "text": "Validité",
+          "confidence": 0.9996877806332731,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999562521044904,
+          "bbox": null
+        },
+        {
+          "text": "l'offre",
+          "confidence": 0.9999194517975087,
+          "bbox": null
+        },
+        {
+          "text": ":",
+          "confidence": 0.9999796156266157,
+          "bbox": null
+        },
+        {
+          "text": "1",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "mois",
+          "confidence": 0.9999992847447459,
+          "bbox": null
+        },
+        {
+          "text": "Offre",
+          "confidence": 0.9999399470002557,
+          "bbox": null
+        },
+        {
+          "text": "valable",
+          "confidence": 0.9999829533624089,
+          "bbox": null
+        },
+        {
+          "text": "uniquement",
+          "confidence": 0.9999996423722521,
+          "bbox": null
+        },
+        {
+          "text": "dans",
+          "confidence": 0.9999954700677164,
+          "bbox": null
+        },
+        {
+          "text": "son",
+          "confidence": 0.9999929667012066,
+          "bbox": null
+        },
+        {
+          "text": "intégralité",
+          "confidence": 0.9999944170791556,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999339624169533,
+          "bbox": null
+        },
+        {
+          "text": "Votre",
+          "confidence": 0.9999380150114352,
+          "bbox": null
+        },
+        {
+          "text": "contact",
+          "confidence": 0.9999837877990074,
+          "bbox": null
+        },
+        {
+          "text": "commercial",
+          "confidence": 0.9999640000901282,
+          "bbox": null
+        },
+        {
+          "text": "M.",
+          "confidence": 0.9999985694912681,
+          "bbox": null
+        },
+        {
+          "text": "Bastien",
+          "confidence": 0.9999709137940558,
+          "bbox": null
+        },
+        {
+          "text": "NAEGELEN",
+          "confidence": 0.9934004940096757,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999988079084972,
+          "bbox": null
+        },
+        {
+          "text": "Tél.",
+          "confidence": 0.9999331283847958,
+          "bbox": null
+        },
+        {
+          "text": "03",
+          "confidence": 0.9999933243248049,
+          "bbox": null
+        },
+        {
+          "text": "67",
+          "confidence": 0.9999984900180183,
+          "bbox": null
+        },
+        {
+          "text": "10",
+          "confidence": 0.9999996423722735,
+          "bbox": null
+        },
+        {
+          "text": "69",
+          "confidence": 0.9999833507818596,
+          "bbox": null
+        },
+        {
+          "text": "60",
+          "confidence": 0.9999844633549034,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999994039539004,
+          "bbox": null
+        },
+        {
+          "text": "Email.",
+          "confidence": 0.9989385234576454,
+          "bbox": null
+        },
+        {
+          "text": "bastien@sol-direct.fr",
+          "confidence": 0.9999318708239613,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 1.0,
+          "bbox": null
+        },
+        {
+          "text": "Termes",
+          "confidence": 0.9999199488850223,
+          "bbox": null
+        },
+        {
+          "text": "du",
+          "confidence": 0.9997503188841127,
+          "bbox": null
+        },
+        {
+          "text": "contrat",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        },
+        {
+          "text": "Virement",
+          "confidence": 0.9993750332169339,
+          "bbox": null
+        },
+        {
+          "text": "à",
+          "confidence": 0.999991297797926,
+          "bbox": null
+        },
+        {
+          "text": "45",
+          "confidence": 0.999999523163107,
+          "bbox": null
+        },
+        {
+          "text": "jours",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "FDM",
+          "confidence": 0.9999728210215019,
+          "bbox": null
+        },
+        {
+          "text": "sol-direct",
+          "confidence": 0.9999936581079155,
+          "bbox": null
+        },
+        {
+          "text": "est",
+          "confidence": 0.9999979734461775,
+          "bbox": null
+        },
+        {
+          "text": "une",
+          "confidence": 0.9999928474936721,
+          "bbox": null
+        },
+        {
+          "text": "marque",
+          "confidence": 0.9999983310727032,
+          "bbox": null
+        },
+        {
+          "text": "de",
+          "confidence": 0.9999984502816872,
+          "bbox": null
+        },
+        {
+          "text": "web",
+          "confidence": 0.9999990463265931,
+          "bbox": null
+        },
+        {
+          "text": "direct",
+          "confidence": 0.9999970197767496,
+          "bbox": null
+        },
+        {
+          "text": "sas",
+          "confidence": 0.9992359757763258,
+          "bbox": null
+        },
+        {
+          "text": "",
+          "confidence": 0.9999806884689187,
+          "bbox": null
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.9994532532044981,
+          "bbox": null
+        },
+        {
+          "text": "Strasbourg",
+          "confidence": 0.9999874831811497,
+          "bbox": null
+        },
+        {
+          "text": "833",
+          "confidence": 0.9999775892055054,
+          "bbox": null
+        },
+        {
+          "text": "909",
+          "confidence": 0.9999793476665532,
+          "bbox": null
+        },
+        {
+          "text": "138",
+          "confidence": 0.999982625571267,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.999948146649529,
+          "bbox": null
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.9999747282700929,
+          "bbox": null
+        },
+        {
+          "text": "FR",
+          "confidence": 0.9999977350285647,
+          "bbox": null
+        },
+        {
+          "text": "38833909138",
+          "confidence": 0.9984693397948318,
+          "bbox": null
+        },
+        {
+          "text": "-",
+          "confidence": 0.999985218266486,
+          "bbox": null
+        },
+        {
+          "text": "capital",
+          "confidence": 0.9999889136593714,
+          "bbox": null
+        },
+        {
+          "text": "50",
+          "confidence": 0.9999981721281807,
+          "bbox": null
+        },
+        {
+          "text": "000",
+          "confidence": 0.9999934435965153,
+          "bbox": null
+        },
+        {
+          "text": "euros",
+          "confidence": 0.9999995231630692,
+          "bbox": null
+        }
+      ],
+      "blocks": [
+        {
+          "text": "sol-direct.fr",
+          "type": "text",
+          "bbox": [
+            58,
+            62,
+            124,
+            25
+          ]
+        },
+        {
+          "text": "10 Place du Temple Neuf 67000 STRASBOURG - FR 03 67 10 69 60 - commercial@sol-direct.fr",
+          "type": "text",
+          "bbox": [
+            56,
+            95,
+            209,
+            46
+          ]
+        },
+        {
+          "text": "Devis 13385",
+          "type": "title",
+          "bbox": [
+            344,
+            65,
+            122,
+            22
+          ]
+        },
+        {
+          "text": "du 28 février 2025",
+          "type": "text",
+          "bbox": [
+            344,
+            95,
+            92,
+            12
+          ]
+        },
+        {
+          "text": "SFECO Solutions",
+          "type": "title",
+          "bbox": [
+            344,
+            145,
+            99,
+            16
+          ]
+        },
+        {
+          "text": "79 rue des joncs des bois 84000 AVIGNON - France",
+          "type": "text",
+          "bbox": [
+            344,
+            166,
+            125,
+            31
+          ]
+        },
+        {
+          "text": "Contact Client",
+          "type": "title",
+          "bbox": [
+            56,
+            229,
+            74,
+            13
+          ]
+        },
+        {
+          "text": "M. Arthur FURST Tél : 0612603940 Email: a.furst@poulaillon.fr",
+          "type": "text",
+          "bbox": [
+            56,
+            247,
+            137,
+            47
+          ]
+        },
+        {
+          "text": "Adresse de livraison",
+          "type": "title",
+          "bbox": [
+            344,
+            229,
+            101,
+            13
+          ]
+        },
+        {
+          "text": "SFECO Solutions Lieu-dit « Choisy-aux-Bœufs 95470 Vémars - France",
+          "type": "text",
+          "bbox": [
+            344,
+            247,
+            138,
+            47
+          ]
+        },
+        {
+          "text": "Quantité Description Prix tarif U.H.T. Prix Net H.T. Total Net H.T. 100 Plaque de roulage en PEHD Dim : 2400 x 1200 x 21 mm Charge : 80 tonnes Doube faces antidérapantes Matière : PEHD Recyclé Nbre de poignées : 6 Poids : 40 kg 160,00 € 160,00 € 16 000,00 € 200 Connecteur acier en U 4,00 € 4,00 € 800,00 € 1 Transport OFFERT Marchandises H.T. 16 800,00 € Total H.T. 16 800,00 € TVA ( 20%) 3 360,00 € Total TTC à payer 20 160,00 €",
+          "type": "table",
+          "bbox": [
+            54,
+            323,
+            617,
+            284
+          ]
+        },
+        {
+          "text": "Livraison sous 6 à 8 jours",
+          "type": "text",
+          "bbox": [
+            56,
+            574,
+            126,
+            14
+          ]
+        },
+        {
+          "text": "Validité de l'offre : 1 mois",
+          "type": "text",
+          "bbox": [
+            56,
+            592,
+            128,
+            14
+          ]
+        },
+        {
+          "text": "Offre valable uniquement dans son intégralité",
+          "type": "text",
+          "bbox": [
+            56,
+            627,
+            227,
+            14
+          ]
+        },
+        {
+          "text": "Votre contact commercial",
+          "type": "title",
+          "bbox": [
+            56,
+            672,
+            132,
+            14
+          ]
+        },
+        {
+          "text": "M. Bastien NAEGELEN Tél. 03 67 10 69 60 Email. bastien@sol-direct.fr",
+          "type": "text",
+          "bbox": [
+            56,
+            690,
+            138,
+            48
+          ]
+        },
+        {
+          "text": "Termes du contrat",
+          "type": "title",
+          "bbox": [
+            344,
+            672,
+            93,
+            14
+          ]
+        },
+        {
+          "text": "Virement à 45 jours FDM",
+          "type": "text",
+          "bbox": [
+            344,
+            690,
+            124,
+            13
+          ]
+        },
+        {
+          "text": "sol-direct est une marque de web direct sas RCS Strasbourg 833 909 138 - TVA FR 38833909138 - capital 50 000 euros",
+          "type": "footer",
+          "bbox": [
+            177,
+            957,
+            363,
+            29
+          ]
+        }
+      ],
+      "avg_confidence": 0.9957380573360207,
+      "min_confidence": 0.8511022321489563
+    }
+  ]
+}
