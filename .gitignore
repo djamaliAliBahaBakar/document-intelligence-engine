@@ -29,3 +29,13 @@ notebooks/data/tesseract/
 
 # Models
 runs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
