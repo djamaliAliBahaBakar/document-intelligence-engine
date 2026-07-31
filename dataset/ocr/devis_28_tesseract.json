@@ -1,0 +1,1156 @@
+{
+  "engine": "tesseract",
+  "document": "devis_28.pdf",
+  "duration_seconds": 0.311,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 114,
+      "words": [
+        {
+          "text": "Fabricant",
+          "confidence": 0.96,
+          "bbox": [
+            464,
+            84,
+            579,
+            104
+          ]
+        },
+        {
+          "text": "français",
+          "confidence": 0.96,
+          "bbox": [
+            589,
+            84,
+            688,
+            108
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            699,
+            84,
+            726,
+            104
+          ]
+        },
+        {
+          "text": "panneaux",
+          "confidence": 0.95,
+          "bbox": [
+            738,
+            90,
+            855,
+            110
+          ]
+        },
+        {
+          "text": "photovoltaïques",
+          "confidence": 0.96,
+          "bbox": [
+            867,
+            84,
+            1066,
+            110
+          ]
+        },
+        {
+          "text": "True",
+          "confidence": 0.57,
+          "bbox": [
+            463,
+            116,
+            493,
+            128
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            499,
+            116,
+            522,
+            128
+          ]
+        },
+        {
+          "text": "Prés",
+          "confidence": 0.92,
+          "bbox": [
+            527,
+            116,
+            557,
+            128
+          ]
+        },
+        {
+          "text": "F67190",
+          "confidence": 0.92,
+          "bbox": [
+            562,
+            116,
+            611,
+            128
+          ]
+        },
+        {
+          "text": "DINSHEIM-SUR-BRUCHE",
+          "confidence": 0.91,
+          "bbox": [
+            617,
+            116,
+            776,
+            128
+          ]
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.96,
+          "bbox": [
+            810,
+            116,
+            836,
+            128
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.96,
+          "bbox": [
+            841,
+            119,
+            857,
+            128
+          ]
+        },
+        {
+          "text": "capital",
+          "confidence": 0.95,
+          "bbox": [
+            862,
+            116,
+            907,
+            132
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.88,
+          "bbox": [
+            912,
+            116,
+            927,
+            128
+          ]
+        },
+        {
+          "text": "490",
+          "confidence": 0.79,
+          "bbox": [
+            945,
+            116,
+            971,
+            128
+          ]
+        },
+        {
+          "text": "000€",
+          "confidence": 0.57,
+          "bbox": [
+            977,
+            116,
+            1014,
+            128
+          ]
+        },
+        {
+          "text": "Tél:",
+          "confidence": 0.38,
+          "bbox": [
+            462,
+            135,
+            481,
+            147
+          ]
+        },
+        {
+          "text": "+33",
+          "confidence": 0.88,
+          "bbox": [
+            497,
+            135,
+            521,
+            147
+          ]
+        },
+        {
+          "text": "(0)3",
+          "confidence": 0.92,
+          "bbox": [
+            527,
+            133,
+            554,
+            150
+          ]
+        },
+        {
+          "text": "88",
+          "confidence": 0.96,
+          "bbox": [
+            561,
+            135,
+            578,
+            147
+          ]
+        },
+        {
+          "text": "49",
+          "confidence": 0.96,
+          "bbox": [
+            583,
+            135,
+            600,
+            147
+          ]
+        },
+        {
+          "text": "49",
+          "confidence": 0.96,
+          "bbox": [
+            606,
+            135,
+            623,
+            147
+          ]
+        },
+        {
+          "text": "84",
+          "confidence": 0.96,
+          "bbox": [
+            629,
+            135,
+            646,
+            147
+          ]
+        },
+        {
+          "text": "RCS.",
+          "confidence": 0.79,
+          "bbox": [
+            810,
+            135,
+            840,
+            147
+          ]
+        },
+        {
+          "text": "Saverne",
+          "confidence": 0.96,
+          "bbox": [
+            848,
+            135,
+            903,
+            147
+          ]
+        },
+        {
+          "text": "B",
+          "confidence": 0.92,
+          "bbox": [
+            945,
+            135,
+            952,
+            147
+          ]
+        },
+        {
+          "text": "518",
+          "confidence": 0.96,
+          "bbox": [
+            959,
+            135,
+            981,
+            147
+          ]
+        },
+        {
+          "text": "706",
+          "confidence": 0.96,
+          "bbox": [
+            987,
+            135,
+            1013,
+            147
+          ]
+        },
+        {
+          "text": "965",
+          "confidence": 0.96,
+          "bbox": [
+            1018,
+            135,
+            1045,
+            147
+          ]
+        },
+        {
+          "text": "infoavoltec-solar.com",
+          "confidence": 0.05,
+          "bbox": [
+            463,
+            149,
+            614,
+            175
+          ]
+        },
+        {
+          "text": "Siret",
+          "confidence": 0.96,
+          "bbox": [
+            810,
+            153,
+            840,
+            166
+          ]
+        },
+        {
+          "text": "518",
+          "confidence": 0.95,
+          "bbox": [
+            945,
+            153,
+            967,
+            166
+          ]
+        },
+        {
+          "text": "706",
+          "confidence": 0.95,
+          "bbox": [
+            973,
+            153,
+            999,
+            166
+          ]
+        },
+        {
+          "text": "965",
+          "confidence": 0.91,
+          "bbox": [
+            1005,
+            153,
+            1031,
+            166
+          ]
+        },
+        {
+          "text": "00010",
+          "confidence": 0.96,
+          "bbox": [
+            1037,
+            153,
+            1080,
+            166
+          ]
+        },
+        {
+          "text": "wwwvoltec-solar.com",
+          "confidence": 0.47,
+          "bbox": [
+            458,
+            164,
+            616,
+            194
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.83,
+          "bbox": [
+            810,
+            172,
+            823,
+            184
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.83,
+          "bbox": [
+            829,
+            172,
+            844,
+            184
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.95,
+          "bbox": [
+            849,
+            173,
+            877,
+            184
+          ]
+        },
+        {
+          "text": "FR56518706965",
+          "confidence": 0.9,
+          "bbox": [
+            947,
+            172,
+            1062,
+            184
+          ]
+        },
+        {
+          "text": "Votre",
+          "confidence": 0.96,
+          "bbox": [
+            72,
+            277,
+            116,
+            290
+          ]
+        },
+        {
+          "text": "interlocuteur",
+          "confidence": 0.92,
+          "bbox": [
+            123,
+            277,
+            232,
+            290
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            240,
+            281,
+            243,
+            290
+          ]
+        },
+        {
+          "text": "STEPHANE",
+          "confidence": 0.71,
+          "bbox": [
+            262,
+            276,
+            345,
+            288
+          ]
+        },
+        {
+          "text": "AGOSTINI",
+          "confidence": 0.91,
+          "bbox": [
+            353,
+            272,
+            428,
+            299
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            678,
+            314,
+            732,
+            326
+          ]
+        },
+        {
+          "text": "Validité",
+          "confidence": 0.94,
+          "bbox": [
+            72,
+            424,
+            135,
+            437
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            141,
+            424,
+            161,
+            437
+          ]
+        },
+        {
+          "text": "l'offre",
+          "confidence": 0.89,
+          "bbox": [
+            168,
+            424,
+            216,
+            437
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.86,
+          "bbox": [
+            239,
+            428,
+            242,
+            437
+          ]
+        },
+        {
+          "text": "06/04/2025",
+          "confidence": 0.62,
+          "bbox": [
+            265,
+            422,
+            344,
+            434
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.96,
+          "bbox": [
+            73,
+            460,
+            111,
+            473
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            117,
+            460,
+            137,
+            473
+          ]
+        },
+        {
+          "text": "démarrage",
+          "confidence": 0.92,
+          "bbox": [
+            143,
+            460,
+            234,
+            477
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            241,
+            464,
+            244,
+            473
+          ]
+        },
+        {
+          "text": "19/05/2025",
+          "confidence": 0.71,
+          "bbox": [
+            266,
+            458,
+            344,
+            470
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.96,
+          "bbox": [
+            678,
+            458,
+            726,
+            470
+          ]
+        },
+        {
+          "text": "OFFRE",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            535,
+            161,
+            555
+          ]
+        },
+        {
+          "text": "CO",
+          "confidence": 0.95,
+          "bbox": [
+            169,
+            535,
+            210,
+            555
+          ]
+        },
+        {
+          "text": "ERCIALE",
+          "confidence": 0.89,
+          "bbox": [
+            264,
+            531,
+            390,
+            566
+          ]
+        },
+        {
+          "text": "1402",
+          "confidence": 0.89,
+          "bbox": [
+            480,
+            534,
+            539,
+            554
+          ]
+        },
+        {
+          "text": "!",
+          "confidence": 0.74,
+          "bbox": [
+            558,
+            530,
+            573,
+            564
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            583,
+            538,
+            605,
+            552
+          ]
+        },
+        {
+          "text": "06/03/2025",
+          "confidence": 0.93,
+          "bbox": [
+            629,
+            537,
+            727,
+            552
+          ]
+        },
+        {
+          "text": "Devise",
+          "confidence": 0.96,
+          "bbox": [
+            678,
+            622,
+            734,
+            651
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            842,
+            632,
+            845,
+            641
+          ]
+        },
+        {
+          "text": "Euro",
+          "confidence": 0.62,
+          "bbox": [
+            877,
+            626,
+            909,
+            638
+          ]
+        },
+        {
+          "text": "Référence",
+          "confidence": 0.96,
+          "bbox": [
+            80,
+            694,
+            175,
+            724
+          ]
+        },
+        {
+          "text": "Quantité",
+          "confidence": 0.96,
+          "bbox": [
+            796,
+            698,
+            877,
+            715
+          ]
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.75,
+          "bbox": [
+            909,
+            698,
+            945,
+            713
+          ]
+        },
+        {
+          "text": "Unit.",
+          "confidence": 0.95,
+          "bbox": [
+            951,
+            698,
+            994,
+            714
+          ]
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.92,
+          "bbox": [
+            1038,
+            698,
+            1115,
+            714
+          ]
+        },
+        {
+          "text": "H.T.",
+          "confidence": 0.89,
+          "bbox": [
+            1122,
+            698,
+            1155,
+            713
+          ]
+        },
+        {
+          "text": "VSBP450",
+          "confidence": 0.92,
+          "bbox": [
+            60,
+            754,
+            129,
+            766
+          ]
+        },
+        {
+          "text": "CNFT",
+          "confidence": 0.92,
+          "bbox": [
+            135,
+            754,
+            177,
+            766
+          ]
+        },
+        {
+          "text": "1868x1070",
+          "confidence": 0.93,
+          "bbox": [
+            183,
+            754,
+            260,
+            766
+          ]
+        },
+        {
+          "text": "CRI",
+          "confidence": 0.92,
+          "bbox": [
+            265,
+            754,
+            291,
+            766
+          ]
+        },
+        {
+          "text": "MKR",
+          "confidence": 0.91,
+          "bbox": [
+            298,
+            754,
+            332,
+            766
+          ]
+        },
+        {
+          "text": "EVOZ2",
+          "confidence": 0.41,
+          "bbox": [
+            338,
+            754,
+            379,
+            766
+          ]
+        },
+        {
+          "text": "FIJ-ZZCC",
+          "confidence": 0.8,
+          "bbox": [
+            386,
+            754,
+            455,
+            766
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.86,
+          "bbox": [
+            815,
+            755,
+            820,
+            766
+          ]
+        },
+        {
+          "text": "500,00",
+          "confidence": 0.86,
+          "bbox": [
+            828,
+            754,
+            876,
+            768
+          ]
+        },
+        {
+          "text": "111,25",
+          "confidence": 0.94,
+          "bbox": [
+            928,
+            754,
+            973,
+            768
+          ]
+        },
+        {
+          "text": "PI",
+          "confidence": 0.94,
+          "bbox": [
+            990,
+            754,
+            1003,
+            766
+          ]
+        },
+        {
+          "text": "166",
+          "confidence": 0.96,
+          "bbox": [
+            1075,
+            754,
+            1100,
+            766
+          ]
+        },
+        {
+          "text": "875,00",
+          "confidence": 0.96,
+          "bbox": [
+            1106,
+            754,
+            1153,
+            768
+          ]
+        },
+        {
+          "text": "Réf:",
+          "confidence": 0.96,
+          "bbox": [
+            61,
+            776,
+            94,
+            788
+          ]
+        },
+        {
+          "text": "202931",
+          "confidence": 0.91,
+          "bbox": [
+            114,
+            775,
+            168,
+            787
+          ]
+        },
+        {
+          "text": "Watts:",
+          "confidence": 0.96,
+          "bbox": [
+            200,
+            776,
+            252,
+            788
+          ]
+        },
+        {
+          "text": "450",
+          "confidence": 0.96,
+          "bbox": [
+            269,
+            775,
+            295,
+            787
+          ]
+        },
+        {
+          "text": "DEEE",
+          "confidence": 0.89,
+          "bbox": [
+            823,
+            776,
+            865,
+            788
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            872,
+            780,
+            874,
+            788
+          ]
+        },
+        {
+          "text": "0,06",
+          "confidence": 0.96,
+          "bbox": [
+            945,
+            775,
+            975,
+            789
+          ]
+        },
+        {
+          "text": "90,00",
+          "confidence": 0.89,
+          "bbox": [
+            1114,
+            775,
+            1153,
+            789
+          ]
+        },
+        {
+          "text": "Livraison",
+          "confidence": 0.93,
+          "bbox": [
+            61,
+            800,
+            131,
+            812
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            138,
+            804,
+            140,
+            812
+          ]
+        },
+        {
+          "text": "19/05/2025",
+          "confidence": 0.74,
+          "bbox": [
+            159,
+            799,
+            237,
+            811
+          ]
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.0,
+          "bbox": [
+            900,
+            853,
+            958,
+            866
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.0,
+          "bbox": [
+            964,
+            853,
+            987,
+            866
+          ]
+        },
+        {
+          "text": "166",
+          "confidence": 0.96,
+          "bbox": [
+            1075,
+            852,
+            1100,
+            864
+          ]
+        },
+        {
+          "text": "965,00",
+          "confidence": 0.96,
+          "bbox": [
+            1105,
+            852,
+            1153,
+            866
+          ]
+        },
+        {
+          "text": "Conditions",
+          "confidence": 0.96,
+          "bbox": [
+            61,
+            929,
+            135,
+            941
+          ]
+        },
+        {
+          "text": "générales",
+          "confidence": 0.96,
+          "bbox": [
+            141,
+            929,
+            210,
+            945
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            216,
+            929,
+            232,
+            941
+          ]
+        },
+        {
+          "text": "vente",
+          "confidence": 0.96,
+          "bbox": [
+            238,
+            930,
+            276,
+            941
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            282,
+            932,
+            304,
+            941
+          ]
+        },
+        {
+          "text": "www.",
+          "confidence": 0.39,
+          "bbox": [
+            313,
+            925,
+            345,
+            949
+          ]
+        },
+        {
+          "text": "voltec-solar.com",
+          "confidence": 0.39,
+          "bbox": [
+            347,
+            929,
+            463,
+            941
+          ]
+        },
+        {
+          "text": "OC002E",
+          "confidence": 0.85,
+          "bbox": [
+            73,
+            1611,
+            133,
+            1623
+          ]
+        },
+        {
+          "text": "Page",
+          "confidence": 0.96,
+          "bbox": [
+            570,
+            1611,
+            606,
+            1626
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.96,
+          "bbox": [
+            613,
+            1611,
+            617,
+            1623
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.95,
+          "bbox": [
+            625,
+            1614,
+            647,
+            1623
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.95,
+          "bbox": [
+            653,
+            1611,
+            657,
+            1623
+          ]
+        },
+        {
+          "text": "06/03/2025",
+          "confidence": 0.95,
+          "bbox": [
+            1055,
+            1611,
+            1134,
+            1623
+          ]
+        }
+      ]
+    }
+  ]
+}

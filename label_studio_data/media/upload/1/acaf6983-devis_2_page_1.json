@@ -1,0 +1,6350 @@
+[
+  {
+    "data": {
+      "image": "/data/local-files/?d=data/label_studio/images/devis_2_page_1.png"
+    },
+    "predictions": [
+      {
+        "model_version": "tesseract-v1",
+        "score": 1.0,
+        "result": [
+          {
+            "id": "word-0",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.915356711003627,
+              "y": 9.149209063702436,
+              "width": 2.176541717049577,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-0",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 9.915356711003627,
+              "y": 9.149209063702436,
+              "width": 2.176541717049577,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "Cäblage"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-1",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.75695284159613,
+              "y": 9.149209063702436,
+              "width": 2.539298669891173,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-1",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 12.75695284159613,
+              "y": 9.149209063702436,
+              "width": 2.539298669891173,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "Maintens"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-2",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 6.2273276904474,
+              "y": 15.647712697734075,
+              "width": 5.683192261185006,
+              "height": 1.453612654980761,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-2",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 6.2273276904474,
+              "y": 15.647712697734075,
+              "width": 5.683192261185006,
+              "height": 1.453612654980761,
+              "rotation": 0,
+              "text": [
+                "Offre"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-3",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.696493349455865,
+              "y": 15.647712697734075,
+              "width": 2.539298669891173,
+              "height": 1.1970927746900384,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-3",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 12.696493349455865,
+              "y": 15.647712697734075,
+              "width": 2.539298669891173,
+              "height": 1.1970927746900384,
+              "rotation": 0,
+              "text": [
+                "de"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-4",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 15.719467956469165,
+              "y": 15.647712697734075,
+              "width": 5.0181378476420795,
+              "height": 1.496365968362548,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-4",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 15.719467956469165,
+              "y": 15.647712697734075,
+              "width": 5.0181378476420795,
+              "height": 1.496365968362548,
+              "rotation": 0,
+              "text": [
+                "prix"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-5",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.523579201934705,
+              "y": 15.733219324497648,
+              "width": 3.5671100362756953,
+              "height": 1.1543394613082514,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-5",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 21.523579201934705,
+              "y": 15.733219324497648,
+              "width": 3.5671100362756953,
+              "height": 1.1543394613082514,
+              "rotation": 0,
+              "text": [
+                "n°"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-6",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 24.36517533252721,
+              "y": 15.476699444206925,
+              "width": 0.9068923821039904,
+              "height": 1.8383924754168448,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-6",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 24.36517533252721,
+              "y": 15.476699444206925,
+              "width": 0.9068923821039904,
+              "height": 1.8383924754168448,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-7",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 25.937122128174124,
+              "y": 15.647712697734075,
+              "width": 11.305925030229746,
+              "height": 1.2398460880718256,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-7",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 25.937122128174124,
+              "y": 15.647712697734075,
+              "width": 11.305925030229746,
+              "height": 1.2398460880718256,
+              "rotation": 0,
+              "text": [
+                "002.143/25"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-8",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.8645707376058045,
+              "y": 17.699871740059855,
+              "width": 4.594921402660217,
+              "height": 0.983326207781103,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-8",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 5.8645707376058045,
+              "y": 17.699871740059855,
+              "width": 4.594921402660217,
+              "height": 0.983326207781103,
+              "rotation": 0,
+              "text": [
+                "Affaire"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-9",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 10.882708585247883,
+              "y": 17.999144933732364,
+              "width": 0.36275695284159615,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-9",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 10.882708585247883,
+              "y": 17.999144933732364,
+              "width": 0.36275695284159615,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-10",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.608222490931077,
+              "y": 17.742625053441643,
+              "width": 5.199516324062878,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-10",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 11.608222490931077,
+              "y": 17.742625053441643,
+              "width": 5.199516324062878,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "A24013"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-11",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 17.291414752116083,
+              "y": 17.742625053441643,
+              "width": 6.166868198307134,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-11",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 17.291414752116083,
+              "y": 17.742625053441643,
+              "width": 6.166868198307134,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "CHEVAL"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-12",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.985489721886336,
+              "y": 19.36725096194955,
+              "width": 3.506650544135429,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-12",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 5.985489721886336,
+              "y": 19.36725096194955,
+              "width": 3.506650544135429,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "Devis"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-13",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 9.975816203143893,
+              "y": 19.36725096194955,
+              "width": 4.897218863361548,
+              "height": 0.983326207781103,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-13",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 9.975816203143893,
+              "y": 19.36725096194955,
+              "width": 4.897218863361548,
+              "height": 0.983326207781103,
+              "rotation": 0,
+              "text": [
+                "effectué"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-14",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 15.175332527206772,
+              "y": 19.66652415562206,
+              "width": 2.418379685610641,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-14",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 15.175332527206772,
+              "y": 19.66652415562206,
+              "width": 2.418379685610641,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "par"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-15",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.137847642079805,
+              "y": 19.36725096194955,
+              "width": 4.474002418379686,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-15",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 18.137847642079805,
+              "y": 19.36725096194955,
+              "width": 4.474002418379686,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "Olivier"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-16",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 23.155985489721886,
+              "y": 19.36725096194955,
+              "width": 10.33857315598549,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-16",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 23.155985489721886,
+              "y": 19.36725096194955,
+              "width": 10.33857315598549,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "CANTELAUBE"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-17",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 69.83071342200725,
+              "y": 2.1376656690893543,
+              "width": 6.166868198307134,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-17",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 69.83071342200725,
+              "y": 2.1376656690893543,
+              "width": 6.166868198307134,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "Beautiran,"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-18",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 76.60217654171704,
+              "y": 2.1376656690893543,
+              "width": 0.8464328899637243,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-18",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 76.60217654171704,
+              "y": 2.1376656690893543,
+              "width": 0.8464328899637243,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "le"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-19",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 77.87182587666264,
+              "y": 2.1804189824711413,
+              "width": 1.3905683192261185,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-19",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 77.87182587666264,
+              "y": 2.1804189824711413,
+              "width": 1.3905683192261185,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "28"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-20",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 79.62515114873035,
+              "y": 2.1376656690893543,
+              "width": 4.534461910519951,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-20",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 79.62515114873035,
+              "y": 2.1376656690893543,
+              "width": 4.534461910519951,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Janvier"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-21",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 84.58282950423217,
+              "y": 2.1804189824711413,
+              "width": 2.902055622732769,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-21",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 84.58282950423217,
+              "y": 2.1804189824711413,
+              "width": 2.902055622732769,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "2025"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-22",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 69.95163240628779,
+              "y": 6.584010260795211,
+              "width": 5.32043530834341,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-22",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 69.95163240628779,
+              "y": 6.584010260795211,
+              "width": 5.32043530834341,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "SFECO"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-23",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.13301088270859,
+              "y": 8.08037622915776,
+              "width": 1.4510278113663846,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-23",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 70.13301088270859,
+              "y": 8.08037622915776,
+              "width": 1.4510278113663846,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "79"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-24",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 71.94679564691657,
+              "y": 8.08037622915776,
+              "width": 2.841596130592503,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-24",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 71.94679564691657,
+              "y": 8.08037622915776,
+              "width": 2.841596130592503,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "Rue"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-25",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 75.27206771463119,
+              "y": 8.08037622915776,
+              "width": 2.599758162031439,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-25",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 75.27206771463119,
+              "y": 8.08037622915776,
+              "width": 2.599758162031439,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "Des"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-26",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 78.35550181378477,
+              "y": 8.08037622915776,
+              "width": 4.2321644498186215,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-26",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 78.35550181378477,
+              "y": 8.08037622915776,
+              "width": 4.2321644498186215,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "Joncs"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-27",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 83.01088270858524,
+              "y": 8.08037622915776,
+              "width": 2.599758162031439,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-27",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 83.01088270858524,
+              "y": 8.08037622915776,
+              "width": 2.599758162031439,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "Des"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-28",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.09431680773882,
+              "y": 8.037622915775973,
+              "width": 3.204353083434099,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-28",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 86.09431680773882,
+              "y": 8.037622915775973,
+              "width": 3.204353083434099,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "Bois"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-29",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.01209189842805,
+              "y": 9.619495510902095,
+              "width": 3.9903264812575574,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-29",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 70.01209189842805,
+              "y": 9.619495510902095,
+              "width": 3.9903264812575574,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "84000"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-30",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 74.42563482466747,
+              "y": 9.576742197520307,
+              "width": 7.738814993954051,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-30",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 74.42563482466747,
+              "y": 9.576742197520307,
+              "width": 7.738814993954051,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "AVIGNON"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-31",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 68.44014510278113,
+              "y": 17.699871740059855,
+              "width": 1.0882708585247884,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-31",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 68.44014510278113,
+              "y": 17.699871740059855,
+              "width": 1.0882708585247884,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "À"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-32",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.07255139056832,
+              "y": 17.699871740059855,
+              "width": 7.617896009673519,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-32",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 70.07255139056832,
+              "y": 17.699871740059855,
+              "width": 7.617896009673519,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "l'attention"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-33",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 78.23458282950423,
+              "y": 17.699871740059855,
+              "width": 1.5719467956469166,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-33",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 78.23458282950423,
+              "y": 17.699871740059855,
+              "width": 1.5719467956469166,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "de"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-34",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 80.229746070133,
+              "y": 17.699871740059855,
+              "width": 1.4510278113663846,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-34",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 80.229746070133,
+              "y": 17.699871740059855,
+              "width": 1.4510278113663846,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "A."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-35",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 82.22490931076179,
+              "y": 17.699871740059855,
+              "width": 3.9903264812575574,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-35",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 82.22490931076179,
+              "y": 17.699871740059855,
+              "width": 3.9903264812575574,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "DASI"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-36",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 33.675937122128175,
+              "y": 22.445489525438223,
+              "width": 7.8597339782345825,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-36",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 33.675937122128175,
+              "y": 22.445489525438223,
+              "width": 7.8597339782345825,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "Désignation"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-37",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.25392986698911,
+              "y": 22.445489525438223,
+              "width": 2.841596130592503,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-37",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 70.25392986698911,
+              "y": 22.445489525438223,
+              "width": 2.841596130592503,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Prix"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-38",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 73.51874244256348,
+              "y": 22.445489525438223,
+              "width": 5.380894800483676,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-38",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 73.51874244256348,
+              "y": 22.445489525438223,
+              "width": 5.380894800483676,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "unitaire"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-39",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 79.32285368802901,
+              "y": 22.274476271911073,
+              "width": 0.42321644498186217,
+              "height": 1.1970927746900384,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-39",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 79.32285368802901,
+              "y": 22.274476271911073,
+              "width": 0.42321644498186217,
+              "height": 1.1970927746900384,
+              "rotation": 0,
+              "text": [
+                "|"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-40",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 79.92744860943168,
+              "y": 22.445489525438223,
+              "width": 2.176541717049577,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-40",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 79.92744860943168,
+              "y": 22.445489525438223,
+              "width": 2.176541717049577,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "Qu."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-41",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 6.106408706166868,
+              "y": 25.480974775545103,
+              "width": 6.106408706166868,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-41",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 6.106408706166868,
+              "y": 25.480974775545103,
+              "width": 6.106408706166868,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "Chiffrage"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-42",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 12.75695284159613,
+              "y": 25.480974775545103,
+              "width": 4.957678355501813,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-42",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 12.75695284159613,
+              "y": 25.480974775545103,
+              "width": 4.957678355501813,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "suivant"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-43",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.07738814993954,
+              "y": 25.737494655835828,
+              "width": 2.1160822249093107,
+              "height": 0.4275331338178709,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-43",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 18.07738814993954,
+              "y": 25.737494655835828,
+              "width": 2.1160822249093107,
+              "height": 0.4275331338178709,
+              "rotation": 0,
+              "text": [
+                "vos"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-44",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 20.67714631197098,
+              "y": 25.480974775545103,
+              "width": 7.0737605804111245,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-44",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 20.67714631197098,
+              "y": 25.480974775545103,
+              "width": 7.0737605804111245,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "descriptifs"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-45",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 28.234582829504234,
+              "y": 25.56648140230868,
+              "width": 1.1487303506650544,
+              "height": 0.5985463873450192,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-45",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 28.234582829504234,
+              "y": 25.56648140230868,
+              "width": 1.1487303506650544,
+              "height": 0.5985463873450192,
+              "rotation": 0,
+              "text": [
+                "et"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-46",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 29.80652962515115,
+              "y": 25.480974775545103,
+              "width": 5.501813784764208,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-46",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 29.80652962515115,
+              "y": 25.480974775545103,
+              "width": 5.501813784764208,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "schémas"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-47",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 6.106408706166868,
+              "y": 28.302693458743054,
+              "width": 7.013301088270858,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-47",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 6.106408706166868,
+              "y": 28.302693458743054,
+              "width": 7.013301088270858,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "Matériel"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-48",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.663845223700122,
+              "y": 28.302693458743054,
+              "width": 1.8137847642079807,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-48",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 13.663845223700122,
+              "y": 28.302693458743054,
+              "width": 1.8137847642079807,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "de"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-49",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 16.08222490931076,
+              "y": 28.601966652415562,
+              "width": 6.408706166868198,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-49",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 16.08222490931076,
+              "y": 28.601966652415562,
+              "width": 6.408706166868198,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "marque"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-50",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 23.035066505441353,
+              "y": 28.302693458743054,
+              "width": 10.761789600967353,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-50",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 23.035066505441353,
+              "y": 28.302693458743054,
+              "width": 10.761789600967353,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "SCHNEIDER"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-51",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 6.166868198307134,
+              "y": 32.7917913638307,
+              "width": 4.776299879081016,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-51",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 6.166868198307134,
+              "y": 32.7917913638307,
+              "width": 4.776299879081016,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "TGBT"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-52",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 11.54776299879081,
+              "y": 32.834544677212484,
+              "width": 2.357920193470375,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-52",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 11.54776299879081,
+              "y": 32.834544677212484,
+              "width": 2.357920193470375,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "PV"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-53",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.05683192261185,
+              "y": 32.96280461735785,
+              "width": 5.199516324062878,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-53",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 39.05683192261185,
+              "y": 32.96280461735785,
+              "width": 5.199516324062878,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Suivant"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-54",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 44.740024183796855,
+              "y": 32.96280461735785,
+              "width": 2.539298669891173,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-54",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 44.740024183796855,
+              "y": 32.96280461735785,
+              "width": 2.539298669891173,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "face"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-55",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 47.823458282950426,
+              "y": 33.04831124412142,
+              "width": 3.7484885126964933,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-55",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 47.823458282950426,
+              "y": 33.04831124412142,
+              "width": 3.7484885126964933,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "avant"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-56",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 6.106408706166868,
+              "y": 34.288157332193244,
+              "width": 8.585247883917775,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-56",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 6.106408706166868,
+              "y": 34.288157332193244,
+              "width": 8.585247883917775,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "ARMOIRE"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-57",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 15.175332527206772,
+              "y": 34.288157332193244,
+              "width": 2.4788391777509067,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-57",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 15.175332527206772,
+              "y": 34.288157332193244,
+              "width": 2.4788391777509067,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "AC"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-58",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.11729141475212,
+              "y": 34.45917058572039,
+              "width": 5.199516324062878,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-58",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 39.11729141475212,
+              "y": 34.45917058572039,
+              "width": 5.199516324062878,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Suivant"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-59",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 44.740024183796855,
+              "y": 34.50192389910218,
+              "width": 2.599758162031439,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-59",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 44.740024183796855,
+              "y": 34.50192389910218,
+              "width": 2.599758162031439,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "face"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-60",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 47.823458282950426,
+              "y": 34.54467721248397,
+              "width": 3.7484885126964933,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-60",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 47.823458282950426,
+              "y": 34.54467721248397,
+              "width": 3.7484885126964933,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "avant"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-61",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 6.166868198307134,
+              "y": 38.82000855066268,
+              "width": 11.064087061668681,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-61",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 6.166868198307134,
+              "y": 38.82000855066268,
+              "width": 11.064087061668681,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "TRANSPORT"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-62",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 17.775090689238212,
+              "y": 38.82000855066268,
+              "width": 3.6275695284159615,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-62",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 17.775090689238212,
+              "y": 38.82000855066268,
+              "width": 3.6275695284159615,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "SUR"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-63",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.00725513905683,
+              "y": 38.82000855066268,
+              "width": 4.050785973397823,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-63",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 22.00725513905683,
+              "y": 38.82000855066268,
+              "width": 4.050785973397823,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "SITE"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-64",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 26.662636033857314,
+              "y": 38.82000855066268,
+              "width": 6.6505441354292625,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-64",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 26.662636033857314,
+              "y": 38.82000855066268,
+              "width": 6.6505441354292625,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "INCLUS"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-65",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 33.91777509068924,
+              "y": 38.82000855066268,
+              "width": 4.836759371221282,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-65",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 33.91777509068924,
+              "y": 38.82000855066268,
+              "width": 4.836759371221282,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "DANS"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-66",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.29866989117291,
+              "y": 38.82000855066268,
+              "width": 7.678355501813785,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-66",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 39.29866989117291,
+              "y": 38.82000855066268,
+              "width": 7.678355501813785,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "L'OFFRE"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-67",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 73.76058041112455,
+              "y": 32.92005130397606,
+              "width": 0.7255139056831923,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-67",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 73.76058041112455,
+              "y": 32.92005130397606,
+              "width": 0.7255139056831923,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "8"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-68",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 74.96977025392987,
+              "y": 32.92005130397606,
+              "width": 4.292623941958888,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-68",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 74.96977025392987,
+              "y": 32.92005130397606,
+              "width": 4.292623941958888,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "991,00"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-69",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 73.88149939540507,
+              "y": 34.416417272338606,
+              "width": 0.5441354292623942,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-69",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 73.88149939540507,
+              "y": 34.416417272338606,
+              "width": 0.5441354292623942,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "1"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-70",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 75.03022974607013,
+              "y": 34.416417272338606,
+              "width": 4.2321644498186215,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-70",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 75.03022974607013,
+              "y": 34.416417272338606,
+              "width": 4.2321644498186215,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "565,00"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-71",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.361547762998791,
+              "y": 69.00384779820436,
+              "width": 7.4365175332527205,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-71",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 13.361547762998791,
+              "y": 69.00384779820436,
+              "width": 7.4365175332527205,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "L'Entreprise"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-72",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.28174123337364,
+              "y": 69.00384779820436,
+              "width": 3.9903264812575574,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-72",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 21.28174123337364,
+              "y": 69.00384779820436,
+              "width": 3.9903264812575574,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "C.M.E."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-73",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 25.755743651753324,
+              "y": 69.00384779820436,
+              "width": 6.2273276904474,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-73",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 25.755743651753324,
+              "y": 69.00384779820436,
+              "width": 6.2273276904474,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "Sud-Ouest"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-74",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.73518742442563,
+              "y": 69.00384779820436,
+              "width": 1.3905683192261185,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-74",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 46.73518742442563,
+              "y": 69.00384779820436,
+              "width": 1.3905683192261185,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "Le"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-75",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 48.60943168077388,
+              "y": 68.96109448482257,
+              "width": 3.6275695284159615,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-75",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 48.60943168077388,
+              "y": 68.96109448482257,
+              "width": 3.6275695284159615,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Client"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-76",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 52.6602176541717,
+              "y": 69.21761436511329,
+              "width": 0.2418379685610641,
+              "height": 0.47028644719965795,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-76",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 52.6602176541717,
+              "y": 69.21761436511329,
+              "width": 0.2418379685610641,
+              "height": 0.47028644719965795,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-77",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 53.32527206771463,
+              "y": 68.96109448482257,
+              "width": 2.1160822249093107,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-77",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 53.32527206771463,
+              "y": 68.96109448482257,
+              "width": 2.1160822249093107,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "bon"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-78",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 55.8645707376058,
+              "y": 69.21761436511329,
+              "width": 2.7206771463119708,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-78",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 55.8645707376058,
+              "y": 69.21761436511329,
+              "width": 2.7206771463119708,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "pour"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-79",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 59.008464328899635,
+              "y": 68.96109448482257,
+              "width": 3.688029020556227,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-79",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 59.008464328899635,
+              "y": 68.96109448482257,
+              "width": 3.688029020556227,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "accord"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-80",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 72.91414752116083,
+              "y": 69.68790081231296,
+              "width": 4.41354292623942,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-80",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 72.91414752116083,
+              "y": 69.68790081231296,
+              "width": 4.41354292623942,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "TOTAL"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-81",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 77.69044740024184,
+              "y": 69.68790081231296,
+              "width": 2.539298669891173,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-81",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 77.69044740024184,
+              "y": 69.68790081231296,
+              "width": 2.539298669891173,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "H.T."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-82",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 16.928657799274486,
+              "y": 70.50021376656692,
+              "width": 4.836759371221282,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-82",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 16.928657799274486,
+              "y": 70.50021376656692,
+              "width": 4.836759371221282,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Laurent"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-83",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.18863361547763,
+              "y": 70.50021376656692,
+              "width": 6.2273276904474,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-83",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 22.18863361547763,
+              "y": 70.50021376656692,
+              "width": 6.2273276904474,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "LACOTTE"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-84",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 13.724304715840386,
+              "y": 72.03933304831125,
+              "width": 1.4510278113663846,
+              "height": 0.7695596408721675,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-84",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 13.724304715840386,
+              "y": 72.03933304831125,
+              "width": 1.4510278113663846,
+              "height": 0.7695596408721675,
+              "rotation": 0,
+              "text": [
+                "14,"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-85",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 15.719467956469165,
+              "y": 72.25309961522018,
+              "width": 2.660217654171705,
+              "height": 0.47028644719965795,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-85",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 15.719467956469165,
+              "y": 72.25309961522018,
+              "width": 2.660217654171705,
+              "height": 0.47028644719965795,
+              "rotation": 0,
+              "text": [
+                "zone"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-86",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 18.863361547763,
+              "y": 71.99657973492945,
+              "width": 6.711003627569529,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-86",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 18.863361547763,
+              "y": 71.99657973492945,
+              "width": 6.711003627569529,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "industrielle"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-87",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 26.058041112454656,
+              "y": 71.99657973492945,
+              "width": 1.2696493349455864,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-87",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 26.058041112454656,
+              "y": 71.99657973492945,
+              "width": 1.2696493349455864,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "de"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-88",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 27.81136638452237,
+              "y": 71.99657973492945,
+              "width": 3.9298669891172913,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-88",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 27.81136638452237,
+              "y": 71.99657973492945,
+              "width": 3.9298669891172913,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "Calens"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-89",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 17.775090689238212,
+              "y": 73.53569901667379,
+              "width": 3.446191051995163,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-89",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 17.775090689238212,
+              "y": 73.53569901667379,
+              "width": 3.446191051995163,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "33640"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-90",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 21.765417170495766,
+              "y": 73.49294570329201,
+              "width": 5.92503022974607,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-90",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 21.765417170495766,
+              "y": 73.49294570329201,
+              "width": 5.92503022974607,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "Beautiran"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-91",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.19347037484886,
+              "y": 66.866182129115,
+              "width": 26.783555018137847,
+              "height": 1.7528858486532706,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-91",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 70.19347037484886,
+              "y": 66.866182129115,
+              "width": 26.783555018137847,
+              "height": 1.7528858486532706,
+              "rotation": 0,
+              "text": [
+                "ne"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-92",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.33615477629988,
+              "y": 22.445489525438223,
+              "width": 3.446191051995163,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-92",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 86.33615477629988,
+              "y": 22.445489525438223,
+              "width": 3.446191051995163,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "Total"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-93",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 90.20556227327691,
+              "y": 22.445489525438223,
+              "width": 2.660217654171705,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-93",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 90.20556227327691,
+              "y": 22.445489525438223,
+              "width": 2.660217654171705,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "HT."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-94",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 90.9310761789601,
+              "y": 32.92005130397606,
+              "width": 0.6650544135429263,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-94",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 90.9310761789601,
+              "y": 32.92005130397606,
+              "width": 0.6650544135429263,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "8"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-95",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 92.14026602176541,
+              "y": 32.92005130397606,
+              "width": 4.292623941958888,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-95",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 92.14026602176541,
+              "y": 32.92005130397606,
+              "width": 4.292623941958888,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "991,00"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-96",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 90.9310761789601,
+              "y": 34.416417272338606,
+              "width": 0.7255139056831923,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-96",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 90.9310761789601,
+              "y": 34.416417272338606,
+              "width": 0.7255139056831923,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "4"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-97",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 92.14026602176541,
+              "y": 34.416417272338606,
+              "width": 4.353083434099154,
+              "height": 0.8978195810175289,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-97",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 92.14026602176541,
+              "y": 34.416417272338606,
+              "width": 4.353083434099154,
+              "height": 0.8978195810175289,
+              "rotation": 0,
+              "text": [
+                "695,00"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-98",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 85.91293833131802,
+              "y": 69.64514749893117,
+              "width": 1.6928657799274487,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-98",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 85.91293833131802,
+              "y": 69.64514749893117,
+              "width": 1.6928657799274487,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "13"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-99",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 88.14993954050786,
+              "y": 69.60239418554939,
+              "width": 4.776299879081016,
+              "height": 1.0260795211628901,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-99",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 88.14993954050786,
+              "y": 69.60239418554939,
+              "width": 4.776299879081016,
+              "height": 1.0260795211628901,
+              "rotation": 0,
+              "text": [
+                "686,00"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-100",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 93.47037484885126,
+              "y": 69.64514749893117,
+              "width": 0.9068923821039904,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-100",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 93.47037484885126,
+              "y": 69.64514749893117,
+              "width": 0.9068923821039904,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "€"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-101",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 73.39782345828296,
+              "y": 72.68063274903805,
+              "width": 3.5671100362756953,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-101",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 73.39782345828296,
+              "y": 72.68063274903805,
+              "width": 3.5671100362756953,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "T.V.A."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-102",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 77.44860943168078,
+              "y": 72.72338606241983,
+              "width": 2.418379685610641,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-102",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 77.44860943168078,
+              "y": 72.72338606241983,
+              "width": 2.418379685610641,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "20%"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-103",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 86.33615477629988,
+              "y": 72.63787943565626,
+              "width": 0.8464328899637243,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-103",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 86.33615477629988,
+              "y": 72.63787943565626,
+              "width": 0.8464328899637243,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "2"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-104",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 87.84764207980653,
+              "y": 72.63787943565626,
+              "width": 4.655380894800484,
+              "height": 0.983326207781103,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-104",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 87.84764207980653,
+              "y": 72.63787943565626,
+              "width": 4.655380894800484,
+              "height": 0.983326207781103,
+              "rotation": 0,
+              "text": [
+                "737,20"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-105",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 93.0471584038694,
+              "y": 72.63787943565626,
+              "width": 0.9068923821039904,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-105",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 93.0471584038694,
+              "y": 72.63787943565626,
+              "width": 0.9068923821039904,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "€"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-106",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 72.4304715840387,
+              "y": 75.63061137238135,
+              "width": 4.353083434099154,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-106",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 72.4304715840387,
+              "y": 75.63061137238135,
+              "width": 4.353083434099154,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "TOTAL"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-107",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 77.26723095525998,
+              "y": 75.63061137238135,
+              "width": 3.5671100362756953,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-107",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 77.26723095525998,
+              "y": 75.63061137238135,
+              "width": 3.5671100362756953,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "T.T.C."
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-108",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 85.97339782345828,
+              "y": 75.58785805899957,
+              "width": 1.6928657799274487,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-108",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 85.97339782345828,
+              "y": 75.58785805899957,
+              "width": 1.6928657799274487,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "16"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-109",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 88.14993954050786,
+              "y": 75.58785805899957,
+              "width": 4.776299879081016,
+              "height": 0.983326207781103,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-109",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 88.14993954050786,
+              "y": 75.58785805899957,
+              "width": 4.776299879081016,
+              "height": 0.983326207781103,
+              "rotation": 0,
+              "text": [
+                "423,20"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-110",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 93.47037484885126,
+              "y": 75.58785805899957,
+              "width": 0.9673518742442564,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-110",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 93.47037484885126,
+              "y": 75.58785805899957,
+              "width": 0.9673518742442564,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "€"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-111",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 5.743651753325272,
+              "y": 75.88713125267208,
+              "width": 1.5719467956469166,
+              "height": 1.8811457887986318,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-111",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 5.743651753325272,
+              "y": 75.88713125267208,
+              "width": 1.5719467956469166,
+              "height": 1.8811457887986318,
+              "rotation": 0,
+              "text": [
+                "LL"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-112",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 14.087061668681983,
+              "y": 76.40017101325353,
+              "width": 3.3857315598548974,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-112",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 14.087061668681983,
+              "y": 76.40017101325353,
+              "width": 3.3857315598548974,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "(Offre"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-113",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 17.95646916565901,
+              "y": 76.40017101325353,
+              "width": 1.2696493349455864,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-113",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 17.95646916565901,
+              "y": 76.40017101325353,
+              "width": 1.2696493349455864,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "de"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-114",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 19.649334945586457,
+              "y": 76.44292432663532,
+              "width": 2.418379685610641,
+              "height": 0.8123129542539547,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-114",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 19.649334945586457,
+              "y": 76.44292432663532,
+              "width": 2.418379685610641,
+              "height": 0.8123129542539547,
+              "rotation": 0,
+              "text": [
+                "prix"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-115",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 22.49093107617896,
+              "y": 76.40017101325353,
+              "width": 4.171704957678355,
+              "height": 0.7268063274903805,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-115",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 22.49093107617896,
+              "y": 76.40017101325353,
+              "width": 4.171704957678355,
+              "height": 0.7268063274903805,
+              "rotation": 0,
+              "text": [
+                "valable"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-116",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 27.267230955259976,
+              "y": 76.44292432663532,
+              "width": 0.42321644498186217,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-116",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 27.267230955259976,
+              "y": 76.44292432663532,
+              "width": 0.42321644498186217,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "1"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-117",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 28.234582829504234,
+              "y": 76.40017101325353,
+              "width": 3.022974607013301,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-117",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 28.234582829504234,
+              "y": 76.40017101325353,
+              "width": 3.022974607013301,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "mois)"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-118",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 48.73035066505442,
+              "y": 76.40017101325353,
+              "width": 4.171704957678355,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-118",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 48.73035066505442,
+              "y": 76.40017101325353,
+              "width": 4.171704957678355,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "(cachet"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-119",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 53.26481257557437,
+              "y": 76.4856776400171,
+              "width": 1.1487303506650544,
+              "height": 0.5985463873450192,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-119",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 53.26481257557437,
+              "y": 76.4856776400171,
+              "width": 1.1487303506650544,
+              "height": 0.5985463873450192,
+              "rotation": 0,
+              "text": [
+                "et"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-120",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 54.836759371221284,
+              "y": 76.40017101325353,
+              "width": 5.985489721886336,
+              "height": 0.8550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-120",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 54.836759371221284,
+              "y": 76.40017101325353,
+              "width": 5.985489721886336,
+              "height": 0.8550662676357418,
+              "rotation": 0,
+              "text": [
+                "signature)"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-121",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 39.48004836759371,
+              "y": 79.4784095767422,
+              "width": 2.0556227327690446,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-121",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 39.48004836759371,
+              "y": 79.4784095767422,
+              "width": 2.0556227327690446,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "CME"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-122",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 41.83796856106409,
+              "y": 79.43565626336041,
+              "width": 4.594921402660217,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-122",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 41.83796856106409,
+              "y": 79.43565626336041,
+              "width": 4.594921402660217,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "Sud-Ouest"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-123",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.73518742442563,
+              "y": 79.77768277041471,
+              "width": 0.2418379685610641,
+              "height": 0.04275331338178709,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-123",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 46.73518742442563,
+              "y": 79.77768277041471,
+              "width": 0.2418379685610641,
+              "height": 0.04275331338178709,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-124",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 47.40024183796856,
+              "y": 79.4784095767422,
+              "width": 1.1487303506650544,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-124",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 47.40024183796856,
+              "y": 79.4784095767422,
+              "width": 1.1487303506650544,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "14,"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-125",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 48.91172914147521,
+              "y": 79.56391620350577,
+              "width": 2.0556227327690446,
+              "height": 0.4275331338178709,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-125",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 48.91172914147521,
+              "y": 79.56391620350577,
+              "width": 2.0556227327690446,
+              "height": 0.4275331338178709,
+              "rotation": 0,
+              "text": [
+                "zone"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-126",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 51.26964933494558,
+              "y": 79.4784095767422,
+              "width": 4.594921402660217,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-126",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 51.26964933494558,
+              "y": 79.4784095767422,
+              "width": 4.594921402660217,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "industrielle"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-127",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 56.166868198307135,
+              "y": 79.4784095767422,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-127",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 56.166868198307135,
+              "y": 79.4784095767422,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "de"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-128",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 57.557436517533255,
+              "y": 79.43565626336041,
+              "width": 2.962515114873035,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-128",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 57.557436517533255,
+              "y": 79.43565626336041,
+              "width": 2.962515114873035,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "Calens"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-129",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.822249093107615,
+              "y": 79.77768277041471,
+              "width": 0.2418379685610641,
+              "height": 0.04275331338178709,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-129",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 60.822249093107615,
+              "y": 79.77768277041471,
+              "width": 0.2418379685610641,
+              "height": 0.04275331338178709,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-130",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 61.36638452237001,
+              "y": 79.4784095767422,
+              "width": 2.660217654171705,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-130",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 61.36638452237001,
+              "y": 79.4784095767422,
+              "width": 2.660217654171705,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "33640"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-131",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 64.32889963724304,
+              "y": 79.43565626336041,
+              "width": 4.111245465538089,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-131",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 64.32889963724304,
+              "y": 79.43565626336041,
+              "width": 4.111245465538089,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "Beautiran"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-132",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 32.58766626360339,
+              "y": 80.88926891834117,
+              "width": 1.0882708585247884,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-132",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 32.58766626360339,
+              "y": 80.88926891834117,
+              "width": 1.0882708585247884,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "N°"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-133",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 33.9782345828295,
+              "y": 80.88926891834117,
+              "width": 1.8742442563482467,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-133",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 33.9782345828295,
+              "y": 80.88926891834117,
+              "width": 1.8742442563482467,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "Siret"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-134",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 36.15477629987908,
+              "y": 81.31680205215905,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-134",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 36.15477629987908,
+              "y": 81.31680205215905,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-135",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 36.63845223700121,
+              "y": 80.88926891834117,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-135",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 36.63845223700121,
+              "y": 80.88926891834117,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "443"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-136",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 38.63361547762999,
+              "y": 80.88926891834117,
+              "width": 1.4510278113663846,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-136",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 38.63361547762999,
+              "y": 80.88926891834117,
+              "width": 1.4510278113663846,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "104"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-137",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 40.44740024183797,
+              "y": 80.88926891834117,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-137",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 40.44740024183797,
+              "y": 80.88926891834117,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "443"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-138",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 42.32164449818622,
+              "y": 80.88926891834117,
+              "width": 1.6324062877871826,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-138",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 42.32164449818622,
+              "y": 80.88926891834117,
+              "width": 1.6324062877871826,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "000"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-139",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 44.316807738814994,
+              "y": 80.88926891834117,
+              "width": 0.9673518742442564,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-139",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 44.316807738814994,
+              "y": 80.88926891834117,
+              "width": 0.9673518742442564,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "17"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-140",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 45.58645707376058,
+              "y": 81.18854211201368,
+              "width": 0.2418379685610641,
+              "height": 0.04275331338178709,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-140",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 45.58645707376058,
+              "y": 81.18854211201368,
+              "width": 0.2418379685610641,
+              "height": 0.04275331338178709,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-141",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.19105199516324,
+              "y": 80.84651560495938,
+              "width": 2.237001209189843,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-141",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 46.19105199516324,
+              "y": 80.84651560495938,
+              "width": 2.237001209189843,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "Code"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-142",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 48.73035066505442,
+              "y": 80.88926891834117,
+              "width": 1.9951632406287787,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-142",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 48.73035066505442,
+              "y": 80.88926891834117,
+              "width": 1.9951632406287787,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "APE"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-143",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.96735187424426,
+              "y": 80.88926891834117,
+              "width": 3.5671100362756953,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-143",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 50.96735187424426,
+              "y": 80.88926891834117,
+              "width": 3.5671100362756953,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "2712Z"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-144",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 53.990326481257554,
+              "y": 80.67550235143223,
+              "width": 0.42321644498186217,
+              "height": 1.0688328345446771,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-144",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 53.990326481257554,
+              "y": 80.67550235143223,
+              "width": 0.42321644498186217,
+              "height": 1.0688328345446771,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-145",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 54.836759371221284,
+              "y": 80.88926891834117,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-145",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 54.836759371221284,
+              "y": 80.88926891834117,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "N°"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-146",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 56.2273276904474,
+              "y": 80.88926891834117,
+              "width": 1.6928657799274487,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-146",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 56.2273276904474,
+              "y": 80.88926891834117,
+              "width": 1.6928657799274487,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "TVA"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-147",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 58.28295042321645,
+              "y": 80.84651560495938,
+              "width": 8.464328899637243,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-147",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 58.28295042321645,
+              "y": 80.84651560495938,
+              "width": 8.464328899637243,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "Intracommunautaire"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-148",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 67.04957678355501,
+              "y": 80.84651560495938,
+              "width": 1.2696493349455864,
+              "height": 0.5557930739632322,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-148",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 67.04957678355501,
+              "y": 80.84651560495938,
+              "width": 1.2696493349455864,
+              "height": 0.5557930739632322,
+              "rotation": 0,
+              "text": [
+                "FR"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-149",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 68.62152357920193,
+              "y": 80.84651560495938,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-149",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 68.62152357920193,
+              "y": 80.84651560495938,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "24"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-150",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 70.01209189842805,
+              "y": 80.84651560495938,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-150",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 70.01209189842805,
+              "y": 80.84651560495938,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "443"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-151",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 72.00725513905684,
+              "y": 80.84651560495938,
+              "width": 1.3905683192261185,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-151",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 72.00725513905684,
+              "y": 80.84651560495938,
+              "width": 1.3905683192261185,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "104"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-152",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 73.76058041112455,
+              "y": 80.84651560495938,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-152",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 73.76058041112455,
+              "y": 80.84651560495938,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "443"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-153",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 38.51269649334946,
+              "y": 82.30012825994015,
+              "width": 1.2091898428053205,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-153",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 38.51269649334946,
+              "y": 82.30012825994015,
+              "width": 1.2091898428053205,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "Tel"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-154",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 40.02418379685611,
+              "y": 82.72766139375801,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-154",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 40.02418379685611,
+              "y": 82.72766139375801,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-155",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 40.5683192261185,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-155",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 40.5683192261185,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "05"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-156",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 41.898428053204356,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-156",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 41.898428053204356,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "56"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-157",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 43.288996372430475,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-157",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 43.288996372430475,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "67"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-158",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 44.619105199516326,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-158",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 44.619105199516326,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "52"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-159",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 46.009673518742446,
+              "y": 82.30012825994015,
+              "width": 0.9673518742442564,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-159",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 46.009673518742446,
+              "y": 82.30012825994015,
+              "width": 0.9673518742442564,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "99"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-160",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 47.27932285368803,
+              "y": 82.59940145361266,
+              "width": 0.5441354292623942,
+              "height": 0.04275331338178709,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-160",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 47.27932285368803,
+              "y": 82.59940145361266,
+              "width": 0.5441354292623942,
+              "height": 0.04275331338178709,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-161",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 48.06529625151149,
+              "y": 82.30012825994015,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-161",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 48.06529625151149,
+              "y": 82.30012825994015,
+              "width": 1.5719467956469166,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "Fax"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-162",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.0,
+              "y": 82.42838820008551,
+              "width": 0.2418379685610641,
+              "height": 0.3847798204360838,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-162",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 50.0,
+              "y": 82.42838820008551,
+              "width": 0.2418379685610641,
+              "height": 0.3847798204360838,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-163",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 50.5441354292624,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-163",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 50.5441354292624,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "05"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-164",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 51.87424425634825,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-164",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 51.87424425634825,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "56"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-165",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 53.26481257557437,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-165",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 53.26481257557437,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "67"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-166",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 54.59492140266022,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-166",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 54.59492140266022,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "23"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-167",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 55.92503022974607,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-167",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 55.92503022974607,
+              "y": 82.30012825994015,
+              "width": 1.0278113663845223,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "52"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-168",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 57.25513905683192,
+              "y": 82.55664814023086,
+              "width": 0.4836759371221282,
+              "height": 0.08550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-168",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 57.25513905683192,
+              "y": 82.55664814023086,
+              "width": 0.4836759371221282,
+              "height": 0.08550662676357418,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-169",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 58.041112454655384,
+              "y": 82.30012825994015,
+              "width": 2.599758162031439,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-169",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 58.041112454655384,
+              "y": 82.30012825994015,
+              "width": 2.599758162031439,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "e-mail"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-170",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.94316807738815,
+              "y": 82.72766139375801,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-170",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 60.94316807738815,
+              "y": 82.72766139375801,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-171",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 61.42684401451028,
+              "y": 82.25737494655836,
+              "width": 8.101571946795646,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-171",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 61.42684401451028,
+              "y": 82.25737494655836,
+              "width": 8.101571946795646,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "contact@cme-so.fr"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-172",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 34.40145102781137,
+              "y": 83.79649422830269,
+              "width": 3.688029020556227,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-172",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 34.40145102781137,
+              "y": 83.79649422830269,
+              "width": 3.688029020556227,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "Direction"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-173",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 38.45223700120919,
+              "y": 83.79649422830269,
+              "width": 5.380894800483676,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-173",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 38.45223700120919,
+              "y": 83.79649422830269,
+              "width": 5.380894800483676,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "commerciale"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-174",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 44.195888754534465,
+              "y": 84.22402736212057,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-174",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 44.195888754534465,
+              "y": 84.22402736212057,
+              "width": 0.12091898428053205,
+              "height": 0.08550662676357418,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-175",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 44.67956469165659,
+              "y": 83.79649422830269,
+              "width": 11.668681983071343,
+              "height": 0.6412997007268063,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-175",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 44.67956469165659,
+              "y": 83.79649422830269,
+              "width": 11.668681983071343,
+              "height": 0.6412997007268063,
+              "rotation": 0,
+              "text": [
+                "laurent.lacotte-@cme-so.fr"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-176",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 56.0459492140266,
+              "y": 83.58272766139376,
+              "width": 0.42321644498186217,
+              "height": 1.0688328345446771,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-176",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 56.0459492140266,
+              "y": 83.58272766139376,
+              "width": 0.42321644498186217,
+              "height": 1.0688328345446771,
+              "rotation": 0,
+              "text": [
+                "-"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-177",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 56.650544135429264,
+              "y": 83.79649422830269,
+              "width": 3.083434099153567,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-177",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 56.650544135429264,
+              "y": 83.79649422830269,
+              "width": 3.083434099153567,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "Bureau"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-178",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 60.03627569528416,
+              "y": 83.79649422830269,
+              "width": 3.5671100362756953,
+              "height": 0.5130397605814451,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-178",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 60.03627569528416,
+              "y": 83.79649422830269,
+              "width": 3.5671100362756953,
+              "height": 0.5130397605814451,
+              "rotation": 0,
+              "text": [
+                "d'études"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-179",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 63.72430471584039,
+              "y": 83.58272766139376,
+              "width": 0.5441354292623942,
+              "height": 1.0688328345446771,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-179",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 63.72430471584039,
+              "y": 83.58272766139376,
+              "width": 0.5441354292623942,
+              "height": 1.0688328345446771,
+              "rotation": 0,
+              "text": [
+                ":"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-180",
+            "from_name": "bbox",
+            "to_name": "image",
+            "type": "rectangle",
+            "value": {
+              "x": 64.44981862152358,
+              "y": 83.75374091492091,
+              "width": 9.129383313180169,
+              "height": 0.6840530141085934,
+              "rotation": 0
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          },
+          {
+            "id": "word-180",
+            "from_name": "transcription",
+            "to_name": "image",
+            "type": "textarea",
+            "value": {
+              "x": 64.44981862152358,
+              "y": 83.75374091492091,
+              "width": 9.129383313180169,
+              "height": 0.6840530141085934,
+              "rotation": 0,
+              "text": [
+                "be.cmeso@cme-so.fr"
+              ]
+            },
+            "original_width": 1654,
+            "original_height": 2339,
+            "image_rotation": 0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "entity_labels": [
+    "CLIENT",
+    "DATE_DEVIS",
+    "EMETTEUR_DEVIS",
+    "MONTANT_TOTAL",
+    "NUMERO_DEVIS"
+  ],
+  "label2id": {
+    "O": 0,
+    "B-CLIENT": 1,
+    "I-CLIENT": 2,
+    "B-DATE_DEVIS": 3,
+    "I-DATE_DEVIS": 4,
+    "B-EMETTEUR_DEVIS": 5,
+    "I-EMETTEUR_DEVIS": 6,
+    "B-MONTANT_TOTAL": 7,
+    "I-MONTANT_TOTAL": 8,
+    "B-NUMERO_DEVIS": 9,
+    "I-NUMERO_DEVIS": 10
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-CLIENT",
+    "2": "I-CLIENT",
+    "3": "B-DATE_DEVIS",
+    "4": "I-DATE_DEVIS",
+    "5": "B-EMETTEUR_DEVIS",
+    "6": "I-EMETTEUR_DEVIS",
+    "7": "B-MONTANT_TOTAL",
+    "8": "I-MONTANT_TOTAL",
+    "9": "B-NUMERO_DEVIS",
+    "10": "I-NUMERO_DEVIS"
+  }
+}

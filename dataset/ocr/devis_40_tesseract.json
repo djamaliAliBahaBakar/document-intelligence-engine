@@ -1,0 +1,8684 @@
+{
+  "engine": "tesseract",
+  "document": "devis_40.pdf",
+  "duration_seconds": 2.664,
+  "page_count": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 75,
+      "words": [
+        {
+          "text": "ZR",
+          "confidence": 0.45,
+          "bbox": [
+            95,
+            150,
+            116,
+            161
+          ]
+        },
+        {
+          "text": "M",
+          "confidence": 0.87,
+          "bbox": [
+            124,
+            151,
+            134,
+            160
+          ]
+        },
+        {
+          "text": "OTRES,",
+          "confidence": 0.41,
+          "bbox": [
+            141,
+            150,
+            198,
+            161
+          ]
+        },
+        {
+          "text": "ÉT'E",
+          "confidence": 0.0,
+          "bbox": [
+            215,
+            147,
+            244,
+            161
+          ]
+        },
+        {
+          "text": "CNE",
+          "confidence": 0.0,
+          "bbox": [
+            269,
+            148,
+            272,
+            151
+          ]
+        },
+        {
+          "text": ".",
+          "confidence": 0.0,
+          "bbox": [
+            437,
+            155,
+            442,
+            156
+          ]
+        },
+        {
+          "text": "rs",
+          "confidence": 0.11,
+          "bbox": [
+            170,
+            147,
+            200,
+            178
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.14,
+          "bbox": [
+            667,
+            171,
+            671,
+            174
+          ]
+        },
+        {
+          "text": "..…..",
+          "confidence": 0.21,
+          "bbox": [
+            1051,
+            150,
+            1124,
+            168
+          ]
+        },
+        {
+          "text": "LA",
+          "confidence": 0.86,
+          "bbox": [
+            88,
+            204,
+            103,
+            222
+          ]
+        },
+        {
+          "text": "sfermesGauloises",
+          "confidence": 0.0,
+          "bbox": [
+            168,
+            204,
+            351,
+            219
+          ]
+        },
+        {
+          "text": "0",
+          "confidence": 0.87,
+          "bbox": [
+            163,
+            226,
+            173,
+            241
+          ]
+        },
+        {
+          "text": "IRGBARRE",
+          "confidence": 0.88,
+          "bbox": [
+            223,
+            226,
+            320,
+            240
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.3,
+          "bbox": [
+            127,
+            294,
+            143,
+            301
+          ]
+        },
+        {
+          "text": ".",
+          "confidence": 0.25,
+          "bbox": [
+            353,
+            296,
+            356,
+            297
+          ]
+        },
+        {
+          "text": "02.22.6!",
+          "confidence": 0.33,
+          "bbox": [
+            155,
+            269,
+            224,
+            297
+          ]
+        },
+        {
+          "text": "59",
+          "confidence": 0.95,
+          "bbox": [
+            264,
+            274,
+            284,
+            288
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.26,
+          "bbox": [
+            172,
+            297,
+            179,
+            309
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            743,
+            404,
+            824,
+            423
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.75,
+          "bbox": [
+            110,
+            454,
+            113,
+            457
+          ]
+        },
+        {
+          "text": "79",
+          "confidence": 0.95,
+          "bbox": [
+            743,
+            435,
+            768,
+            453
+          ]
+        },
+        {
+          "text": "Rue",
+          "confidence": 0.95,
+          "bbox": [
+            777,
+            434,
+            820,
+            453
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            828,
+            434,
+            868,
+            453
+          ]
+        },
+        {
+          "text": "Joncs",
+          "confidence": 0.92,
+          "bbox": [
+            876,
+            434,
+            945,
+            453
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            953,
+            434,
+            993,
+            453
+          ]
+        },
+        {
+          "text": "Bois",
+          "confidence": 0.94,
+          "bbox": [
+            1002,
+            434,
+            1051,
+            453
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.91,
+          "bbox": [
+            70,
+            454,
+            127,
+            471
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            136,
+            458,
+            139,
+            470
+          ]
+        },
+        {
+          "text": "VP_2507100",
+          "confidence": 0.91,
+          "bbox": [
+            147,
+            454,
+            273,
+            474
+          ]
+        },
+        {
+          "text": "Lots",
+          "confidence": 0.95,
+          "bbox": [
+            744,
+            464,
+            792,
+            483
+          ]
+        },
+        {
+          "text": "22",
+          "confidence": 0.96,
+          "bbox": [
+            800,
+            464,
+            825,
+            482
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            833,
+            466,
+            854,
+            483
+          ]
+        },
+        {
+          "text": "23",
+          "confidence": 0.96,
+          "bbox": [
+            862,
+            464,
+            887,
+            483
+          ]
+        },
+        {
+          "text": "Réference",
+          "confidence": 0.91,
+          "bbox": [
+            70,
+            481,
+            174,
+            499
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            183,
+            486,
+            187,
+            498
+          ]
+        },
+        {
+          "text": "DP2503358",
+          "confidence": 0.92,
+          "bbox": [
+            196,
+            482,
+            310,
+            499
+          ]
+        },
+        {
+          "text": "'",
+          "confidence": 0.27,
+          "bbox": [
+            848,
+            494,
+            852,
+            498
+          ]
+        },
+        {
+          "text": "Affaire",
+          "confidence": 0.92,
+          "bbox": [
+            69,
+            509,
+            138,
+            526
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            147,
+            513,
+            150,
+            525
+          ]
+        },
+        {
+          "text": "CHALIFERT",
+          "confidence": 0.91,
+          "bbox": [
+            159,
+            509,
+            282,
+            526
+          ]
+        },
+        {
+          "text": "84000",
+          "confidence": 0.96,
+          "bbox": [
+            743,
+            494,
+            808,
+            513
+          ]
+        },
+        {
+          "text": "Avignon",
+          "confidence": 0.95,
+          "bbox": [
+            817,
+            494,
+            910,
+            517
+          ]
+        },
+        {
+          "text": "AGCP",
+          "confidence": 0.92,
+          "bbox": [
+            63,
+            717,
+            129,
+            736
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 0.93,
+          "bbox": [
+            140,
+            717,
+            168,
+            735
+          ]
+        },
+        {
+          "text": "SES",
+          "confidence": 0.93,
+          "bbox": [
+            176,
+            717,
+            221,
+            736
+          ]
+        },
+        {
+          "text": "BRETELLES",
+          "confidence": 0.93,
+          "bbox": [
+            231,
+            717,
+            367,
+            736
+          ]
+        },
+        {
+          "text": "(logette)",
+          "confidence": 0.89,
+          "bbox": [
+            377,
+            717,
+            461,
+            740
+          ]
+        },
+        {
+          "text": "x2",
+          "confidence": 0.89,
+          "bbox": [
+            790,
+            718,
+            820,
+            735
+          ]
+        },
+        {
+          "text": "2,560.00",
+          "confidence": 0.77,
+          "bbox": [
+            952,
+            718,
+            1044,
+            738
+          ]
+        },
+        {
+          "text": "€HT",
+          "confidence": 0.76,
+          "bbox": [
+            1071,
+            717,
+            1122,
+            736
+          ]
+        },
+        {
+          "text": "2934.00",
+          "confidence": 0.16,
+          "bbox": [
+            952,
+            760,
+            1044,
+            780
+          ]
+        },
+        {
+          "text": "€HT",
+          "confidence": 0.54,
+          "bbox": [
+            1071,
+            759,
+            1122,
+            778
+          ]
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9,
+          "bbox": [
+            63,
+            801,
+            173,
+            820
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.96,
+          "bbox": [
+            182,
+            801,
+            214,
+            820
+          ]
+        },
+        {
+          "text": "x4",
+          "confidence": 0.87,
+          "bbox": [
+            790,
+            802,
+            821,
+            819
+          ]
+        },
+        {
+          "text": "859.00",
+          "confidence": 0.85,
+          "bbox": [
+            972,
+            802,
+            1044,
+            820
+          ]
+        },
+        {
+          "text": "€HT",
+          "confidence": 0.64,
+          "bbox": [
+            1071,
+            801,
+            1122,
+            820
+          ]
+        },
+        {
+          "text": "[roraL",
+          "confidence": 0.1,
+          "bbox": [
+            55,
+            872,
+            142,
+            917
+          ]
+        },
+        {
+          "text": "1442400",
+          "confidence": 0.47,
+          "bbox": [
+            939,
+            887,
+            1044,
+            908
+          ]
+        },
+        {
+          "text": "€HT|",
+          "confidence": 0.62,
+          "bbox": [
+            1073,
+            872,
+            1138,
+            917
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.69,
+          "bbox": [
+            55,
+            956,
+            58,
+            1001
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.96,
+          "bbox": [
+            478,
+            970,
+            540,
+            989
+          ]
+        },
+        {
+          "text": "valable",
+          "confidence": 0.96,
+          "bbox": [
+            547,
+            970,
+            628,
+            989
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.96,
+          "bbox": [
+            636,
+            971,
+            644,
+            988
+          ]
+        },
+        {
+          "text": "mois",
+          "confidence": 0.96,
+          "bbox": [
+            656,
+            970,
+            711,
+            989
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.89,
+          "bbox": [
+            1135,
+            956,
+            1138,
+            1001
+          ]
+        },
+        {
+          "text": "1/7",
+          "confidence": 0.89,
+          "bbox": [
+            1061,
+            1632,
+            1093,
+            1645
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.95,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.95,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.96,
+          "bbox": [
+            164,
+            1649,
+            251,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1649,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            647,
+            1649,
+            869,
+            1666
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 139,
+      "words": [
+        {
+          "text": "ARMOIRES",
+          "confidence": 0.9,
+          "bbox": [
+            380,
+            169,
+            550,
+            186
+          ]
+        },
+        {
+          "text": "ELECTRIQUES",
+          "confidence": 0.95,
+          "bbox": [
+            579,
+            169,
+            808,
+            186
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.9,
+          "bbox": [
+            663,
+            221,
+            744,
+            240
+          ]
+        },
+        {
+          "text": "DO",
+          "confidence": 0.08,
+          "bbox": [
+            63,
+            247,
+            180,
+            308
+          ]
+        },
+        {
+          "text": "00",
+          "confidence": 0.73,
+          "bbox": [
+            208,
+            253,
+            235,
+            308
+          ]
+        },
+        {
+          "text": "10748",
+          "confidence": 0.77,
+          "bbox": [
+            255,
+            285,
+            335,
+            308
+          ]
+        },
+        {
+          "text": "AGCP",
+          "confidence": 0.9,
+          "bbox": [
+            663,
+            252,
+            763,
+            280
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 0.96,
+          "bbox": [
+            778,
+            253,
+            820,
+            279
+          ]
+        },
+        {
+          "text": "SES",
+          "confidence": 0.95,
+          "bbox": [
+            832,
+            252,
+            901,
+            280
+          ]
+        },
+        {
+          "text": "BRETELLES",
+          "confidence": 0.95,
+          "bbox": [
+            916,
+            252,
+            1119,
+            280
+          ]
+        },
+        {
+          "text": "Réference",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            311,
+            215,
+            345
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            228,
+            328,
+            232,
+            344
+          ]
+        },
+        {
+          "text": "DP2503358",
+          "confidence": 0.91,
+          "bbox": [
+            235,
+            311,
+            400,
+            345
+          ]
+        },
+        {
+          "text": "(logette)",
+          "confidence": 0.84,
+          "bbox": [
+            665,
+            298,
+            792,
+            332
+          ]
+        },
+        {
+          "text": "Nomenclature",
+          "confidence": 0.95,
+          "bbox": [
+            470,
+            396,
+            666,
+            420
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.96,
+          "bbox": [
+            677,
+            402,
+            691,
+            419
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            702,
+            396,
+            717,
+            419
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            458,
+            95,
+            473
+          ]
+        },
+        {
+          "text": "[Référence",
+          "confidence": 0.83,
+          "bbox": [
+            115,
+            448,
+            217,
+            484
+          ]
+        },
+        {
+          "text": "[Pésignation",
+          "confidence": 0.77,
+          "bbox": [
+            335,
+            444,
+            454,
+            488
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.94,
+          "bbox": [
+            1079,
+            458,
+            1111,
+            474
+          ]
+        },
+        {
+          "text": "AGCP",
+          "confidence": 0.91,
+          "bbox": [
+            566,
+            491,
+            623,
+            506
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.88,
+          "bbox": [
+            81,
+            524,
+            86,
+            539
+          ]
+        },
+        {
+          "text": "|C40F4",
+          "confidence": 0.45,
+          "bbox": [
+            122,
+            524,
+            180,
+            539
+          ]
+        },
+        {
+          "text": "ComPacT",
+          "confidence": 0.9,
+          "bbox": [
+            342,
+            524,
+            429,
+            539
+          ]
+        },
+        {
+          "text": "NSX400F",
+          "confidence": 0.88,
+          "bbox": [
+            437,
+            524,
+            521,
+            540
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.88,
+          "bbox": [
+            528,
+            533,
+            533,
+            534
+          ]
+        },
+        {
+          "text": "bloc",
+          "confidence": 0.96,
+          "bbox": [
+            541,
+            524,
+            576,
+            539
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            582,
+            524,
+            603,
+            539
+          ]
+        },
+        {
+          "text": "coupure",
+          "confidence": 0.96,
+          "bbox": [
+            610,
+            528,
+            681,
+            543
+          ]
+        },
+        {
+          "text": "sans",
+          "confidence": 0.96,
+          "bbox": [
+            688,
+            528,
+            729,
+            540
+          ]
+        },
+        {
+          "text": "déclencheur",
+          "confidence": 0.93,
+          "bbox": [
+            736,
+            524,
+            844,
+            539
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            851,
+            533,
+            856,
+            534
+          ]
+        },
+        {
+          "text": "400A",
+          "confidence": 0.91,
+          "bbox": [
+            862,
+            524,
+            908,
+            539
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            915,
+            533,
+            920,
+            534
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.91,
+          "bbox": [
+            927,
+            524,
+            950,
+            539
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            957,
+            533,
+            962,
+            534
+          ]
+        },
+        {
+          "text": "36",
+          "confidence": 0.96,
+          "bbox": [
+            969,
+            524,
+            990,
+            539
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            524,
+            1096,
+            539
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.87,
+          "bbox": [
+            80,
+            558,
+            89,
+            572
+          ]
+        },
+        {
+          "text": "|C4044B400",
+          "confidence": 0.87,
+          "bbox": [
+            122,
+            557,
+            225,
+            572
+          ]
+        },
+        {
+          "text": "ComPacT",
+          "confidence": 0.9,
+          "bbox": [
+            342,
+            557,
+            429,
+            572
+          ]
+        },
+        {
+          "text": "NSX",
+          "confidence": 0.91,
+          "bbox": [
+            437,
+            557,
+            476,
+            573
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            483,
+            566,
+            488,
+            567
+          ]
+        },
+        {
+          "text": "déclencheur",
+          "confidence": 0.93,
+          "bbox": [
+            494,
+            557,
+            603,
+            572
+          ]
+        },
+        {
+          "text": "MicroLogic",
+          "confidence": 0.9,
+          "bbox": [
+            610,
+            557,
+            705,
+            576
+          ]
+        },
+        {
+          "text": "4.3",
+          "confidence": 0.95,
+          "bbox": [
+            711,
+            557,
+            738,
+            573
+          ]
+        },
+        {
+          "text": "AB",
+          "confidence": 0.93,
+          "bbox": [
+            745,
+            557,
+            770,
+            572
+          ]
+        },
+        {
+          "text": "400A",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            557,
+            823,
+            572
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            830,
+            566,
+            835,
+            567
+          ]
+        },
+        {
+          "text": "4P4D",
+          "confidence": 0.92,
+          "bbox": [
+            841,
+            557,
+            890,
+            572
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.93,
+          "bbox": [
+            897,
+            561,
+            936,
+            576
+          ]
+        },
+        {
+          "text": "NSX400",
+          "confidence": 0.92,
+          "bbox": [
+            943,
+            557,
+            1016,
+            573
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            557,
+            1096,
+            572
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.86,
+          "bbox": [
+            80,
+            590,
+            89,
+            606
+          ]
+        },
+        {
+          "text": "|LV432491",
+          "confidence": 0.4,
+          "bbox": [
+            122,
+            590,
+            208,
+            606
+          ]
+        },
+        {
+          "text": "EPANOUISSEUR",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            590,
+            499,
+            606
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.92,
+          "bbox": [
+            506,
+            590,
+            529,
+            605
+          ]
+        },
+        {
+          "text": "(52,5MM)",
+          "confidence": 0.91,
+          "bbox": [
+            537,
+            590,
+            619,
+            609
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            590,
+            1096,
+            605
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.63,
+          "bbox": [
+            80,
+            624,
+            90,
+            638
+          ]
+        },
+        {
+          "text": "[LV432594",
+          "confidence": 0.5,
+          "bbox": [
+            122,
+            623,
+            211,
+            639
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.83,
+          "bbox": [
+            343,
+            624,
+            348,
+            638
+          ]
+        },
+        {
+          "text": "CACHE",
+          "confidence": 0.93,
+          "bbox": [
+            358,
+            623,
+            426,
+            638
+          ]
+        },
+        {
+          "text": "BORNES",
+          "confidence": 0.92,
+          "bbox": [
+            434,
+            623,
+            516,
+            639
+          ]
+        },
+        {
+          "text": "LONG",
+          "confidence": 0.93,
+          "bbox": [
+            525,
+            623,
+            578,
+            639
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.93,
+          "bbox": [
+            586,
+            623,
+            609,
+            638
+          ]
+        },
+        {
+          "text": "ACCESSOIRE",
+          "confidence": 0.93,
+          "bbox": [
+            616,
+            623,
+            745,
+            639
+          ]
+        },
+        {
+          "text": "DISJONCTEUR",
+          "confidence": 0.92,
+          "bbox": [
+            754,
+            623,
+            893,
+            639
+          ]
+        },
+        {
+          "text": "NSX400/630",
+          "confidence": 0.88,
+          "bbox": [
+            901,
+            623,
+            1012,
+            639
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            1091,
+            623,
+            1096,
+            638
+          ]
+        },
+        {
+          "text": "INV/INS",
+          "confidence": 0.91,
+          "bbox": [
+            343,
+            648,
+            412,
+            664
+          ]
+        },
+        {
+          "text": "PLAGE",
+          "confidence": 0.96,
+          "bbox": [
+            456,
+            681,
+            523,
+            697
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 0.92,
+          "bbox": [
+            531,
+            681,
+            556,
+            696
+          ]
+        },
+        {
+          "text": "RACCORDEMENT",
+          "confidence": 0.9,
+          "bbox": [
+            564,
+            681,
+            735,
+            697
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.84,
+          "bbox": [
+            80,
+            715,
+            90,
+            729
+          ]
+        },
+        {
+          "text": "[BCUN_30X5",
+          "confidence": 0.42,
+          "bbox": [
+            122,
+            714,
+            234,
+            733
+          ]
+        },
+        {
+          "text": "BARRE",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            714,
+            409,
+            729
+          ]
+        },
+        {
+          "text": "CUIVRE",
+          "confidence": 0.91,
+          "bbox": [
+            416,
+            714,
+            490,
+            729
+          ]
+        },
+        {
+          "text": "NU",
+          "confidence": 0.92,
+          "bbox": [
+            498,
+            714,
+            524,
+            729
+          ]
+        },
+        {
+          "text": "30X5",
+          "confidence": 0.9,
+          "bbox": [
+            531,
+            714,
+            577,
+            729
+          ]
+        },
+        {
+          "text": "(1M)",
+          "confidence": 0.9,
+          "bbox": [
+            584,
+            714,
+            623,
+            733
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            715,
+            1099,
+            729
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 0.9,
+          "bbox": [
+            80,
+            748,
+            90,
+            762
+          ]
+        },
+        {
+          "text": "|ISO",
+          "confidence": 0.74,
+          "bbox": [
+            108,
+            743,
+            154,
+            771
+          ]
+        },
+        {
+          "text": "630",
+          "confidence": 0.94,
+          "bbox": [
+            164,
+            748,
+            199,
+            766
+          ]
+        },
+        {
+          "text": "Isolateur",
+          "confidence": 0.91,
+          "bbox": [
+            343,
+            747,
+            417,
+            763
+          ]
+        },
+        {
+          "text": "30M",
+          "confidence": 0.9,
+          "bbox": [
+            424,
+            747,
+            461,
+            762
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 0.96,
+          "bbox": [
+            468,
+            747,
+            478,
+            762
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            748,
+            1100,
+            762
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.72,
+          "bbox": [
+            80,
+            781,
+            90,
+            795
+          ]
+        },
+        {
+          "text": "JPLEXI",
+          "confidence": 0.68,
+          "bbox": [
+            122,
+            780,
+            176,
+            795
+          ]
+        },
+        {
+          "text": "PLEXI",
+          "confidence": 0.92,
+          "bbox": [
+            342,
+            780,
+            396,
+            795
+          ]
+        },
+        {
+          "text": "STANDARD",
+          "confidence": 0.95,
+          "bbox": [
+            404,
+            780,
+            512,
+            796
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            780,
+            1096,
+            795
+          ]
+        },
+        {
+          "text": "PLATINE",
+          "confidence": 0.96,
+          "bbox": [
+            553,
+            813,
+            637,
+            828
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            80,
+            847,
+            90,
+            861
+          ]
+        },
+        {
+          "text": "[Ne",
+          "confidence": 0.03,
+          "bbox": [
+            115,
+            836,
+            215,
+            897
+          ]
+        },
+        {
+          "text": "asr",
+          "confidence": 0.0,
+          "bbox": [
+            243,
+            846,
+            304,
+            865
+          ]
+        },
+        {
+          "text": "[Fe",
+          "confidence": 0.33,
+          "bbox": [
+            335,
+            836,
+            423,
+            897
+          ]
+        },
+        {
+          "text": "TARIF",
+          "confidence": 0.96,
+          "bbox": [
+            430,
+            846,
+            487,
+            861
+          ]
+        },
+        {
+          "text": "JAUNE",
+          "confidence": 0.95,
+          "bbox": [
+            493,
+            846,
+            558,
+            862
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.96,
+          "bbox": [
+            565,
+            851,
+            575,
+            861
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.93,
+          "bbox": [
+            582,
+            847,
+            592,
+            861
+          ]
+        },
+        {
+          "text": "ISO",
+          "confidence": 0.36,
+          "bbox": [
+            600,
+            846,
+            632,
+            862
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.95,
+          "bbox": [
+            639,
+            851,
+            649,
+            861
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.95,
+          "bbox": [
+            656,
+            847,
+            666,
+            861
+          ]
+        },
+        {
+          "text": "VIS",
+          "confidence": 0.93,
+          "bbox": [
+            673,
+            846,
+            703,
+            862
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            711,
+            855,
+            716,
+            856
+          ]
+        },
+        {
+          "text": "HxLxP=",
+          "confidence": 0.92,
+          "bbox": [
+            724,
+            846,
+            792,
+            861
+          ]
+        },
+        {
+          "text": "245x205x125",
+          "confidence": 0.91,
+          "bbox": [
+            799,
+            847,
+            917,
+            861
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.9,
+          "bbox": [
+            925,
+            855,
+            930,
+            856
+          ]
+        },
+        {
+          "text": "MECA",
+          "confidence": 0.92,
+          "bbox": [
+            937,
+            846,
+            993,
+            862
+          ]
+        },
+        {
+          "text": "IND",
+          "confidence": 0.91,
+          "bbox": [
+            1001,
+            846,
+            1033,
+            861
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.87,
+          "bbox": [
+            1055,
+            836,
+            1058,
+            897
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.93,
+          "bbox": [
+            1091,
+            846,
+            1096,
+            861
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 0.83,
+          "bbox": [
+            342,
+            871,
+            354,
+            886
+          ]
+        },
+        {
+          "text": "BRETELLES",
+          "confidence": 0.95,
+          "bbox": [
+            537,
+            904,
+            653,
+            920
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.56,
+          "bbox": [
+            80,
+            938,
+            90,
+            953
+          ]
+        },
+        {
+          "text": "JBRETELLE",
+          "confidence": 0.43,
+          "bbox": [
+            115,
+            927,
+            241,
+            962
+          ]
+        },
+        {
+          "text": "185",
+          "confidence": 0.63,
+          "bbox": [
+            233,
+            923,
+            266,
+            966
+          ]
+        },
+        {
+          "text": "2M",
+          "confidence": 0.54,
+          "bbox": [
+            280,
+            937,
+            302,
+            956
+          ]
+        },
+        {
+          "text": "[ixt85mm?",
+          "confidence": 0.48,
+          "bbox": [
+            335,
+            927,
+            435,
+            962
+          ]
+        },
+        {
+          "text": "2m",
+          "confidence": 0.93,
+          "bbox": [
+            441,
+            937,
+            467,
+            952
+          ]
+        },
+        {
+          "text": "HO7RNF",
+          "confidence": 0.2,
+          "bbox": [
+            476,
+            937,
+            556,
+            952
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.74,
+          "bbox": [
+            563,
+            946,
+            568,
+            947
+          ]
+        },
+        {
+          "text": "Gosse",
+          "confidence": 0.68,
+          "bbox": [
+            575,
+            937,
+            630,
+            953
+          ]
+        },
+        {
+          "text": "185mm°",
+          "confidence": 0.43,
+          "bbox": [
+            638,
+            937,
+            709,
+            952
+          ]
+        },
+        {
+          "text": "D10",
+          "confidence": 0.89,
+          "bbox": [
+            717,
+            937,
+            751,
+            952
+          ]
+        },
+        {
+          "text": "[+",
+          "confidence": 0.14,
+          "bbox": [
+            1055,
+            927,
+            1100,
+            962
+          ]
+        },
+        {
+          "text": "2/7",
+          "confidence": 0.82,
+          "bbox": [
+            1059,
+            1632,
+            1093,
+            1645
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            1649,
+            251,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1649,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            647,
+            1648,
+            869,
+            1666
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 115,
+      "words": [
+        {
+          "text": "ARMEL",
+          "confidence": 0.91,
+          "bbox": [
+            378,
+            69,
+            810,
+            187
+          ]
+        },
+        {
+          "text": "ARMOIRES",
+          "confidence": 0.9,
+          "bbox": [
+            379,
+            169,
+            551,
+            187
+          ]
+        },
+        {
+          "text": "ÉLECTRIQUES",
+          "confidence": 0.89,
+          "bbox": [
+            579,
+            164,
+            809,
+            187
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            663,
+            221,
+            745,
+            240
+          ]
+        },
+        {
+          "text": "TGPV",
+          "confidence": 0.9,
+          "bbox": [
+            663,
+            252,
+            760,
+            280
+          ]
+        },
+        {
+          "text": "Element",
+          "confidence": 0.68,
+          "bbox": [
+            73,
+            247,
+            187,
+            270
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            199,
+            253,
+            204,
+            269
+          ]
+        },
+        {
+          "text": "P_2507100",
+          "confidence": 0.92,
+          "bbox": [
+            85,
+            285,
+            265,
+            313
+          ]
+        },
+        {
+          "text": "19752",
+          "confidence": 0.94,
+          "bbox": [
+            270,
+            285,
+            335,
+            308
+          ]
+        },
+        {
+          "text": "Réference",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            321,
+            215,
+            345
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            228,
+            328,
+            233,
+            344
+          ]
+        },
+        {
+          "text": "DP2503358",
+          "confidence": 0.92,
+          "bbox": [
+            245,
+            322,
+            400,
+            345
+          ]
+        },
+        {
+          "text": "Adresse",
+          "confidence": 0.96,
+          "bbox": [
+            183,
+            413,
+            255,
+            429
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            262,
+            413,
+            283,
+            429
+          ]
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.93,
+          "bbox": [
+            290,
+            413,
+            361,
+            429
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            370,
+            417,
+            372,
+            428
+          ]
+        },
+        {
+          "text": "CARACTERISTIQUES",
+          "confidence": 0.9,
+          "bbox": [
+            80,
+            473,
+            398,
+            498
+          ]
+        },
+        {
+          "text": "ELECTRIQUES",
+          "confidence": 0.96,
+          "bbox": [
+            410,
+            473,
+            625,
+            498
+          ]
+        },
+        {
+          "text": "Tensions",
+          "confidence": 0.91,
+          "bbox": [
+            62,
+            522,
+            143,
+            538
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            151,
+            526,
+            153,
+            537
+          ]
+        },
+        {
+          "text": "400",
+          "confidence": 0.72,
+          "bbox": [
+            183,
+            522,
+            215,
+            538
+          ]
+        },
+        {
+          "text": "V",
+          "confidence": 0.9,
+          "bbox": [
+            222,
+            522,
+            234,
+            537
+          ]
+        },
+        {
+          "text": "In:",
+          "confidence": 0.91,
+          "bbox": [
+            280,
+            522,
+            305,
+            537
+          ]
+        },
+        {
+          "text": "400",
+          "confidence": 0.96,
+          "bbox": [
+            375,
+            522,
+            407,
+            538
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.77,
+          "bbox": [
+            414,
+            522,
+            426,
+            537
+          ]
+        },
+        {
+          "text": "IK3:",
+          "confidence": 0.44,
+          "bbox": [
+            928,
+            522,
+            966,
+            538
+          ]
+        },
+        {
+          "text": "JAUNE",
+          "confidence": 0.96,
+          "bbox": [
+            1006,
+            522,
+            1071,
+            538
+          ]
+        },
+        {
+          "text": "Régime",
+          "confidence": 0.95,
+          "bbox": [
+            64,
+            547,
+            131,
+            568
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            137,
+            547,
+            158,
+            563
+          ]
+        },
+        {
+          "text": "neutre",
+          "confidence": 0.93,
+          "bbox": [
+            166,
+            548,
+            221,
+            563
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.93,
+          "bbox": [
+            227,
+            547,
+            233,
+            563
+          ]
+        },
+        {
+          "text": "SLT",
+          "confidence": 0.93,
+          "bbox": [
+            239,
+            547,
+            285,
+            563
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            275,
+            543,
+            288,
+            572
+          ]
+        },
+        {
+          "text": "TT",
+          "confidence": 0.95,
+          "bbox": [
+            338,
+            547,
+            363,
+            562
+          ]
+        },
+        {
+          "text": "Fréquence",
+          "confidence": 0.93,
+          "bbox": [
+            496,
+            547,
+            589,
+            566
+          ]
+        },
+        {
+          "text": ":_50Hz",
+          "confidence": 0.77,
+          "bbox": [
+            598,
+            547,
+            660,
+            563
+          ]
+        },
+        {
+          "text": "TOLERIE",
+          "confidence": 0.9,
+          "bbox": [
+            79,
+            606,
+            211,
+            627
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.93,
+          "bbox": [
+            221,
+            606,
+            229,
+            627
+          ]
+        },
+        {
+          "text": "OPTIONS",
+          "confidence": 0.96,
+          "bbox": [
+            239,
+            606,
+            383,
+            627
+          ]
+        },
+        {
+          "text": "Type",
+          "confidence": 0.93,
+          "bbox": [
+            63,
+            662,
+            109,
+            682
+          ]
+        },
+        {
+          "text": "d'armoire",
+          "confidence": 0.9,
+          "bbox": [
+            115,
+            662,
+            205,
+            678
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            213,
+            666,
+            216,
+            677
+          ]
+        },
+        {
+          "text": "THALASSA",
+          "confidence": 0.88,
+          "bbox": [
+            238,
+            661,
+            343,
+            677
+          ]
+        },
+        {
+          "text": "Socle",
+          "confidence": 0.93,
+          "bbox": [
+            423,
+            662,
+            476,
+            678
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            484,
+            666,
+            487,
+            677
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.96,
+          "bbox": [
+            594,
+            661,
+            628,
+            677
+          ]
+        },
+        {
+          "text": "Etiquettes",
+          "confidence": 0.93,
+          "bbox": [
+            784,
+            662,
+            879,
+            682
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            887,
+            666,
+            890,
+            677
+          ]
+        },
+        {
+          "text": "Oui",
+          "confidence": 0.94,
+          "bbox": [
+            953,
+            661,
+            983,
+            677
+          ]
+        },
+        {
+          "text": "Hauteur",
+          "confidence": 0.93,
+          "bbox": [
+            64,
+            699,
+            138,
+            715
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            146,
+            703,
+            149,
+            714
+          ]
+        },
+        {
+          "text": "1000",
+          "confidence": 0.96,
+          "bbox": [
+            240,
+            698,
+            282,
+            714
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            289,
+            702,
+            320,
+            713
+          ]
+        },
+        {
+          "text": "Largeur",
+          "confidence": 0.93,
+          "bbox": [
+            424,
+            699,
+            497,
+            719
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            505,
+            703,
+            508,
+            714
+          ]
+        },
+        {
+          "text": "800",
+          "confidence": 0.95,
+          "bbox": [
+            593,
+            698,
+            625,
+            714
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            633,
+            702,
+            664,
+            713
+          ]
+        },
+        {
+          "text": "Profondeur",
+          "confidence": 0.92,
+          "bbox": [
+            784,
+            699,
+            890,
+            715
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            898,
+            703,
+            901,
+            714
+          ]
+        },
+        {
+          "text": "300",
+          "confidence": 0.96,
+          "bbox": [
+            953,
+            698,
+            985,
+            714
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            993,
+            702,
+            1024,
+            713
+          ]
+        },
+        {
+          "text": "IP",
+          "confidence": 0.78,
+          "bbox": [
+            64,
+            736,
+            81,
+            751
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.82,
+          "bbox": [
+            89,
+            740,
+            93,
+            751
+          ]
+        },
+        {
+          "text": "65",
+          "confidence": 0.96,
+          "bbox": [
+            233,
+            735,
+            254,
+            751
+          ]
+        },
+        {
+          "text": "IS",
+          "confidence": 0.71,
+          "bbox": [
+            424,
+            736,
+            441,
+            752
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            449,
+            740,
+            453,
+            751
+          ]
+        },
+        {
+          "text": "Forme",
+          "confidence": 0.92,
+          "bbox": [
+            784,
+            736,
+            843,
+            752
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            852,
+            740,
+            855,
+            751
+          ]
+        },
+        {
+          "text": "Porte(s)",
+          "confidence": 0.92,
+          "bbox": [
+            64,
+            769,
+            137,
+            796
+          ]
+        },
+        {
+          "text": "OUI",
+          "confidence": 0.93,
+          "bbox": [
+            239,
+            772,
+            272,
+            788
+          ]
+        },
+        {
+          "text": "Porte(s)",
+          "confidence": 0.91,
+          "bbox": [
+            424,
+            773,
+            497,
+            792
+          ]
+        },
+        {
+          "text": "int.",
+          "confidence": 0.96,
+          "bbox": [
+            505,
+            773,
+            533,
+            789
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.96,
+          "bbox": [
+            594,
+            772,
+            628,
+            788
+          ]
+        },
+        {
+          "text": "Serrure",
+          "confidence": 0.95,
+          "bbox": [
+            783,
+            773,
+            853,
+            789
+          ]
+        },
+        {
+          "text": "Gaine(s)",
+          "confidence": 0.86,
+          "bbox": [
+            63,
+            806,
+            142,
+            833
+          ]
+        },
+        {
+          "text": "NON",
+          "confidence": 0.95,
+          "bbox": [
+            240,
+            809,
+            281,
+            825
+          ]
+        },
+        {
+          "text": "Patte",
+          "confidence": 0.95,
+          "bbox": [
+            424,
+            810,
+            471,
+            826
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            478,
+            810,
+            500,
+            826
+          ]
+        },
+        {
+          "text": "fix.",
+          "confidence": 0.96,
+          "bbox": [
+            506,
+            810,
+            534,
+            825
+          ]
+        },
+        {
+          "text": "Oui",
+          "confidence": 0.88,
+          "bbox": [
+            593,
+            805,
+            623,
+            832
+          ]
+        },
+        {
+          "text": "Anneaux",
+          "confidence": 0.93,
+          "bbox": [
+            783,
+            810,
+            867,
+            826
+          ]
+        },
+        {
+          "text": "lev.",
+          "confidence": 0.91,
+          "bbox": [
+            874,
+            810,
+            905,
+            826
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.96,
+          "bbox": [
+            954,
+            809,
+            988,
+            825
+          ]
+        },
+        {
+          "text": "Ventilation",
+          "confidence": 0.92,
+          "bbox": [
+            63,
+            840,
+            164,
+            875
+          ]
+        },
+        {
+          "text": "OUI",
+          "confidence": 0.89,
+          "bbox": [
+            239,
+            846,
+            272,
+            862
+          ]
+        },
+        {
+          "text": "LATÉRALE",
+          "confidence": 0.91,
+          "bbox": [
+            281,
+            842,
+            381,
+            861
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.15,
+          "bbox": [
+            412,
+            838,
+            421,
+            874
+          ]
+        },
+        {
+          "text": "Porte",
+          "confidence": 0.15,
+          "bbox": [
+            424,
+            847,
+            473,
+            863
+          ]
+        },
+        {
+          "text": "plan",
+          "confidence": 0.96,
+          "bbox": [
+            480,
+            847,
+            519,
+            867
+          ]
+        },
+        {
+          "text": "Oui",
+          "confidence": 0.95,
+          "bbox": [
+            593,
+            839,
+            623,
+            874
+          ]
+        },
+        {
+          "text": "Passe-câbles",
+          "confidence": 0.5,
+          "bbox": [
+            784,
+            847,
+            909,
+            863
+          ]
+        },
+        {
+          "text": "PE/PERCÉ",
+          "confidence": 0.5,
+          "bbox": [
+            954,
+            842,
+            1053,
+            870
+          ]
+        },
+        {
+          "text": "MONTÉE",
+          "confidence": 0.01,
+          "bbox": [
+            954,
+            871,
+            1024,
+            887
+          ]
+        },
+        {
+          "text": "ARRIVE",
+          "confidence": 0.9,
+          "bbox": [
+            63,
+            904,
+            138,
+            934
+          ]
+        },
+        {
+          "text": "Section",
+          "confidence": 0.93,
+          "bbox": [
+            184,
+            908,
+            248,
+            924
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            257,
+            912,
+            259,
+            923
+          ]
+        },
+        {
+          "text": "3X1852/PH",
+          "confidence": 0.67,
+          "bbox": [
+            267,
+            908,
+            363,
+            924
+          ]
+        },
+        {
+          "text": "DEPART",
+          "confidence": 0.91,
+          "bbox": [
+            604,
+            909,
+            685,
+            924
+          ]
+        },
+        {
+          "text": "Section",
+          "confidence": 0.93,
+          "bbox": [
+            724,
+            908,
+            788,
+            924
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            797,
+            912,
+            799,
+            923
+          ]
+        },
+        {
+          "text": "70?",
+          "confidence": 0.9,
+          "bbox": [
+            807,
+            908,
+            835,
+            924
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 0.92,
+          "bbox": [
+            842,
+            908,
+            866,
+            923
+          ]
+        },
+        {
+          "text": "952",
+          "confidence": 0.81,
+          "bbox": [
+            872,
+            908,
+            900,
+            924
+          ]
+        },
+        {
+          "text": "Bas",
+          "confidence": 0.96,
+          "bbox": [
+            184,
+            933,
+            217,
+            949
+          ]
+        },
+        {
+          "text": "direct",
+          "confidence": 0.95,
+          "bbox": [
+            223,
+            933,
+            271,
+            949
+          ]
+        },
+        {
+          "text": "Bas",
+          "confidence": 0.96,
+          "bbox": [
+            724,
+            933,
+            757,
+            949
+          ]
+        },
+        {
+          "text": "direct",
+          "confidence": 0.95,
+          "bbox": [
+            763,
+            933,
+            811,
+            949
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            1649,
+            252,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1648,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            646,
+            1648,
+            869,
+            1666
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 294,
+      "words": [
+        {
+          "text": "ARMOIRES",
+          "confidence": 0.9,
+          "bbox": [
+            380,
+            169,
+            550,
+            186
+          ]
+        },
+        {
+          "text": "ELECTRIQUES",
+          "confidence": 0.95,
+          "bbox": [
+            579,
+            169,
+            808,
+            186
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            663,
+            221,
+            744,
+            240
+          ]
+        },
+        {
+          "text": "Element",
+          "confidence": 0.68,
+          "bbox": [
+            73,
+            247,
+            187,
+            270
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            199,
+            253,
+            204,
+            269
+          ]
+        },
+        {
+          "text": "MP_2507100",
+          "confidence": 0.49,
+          "bbox": [
+            63,
+            285,
+            264,
+            313
+          ]
+        },
+        {
+          "text": "19752",
+          "confidence": 0.92,
+          "bbox": [
+            270,
+            285,
+            335,
+            308
+          ]
+        },
+        {
+          "text": "Réference",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            321,
+            215,
+            345
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            228,
+            328,
+            232,
+            344
+          ]
+        },
+        {
+          "text": "DP2503358",
+          "confidence": 0.92,
+          "bbox": [
+            245,
+            322,
+            400,
+            345
+          ]
+        },
+        {
+          "text": "TGPV",
+          "confidence": 0.9,
+          "bbox": [
+            663,
+            252,
+            760,
+            280
+          ]
+        },
+        {
+          "text": "Nomenclature",
+          "confidence": 0.95,
+          "bbox": [
+            470,
+            396,
+            666,
+            420
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.96,
+          "bbox": [
+            677,
+            402,
+            691,
+            419
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            702,
+            396,
+            717,
+            419
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            458,
+            95,
+            473
+          ]
+        },
+        {
+          "text": "[Référence",
+          "confidence": 0.83,
+          "bbox": [
+            115,
+            448,
+            217,
+            484
+          ]
+        },
+        {
+          "text": "[Pésignation",
+          "confidence": 0.77,
+          "bbox": [
+            335,
+            444,
+            454,
+            488
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.94,
+          "bbox": [
+            1079,
+            458,
+            1111,
+            474
+          ]
+        },
+        {
+          "text": "COFFRET",
+          "confidence": 0.95,
+          "bbox": [
+            548,
+            491,
+            642,
+            506
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.71,
+          "bbox": [
+            81,
+            524,
+            86,
+            539
+          ]
+        },
+        {
+          "text": "INSYPLM108G",
+          "confidence": 0.38,
+          "bbox": [
+            122,
+            524,
+            251,
+            539
+          ]
+        },
+        {
+          "text": "Thalassa",
+          "confidence": 0.93,
+          "bbox": [
+            341,
+            524,
+            422,
+            539
+          ]
+        },
+        {
+          "text": "PLM",
+          "confidence": 0.93,
+          "bbox": [
+            429,
+            524,
+            467,
+            539
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            475,
+            533,
+            480,
+            534
+          ]
+        },
+        {
+          "text": "coffret",
+          "confidence": 0.96,
+          "bbox": [
+            487,
+            524,
+            541,
+            539
+          ]
+        },
+        {
+          "text": "polyester",
+          "confidence": 0.93,
+          "bbox": [
+            549,
+            524,
+            628,
+            543
+          ]
+        },
+        {
+          "text": "1056x852x350",
+          "confidence": 0.92,
+          "bbox": [
+            636,
+            524,
+            764,
+            539
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            772,
+            533,
+            777,
+            534
+          ]
+        },
+        {
+          "text": "IP66",
+          "confidence": 0.91,
+          "bbox": [
+            785,
+            524,
+            824,
+            539
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            524,
+            1096,
+            539
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.88,
+          "bbox": [
+            80,
+            558,
+            89,
+            572
+          ]
+        },
+        {
+          "text": "[JNSYMM108",
+          "confidence": 0.09,
+          "bbox": [
+            122,
+            557,
+            228,
+            572
+          ]
+        },
+        {
+          "text": "CHAS.PLEIN",
+          "confidence": 0.9,
+          "bbox": [
+            342,
+            557,
+            458,
+            572
+          ]
+        },
+        {
+          "text": "METAL.1000X800",
+          "confidence": 0.91,
+          "bbox": [
+            467,
+            557,
+            628,
+            572
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            557,
+            1096,
+            572
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.84,
+          "bbox": [
+            80,
+            591,
+            89,
+            605
+          ]
+        },
+        {
+          "text": "INSYPFPLMG",
+          "confidence": 0.42,
+          "bbox": [
+            122,
+            590,
+            243,
+            605
+          ]
+        },
+        {
+          "text": "ENS.4FIX",
+          "confidence": 0.83,
+          "bbox": [
+            342,
+            590,
+            429,
+            605
+          ]
+        },
+        {
+          "text": "MUR.POL-PLM3025",
+          "confidence": 0.9,
+          "bbox": [
+            437,
+            590,
+            618,
+            605
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            590,
+            1096,
+            605
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.74,
+          "bbox": [
+            80,
+            624,
+            90,
+            638
+          ]
+        },
+        {
+          "text": "[NSYCAG38LP",
+          "confidence": 0.3,
+          "bbox": [
+            122,
+            623,
+            251,
+            638
+          ]
+        },
+        {
+          "text": "ClimaSys",
+          "confidence": 0.92,
+          "bbox": [
+            342,
+            623,
+            424,
+            642
+          ]
+        },
+        {
+          "text": "CA",
+          "confidence": 0.93,
+          "bbox": [
+            432,
+            623,
+            458,
+            638
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            465,
+            632,
+            470,
+            633
+          ]
+        },
+        {
+          "text": "ouïes",
+          "confidence": 0.91,
+          "bbox": [
+            477,
+            624,
+            524,
+            638
+          ]
+        },
+        {
+          "text": "aération",
+          "confidence": 0.93,
+          "bbox": [
+            532,
+            623,
+            602,
+            638
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            609,
+            632,
+            614,
+            633
+          ]
+        },
+        {
+          "text": "plastique",
+          "confidence": 0.93,
+          "bbox": [
+            622,
+            623,
+            700,
+            642
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            707,
+            632,
+            712,
+            633
+          ]
+        },
+        {
+          "text": "découpe",
+          "confidence": 0.93,
+          "bbox": [
+            719,
+            623,
+            795,
+            642
+          ]
+        },
+        {
+          "text": "D38mm",
+          "confidence": 0.08,
+          "bbox": [
+            802,
+            623,
+            871,
+            638
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            623,
+            1096,
+            638
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.83,
+          "bbox": [
+            80,
+            657,
+            90,
+            671
+          ]
+        },
+        {
+          "text": "|LVS08963",
+          "confidence": 0.34,
+          "bbox": [
+            122,
+            656,
+            213,
+            671
+          ]
+        },
+        {
+          "text": "PrismaSeT",
+          "confidence": 0.92,
+          "bbox": [
+            342,
+            656,
+            439,
+            671
+          ]
+        },
+        {
+          "text": "G",
+          "confidence": 0.91,
+          "bbox": [
+            446,
+            656,
+            460,
+            671
+          ]
+        },
+        {
+          "text": "Active",
+          "confidence": 0.93,
+          "bbox": [
+            467,
+            656,
+            520,
+            671
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            527,
+            665,
+            532,
+            666
+          ]
+        },
+        {
+          "text": "Pochette",
+          "confidence": 0.96,
+          "bbox": [
+            540,
+            656,
+            617,
+            671
+          ]
+        },
+        {
+          "text": "porte",
+          "confidence": 0.96,
+          "bbox": [
+            624,
+            658,
+            668,
+            675
+          ]
+        },
+        {
+          "text": "plans",
+          "confidence": 0.93,
+          "bbox": [
+            675,
+            656,
+            721,
+            675
+          ]
+        },
+        {
+          "text": "autocollante",
+          "confidence": 0.92,
+          "bbox": [
+            728,
+            656,
+            835,
+            671
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            656,
+            1096,
+            671
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 0.92,
+          "bbox": [
+            80,
+            690,
+            90,
+            704
+          ]
+        },
+        {
+          "text": "|PRESSE",
+          "confidence": 0.3,
+          "bbox": [
+            109,
+            685,
+            200,
+            712
+          ]
+        },
+        {
+          "text": "ETOUPE_",
+          "confidence": 0.3,
+          "bbox": [
+            213,
+            685,
+            299,
+            712
+          ]
+        },
+        {
+          "text": "29",
+          "confidence": 0.96,
+          "bbox": [
+            303,
+            690,
+            324,
+            708
+          ]
+        },
+        {
+          "text": "[Presse",
+          "confidence": 0.0,
+          "bbox": [
+            342,
+            689,
+            402,
+            704
+          ]
+        },
+        {
+          "text": "étoupe",
+          "confidence": 0.9,
+          "bbox": [
+            409,
+            689,
+            469,
+            708
+          ]
+        },
+        {
+          "text": "PG29",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            689,
+            525,
+            704
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.92,
+          "bbox": [
+            533,
+            695,
+            543,
+            704
+          ]
+        },
+        {
+          "text": "contre-écrou",
+          "confidence": 0.91,
+          "bbox": [
+            550,
+            689,
+            660,
+            704
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.96,
+          "bbox": [
+            1086,
+            690,
+            1105,
+            704
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.87,
+          "bbox": [
+            80,
+            723,
+            90,
+            737
+          ]
+        },
+        {
+          "text": "[PRESSE",
+          "confidence": 0.55,
+          "bbox": [
+            122,
+            722,
+            325,
+            741
+          ]
+        },
+        {
+          "text": "_",
+          "confidence": 0.15,
+          "bbox": [
+            206,
+            718,
+            209,
+            745
+          ]
+        },
+        {
+          "text": "ETOUPE",
+          "confidence": 0.15,
+          "bbox": [
+            213,
+            722,
+            290,
+            741
+          ]
+        },
+        {
+          "text": "21",
+          "confidence": 0.29,
+          "bbox": [
+            301,
+            718,
+            324,
+            745
+          ]
+        },
+        {
+          "text": "[Presse",
+          "confidence": 0.41,
+          "bbox": [
+            342,
+            722,
+            402,
+            737
+          ]
+        },
+        {
+          "text": "étoupe",
+          "confidence": 0.91,
+          "bbox": [
+            409,
+            722,
+            469,
+            741
+          ]
+        },
+        {
+          "text": "PG21",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            722,
+            522,
+            737
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.93,
+          "bbox": [
+            533,
+            728,
+            543,
+            737
+          ]
+        },
+        {
+          "text": "contre-écrou",
+          "confidence": 0.91,
+          "bbox": [
+            550,
+            722,
+            660,
+            737
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            723,
+            1100,
+            737
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.92,
+          "bbox": [
+            80,
+            756,
+            90,
+            770
+          ]
+        },
+        {
+          "text": "|PRESSE_",
+          "confidence": 0.33,
+          "bbox": [
+            109,
+            751,
+            207,
+            778
+          ]
+        },
+        {
+          "text": "ETOUPE_13",
+          "confidence": 0.33,
+          "bbox": [
+            213,
+            755,
+            324,
+            774
+          ]
+        },
+        {
+          "text": "[Presse",
+          "confidence": 0.59,
+          "bbox": [
+            342,
+            755,
+            402,
+            770
+          ]
+        },
+        {
+          "text": "étoupe",
+          "confidence": 0.92,
+          "bbox": [
+            409,
+            755,
+            469,
+            774
+          ]
+        },
+        {
+          "text": "PG13",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            755,
+            525,
+            770
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.93,
+          "bbox": [
+            533,
+            761,
+            543,
+            770
+          ]
+        },
+        {
+          "text": "contre-écrou",
+          "confidence": 0.91,
+          "bbox": [
+            550,
+            755,
+            660,
+            770
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            756,
+            1099,
+            770
+          ]
+        },
+        {
+          "text": "INTER",
+          "confidence": 0.96,
+          "bbox": [
+            480,
+            788,
+            538,
+            803
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 0.93,
+          "bbox": [
+            546,
+            788,
+            570,
+            803
+          ]
+        },
+        {
+          "text": "REPARTITION",
+          "confidence": 0.9,
+          "bbox": [
+            577,
+            788,
+            710,
+            803
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.89,
+          "bbox": [
+            80,
+            822,
+            89,
+            836
+          ]
+        },
+        {
+          "text": "|C404400S",
+          "confidence": 0.74,
+          "bbox": [
+            122,
+            821,
+            214,
+            836
+          ]
+        },
+        {
+          "text": "ComPacT",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            821,
+            429,
+            836
+          ]
+        },
+        {
+          "text": "NSX400NA",
+          "confidence": 0.89,
+          "bbox": [
+            437,
+            821,
+            537,
+            836
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            538,
+            817,
+            545,
+            844
+          ]
+        },
+        {
+          "text": "interrupteur",
+          "confidence": 0.93,
+          "bbox": [
+            556,
+            821,
+            657,
+            840
+          ]
+        },
+        {
+          "text": "sectionneur",
+          "confidence": 0.91,
+          "bbox": [
+            664,
+            821,
+            766,
+            836
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            773,
+            830,
+            778,
+            831
+          ]
+        },
+        {
+          "text": "400A",
+          "confidence": 0.92,
+          "bbox": [
+            785,
+            821,
+            830,
+            836
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            837,
+            830,
+            842,
+            831
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.76,
+          "bbox": [
+            849,
+            821,
+            872,
+            836
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            821,
+            1096,
+            836
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 0.9,
+          "bbox": [
+            76,
+            855,
+            95,
+            869
+          ]
+        },
+        {
+          "text": "|LV429387",
+          "confidence": 0.66,
+          "bbox": [
+            122,
+            854,
+            211,
+            869
+          ]
+        },
+        {
+          "text": "BOBINE",
+          "confidence": 0.96,
+          "bbox": [
+            342,
+            854,
+            415,
+            869
+          ]
+        },
+        {
+          "text": "MX",
+          "confidence": 0.92,
+          "bbox": [
+            423,
+            854,
+            451,
+            869
+          ]
+        },
+        {
+          "text": "220-240V",
+          "confidence": 0.92,
+          "bbox": [
+            458,
+            854,
+            543,
+            869
+          ]
+        },
+        {
+          "text": "50",
+          "confidence": 0.96,
+          "bbox": [
+            551,
+            855,
+            571,
+            869
+          ]
+        },
+        {
+          "text": "60H",
+          "confidence": 0.96,
+          "bbox": [
+            578,
+            854,
+            613,
+            869
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            854,
+            1096,
+            869
+          ]
+        },
+        {
+          "text": "11",
+          "confidence": 0.95,
+          "bbox": [
+            76,
+            888,
+            92,
+            902
+          ]
+        },
+        {
+          "text": "[29450",
+          "confidence": 0.28,
+          "bbox": [
+            121,
+            887,
+            175,
+            902
+          ]
+        },
+        {
+          "text": "contact",
+          "confidence": 0.96,
+          "bbox": [
+            341,
+            889,
+            405,
+            902
+          ]
+        },
+        {
+          "text": "auxiliaire",
+          "confidence": 0.94,
+          "bbox": [
+            412,
+            887,
+            489,
+            902
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.93,
+          "bbox": [
+            497,
+            887,
+            502,
+            902
+          ]
+        },
+        {
+          "text": "OF",
+          "confidence": 0.95,
+          "bbox": [
+            513,
+            887,
+            539,
+            902
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.95,
+          "bbox": [
+            546,
+            891,
+            566,
+            902
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.96,
+          "bbox": [
+            575,
+            888,
+            580,
+            902
+          ]
+        },
+        {
+          "text": "SD",
+          "confidence": 0.96,
+          "bbox": [
+            591,
+            887,
+            616,
+            902
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.96,
+          "bbox": [
+            624,
+            891,
+            644,
+            902
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.93,
+          "bbox": [
+            653,
+            888,
+            658,
+            902
+          ]
+        },
+        {
+          "text": "SDE",
+          "confidence": 0.92,
+          "bbox": [
+            669,
+            887,
+            708,
+            902
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.95,
+          "bbox": [
+            715,
+            891,
+            735,
+            902
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            744,
+            888,
+            749,
+            902
+          ]
+        },
+        {
+          "text": "SDV",
+          "confidence": 0.92,
+          "bbox": [
+            760,
+            887,
+            799,
+            902
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.89,
+          "bbox": [
+            1091,
+            887,
+            1096,
+            902
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.86,
+          "bbox": [
+            76,
+            921,
+            95,
+            935
+          ]
+        },
+        {
+          "text": "|LV432491",
+          "confidence": 0.39,
+          "bbox": [
+            122,
+            920,
+            208,
+            935
+          ]
+        },
+        {
+          "text": "EPANOUISSEUR",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            920,
+            499,
+            935
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.92,
+          "bbox": [
+            506,
+            920,
+            529,
+            935
+          ]
+        },
+        {
+          "text": "(52,5MM)",
+          "confidence": 0.91,
+          "bbox": [
+            537,
+            920,
+            619,
+            939
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            920,
+            1096,
+            935
+          ]
+        },
+        {
+          "text": "13",
+          "confidence": 0.84,
+          "bbox": [
+            76,
+            954,
+            95,
+            968
+          ]
+        },
+        {
+          "text": "[LV432504",
+          "confidence": 0.39,
+          "bbox": [
+            122,
+            953,
+            211,
+            968
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.93,
+          "bbox": [
+            343,
+            954,
+            348,
+            968
+          ]
+        },
+        {
+          "text": "CACHE",
+          "confidence": 0.93,
+          "bbox": [
+            358,
+            953,
+            426,
+            968
+          ]
+        },
+        {
+          "text": "BORNES",
+          "confidence": 0.92,
+          "bbox": [
+            435,
+            953,
+            516,
+            968
+          ]
+        },
+        {
+          "text": "LONG",
+          "confidence": 0.93,
+          "bbox": [
+            525,
+            953,
+            578,
+            968
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.93,
+          "bbox": [
+            586,
+            953,
+            609,
+            968
+          ]
+        },
+        {
+          "text": "ACCESSOIRE",
+          "confidence": 0.93,
+          "bbox": [
+            616,
+            953,
+            745,
+            968
+          ]
+        },
+        {
+          "text": "DISJONCTEUR",
+          "confidence": 0.91,
+          "bbox": [
+            754,
+            953,
+            893,
+            968
+          ]
+        },
+        {
+          "text": "NSX400/630",
+          "confidence": 0.41,
+          "bbox": [
+            901,
+            953,
+            1012,
+            968
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            1091,
+            953,
+            1096,
+            968
+          ]
+        },
+        {
+          "text": "INV/INS",
+          "confidence": 0.91,
+          "bbox": [
+            343,
+            978,
+            412,
+            993
+          ]
+        },
+        {
+          "text": "14",
+          "confidence": 0.81,
+          "bbox": [
+            76,
+            1011,
+            95,
+            1026
+          ]
+        },
+        {
+          "text": "[REP400N",
+          "confidence": 0.72,
+          "bbox": [
+            123,
+            1011,
+            208,
+            1026
+          ]
+        },
+        {
+          "text": "Plage",
+          "confidence": 0.96,
+          "bbox": [
+            342,
+            1011,
+            391,
+            1030
+          ]
+        },
+        {
+          "text": "cuivre",
+          "confidence": 0.93,
+          "bbox": [
+            398,
+            1011,
+            450,
+            1026
+          ]
+        },
+        {
+          "text": "400A",
+          "confidence": 0.91,
+          "bbox": [
+            457,
+            1011,
+            503,
+            1026
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1012,
+            1100,
+            1026
+          ]
+        },
+        {
+          "text": "PLAGE",
+          "confidence": 0.96,
+          "bbox": [
+            456,
+            1044,
+            523,
+            1059
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 0.92,
+          "bbox": [
+            531,
+            1044,
+            556,
+            1059
+          ]
+        },
+        {
+          "text": "RACCORDEMENT",
+          "confidence": 0.9,
+          "bbox": [
+            564,
+            1044,
+            735,
+            1059
+          ]
+        },
+        {
+          "text": "15",
+          "confidence": 0.92,
+          "bbox": [
+            76,
+            1078,
+            95,
+            1092
+          ]
+        },
+        {
+          "text": "[BCUN_30X5",
+          "confidence": 0.73,
+          "bbox": [
+            122,
+            1077,
+            234,
+            1096
+          ]
+        },
+        {
+          "text": "BARRE",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            1077,
+            409,
+            1092
+          ]
+        },
+        {
+          "text": "CUIVRE",
+          "confidence": 0.91,
+          "bbox": [
+            416,
+            1077,
+            490,
+            1092
+          ]
+        },
+        {
+          "text": "NU",
+          "confidence": 0.92,
+          "bbox": [
+            498,
+            1077,
+            524,
+            1092
+          ]
+        },
+        {
+          "text": "30X5",
+          "confidence": 0.9,
+          "bbox": [
+            531,
+            1077,
+            577,
+            1092
+          ]
+        },
+        {
+          "text": "(1M)",
+          "confidence": 0.9,
+          "bbox": [
+            584,
+            1077,
+            623,
+            1096
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1078,
+            1099,
+            1092
+          ]
+        },
+        {
+          "text": "16",
+          "confidence": 0.95,
+          "bbox": [
+            76,
+            1111,
+            95,
+            1125
+          ]
+        },
+        {
+          "text": "[ISO",
+          "confidence": 0.0,
+          "bbox": [
+            110,
+            1106,
+            154,
+            1133
+          ]
+        },
+        {
+          "text": "630",
+          "confidence": 0.0,
+          "bbox": [
+            166,
+            1111,
+            199,
+            1129
+          ]
+        },
+        {
+          "text": "Isolateur",
+          "confidence": 0.91,
+          "bbox": [
+            343,
+            1110,
+            417,
+            1125
+          ]
+        },
+        {
+          "text": "30M",
+          "confidence": 0.92,
+          "bbox": [
+            424,
+            1110,
+            461,
+            1125
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 0.96,
+          "bbox": [
+            468,
+            1111,
+            478,
+            1125
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1111,
+            1100,
+            1125
+          ]
+        },
+        {
+          "text": "17",
+          "confidence": 0.89,
+          "bbox": [
+            76,
+            1144,
+            95,
+            1158
+          ]
+        },
+        {
+          "text": "[PLEXI",
+          "confidence": 0.55,
+          "bbox": [
+            122,
+            1143,
+            176,
+            1158
+          ]
+        },
+        {
+          "text": "PLEXI",
+          "confidence": 0.92,
+          "bbox": [
+            342,
+            1143,
+            396,
+            1158
+          ]
+        },
+        {
+          "text": "STANDARD",
+          "confidence": 0.95,
+          "bbox": [
+            404,
+            1143,
+            512,
+            1158
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            1143,
+            1096,
+            1158
+          ]
+        },
+        {
+          "text": "PROTECTION",
+          "confidence": 0.95,
+          "bbox": [
+            471,
+            1176,
+            600,
+            1191
+          ]
+        },
+        {
+          "text": "ONDULEUR",
+          "confidence": 0.95,
+          "bbox": [
+            607,
+            1176,
+            719,
+            1191
+          ]
+        },
+        {
+          "text": "18",
+          "confidence": 0.92,
+          "bbox": [
+            76,
+            1210,
+            95,
+            1224
+          ]
+        },
+        {
+          "text": "|C25B3",
+          "confidence": 0.81,
+          "bbox": [
+            122,
+            1209,
+            181,
+            1224
+          ]
+        },
+        {
+          "text": "ComPacT",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            1209,
+            429,
+            1224
+          ]
+        },
+        {
+          "text": "NSX250B",
+          "confidence": 0.84,
+          "bbox": [
+            437,
+            1209,
+            522,
+            1224
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            529,
+            1218,
+            534,
+            1219
+          ]
+        },
+        {
+          "text": "bloc",
+          "confidence": 0.95,
+          "bbox": [
+            542,
+            1209,
+            577,
+            1224
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            583,
+            1209,
+            604,
+            1224
+          ]
+        },
+        {
+          "text": "coupure",
+          "confidence": 0.95,
+          "bbox": [
+            611,
+            1213,
+            682,
+            1228
+          ]
+        },
+        {
+          "text": "sans",
+          "confidence": 0.96,
+          "bbox": [
+            689,
+            1213,
+            730,
+            1224
+          ]
+        },
+        {
+          "text": "déclencheur",
+          "confidence": 0.92,
+          "bbox": [
+            737,
+            1209,
+            845,
+            1224
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            852,
+            1218,
+            857,
+            1219
+          ]
+        },
+        {
+          "text": "250A",
+          "confidence": 0.91,
+          "bbox": [
+            864,
+            1209,
+            909,
+            1224
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            916,
+            1218,
+            921,
+            1219
+          ]
+        },
+        {
+          "text": "3P",
+          "confidence": 0.89,
+          "bbox": [
+            928,
+            1209,
+            951,
+            1224
+          ]
+        },
+        {
+          "text": "-25",
+          "confidence": 0.84,
+          "bbox": [
+            959,
+            1210,
+            991,
+            1224
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1210,
+            1099,
+            1224
+          ]
+        },
+        {
+          "text": "19",
+          "confidence": 0.92,
+          "bbox": [
+            76,
+            1243,
+            95,
+            1257
+          ]
+        },
+        {
+          "text": "|[C253TM200",
+          "confidence": 0.58,
+          "bbox": [
+            122,
+            1242,
+            230,
+            1257
+          ]
+        },
+        {
+          "text": "ComPacT",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            1242,
+            429,
+            1257
+          ]
+        },
+        {
+          "text": "NSX",
+          "confidence": 0.91,
+          "bbox": [
+            437,
+            1242,
+            476,
+            1257
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            483,
+            1251,
+            488,
+            1252
+          ]
+        },
+        {
+          "text": "déclencheur",
+          "confidence": 0.93,
+          "bbox": [
+            494,
+            1242,
+            603,
+            1257
+          ]
+        },
+        {
+          "text": "thermique-magnétique",
+          "confidence": 0.91,
+          "bbox": [
+            609,
+            1242,
+            808,
+            1261
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            815,
+            1251,
+            820,
+            1252
+          ]
+        },
+        {
+          "text": "TM-D",
+          "confidence": 0.9,
+          "bbox": [
+            827,
+            1242,
+            875,
+            1257
+          ]
+        },
+        {
+          "text": "200A",
+          "confidence": 0.9,
+          "bbox": [
+            883,
+            1242,
+            928,
+            1257
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.9,
+          "bbox": [
+            935,
+            1251,
+            940,
+            1252
+          ]
+        },
+        {
+          "text": "3P3D",
+          "confidence": 0.92,
+          "bbox": [
+            947,
+            1242,
+            995,
+            1257
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1243,
+            1099,
+            1257
+          ]
+        },
+        {
+          "text": "20",
+          "confidence": 0.91,
+          "bbox": [
+            74,
+            1276,
+            95,
+            1290
+          ]
+        },
+        {
+          "text": "[LV429517",
+          "confidence": 0.24,
+          "bbox": [
+            122,
+            1275,
+            211,
+            1290
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.96,
+          "bbox": [
+            343,
+            1276,
+            348,
+            1290
+          ]
+        },
+        {
+          "text": "CACHE",
+          "confidence": 0.92,
+          "bbox": [
+            358,
+            1275,
+            426,
+            1290
+          ]
+        },
+        {
+          "text": "BORNES",
+          "confidence": 0.91,
+          "bbox": [
+            435,
+            1275,
+            516,
+            1290
+          ]
+        },
+        {
+          "text": "LONG",
+          "confidence": 0.93,
+          "bbox": [
+            525,
+            1275,
+            578,
+            1290
+          ]
+        },
+        {
+          "text": "3P",
+          "confidence": 0.93,
+          "bbox": [
+            586,
+            1275,
+            609,
+            1290
+          ]
+        },
+        {
+          "text": "ACCESSOIRE",
+          "confidence": 0.92,
+          "bbox": [
+            616,
+            1275,
+            745,
+            1290
+          ]
+        },
+        {
+          "text": "DISJONCTEUR",
+          "confidence": 0.89,
+          "bbox": [
+            754,
+            1275,
+            893,
+            1290
+          ]
+        },
+        {
+          "text": "NSX100-250",
+          "confidence": 0.91,
+          "bbox": [
+            901,
+            1275,
+            1013,
+            1290
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1276,
+            1100,
+            1290
+          ]
+        },
+        {
+          "text": "PROTECTION",
+          "confidence": 0.93,
+          "bbox": [
+            497,
+            1308,
+            626,
+            1323
+          ]
+        },
+        {
+          "text": "DIVER",
+          "confidence": 0.91,
+          "bbox": [
+            634,
+            1308,
+            693,
+            1323
+          ]
+        },
+        {
+          "text": "21",
+          "confidence": 0.91,
+          "bbox": [
+            74,
+            1342,
+            92,
+            1356
+          ]
+        },
+        {
+          "text": "|[A9P24620",
+          "confidence": 0.4,
+          "bbox": [
+            121,
+            1341,
+            213,
+            1356
+          ]
+        },
+        {
+          "text": "Acti9",
+          "confidence": 0.9,
+          "bbox": [
+            341,
+            1341,
+            384,
+            1356
+          ]
+        },
+        {
+          "text": "iIDT4ON",
+          "confidence": 0.6,
+          "bbox": [
+            392,
+            1341,
+            457,
+            1356
+          ]
+        },
+        {
+          "text": "disjoncteur",
+          "confidence": 0.92,
+          "bbox": [
+            464,
+            1341,
+            560,
+            1360
+          ]
+        },
+        {
+          "text": "mod",
+          "confidence": 0.92,
+          "bbox": [
+            568,
+            1341,
+            604,
+            1356
+          ]
+        },
+        {
+          "text": "1P+N",
+          "confidence": 0.88,
+          "bbox": [
+            613,
+            1341,
+            660,
+            1356
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 0.92,
+          "bbox": [
+            668,
+            1341,
+            680,
+            1356
+          ]
+        },
+        {
+          "text": "20A",
+          "confidence": 0.91,
+          "bbox": [
+            688,
+            1341,
+            722,
+            1356
+          ]
+        },
+        {
+          "text": "6000A/10kA",
+          "confidence": 0.75,
+          "bbox": [
+            729,
+            1341,
+            837,
+            1356
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            1341,
+            1096,
+            1356
+          ]
+        },
+        {
+          "text": "22",
+          "confidence": 0.91,
+          "bbox": [
+            74,
+            1375,
+            95,
+            1389
+          ]
+        },
+        {
+          "text": "|A9Y62625",
+          "confidence": 0.73,
+          "bbox": [
+            121,
+            1374,
+            213,
+            1389
+          ]
+        },
+        {
+          "text": "Acti9",
+          "confidence": 0.9,
+          "bbox": [
+            341,
+            1374,
+            384,
+            1389
+          ]
+        },
+        {
+          "text": "iIDT40",
+          "confidence": 0.56,
+          "bbox": [
+            392,
+            1374,
+            443,
+            1389
+          ]
+        },
+        {
+          "text": "module",
+          "confidence": 0.95,
+          "bbox": [
+            451,
+            1374,
+            514,
+            1389
+          ]
+        },
+        {
+          "text": "diff",
+          "confidence": 0.93,
+          "bbox": [
+            521,
+            1374,
+            547,
+            1389
+          ]
+        },
+        {
+          "text": "Vigi",
+          "confidence": 0.93,
+          "bbox": [
+            554,
+            1374,
+            585,
+            1393
+          ]
+        },
+        {
+          "text": "départ",
+          "confidence": 0.92,
+          "bbox": [
+            592,
+            1374,
+            648,
+            1393
+          ]
+        },
+        {
+          "text": "iIDT40",
+          "confidence": 0.53,
+          "bbox": [
+            655,
+            1374,
+            707,
+            1389
+          ]
+        },
+        {
+          "text": "1P+N",
+          "confidence": 0.84,
+          "bbox": [
+            715,
+            1374,
+            762,
+            1389
+          ]
+        },
+        {
+          "text": "25A",
+          "confidence": 0.89,
+          "bbox": [
+            770,
+            1374,
+            804,
+            1389
+          ]
+        },
+        {
+          "text": "30mA",
+          "confidence": 0.89,
+          "bbox": [
+            811,
+            1374,
+            862,
+            1389
+          ]
+        },
+        {
+          "text": "type",
+          "confidence": 0.96,
+          "bbox": [
+            869,
+            1376,
+            905,
+            1393
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.95,
+          "bbox": [
+            912,
+            1374,
+            938,
+            1389
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            1374,
+            1096,
+            1389
+          ]
+        },
+        {
+          "text": "23",
+          "confidence": 0.93,
+          "bbox": [
+            74,
+            1408,
+            95,
+            1422
+          ]
+        },
+        {
+          "text": "|A9P24616",
+          "confidence": 0.39,
+          "bbox": [
+            121,
+            1407,
+            213,
+            1422
+          ]
+        },
+        {
+          "text": "Acti9",
+          "confidence": 0.89,
+          "bbox": [
+            341,
+            1407,
+            384,
+            1422
+          ]
+        },
+        {
+          "text": "iIDT4ON",
+          "confidence": 0.61,
+          "bbox": [
+            392,
+            1407,
+            457,
+            1422
+          ]
+        },
+        {
+          "text": "disjoncteur",
+          "confidence": 0.92,
+          "bbox": [
+            464,
+            1407,
+            560,
+            1426
+          ]
+        },
+        {
+          "text": "mod",
+          "confidence": 0.93,
+          "bbox": [
+            568,
+            1407,
+            604,
+            1422
+          ]
+        },
+        {
+          "text": "1P+N",
+          "confidence": 0.88,
+          "bbox": [
+            613,
+            1407,
+            660,
+            1422
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 0.92,
+          "bbox": [
+            668,
+            1407,
+            680,
+            1422
+          ]
+        },
+        {
+          "text": "16A",
+          "confidence": 0.92,
+          "bbox": [
+            689,
+            1407,
+            722,
+            1422
+          ]
+        },
+        {
+          "text": "6000A/10kA",
+          "confidence": 0.76,
+          "bbox": [
+            729,
+            1407,
+            837,
+            1422
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            1407,
+            1096,
+            1422
+          ]
+        },
+        {
+          "text": "24",
+          "confidence": 0.87,
+          "bbox": [
+            74,
+            1440,
+            95,
+            1455
+          ]
+        },
+        {
+          "text": "|A9P24602",
+          "confidence": 0.68,
+          "bbox": [
+            121,
+            1440,
+            213,
+            1455
+          ]
+        },
+        {
+          "text": "Acti9",
+          "confidence": 0.9,
+          "bbox": [
+            341,
+            1440,
+            384,
+            1455
+          ]
+        },
+        {
+          "text": "iIDT4ON",
+          "confidence": 0.56,
+          "bbox": [
+            392,
+            1440,
+            457,
+            1455
+          ]
+        },
+        {
+          "text": "disjoncteur",
+          "confidence": 0.92,
+          "bbox": [
+            464,
+            1440,
+            560,
+            1459
+          ]
+        },
+        {
+          "text": "mod",
+          "confidence": 0.92,
+          "bbox": [
+            568,
+            1440,
+            604,
+            1455
+          ]
+        },
+        {
+          "text": "1P+N",
+          "confidence": 0.9,
+          "bbox": [
+            613,
+            1440,
+            660,
+            1455
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 0.92,
+          "bbox": [
+            668,
+            1440,
+            680,
+            1455
+          ]
+        },
+        {
+          "text": "2A",
+          "confidence": 0.92,
+          "bbox": [
+            688,
+            1440,
+            711,
+            1455
+          ]
+        },
+        {
+          "text": "6000A/10KkA",
+          "confidence": 0.43,
+          "bbox": [
+            718,
+            1440,
+            825,
+            1455
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            1440,
+            1096,
+            1455
+          ]
+        },
+        {
+          "text": "DIVERS",
+          "confidence": 0.96,
+          "bbox": [
+            559,
+            1473,
+            631,
+            1488
+          ]
+        },
+        {
+          "text": "25",
+          "confidence": 0.89,
+          "bbox": [
+            74,
+            1507,
+            95,
+            1521
+          ]
+        },
+        {
+          "text": "|A9A15306E",
+          "confidence": 0.68,
+          "bbox": [
+            121,
+            1506,
+            226,
+            1521
+          ]
+        },
+        {
+          "text": "Prise",
+          "confidence": 0.96,
+          "bbox": [
+            342,
+            1506,
+            386,
+            1521
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            392,
+            1506,
+            413,
+            1521
+          ]
+        },
+        {
+          "text": "courant",
+          "confidence": 0.96,
+          "bbox": [
+            420,
+            1508,
+            486,
+            1521
+          ]
+        },
+        {
+          "text": "modulaire",
+          "confidence": 0.93,
+          "bbox": [
+            493,
+            1506,
+            579,
+            1521
+          ]
+        },
+        {
+          "text": "16A",
+          "confidence": 0.9,
+          "bbox": [
+            587,
+            1506,
+            620,
+            1521
+          ]
+        },
+        {
+          "text": "2P+T",
+          "confidence": 0.91,
+          "bbox": [
+            627,
+            1506,
+            674,
+            1521
+          ]
+        },
+        {
+          "text": "standard",
+          "confidence": 0.96,
+          "bbox": [
+            681,
+            1506,
+            757,
+            1521
+          ]
+        },
+        {
+          "text": "français",
+          "confidence": 0.93,
+          "bbox": [
+            764,
+            1506,
+            833,
+            1525
+          ]
+        },
+        {
+          "text": "250V",
+          "confidence": 0.92,
+          "bbox": [
+            840,
+            1506,
+            885,
+            1521
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            1507,
+            1099,
+            1521
+          ]
+        },
+        {
+          "text": "417",
+          "confidence": 0.93,
+          "bbox": [
+            1059,
+            1632,
+            1093,
+            1645
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            1649,
+            251,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1649,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            647,
+            1648,
+            869,
+            1666
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 31,
+      "words": [
+        {
+          "text": "26",
+          "confidence": 0.91,
+          "bbox": [
+            74,
+            66,
+            95,
+            80
+          ]
+        },
+        {
+          "text": "|CIT821310234",
+          "confidence": 0.86,
+          "bbox": [
+            122,
+            65,
+            252,
+            81
+          ]
+        },
+        {
+          "text": "PARAFOUDRE",
+          "confidence": 0.91,
+          "bbox": [
+            342,
+            65,
+            479,
+            80
+          ]
+        },
+        {
+          "text": "TYPE",
+          "confidence": 0.95,
+          "bbox": [
+            486,
+            65,
+            536,
+            80
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.92,
+          "bbox": [
+            544,
+            66,
+            553,
+            80
+          ]
+        },
+        {
+          "text": "3P+N",
+          "confidence": 0.5,
+          "bbox": [
+            560,
+            65,
+            609,
+            80
+          ]
+        },
+        {
+          "text": "In",
+          "confidence": 0.93,
+          "bbox": [
+            618,
+            65,
+            631,
+            80
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            640,
+            69,
+            642,
+            80
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.93,
+          "bbox": [
+            650,
+            66,
+            660,
+            80
+          ]
+        },
+        {
+          "text": "KA/POLE",
+          "confidence": 0.82,
+          "bbox": [
+            667,
+            65,
+            747,
+            81
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            755,
+            74,
+            760,
+            75
+          ]
+        },
+        {
+          "text": "DACF15-31-275",
+          "confidence": 0.9,
+          "bbox": [
+            767,
+            65,
+            911,
+            81
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            918,
+            74,
+            923,
+            75
+          ]
+        },
+        {
+          "text": "SANS",
+          "confidence": 0.96,
+          "bbox": [
+            930,
+            65,
+            983,
+            80
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            1091,
+            65,
+            1096,
+            80
+          ]
+        },
+        {
+          "text": "TELESIGN",
+          "confidence": 0.82,
+          "bbox": [
+            341,
+            90,
+            438,
+            106
+          ]
+        },
+        {
+          "text": "27",
+          "confidence": 0.89,
+          "bbox": [
+            74,
+            124,
+            95,
+            138
+          ]
+        },
+        {
+          "text": "[XB5ASB8445",
+          "confidence": 0.23,
+          "bbox": [
+            121,
+            123,
+            229,
+            139
+          ]
+        },
+        {
+          "text": "ARRET",
+          "confidence": 0.94,
+          "bbox": [
+            341,
+            123,
+            408,
+            138
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.96,
+          "bbox": [
+            416,
+            123,
+            427,
+            138
+          ]
+        },
+        {
+          "text": "URGENCE",
+          "confidence": 0.95,
+          "bbox": [
+            436,
+            123,
+            533,
+            139
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.89,
+          "bbox": [
+            1091,
+            123,
+            1096,
+            138
+          ]
+        },
+        {
+          "text": "5/7",
+          "confidence": 0.96,
+          "bbox": [
+            1059,
+            1632,
+            1093,
+            1646
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            1649,
+            251,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1649,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            647,
+            1648,
+            869,
+            1666
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 117,
+      "words": [
+        {
+          "text": "ARMEL",
+          "confidence": 0.91,
+          "bbox": [
+            378,
+            69,
+            810,
+            187
+          ]
+        },
+        {
+          "text": "ARMOIRES",
+          "confidence": 0.89,
+          "bbox": [
+            379,
+            169,
+            551,
+            187
+          ]
+        },
+        {
+          "text": "ÉLECTRIQUES",
+          "confidence": 0.89,
+          "bbox": [
+            579,
+            164,
+            809,
+            187
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            663,
+            221,
+            745,
+            240
+          ]
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9,
+          "bbox": [
+            663,
+            252,
+            829,
+            280
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.96,
+          "bbox": [
+            841,
+            252,
+            889,
+            280
+          ]
+        },
+        {
+          "text": "Element",
+          "confidence": 0.68,
+          "bbox": [
+            73,
+            247,
+            187,
+            270
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            199,
+            253,
+            204,
+            269
+          ]
+        },
+        {
+          "text": "P_2507100",
+          "confidence": 0.9,
+          "bbox": [
+            85,
+            285,
+            265,
+            313
+          ]
+        },
+        {
+          "text": "19753",
+          "confidence": 0.96,
+          "bbox": [
+            270,
+            285,
+            335,
+            308
+          ]
+        },
+        {
+          "text": "Réference",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            321,
+            215,
+            345
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            228,
+            328,
+            233,
+            344
+          ]
+        },
+        {
+          "text": "DP2503358",
+          "confidence": 0.92,
+          "bbox": [
+            245,
+            322,
+            400,
+            345
+          ]
+        },
+        {
+          "text": "Adresse",
+          "confidence": 0.96,
+          "bbox": [
+            183,
+            413,
+            255,
+            429
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            262,
+            413,
+            283,
+            429
+          ]
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.93,
+          "bbox": [
+            290,
+            413,
+            361,
+            429
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            370,
+            417,
+            372,
+            428
+          ]
+        },
+        {
+          "text": "CARACTERISTIQUES",
+          "confidence": 0.9,
+          "bbox": [
+            80,
+            473,
+            398,
+            498
+          ]
+        },
+        {
+          "text": "ELECTRIQUES",
+          "confidence": 0.96,
+          "bbox": [
+            410,
+            473,
+            625,
+            498
+          ]
+        },
+        {
+          "text": "Tensions",
+          "confidence": 0.91,
+          "bbox": [
+            62,
+            522,
+            143,
+            538
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            151,
+            526,
+            153,
+            537
+          ]
+        },
+        {
+          "text": "400",
+          "confidence": 0.72,
+          "bbox": [
+            183,
+            522,
+            215,
+            538
+          ]
+        },
+        {
+          "text": "V",
+          "confidence": 0.9,
+          "bbox": [
+            222,
+            522,
+            234,
+            537
+          ]
+        },
+        {
+          "text": "In:",
+          "confidence": 0.91,
+          "bbox": [
+            280,
+            522,
+            305,
+            537
+          ]
+        },
+        {
+          "text": "200",
+          "confidence": 0.96,
+          "bbox": [
+            375,
+            522,
+            407,
+            538
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.71,
+          "bbox": [
+            414,
+            522,
+            426,
+            537
+          ]
+        },
+        {
+          "text": "IK3:",
+          "confidence": 0.44,
+          "bbox": [
+            928,
+            522,
+            966,
+            538
+          ]
+        },
+        {
+          "text": "JAUNE",
+          "confidence": 0.96,
+          "bbox": [
+            1006,
+            522,
+            1071,
+            538
+          ]
+        },
+        {
+          "text": "Régime",
+          "confidence": 0.95,
+          "bbox": [
+            64,
+            547,
+            131,
+            568
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            137,
+            547,
+            158,
+            563
+          ]
+        },
+        {
+          "text": "neutre",
+          "confidence": 0.93,
+          "bbox": [
+            166,
+            548,
+            221,
+            563
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.93,
+          "bbox": [
+            227,
+            547,
+            233,
+            563
+          ]
+        },
+        {
+          "text": "SLT",
+          "confidence": 0.93,
+          "bbox": [
+            239,
+            547,
+            285,
+            563
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            275,
+            543,
+            288,
+            572
+          ]
+        },
+        {
+          "text": "TT",
+          "confidence": 0.95,
+          "bbox": [
+            338,
+            547,
+            363,
+            562
+          ]
+        },
+        {
+          "text": "Fréquence",
+          "confidence": 0.93,
+          "bbox": [
+            496,
+            547,
+            589,
+            566
+          ]
+        },
+        {
+          "text": ":_50Hz",
+          "confidence": 0.77,
+          "bbox": [
+            598,
+            547,
+            660,
+            563
+          ]
+        },
+        {
+          "text": "TOLERIE",
+          "confidence": 0.9,
+          "bbox": [
+            79,
+            606,
+            211,
+            627
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.93,
+          "bbox": [
+            221,
+            606,
+            229,
+            627
+          ]
+        },
+        {
+          "text": "OPTIONS",
+          "confidence": 0.96,
+          "bbox": [
+            239,
+            606,
+            383,
+            627
+          ]
+        },
+        {
+          "text": "Type",
+          "confidence": 0.93,
+          "bbox": [
+            63,
+            662,
+            109,
+            682
+          ]
+        },
+        {
+          "text": "d'armoire",
+          "confidence": 0.9,
+          "bbox": [
+            115,
+            662,
+            205,
+            678
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            213,
+            666,
+            216,
+            677
+          ]
+        },
+        {
+          "text": "THALASSA",
+          "confidence": 0.88,
+          "bbox": [
+            238,
+            661,
+            343,
+            677
+          ]
+        },
+        {
+          "text": "Socle",
+          "confidence": 0.93,
+          "bbox": [
+            423,
+            662,
+            476,
+            678
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            484,
+            666,
+            487,
+            677
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.96,
+          "bbox": [
+            594,
+            661,
+            628,
+            677
+          ]
+        },
+        {
+          "text": "Etiquettes",
+          "confidence": 0.93,
+          "bbox": [
+            784,
+            662,
+            879,
+            682
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            887,
+            666,
+            890,
+            677
+          ]
+        },
+        {
+          "text": "Oui",
+          "confidence": 0.94,
+          "bbox": [
+            953,
+            661,
+            983,
+            677
+          ]
+        },
+        {
+          "text": "Hauteur",
+          "confidence": 0.93,
+          "bbox": [
+            64,
+            699,
+            138,
+            715
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            146,
+            703,
+            149,
+            714
+          ]
+        },
+        {
+          "text": "400",
+          "confidence": 0.96,
+          "bbox": [
+            239,
+            698,
+            271,
+            714
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.96,
+          "bbox": [
+            278,
+            702,
+            309,
+            713
+          ]
+        },
+        {
+          "text": "Largeur",
+          "confidence": 0.93,
+          "bbox": [
+            424,
+            699,
+            497,
+            719
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            505,
+            703,
+            508,
+            714
+          ]
+        },
+        {
+          "text": "300",
+          "confidence": 0.96,
+          "bbox": [
+            593,
+            698,
+            625,
+            714
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            633,
+            702,
+            664,
+            713
+          ]
+        },
+        {
+          "text": "Profondeur",
+          "confidence": 0.92,
+          "bbox": [
+            784,
+            699,
+            890,
+            715
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            898,
+            703,
+            901,
+            714
+          ]
+        },
+        {
+          "text": "200",
+          "confidence": 0.96,
+          "bbox": [
+            953,
+            698,
+            985,
+            714
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            993,
+            702,
+            1024,
+            713
+          ]
+        },
+        {
+          "text": "IP",
+          "confidence": 0.78,
+          "bbox": [
+            64,
+            736,
+            81,
+            751
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.82,
+          "bbox": [
+            89,
+            740,
+            93,
+            751
+          ]
+        },
+        {
+          "text": "65",
+          "confidence": 0.96,
+          "bbox": [
+            233,
+            735,
+            254,
+            751
+          ]
+        },
+        {
+          "text": "IS",
+          "confidence": 0.71,
+          "bbox": [
+            424,
+            736,
+            441,
+            752
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            449,
+            740,
+            453,
+            751
+          ]
+        },
+        {
+          "text": "Forme",
+          "confidence": 0.92,
+          "bbox": [
+            784,
+            736,
+            843,
+            752
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            852,
+            740,
+            855,
+            751
+          ]
+        },
+        {
+          "text": "Porte(s)",
+          "confidence": 0.92,
+          "bbox": [
+            64,
+            769,
+            137,
+            796
+          ]
+        },
+        {
+          "text": "OUI",
+          "confidence": 0.93,
+          "bbox": [
+            239,
+            772,
+            272,
+            788
+          ]
+        },
+        {
+          "text": "Porte(s)",
+          "confidence": 0.91,
+          "bbox": [
+            424,
+            773,
+            497,
+            792
+          ]
+        },
+        {
+          "text": "int.",
+          "confidence": 0.96,
+          "bbox": [
+            505,
+            773,
+            533,
+            789
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.96,
+          "bbox": [
+            594,
+            772,
+            628,
+            788
+          ]
+        },
+        {
+          "text": "Serrure",
+          "confidence": 0.95,
+          "bbox": [
+            783,
+            773,
+            853,
+            789
+          ]
+        },
+        {
+          "text": "Gaine(s)",
+          "confidence": 0.86,
+          "bbox": [
+            63,
+            806,
+            142,
+            833
+          ]
+        },
+        {
+          "text": "NON",
+          "confidence": 0.95,
+          "bbox": [
+            240,
+            809,
+            281,
+            825
+          ]
+        },
+        {
+          "text": "Patte",
+          "confidence": 0.95,
+          "bbox": [
+            424,
+            810,
+            471,
+            826
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            478,
+            810,
+            500,
+            826
+          ]
+        },
+        {
+          "text": "fix.",
+          "confidence": 0.96,
+          "bbox": [
+            506,
+            810,
+            534,
+            825
+          ]
+        },
+        {
+          "text": "Oui",
+          "confidence": 0.88,
+          "bbox": [
+            593,
+            805,
+            623,
+            832
+          ]
+        },
+        {
+          "text": "Anneaux",
+          "confidence": 0.93,
+          "bbox": [
+            783,
+            810,
+            867,
+            826
+          ]
+        },
+        {
+          "text": "lev.",
+          "confidence": 0.91,
+          "bbox": [
+            874,
+            810,
+            905,
+            826
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.96,
+          "bbox": [
+            954,
+            809,
+            988,
+            825
+          ]
+        },
+        {
+          "text": "Ventilation",
+          "confidence": 0.96,
+          "bbox": [
+            63,
+            843,
+            164,
+            872
+          ]
+        },
+        {
+          "text": "NON",
+          "confidence": 0.96,
+          "bbox": [
+            240,
+            846,
+            281,
+            862
+          ]
+        },
+        {
+          "text": "Porte",
+          "confidence": 0.96,
+          "bbox": [
+            424,
+            847,
+            473,
+            863
+          ]
+        },
+        {
+          "text": "plan",
+          "confidence": 0.96,
+          "bbox": [
+            480,
+            847,
+            519,
+            867
+          ]
+        },
+        {
+          "text": "Oui",
+          "confidence": 0.94,
+          "bbox": [
+            593,
+            842,
+            623,
+            871
+          ]
+        },
+        {
+          "text": "Passe-câbles",
+          "confidence": 0.91,
+          "bbox": [
+            784,
+            843,
+            909,
+            872
+          ]
+        },
+        {
+          "text": "PE/PERCÉ",
+          "confidence": 0.9,
+          "bbox": [
+            954,
+            842,
+            1053,
+            870
+          ]
+        },
+        {
+          "text": "MONTÉE",
+          "confidence": 0.01,
+          "bbox": [
+            954,
+            871,
+            1024,
+            887
+          ]
+        },
+        {
+          "text": "ARRIVE",
+          "confidence": 0.9,
+          "bbox": [
+            63,
+            904,
+            138,
+            934
+          ]
+        },
+        {
+          "text": "Section",
+          "confidence": 0.93,
+          "bbox": [
+            184,
+            908,
+            248,
+            924
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            257,
+            912,
+            259,
+            923
+          ]
+        },
+        {
+          "text": "70?",
+          "confidence": 0.83,
+          "bbox": [
+            267,
+            908,
+            295,
+            924
+          ]
+        },
+        {
+          "text": "OU",
+          "confidence": 0.71,
+          "bbox": [
+            301,
+            908,
+            329,
+            924
+          ]
+        },
+        {
+          "text": "95?",
+          "confidence": 0.93,
+          "bbox": [
+            337,
+            908,
+            365,
+            924
+          ]
+        },
+        {
+          "text": "DEPART",
+          "confidence": 0.9,
+          "bbox": [
+            604,
+            909,
+            685,
+            924
+          ]
+        },
+        {
+          "text": "Section",
+          "confidence": 0.93,
+          "bbox": [
+            724,
+            908,
+            788,
+            924
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            797,
+            912,
+            799,
+            923
+          ]
+        },
+        {
+          "text": "70?",
+          "confidence": 0.92,
+          "bbox": [
+            807,
+            908,
+            835,
+            924
+          ]
+        },
+        {
+          "text": "OÙ",
+          "confidence": 0.85,
+          "bbox": [
+            841,
+            908,
+            869,
+            924
+          ]
+        },
+        {
+          "text": "95?",
+          "confidence": 0.92,
+          "bbox": [
+            877,
+            908,
+            905,
+            924
+          ]
+        },
+        {
+          "text": "Bas",
+          "confidence": 0.96,
+          "bbox": [
+            184,
+            933,
+            217,
+            949
+          ]
+        },
+        {
+          "text": "direct",
+          "confidence": 0.95,
+          "bbox": [
+            223,
+            933,
+            271,
+            949
+          ]
+        },
+        {
+          "text": "Bas",
+          "confidence": 0.96,
+          "bbox": [
+            724,
+            933,
+            757,
+            949
+          ]
+        },
+        {
+          "text": "direct",
+          "confidence": 0.95,
+          "bbox": [
+            763,
+            933,
+            811,
+            949
+          ]
+        },
+        {
+          "text": "6/7",
+          "confidence": 0.91,
+          "bbox": [
+            1059,
+            1632,
+            1093,
+            1646
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            1649,
+            251,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1648,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            646,
+            1648,
+            869,
+            1666
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 91,
+      "words": [
+        {
+          "text": "ARMEL",
+          "confidence": 0.9,
+          "bbox": [
+            378,
+            69,
+            810,
+            148
+          ]
+        },
+        {
+          "text": "ARMOIRES",
+          "confidence": 0.91,
+          "bbox": [
+            379,
+            169,
+            550,
+            187
+          ]
+        },
+        {
+          "text": "ELECTRIQUES",
+          "confidence": 0.93,
+          "bbox": [
+            579,
+            169,
+            808,
+            187
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            663,
+            221,
+            744,
+            240
+          ]
+        },
+        {
+          "text": "Element",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            247,
+            187,
+            270
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            199,
+            253,
+            204,
+            269
+          ]
+        },
+        {
+          "text": "ARMOIRE",
+          "confidence": 0.9,
+          "bbox": [
+            663,
+            252,
+            829,
+            280
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.96,
+          "bbox": [
+            841,
+            252,
+            889,
+            280
+          ]
+        },
+        {
+          "text": "VP_2507100",
+          "confidence": 0.31,
+          "bbox": [
+            63,
+            285,
+            264,
+            313
+          ]
+        },
+        {
+          "text": "19753",
+          "confidence": 0.95,
+          "bbox": [
+            270,
+            285,
+            335,
+            308
+          ]
+        },
+        {
+          "text": "Réference",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            321,
+            215,
+            345
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            228,
+            328,
+            232,
+            344
+          ]
+        },
+        {
+          "text": "DP2503358",
+          "confidence": 0.92,
+          "bbox": [
+            245,
+            322,
+            400,
+            345
+          ]
+        },
+        {
+          "text": "Nomenclature",
+          "confidence": 0.96,
+          "bbox": [
+            470,
+            396,
+            666,
+            420
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.96,
+          "bbox": [
+            677,
+            402,
+            691,
+            419
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.96,
+          "bbox": [
+            702,
+            396,
+            718,
+            419
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            458,
+            95,
+            473
+          ]
+        },
+        {
+          "text": "[Référence",
+          "confidence": 0.83,
+          "bbox": [
+            115,
+            448,
+            217,
+            484
+          ]
+        },
+        {
+          "text": "[Pésignation",
+          "confidence": 0.77,
+          "bbox": [
+            335,
+            444,
+            454,
+            488
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.31,
+          "bbox": [
+            1055,
+            448,
+            1058,
+            484
+          ]
+        },
+        {
+          "text": "Qté",
+          "confidence": 0.94,
+          "bbox": [
+            1079,
+            458,
+            1111,
+            474
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.94,
+          "bbox": [
+            1136,
+            451,
+            1138,
+            481
+          ]
+        },
+        {
+          "text": "COFFRET",
+          "confidence": 0.96,
+          "bbox": [
+            548,
+            491,
+            642,
+            507
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            484,
+            1138,
+            514
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.67,
+          "bbox": [
+            81,
+            524,
+            86,
+            539
+          ]
+        },
+        {
+          "text": "[NSYPLM108G",
+          "confidence": 0.45,
+          "bbox": [
+            122,
+            524,
+            251,
+            540
+          ]
+        },
+        {
+          "text": "Thalassa",
+          "confidence": 0.93,
+          "bbox": [
+            341,
+            524,
+            422,
+            540
+          ]
+        },
+        {
+          "text": "PLM",
+          "confidence": 0.93,
+          "bbox": [
+            429,
+            524,
+            467,
+            539
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            475,
+            533,
+            480,
+            534
+          ]
+        },
+        {
+          "text": "coffret",
+          "confidence": 0.96,
+          "bbox": [
+            487,
+            524,
+            541,
+            540
+          ]
+        },
+        {
+          "text": "polyester",
+          "confidence": 0.92,
+          "bbox": [
+            548,
+            524,
+            629,
+            543
+          ]
+        },
+        {
+          "text": "1056x852x350",
+          "confidence": 0.9,
+          "bbox": [
+            636,
+            524,
+            764,
+            540
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            772,
+            533,
+            777,
+            534
+          ]
+        },
+        {
+          "text": "IP66",
+          "confidence": 0.82,
+          "bbox": [
+            785,
+            524,
+            824,
+            539
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            524,
+            1096,
+            539
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            517,
+            1138,
+            547
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.69,
+          "bbox": [
+            80,
+            558,
+            90,
+            572
+          ]
+        },
+        {
+          "text": "[NSYMM108",
+          "confidence": 0.44,
+          "bbox": [
+            122,
+            557,
+            228,
+            573
+          ]
+        },
+        {
+          "text": "CHAS.PLEIN",
+          "confidence": 0.9,
+          "bbox": [
+            342,
+            557,
+            458,
+            573
+          ]
+        },
+        {
+          "text": "METAL.1000X800",
+          "confidence": 0.91,
+          "bbox": [
+            467,
+            557,
+            628,
+            573
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            557,
+            1096,
+            572
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            550,
+            1138,
+            580
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.78,
+          "bbox": [
+            80,
+            590,
+            89,
+            606
+          ]
+        },
+        {
+          "text": "[NSYPFPLMG",
+          "confidence": 0.7,
+          "bbox": [
+            122,
+            590,
+            243,
+            606
+          ]
+        },
+        {
+          "text": "ENS.4FIX",
+          "confidence": 0.8,
+          "bbox": [
+            342,
+            590,
+            429,
+            606
+          ]
+        },
+        {
+          "text": "MUR.POL-PLM3025",
+          "confidence": 0.91,
+          "bbox": [
+            437,
+            590,
+            618,
+            606
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            590,
+            1096,
+            605
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            583,
+            1138,
+            613
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.76,
+          "bbox": [
+            80,
+            623,
+            90,
+            638
+          ]
+        },
+        {
+          "text": "|PRESSE_ETOUPE_21",
+          "confidence": 0.54,
+          "bbox": [
+            122,
+            623,
+            325,
+            642
+          ]
+        },
+        {
+          "text": "|Presse",
+          "confidence": 0.8,
+          "bbox": [
+            342,
+            623,
+            402,
+            639
+          ]
+        },
+        {
+          "text": "étoupe",
+          "confidence": 0.91,
+          "bbox": [
+            409,
+            623,
+            469,
+            642
+          ]
+        },
+        {
+          "text": "PG21",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            623,
+            522,
+            639
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.93,
+          "bbox": [
+            533,
+            628,
+            543,
+            638
+          ]
+        },
+        {
+          "text": "contre-écrou",
+          "confidence": 0.93,
+          "bbox": [
+            550,
+            623,
+            660,
+            639
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            1090,
+            623,
+            1100,
+            639
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            616,
+            1138,
+            646
+          ]
+        },
+        {
+          "text": "INTERRUPTEUR",
+          "confidence": 0.9,
+          "bbox": [
+            517,
+            656,
+            672,
+            672
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            649,
+            1138,
+            679
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.89,
+          "bbox": [
+            80,
+            690,
+            90,
+            704
+          ]
+        },
+        {
+          "text": "|31103",
+          "confidence": 0.65,
+          "bbox": [
+            121,
+            689,
+            175,
+            705
+          ]
+        },
+        {
+          "text": "interrupteursectionneur",
+          "confidence": 0.92,
+          "bbox": [
+            342,
+            689,
+            546,
+            708
+          ]
+        },
+        {
+          "text": "Interpact",
+          "confidence": 0.87,
+          "bbox": [
+            554,
+            689,
+            629,
+            708
+          ]
+        },
+        {
+          "text": "INS250",
+          "confidence": 0.9,
+          "bbox": [
+            637,
+            689,
+            701,
+            705
+          ]
+        },
+        {
+          "text": "4P",
+          "confidence": 0.93,
+          "bbox": [
+            708,
+            689,
+            731,
+            704
+          ]
+        },
+        {
+          "text": "200",
+          "confidence": 0.96,
+          "bbox": [
+            738,
+            689,
+            770,
+            704
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.76,
+          "bbox": [
+            777,
+            689,
+            789,
+            704
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.91,
+          "bbox": [
+            1091,
+            689,
+            1096,
+            704
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            682,
+            1138,
+            712
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 0.9,
+          "bbox": [
+            80,
+            723,
+            90,
+            737
+          ]
+        },
+        {
+          "text": "|LV431050",
+          "confidence": 0.57,
+          "bbox": [
+            122,
+            722,
+            211,
+            738
+          ]
+        },
+        {
+          "text": "Compact",
+          "confidence": 0.93,
+          "bbox": [
+            342,
+            722,
+            420,
+            741
+          ]
+        },
+        {
+          "text": "INS/INV",
+          "confidence": 0.91,
+          "bbox": [
+            428,
+            722,
+            498,
+            738
+          ]
+        },
+        {
+          "text": "commande",
+          "confidence": 0.96,
+          "bbox": [
+            505,
+            722,
+            602,
+            738
+          ]
+        },
+        {
+          "text": "rotative",
+          "confidence": 0.95,
+          "bbox": [
+            610,
+            722,
+            673,
+            738
+          ]
+        },
+        {
+          "text": "frontale",
+          "confidence": 0.93,
+          "bbox": [
+            680,
+            722,
+            746,
+            738
+          ]
+        },
+        {
+          "text": "INS",
+          "confidence": 0.93,
+          "bbox": [
+            754,
+            722,
+            784,
+            738
+          ]
+        },
+        {
+          "text": "250",
+          "confidence": 0.96,
+          "bbox": [
+            791,
+            722,
+            823,
+            738
+          ]
+        },
+        {
+          "text": "poignée",
+          "confidence": 0.95,
+          "bbox": [
+            831,
+            722,
+            900,
+            741
+          ]
+        },
+        {
+          "text": "noire",
+          "confidence": 0.96,
+          "bbox": [
+            908,
+            722,
+            950,
+            738
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            1091,
+            722,
+            1096,
+            737
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1136,
+            715,
+            1138,
+            745
+          ]
+        },
+        {
+          "text": "717",
+          "confidence": 0.92,
+          "bbox": [
+            1059,
+            1632,
+            1093,
+            1645
+          ]
+        },
+        {
+          "text": "Pour",
+          "confidence": 0.96,
+          "bbox": [
+            68,
+            1649,
+            105,
+            1663
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            110,
+            1650,
+            158,
+            1663
+          ]
+        },
+        {
+          "text": "demandes,",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            1649,
+            251,
+            1665
+          ]
+        },
+        {
+          "text": "contactez",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            1650,
+            334,
+            1663
+          ]
+        },
+        {
+          "text": "Vincent",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            1649,
+            400,
+            1663
+          ]
+        },
+        {
+          "text": "PETITPAS,",
+          "confidence": 0.92,
+          "bbox": [
+            406,
+            1649,
+            496,
+            1665
+          ]
+        },
+        {
+          "text": "tel:0609728761,",
+          "confidence": 0.91,
+          "bbox": [
+            507,
+            1649,
+            635,
+            1665
+          ]
+        },
+        {
+          "text": "email:v.petitpas@armel.org.",
+          "confidence": 0.89,
+          "bbox": [
+            647,
+            1648,
+            869,
+            1666
+          ]
+        }
+      ]
+    }
+  ]
+}

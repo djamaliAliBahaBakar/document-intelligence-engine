@@ -4,5 +4,28 @@ data/anonymized/
 *.docx
 *.xlsx
 .env
-models/
+
 benchmarks/docling
+notebools/data
+
+
+# OCR outputs
+notebooks/data/tesseract/
+
+# éventuels modèles
+models/
+checkpoints/
+outputs/
+
+# notebooks temporaires
+.ipynb_checkpoints/
+
+# cache Python
+__pycache__/
+*.pyc
+
+# OCR outputs
+notebooks/data/tesseract/
+
+# Models
+runs/
