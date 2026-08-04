@@ -4,8 +4,8 @@ import pymupdf
 from PIL import Image
 
 
-INPUT_DIR = Path("dataset/raw")
-OUTPUT_DIR = Path("dataset/images")
+INPUT_DIR = Path("dataset/raw/new_raw")
+OUTPUT_DIR = Path("dataset/images/new_images")
 
 RENDER_MATRIX = pymupdf.Matrix(2, 2)
 

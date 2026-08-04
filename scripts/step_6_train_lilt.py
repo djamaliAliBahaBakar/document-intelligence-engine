@@ -3,6 +3,8 @@ from pathlib import Path
 import torch.nn as nn
 
 from transformers import Trainer
+import csv
+from typing import Any
 
 import torch
 import json
@@ -46,6 +48,11 @@ FINAL_MODEL_DIR = OUTPUT_DIR / "final"
 METRICS_CSV_PATH = (
     OUTPUT_DIR / "training_metrics.csv"
 )
+
+FINAL_METRICS_PATH = (
+    OUTPUT_DIR / "final_metrics.json"
+)
+
 
 MAX_LENGTH = 512
 TEST_RATIO = 0.2
@@ -187,6 +194,128 @@ def print_encoded_label_distribution(
             f"{label:<25} : "
             f"{label_counts.get(label_id, 0)}"
         )
+
+def build_epoch_metrics(
+    log_history: list[dict[str, Any]],
+) -> list[dict[str, float | None]]:
+    rows = []
+
+    latest_train_loss = None
+    latest_learning_rate = None
+
+    for entry in log_history:
+        if "loss" in entry:
+            latest_train_loss = float(entry["loss"])
+
+        if "learning_rate" in entry:
+            latest_learning_rate = float(
+                entry["learning_rate"]
+            )
+
+        if "eval_loss" not in entry:
+            continue
+
+        rows.append(
+            {
+                "epoch": float(entry["epoch"]),
+                "train_loss": latest_train_loss,
+                "eval_loss": float(entry["eval_loss"]),
+                "precision": float(
+                    entry.get("eval_precision", 0.0)
+                ),
+                "recall": float(
+                    entry.get("eval_recall", 0.0)
+                ),
+                "f1": float(
+                    entry.get("eval_f1", 0.0)
+                ),
+                "accuracy": float(
+                    entry.get("eval_accuracy", 0.0)
+                ),
+                "learning_rate": latest_learning_rate,
+            }
+        )
+
+    return rows
+
+def print_metrics_table(
+    rows: list[dict[str, float | None]],
+) -> None:
+    if not rows:
+        print("\nAucune métrique par époque disponible.")
+        return
+
+    print("\n===== Métriques LiLT par époque =====")
+
+    header = (
+        f"{'Epoch':>7} | "
+        f"{'Train loss':>12} | "
+        f"{'Eval loss':>11} | "
+        f"{'Precision':>10} | "
+        f"{'Recall':>8} | "
+        f"{'F1':>8} | "
+        f"{'Accuracy':>10} | "
+        f"{'Learning rate':>13}"
+    )
+
+    print(header)
+    print("-" * len(header))
+
+    for row in rows:
+        train_loss = row["train_loss"]
+        learning_rate = row["learning_rate"]
+
+        print(
+            f"{row['epoch']:>7.0f} | "
+            f"{train_loss if train_loss is not None else 0:>12.4f} | "
+            f"{row['eval_loss']:>11.4f} | "
+            f"{row['precision']:>10.4f} | "
+            f"{row['recall']:>8.4f} | "
+            f"{row['f1']:>8.4f} | "
+            f"{row['accuracy']:>10.4f} | "
+            f"{learning_rate if learning_rate is not None else 0:>13.2e}"
+        )
+
+def save_metrics_csv(
+    rows: list[dict[str, float | None]],
+    output_path: Path,
+) -> None:
+    if not rows:
+        return
+
+    output_path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    fieldnames = [
+        "epoch",
+        "train_loss",
+        "eval_loss",
+        "precision",
+        "recall",
+        "f1",
+        "accuracy",
+        "learning_rate",
+    ]
+
+    with output_path.open(
+        "w",
+        newline="",
+        encoding="utf-8",
+    ) as csv_file:
+        writer = csv.DictWriter(
+            csv_file,
+            fieldnames=fieldnames,
+        )
+
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(
+        "\nMétriques sauvegardées dans :",
+        output_path,
+    )
 
 def run_smoke_test(
     dataset,
@@ -535,12 +664,38 @@ def main() -> None:
 
     train_result = trainer.train()
 
+    epoch_metrics = build_epoch_metrics(
+    trainer.state.log_history
+)
+
+    print_metrics_table(epoch_metrics)
+
+    save_metrics_csv(
+        epoch_metrics,
+        METRICS_CSV_PATH,
+    )
+
     print("\n===== Fine-tuning LiLT terminé =====")
     print(train_result)
 
     print("\n===== Évaluation finale du meilleur checkpoint =====")
 
     final_metrics = trainer.evaluate()
+
+    print("\n===== Sauvegarde du modèle LiLT =====")
+
+    trainer.save_model(
+        str(FINAL_MODEL_DIR)
+    )
+
+    tokenizer.save_pretrained(
+        str(FINAL_MODEL_DIR)
+    )
+
+    print(
+        "Modèle et tokenizer sauvegardés dans :",
+        FINAL_MODEL_DIR,
+    )
 
     for metric_name, metric_value in final_metrics.items():
         if isinstance(metric_value, float):

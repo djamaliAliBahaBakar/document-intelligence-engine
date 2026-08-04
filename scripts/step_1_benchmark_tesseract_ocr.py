@@ -7,8 +7,8 @@ import pytesseract
 from PIL import Image
 from pytesseract import Output
 
-INPUT_DIR = Path("benchmarks/ocr/input")
-OUTPUT_DIR = Path("benchmarks/ocr/outputs/tesseract")
+INPUT_DIR = Path("benchmarks/ocr/input/new_devis")
+OUTPUT_DIR = Path("benchmarks/ocr/outputs/tesseract/tesseract_new")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -20,13 +20,17 @@ for pdf_path in sorted(INPUT_DIR.glob("*.pdf")):
     start = time.perf_counter()
 
     document = fitz.open(pdf_path)
+    expected_page_count = document.page_count
 
     pages = []
 
     for page_number, page in enumerate(document, start=1):
 
-        # Conversion PDF -> Image (200 dpi environ)
-        pix = page.get_pixmap(matrix=fitz.Matrix(2, 2), alpha=False)
+        # Conversion PDF -> Image (~200 dpi)
+        pix = page.get_pixmap(
+            matrix=fitz.Matrix(2, 2),
+            alpha=False,
+        )
 
         image = Image.frombytes(
             "RGB",
@@ -47,7 +51,7 @@ for pdf_path in sorted(INPUT_DIR.glob("*.pdf")):
 
             text = data["text"][i].strip()
 
-            if text == "":
+            if not text:
                 continue
 
             confidence = float(data["conf"][i])
@@ -84,8 +88,25 @@ for pdf_path in sorted(INPUT_DIR.glob("*.pdf")):
         )
 
         print(
-            f"Page {page_number} : {len(words)} textes reconnus"
+            f"Page {page_number}/{expected_page_count} : "
+            f"{len(words)} textes reconnus"
         )
+
+    # -----------------------------
+    # Vérification de cohérence
+    # -----------------------------
+    if len(pages) != expected_page_count:
+        raise ValueError(
+            f"{pdf_path.name} : "
+            f"{len(pages)} pages OCR générées "
+            f"au lieu de {expected_page_count} pages PDF."
+        )
+
+    print(
+        f"✓ Vérification OK : "
+        f"{len(pages)} page(s) OCR = "
+        f"{expected_page_count} page(s) PDF"
+    )
 
     document.close()
 
@@ -98,6 +119,10 @@ for pdf_path in sorted(INPUT_DIR.glob("*.pdf")):
         "page_count": len(pages),
         "pages": pages,
     }
+
+    assert output["page_count"] == len(output["pages"]), (
+        "Incohérence entre page_count et pages."
+    )
 
     output_path = OUTPUT_DIR / f"{pdf_path.stem}_tesseract.json"
 

@@ -1,0 +1,8882 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_22.pdf",
+  "duration_seconds": 2.257,
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 319,
+      "words": [
+        {
+          "text": "LEO",
+          "confidence": 0.05,
+          "bbox": [
+            70,
+            69,
+            318,
+            148
+          ]
+        },
+        {
+          "text": "DEVIS",
+          "confidence": 0.96,
+          "bbox": [
+            986,
+            104,
+            1118,
+            141
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.9,
+          "bbox": [
+            130,
+            148,
+            206,
+            160
+          ]
+        },
+        {
+          "text": "LINK",
+          "confidence": 0.94,
+          "bbox": [
+            215,
+            148,
+            256,
+            160
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.96,
+          "bbox": [
+            59,
+            230,
+            66,
+            242
+          ]
+        },
+        {
+          "text": "RUE",
+          "confidence": 0.93,
+          "bbox": [
+            73,
+            231,
+            104,
+            242
+          ]
+        },
+        {
+          "text": "GUTENBERG",
+          "confidence": 0.91,
+          "bbox": [
+            111,
+            230,
+            211,
+            242
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.92,
+          "bbox": [
+            681,
+            235,
+            732,
+            248
+          ]
+        },
+        {
+          "text": "SOLUTIONS",
+          "confidence": 0.91,
+          "bbox": [
+            738,
+            235,
+            832,
+            248
+          ]
+        },
+        {
+          "text": "91070",
+          "confidence": 0.92,
+          "bbox": [
+            59,
+            256,
+            102,
+            268
+          ]
+        },
+        {
+          "text": "BONDOUFLE",
+          "confidence": 0.91,
+          "bbox": [
+            108,
+            256,
+            206,
+            268
+          ]
+        },
+        {
+          "text": "79",
+          "confidence": 0.88,
+          "bbox": [
+            681,
+            259,
+            700,
+            272
+          ]
+        },
+        {
+          "text": "RUE",
+          "confidence": 0.96,
+          "bbox": [
+            706,
+            259,
+            739,
+            272
+          ]
+        },
+        {
+          "text": "DES",
+          "confidence": 0.93,
+          "bbox": [
+            745,
+            259,
+            775,
+            272
+          ]
+        },
+        {
+          "text": "JONCS",
+          "confidence": 0.93,
+          "bbox": [
+            780,
+            259,
+            832,
+            272
+          ]
+        },
+        {
+          "text": "DES",
+          "confidence": 0.96,
+          "bbox": [
+            838,
+            259,
+            868,
+            272
+          ]
+        },
+        {
+          "text": "BOIS",
+          "confidence": 0.96,
+          "bbox": [
+            874,
+            259,
+            912,
+            272
+          ]
+        },
+        {
+          "text": "01",
+          "confidence": 0.89,
+          "bbox": [
+            59,
+            281,
+            73,
+            293
+          ]
+        },
+        {
+          "text": "6497",
+          "confidence": 0.89,
+          "bbox": [
+            81,
+            282,
+            120,
+            293
+          ]
+        },
+        {
+          "text": "41",
+          "confidence": 0.94,
+          "bbox": [
+            125,
+            281,
+            140,
+            293
+          ]
+        },
+        {
+          "text": "74",
+          "confidence": 0.94,
+          "bbox": [
+            148,
+            282,
+            164,
+            293
+          ]
+        },
+        {
+          "text": "Village",
+          "confidence": 0.95,
+          "bbox": [
+            681,
+            284,
+            736,
+            302
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            741,
+            284,
+            769,
+            298
+          ]
+        },
+        {
+          "text": "Métiers",
+          "confidence": 0.96,
+          "bbox": [
+            775,
+            284,
+            838,
+            298
+          ]
+        },
+        {
+          "text": "Hall",
+          "confidence": 0.95,
+          "bbox": [
+            844,
+            284,
+            874,
+            298
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.96,
+          "bbox": [
+            880,
+            285,
+            889,
+            298
+          ]
+        },
+        {
+          "text": "commercial",
+          "confidence": 0.0,
+          "bbox": [
+            59,
+            302,
+            140,
+            328
+          ]
+        },
+        {
+          "text": "@eleofrance.com",
+          "confidence": 0.0,
+          "bbox": [
+            145,
+            302,
+            266,
+            328
+          ]
+        },
+        {
+          "text": "84000",
+          "confidence": 0.96,
+          "bbox": [
+            681,
+            305,
+            731,
+            330
+          ]
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.96,
+          "bbox": [
+            775,
+            309,
+            855,
+            322
+          ]
+        },
+        {
+          "text": "www.eleofrance.com",
+          "confidence": 0.17,
+          "bbox": [
+            58,
+            332,
+            205,
+            344
+          ]
+        },
+        {
+          "text": "RPERE",
+          "confidence": 0.0,
+          "bbox": [
+            89,
+            384,
+            142,
+            395
+          ]
+        },
+        {
+          "text": "stRe",
+          "confidence": 0.0,
+          "bbox": [
+            296,
+            384,
+            335,
+            395
+          ]
+        },
+        {
+          "text": "Contact",
+          "confidence": 0.96,
+          "bbox": [
+            593,
+            391,
+            642,
+            401
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            647,
+            393,
+            666,
+            401
+          ]
+        },
+        {
+          "text": "site",
+          "confidence": 0.89,
+          "bbox": [
+            670,
+            390,
+            692,
+            401
+          ]
+        },
+        {
+          "text": "Contact",
+          "confidence": 0.96,
+          "bbox": [
+            89,
+            419,
+            138,
+            429
+          ]
+        },
+        {
+          "text": "fournisseur",
+          "confidence": 0.88,
+          "bbox": [
+            143,
+            418,
+            215,
+            429
+          ]
+        },
+        {
+          "text": "Sandra",
+          "confidence": 0.93,
+          "bbox": [
+            296,
+            418,
+            341,
+            429
+          ]
+        },
+        {
+          "text": "MESSAOUDENE",
+          "confidence": 0.92,
+          "bbox": [
+            346,
+            418,
+            450,
+            429
+          ]
+        },
+        {
+          "text": "Réf.",
+          "confidence": 0.95,
+          "bbox": [
+            89,
+            451,
+            113,
+            462
+          ]
+        },
+        {
+          "text": "Client",
+          "confidence": 0.96,
+          "bbox": [
+            118,
+            451,
+            154,
+            462
+          ]
+        },
+        {
+          "text": "DDP",
+          "confidence": 0.84,
+          "bbox": [
+            296,
+            452,
+            323,
+            462
+          ]
+        },
+        {
+          "text": "DP2504-1546",
+          "confidence": 0.92,
+          "bbox": [
+            328,
+            451,
+            416,
+            462
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.95,
+          "bbox": [
+            89,
+            488,
+            118,
+            498
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            123,
+            487,
+            138,
+            498
+          ]
+        },
+        {
+          "text": "devis",
+          "confidence": 0.96,
+          "bbox": [
+            143,
+            487,
+            175,
+            498
+          ]
+        },
+        {
+          "text": "07/04/2025",
+          "confidence": 0.94,
+          "bbox": [
+            295,
+            486,
+            374,
+            501
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.92,
+          "bbox": [
+            89,
+            523,
+            118,
+            533
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            123,
+            522,
+            138,
+            533
+          ]
+        },
+        {
+          "text": "validité",
+          "confidence": 0.87,
+          "bbox": [
+            143,
+            522,
+            189,
+            533
+          ]
+        },
+        {
+          "text": "10/04/2025",
+          "confidence": 0.96,
+          "bbox": [
+            296,
+            521,
+            374,
+            536
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.96,
+          "bbox": [
+            89,
+            557,
+            118,
+            567
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            123,
+            556,
+            138,
+            567
+          ]
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.94,
+          "bbox": [
+            143,
+            556,
+            196,
+            567
+          ]
+        },
+        {
+          "text": "souhaitée",
+          "confidence": 0.96,
+          "bbox": [
+            201,
+            556,
+            263,
+            567
+          ]
+        },
+        {
+          "text": "Commentaire",
+          "confidence": 0.96,
+          "bbox": [
+            89,
+            591,
+            201,
+            604
+          ]
+        },
+        {
+          "text": "Tolérance:",
+          "confidence": 0.92,
+          "bbox": [
+            207,
+            586,
+            299,
+            600
+          ]
+        },
+        {
+          "text": "+/-",
+          "confidence": 0.92,
+          "bbox": [
+            308,
+            585,
+            330,
+            600
+          ]
+        },
+        {
+          "text": "3%",
+          "confidence": 0.94,
+          "bbox": [
+            337,
+            585,
+            363,
+            601
+          ]
+        },
+        {
+          "text": "chargée",
+          "confidence": 0.96,
+          "bbox": [
+            371,
+            586,
+            441,
+            604
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            448,
+            586,
+            464,
+            600
+          ]
+        },
+        {
+          "text": "facturée.",
+          "confidence": 0.96,
+          "bbox": [
+            470,
+            585,
+            546,
+            600
+          ]
+        },
+        {
+          "text": "Les",
+          "confidence": 0.96,
+          "bbox": [
+            208,
+            630,
+            238,
+            644
+          ]
+        },
+        {
+          "text": "moyens",
+          "confidence": 0.96,
+          "bbox": [
+            245,
+            633,
+            313,
+            648
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            320,
+            630,
+            341,
+            644
+          ]
+        },
+        {
+          "text": "déchargement",
+          "confidence": 0.95,
+          "bbox": [
+            348,
+            630,
+            475,
+            648
+          ]
+        },
+        {
+          "text": "sont",
+          "confidence": 0.96,
+          "bbox": [
+            481,
+            630,
+            518,
+            644
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            524,
+            630,
+            534,
+            644
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            541,
+            630,
+            555,
+            644
+          ]
+        },
+        {
+          "text": "charge",
+          "confidence": 0.93,
+          "bbox": [
+            561,
+            630,
+            621,
+            648
+          ]
+        },
+        {
+          "text": "d'ELEO",
+          "confidence": 0.92,
+          "bbox": [
+            628,
+            629,
+            694,
+            644
+          ]
+        },
+        {
+          "text": "jusqu'à",
+          "confidence": 0.93,
+          "bbox": [
+            700,
+            630,
+            763,
+            648
+          ]
+        },
+        {
+          "text": "1300kg",
+          "confidence": 0.92,
+          "bbox": [
+            771,
+            630,
+            833,
+            648
+          ]
+        },
+        {
+          "text": "(hayon).",
+          "confidence": 0.96,
+          "bbox": [
+            841,
+            629,
+            911,
+            648
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.96,
+          "bbox": [
+            208,
+            652,
+            228,
+            666
+          ]
+        },
+        {
+          "text": "coût",
+          "confidence": 0.96,
+          "bbox": [
+            235,
+            652,
+            272,
+            666
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            278,
+            652,
+            298,
+            666
+          ]
+        },
+        {
+          "text": "déchargement",
+          "confidence": 0.95,
+          "bbox": [
+            306,
+            652,
+            433,
+            670
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            439,
+            655,
+            480,
+            666
+          ]
+        },
+        {
+          "text": "grue",
+          "confidence": 0.96,
+          "bbox": [
+            486,
+            655,
+            525,
+            670
+          ]
+        },
+        {
+          "text": "est",
+          "confidence": 0.96,
+          "bbox": [
+            532,
+            652,
+            558,
+            666
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            564,
+            652,
+            573,
+            666
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            581,
+            652,
+            594,
+            666
+          ]
+        },
+        {
+          "text": "charge",
+          "confidence": 0.96,
+          "bbox": [
+            601,
+            652,
+            661,
+            670
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            668,
+            652,
+            688,
+            666
+          ]
+        },
+        {
+          "text": "client.",
+          "confidence": 0.93,
+          "bbox": [
+            695,
+            652,
+            745,
+            666
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.96,
+          "bbox": [
+            208,
+            674,
+            228,
+            688
+          ]
+        },
+        {
+          "text": "délai",
+          "confidence": 0.96,
+          "bbox": [
+            235,
+            674,
+            275,
+            688
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            282,
+            674,
+            303,
+            688
+          ]
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.96,
+          "bbox": [
+            310,
+            674,
+            381,
+            688
+          ]
+        },
+        {
+          "text": "est",
+          "confidence": 0.97,
+          "bbox": [
+            388,
+            674,
+            414,
+            688
+          ]
+        },
+        {
+          "text": "donné",
+          "confidence": 0.96,
+          "bbox": [
+            420,
+            674,
+            474,
+            688
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            481,
+            674,
+            490,
+            688
+          ]
+        },
+        {
+          "text": "titre",
+          "confidence": 0.94,
+          "bbox": [
+            497,
+            674,
+            529,
+            688
+          ]
+        },
+        {
+          "text": "indicatif",
+          "confidence": 0.95,
+          "bbox": [
+            537,
+            673,
+            603,
+            688
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            609,
+            674,
+            625,
+            688
+          ]
+        },
+        {
+          "text": "n'est",
+          "confidence": 0.96,
+          "bbox": [
+            632,
+            674,
+            672,
+            688
+          ]
+        },
+        {
+          "text": "pas",
+          "confidence": 0.96,
+          "bbox": [
+            679,
+            677,
+            709,
+            692
+          ]
+        },
+        {
+          "text": "sujet",
+          "confidence": 0.95,
+          "bbox": [
+            716,
+            674,
+            757,
+            692
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            764,
+            674,
+            773,
+            688
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            780,
+            674,
+            811,
+            688
+          ]
+        },
+        {
+          "text": "pénalités",
+          "confidence": 0.96,
+          "bbox": [
+            818,
+            674,
+            896,
+            692
+          ]
+        },
+        {
+          "text": "AR3VQD150",
+          "confidence": 0.63,
+          "bbox": [
+            66,
+            779,
+            165,
+            794
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.53,
+          "bbox": [
+            212,
+            778,
+            275,
+            790
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.87,
+          "bbox": [
+            281,
+            778,
+            333,
+            790
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.87,
+          "bbox": [
+            338,
+            778,
+            377,
+            790
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            778,
+            434,
+            792
+          ]
+        },
+        {
+          "text": "4x1x150",
+          "confidence": 0.89,
+          "bbox": [
+            440,
+            778,
+            500,
+            790
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.82,
+          "bbox": [
+            505,
+            778,
+            534,
+            790
+          ]
+        },
+        {
+          "text": "S6ML",
+          "confidence": 0.71,
+          "bbox": [
+            684,
+            779,
+            727,
+            792
+          ]
+        },
+        {
+          "text": "11,615€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            779,
+            841,
+            795
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.92,
+          "bbox": [
+            903,
+            779,
+            937,
+            795
+          ]
+        },
+        {
+          "text": "11,615€",
+          "confidence": 0.62,
+          "bbox": [
+            962,
+            779,
+            1025,
+            795
+          ]
+        },
+        {
+          "text": "650,44€",
+          "confidence": 0.74,
+          "bbox": [
+            1063,
+            779,
+            1127,
+            795
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            803,
+            330,
+            818
+          ]
+        },
+        {
+          "text": "AR3VQC150",
+          "confidence": 0.71,
+          "bbox": [
+            66,
+            844,
+            163,
+            859
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.92,
+          "bbox": [
+            212,
+            843,
+            275,
+            855
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.88,
+          "bbox": [
+            281,
+            843,
+            333,
+            855
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.88,
+          "bbox": [
+            338,
+            843,
+            377,
+            855
+          ]
+        },
+        {
+          "text": "3x1x150",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            843,
+            442,
+            855
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.87,
+          "bbox": [
+            447,
+            842,
+            515,
+            858
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.83,
+          "bbox": [
+            520,
+            843,
+            550,
+            855
+          ]
+        },
+        {
+          "text": "56ML",
+          "confidence": 0.78,
+          "bbox": [
+            684,
+            844,
+            727,
+            857
+          ]
+        },
+        {
+          "text": "8,865€",
+          "confidence": 0.92,
+          "bbox": [
+            786,
+            844,
+            841,
+            860
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.81,
+          "bbox": [
+            902,
+            844,
+            937,
+            860
+          ]
+        },
+        {
+          "text": "8,865€",
+          "confidence": 0.68,
+          "bbox": [
+            971,
+            844,
+            1026,
+            860
+          ]
+        },
+        {
+          "text": "496,44€",
+          "confidence": 0.77,
+          "bbox": [
+            1063,
+            844,
+            1127,
+            860
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            867,
+            330,
+            882
+          ]
+        },
+        {
+          "text": "AR3VQD150",
+          "confidence": 0.63,
+          "bbox": [
+            66,
+            908,
+            165,
+            923
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.53,
+          "bbox": [
+            212,
+            907,
+            275,
+            919
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.87,
+          "bbox": [
+            281,
+            907,
+            333,
+            919
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.87,
+          "bbox": [
+            338,
+            907,
+            377,
+            919
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            907,
+            434,
+            921
+          ]
+        },
+        {
+          "text": "4x1x150",
+          "confidence": 0.89,
+          "bbox": [
+            440,
+            907,
+            500,
+            919
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.82,
+          "bbox": [
+            505,
+            907,
+            534,
+            919
+          ]
+        },
+        {
+          "text": "S6ML",
+          "confidence": 0.71,
+          "bbox": [
+            684,
+            908,
+            727,
+            921
+          ]
+        },
+        {
+          "text": "11,615€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            908,
+            841,
+            924
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.92,
+          "bbox": [
+            903,
+            908,
+            937,
+            924
+          ]
+        },
+        {
+          "text": "11,615€",
+          "confidence": 0.62,
+          "bbox": [
+            962,
+            908,
+            1025,
+            924
+          ]
+        },
+        {
+          "text": "650,44€",
+          "confidence": 0.74,
+          "bbox": [
+            1063,
+            908,
+            1127,
+            924
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            932,
+            330,
+            947
+          ]
+        },
+        {
+          "text": "AR3VQC150",
+          "confidence": 0.75,
+          "bbox": [
+            66,
+            973,
+            163,
+            988
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.89,
+          "bbox": [
+            212,
+            972,
+            275,
+            984
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.89,
+          "bbox": [
+            281,
+            972,
+            333,
+            984
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.89,
+          "bbox": [
+            338,
+            972,
+            377,
+            984
+          ]
+        },
+        {
+          "text": "3x1x150",
+          "confidence": 0.9,
+          "bbox": [
+            382,
+            972,
+            442,
+            984
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.87,
+          "bbox": [
+            447,
+            971,
+            515,
+            987
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.84,
+          "bbox": [
+            520,
+            972,
+            550,
+            984
+          ]
+        },
+        {
+          "text": "56ML",
+          "confidence": 0.77,
+          "bbox": [
+            684,
+            973,
+            727,
+            986
+          ]
+        },
+        {
+          "text": "8,865€",
+          "confidence": 0.92,
+          "bbox": [
+            786,
+            973,
+            841,
+            989
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.8,
+          "bbox": [
+            902,
+            973,
+            937,
+            989
+          ]
+        },
+        {
+          "text": "8,865€",
+          "confidence": 0.63,
+          "bbox": [
+            971,
+            973,
+            1026,
+            989
+          ]
+        },
+        {
+          "text": "496,44€",
+          "confidence": 0.71,
+          "bbox": [
+            1063,
+            973,
+            1127,
+            989
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            997,
+            330,
+            1012
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.61,
+          "bbox": [
+            66,
+            1037,
+            163,
+            1052
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.92,
+          "bbox": [
+            212,
+            1037,
+            275,
+            1049
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.84,
+          "bbox": [
+            281,
+            1037,
+            333,
+            1049
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.89,
+          "bbox": [
+            338,
+            1037,
+            377,
+            1049
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.89,
+          "bbox": [
+            382,
+            1037,
+            434,
+            1051
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.82,
+          "bbox": [
+            440,
+            1037,
+            500,
+            1049
+          ]
+        },
+        {
+          "text": "ADS",
+          "confidence": 0.66,
+          "bbox": [
+            505,
+            1037,
+            534,
+            1049
+          ]
+        },
+        {
+          "text": "305ML",
+          "confidence": 0.88,
+          "bbox": [
+            674,
+            1037,
+            727,
+            1050
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            1037,
+            841,
+            1053
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.83,
+          "bbox": [
+            903,
+            1037,
+            937,
+            1053
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.78,
+          "bbox": [
+            962,
+            1037,
+            1025,
+            1053
+          ]
+        },
+        {
+          "text": "5036,47€",
+          "confidence": 0.87,
+          "bbox": [
+            1048,
+            1037,
+            1127,
+            1053
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1061,
+            330,
+            1076
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1062,
+            346,
+            1076
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1061,
+            454,
+            1076
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            460,
+            1061,
+            527,
+            1076
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1061,
+            574,
+            1076
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.92,
+          "bbox": [
+            66,
+            1102,
+            139,
+            1115
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.89,
+          "bbox": [
+            212,
+            1101,
+            275,
+            1113
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            1101,
+            333,
+            1113
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            1101,
+            377,
+            1113
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            1101,
+            425,
+            1113
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            1100,
+            498,
+            1116
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.7,
+          "bbox": [
+            503,
+            1101,
+            533,
+            1113
+          ]
+        },
+        {
+          "text": "305",
+          "confidence": 0.67,
+          "bbox": [
+            674,
+            1102,
+            702,
+            1115
+          ]
+        },
+        {
+          "text": "ML",
+          "confidence": 0.67,
+          "bbox": [
+            707,
+            1105,
+            727,
+            1115
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.91,
+          "bbox": [
+            787,
+            1102,
+            841,
+            1118
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9,
+          "bbox": [
+            902,
+            1102,
+            937,
+            1118
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.71,
+          "bbox": [
+            971,
+            1102,
+            1026,
+            1118
+          ]
+        },
+        {
+          "text": "868,03€",
+          "confidence": 0.87,
+          "bbox": [
+            1063,
+            1102,
+            1127,
+            1118
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            1126,
+            330,
+            1141
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.8,
+          "bbox": [
+            66,
+            1167,
+            163,
+            1182
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1166,
+            275,
+            1178
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1166,
+            333,
+            1178
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1166,
+            377,
+            1178
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1166,
+            434,
+            1180
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1166,
+            500,
+            1178
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.84,
+          "bbox": [
+            505,
+            1166,
+            534,
+            1178
+          ]
+        },
+        {
+          "text": "305",
+          "confidence": 0.77,
+          "bbox": [
+            674,
+            1167,
+            702,
+            1180
+          ]
+        },
+        {
+          "text": "ML",
+          "confidence": 0.77,
+          "bbox": [
+            707,
+            1169,
+            727,
+            1179
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            1167,
+            841,
+            1183
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.83,
+          "bbox": [
+            903,
+            1167,
+            937,
+            1183
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.78,
+          "bbox": [
+            962,
+            1167,
+            1025,
+            1183
+          ]
+        },
+        {
+          "text": "5036,47€",
+          "confidence": 0.87,
+          "bbox": [
+            1048,
+            1167,
+            1127,
+            1183
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1191,
+            330,
+            1206
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1192,
+            346,
+            1206
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1191,
+            454,
+            1206
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            460,
+            1191,
+            527,
+            1206
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1191,
+            574,
+            1206
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.92,
+          "bbox": [
+            66,
+            1231,
+            139,
+            1244
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.87,
+          "bbox": [
+            212,
+            1230,
+            275,
+            1242
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            1230,
+            333,
+            1242
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            1230,
+            377,
+            1242
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            1230,
+            425,
+            1242
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.85,
+          "bbox": [
+            430,
+            1229,
+            498,
+            1245
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.69,
+          "bbox": [
+            503,
+            1230,
+            533,
+            1242
+          ]
+        },
+        {
+          "text": "305",
+          "confidence": 0.82,
+          "bbox": [
+            674,
+            1231,
+            702,
+            1244
+          ]
+        },
+        {
+          "text": "ML",
+          "confidence": 0.82,
+          "bbox": [
+            707,
+            1234,
+            727,
+            1244
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.91,
+          "bbox": [
+            787,
+            1231,
+            841,
+            1247
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9,
+          "bbox": [
+            902,
+            1231,
+            937,
+            1247
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.78,
+          "bbox": [
+            971,
+            1231,
+            1026,
+            1247
+          ]
+        },
+        {
+          "text": "868,03€",
+          "confidence": 0.87,
+          "bbox": [
+            1063,
+            1231,
+            1127,
+            1247
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            1255,
+            330,
+            1270
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.8,
+          "bbox": [
+            66,
+            1296,
+            163,
+            1311
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1295,
+            275,
+            1307
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1295,
+            333,
+            1307
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1295,
+            377,
+            1307
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1295,
+            434,
+            1309
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1295,
+            500,
+            1307
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.84,
+          "bbox": [
+            505,
+            1295,
+            534,
+            1307
+          ]
+        },
+        {
+          "text": "305",
+          "confidence": 0.77,
+          "bbox": [
+            674,
+            1296,
+            702,
+            1309
+          ]
+        },
+        {
+          "text": "ML",
+          "confidence": 0.77,
+          "bbox": [
+            707,
+            1298,
+            727,
+            1308
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            1296,
+            841,
+            1312
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.83,
+          "bbox": [
+            903,
+            1296,
+            937,
+            1312
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.78,
+          "bbox": [
+            962,
+            1296,
+            1025,
+            1312
+          ]
+        },
+        {
+          "text": "5036,47€",
+          "confidence": 0.87,
+          "bbox": [
+            1048,
+            1296,
+            1127,
+            1312
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1320,
+            330,
+            1335
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1321,
+            346,
+            1335
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1320,
+            454,
+            1335
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            460,
+            1320,
+            527,
+            1335
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1320,
+            574,
+            1335
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.92,
+          "bbox": [
+            66,
+            1361,
+            139,
+            1374
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.92,
+          "bbox": [
+            212,
+            1360,
+            275,
+            1372
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.91,
+          "bbox": [
+            281,
+            1360,
+            333,
+            1372
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1360,
+            377,
+            1372
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            1360,
+            425,
+            1372
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.9,
+          "bbox": [
+            430,
+            1359,
+            498,
+            1375
+          ]
+        },
+        {
+          "text": "ADS",
+          "confidence": 0.31,
+          "bbox": [
+            503,
+            1360,
+            533,
+            1372
+          ]
+        },
+        {
+          "text": "305",
+          "confidence": 0.61,
+          "bbox": [
+            674,
+            1361,
+            702,
+            1374
+          ]
+        },
+        {
+          "text": "ML",
+          "confidence": 0.61,
+          "bbox": [
+            707,
+            1363,
+            727,
+            1373
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.92,
+          "bbox": [
+            787,
+            1361,
+            841,
+            1377
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.91,
+          "bbox": [
+            902,
+            1361,
+            937,
+            1377
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.74,
+          "bbox": [
+            971,
+            1361,
+            1026,
+            1377
+          ]
+        },
+        {
+          "text": "868,03€",
+          "confidence": 0.85,
+          "bbox": [
+            1063,
+            1361,
+            1127,
+            1377
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            1384,
+            330,
+            1399
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.61,
+          "bbox": [
+            66,
+            1425,
+            163,
+            1440
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1424,
+            275,
+            1436
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1424,
+            333,
+            1436
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1424,
+            377,
+            1436
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1424,
+            434,
+            1438
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1424,
+            500,
+            1436
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.84,
+          "bbox": [
+            505,
+            1424,
+            534,
+            1436
+          ]
+        },
+        {
+          "text": "305ML",
+          "confidence": 0.88,
+          "bbox": [
+            674,
+            1425,
+            727,
+            1438
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            1425,
+            841,
+            1441
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.83,
+          "bbox": [
+            903,
+            1425,
+            937,
+            1441
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.78,
+          "bbox": [
+            962,
+            1425,
+            1025,
+            1441
+          ]
+        },
+        {
+          "text": "5036,47€",
+          "confidence": 0.87,
+          "bbox": [
+            1048,
+            1425,
+            1127,
+            1441
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1449,
+            330,
+            1464
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1450,
+            346,
+            1464
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1449,
+            454,
+            1464
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            460,
+            1449,
+            527,
+            1464
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1449,
+            574,
+            1464
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.93,
+          "bbox": [
+            66,
+            1490,
+            139,
+            1503
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.92,
+          "bbox": [
+            212,
+            1489,
+            275,
+            1501
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.91,
+          "bbox": [
+            281,
+            1489,
+            333,
+            1501
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1489,
+            377,
+            1501
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            1489,
+            425,
+            1501
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.91,
+          "bbox": [
+            430,
+            1488,
+            498,
+            1504
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.76,
+          "bbox": [
+            503,
+            1489,
+            533,
+            1501
+          ]
+        },
+        {
+          "text": "305",
+          "confidence": 0.69,
+          "bbox": [
+            674,
+            1490,
+            702,
+            1503
+          ]
+        },
+        {
+          "text": "ML",
+          "confidence": 0.69,
+          "bbox": [
+            707,
+            1492,
+            727,
+            1502
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.92,
+          "bbox": [
+            787,
+            1490,
+            841,
+            1506
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.9,
+          "bbox": [
+            902,
+            1490,
+            937,
+            1506
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.76,
+          "bbox": [
+            971,
+            1490,
+            1026,
+            1506
+          ]
+        },
+        {
+          "text": "868,03€",
+          "confidence": 0.86,
+          "bbox": [
+            1063,
+            1490,
+            1127,
+            1506
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            1514,
+            330,
+            1529
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.61,
+          "bbox": [
+            66,
+            1555,
+            163,
+            1570
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1554,
+            275,
+            1566
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1554,
+            333,
+            1566
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1554,
+            377,
+            1566
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1554,
+            434,
+            1568
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1554,
+            500,
+            1566
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.84,
+          "bbox": [
+            505,
+            1554,
+            534,
+            1566
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.76,
+          "bbox": [
+            675,
+            1555,
+            727,
+            1568
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            777,
+            1555,
+            841,
+            1571
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.91,
+          "bbox": [
+            903,
+            1555,
+            937,
+            1571
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.85,
+          "bbox": [
+            962,
+            1555,
+            1025,
+            1571
+          ]
+        },
+        {
+          "text": "2939,31€",
+          "confidence": 0.84,
+          "bbox": [
+            1049,
+            1555,
+            1127,
+            1571
+          ]
+        },
+        {
+          "text": "ELEO",
+          "confidence": 0.92,
+          "bbox": [
+            59,
+            1601,
+            100,
+            1613
+          ]
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            1601,
+            137,
+            1613
+          ]
+        },
+        {
+          "text": "(Société",
+          "confidence": 0.95,
+          "bbox": [
+            144,
+            1601,
+            201,
+            1616
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            207,
+            1605,
+            229,
+            1616
+          ]
+        },
+        {
+          "text": "Action",
+          "confidence": 0.93,
+          "bbox": [
+            234,
+            1602,
+            278,
+            1613
+          ]
+        },
+        {
+          "text": "Simplifiée)",
+          "confidence": 0.84,
+          "bbox": [
+            284,
+            1601,
+            358,
+            1616
+          ]
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.96,
+          "bbox": [
+            364,
+            1601,
+            412,
+            1616
+          ]
+        },
+        {
+          "text": "social",
+          "confidence": 0.93,
+          "bbox": [
+            418,
+            1602,
+            458,
+            1613
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            465,
+            1611,
+            467,
+            1613
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            1602,
+            478,
+            1613
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.92,
+          "bbox": [
+            487,
+            1601,
+            512,
+            1613
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.94,
+          "bbox": [
+            518,
+            1601,
+            543,
+            1613
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            548,
+            1601,
+            557,
+            1613
+          ]
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.93,
+          "bbox": [
+            563,
+            1601,
+            609,
+            1613
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            615,
+            1611,
+            617,
+            1613
+          ]
+        },
+        {
+          "text": "811",
+          "confidence": 0.96,
+          "bbox": [
+            624,
+            1601,
+            647,
+            1613
+          ]
+        },
+        {
+          "text": "738",
+          "confidence": 0.96,
+          "bbox": [
+            655,
+            1601,
+            680,
+            1613
+          ]
+        },
+        {
+          "text": "038",
+          "confidence": 0.96,
+          "bbox": [
+            686,
+            1601,
+            711,
+            1613
+          ]
+        },
+        {
+          "text": "00033",
+          "confidence": 0.95,
+          "bbox": [
+            717,
+            1601,
+            760,
+            1613
+          ]
+        },
+        {
+          "text": "Code",
+          "confidence": 0.93,
+          "bbox": [
+            766,
+            1601,
+            803,
+            1613
+          ]
+        },
+        {
+          "text": "NAF",
+          "confidence": 0.92,
+          "bbox": [
+            810,
+            1602,
+            839,
+            1613
+          ]
+        },
+        {
+          "text": "4669A",
+          "confidence": 0.91,
+          "bbox": [
+            845,
+            1601,
+            891,
+            1613
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.89,
+          "bbox": [
+            897,
+            1601,
+            913,
+            1613
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.89,
+          "bbox": [
+            919,
+            1602,
+            935,
+            1613
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.96,
+          "bbox": [
+            941,
+            1602,
+            972,
+            1613
+          ]
+        },
+        {
+          "text": "P.1/3",
+          "confidence": 0.8,
+          "bbox": [
+            1097,
+            1602,
+            1133,
+            1613
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 356,
+      "words": [
+        {
+          "text": "CLEO",
+          "confidence": 0.63,
+          "bbox": [
+            70,
+            69,
+            318,
+            135
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.92,
+          "bbox": [
+            130,
+            148,
+            206,
+            160
+          ]
+        },
+        {
+          "text": "LINK",
+          "confidence": 0.96,
+          "bbox": [
+            215,
+            148,
+            255,
+            160
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.95,
+          "bbox": [
+            89,
+            193,
+            103,
+            204
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.92,
+          "bbox": [
+            109,
+            194,
+            149,
+            204
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            145,
+            185,
+            153,
+            213
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            276,
+            139,
+            289
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            341,
+            163,
+            356
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            406,
+            139,
+            419
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            470,
+            163,
+            485
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            535,
+            139,
+            548
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            599,
+            163,
+            614
+          ]
+        },
+        {
+          "text": "AR3V150",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            664,
+            139,
+            677
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            729,
+            163,
+            744
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            793,
+            139,
+            806
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            858,
+            163,
+            873
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            923,
+            139,
+            936
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            987,
+            163,
+            1002
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            1052,
+            139,
+            1065
+          ]
+        },
+        {
+          "text": "AR3VQC300",
+          "confidence": 0.83,
+          "bbox": [
+            66,
+            1116,
+            163,
+            1131
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            1181,
+            139,
+            1194
+          ]
+        },
+        {
+          "text": "AR3VQD400",
+          "confidence": 0.63,
+          "bbox": [
+            66,
+            1246,
+            165,
+            1261
+          ]
+        },
+        {
+          "text": "AR3VQD400",
+          "confidence": 0.63,
+          "bbox": [
+            66,
+            1339,
+            165,
+            1354
+          ]
+        },
+        {
+          "text": "AR3VQD400",
+          "confidence": 0.63,
+          "bbox": [
+            66,
+            1432,
+            165,
+            1447
+          ]
+        },
+        {
+          "text": "AR3VQD400",
+          "confidence": 0.59,
+          "bbox": [
+            66,
+            1525,
+            165,
+            1540
+          ]
+        },
+        {
+          "text": "37712",
+          "confidence": 0.96,
+          "bbox": [
+            173,
+            196,
+            212,
+            206
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.92,
+          "bbox": [
+            336,
+            196,
+            387,
+            209
+          ]
+        },
+        {
+          "text": "SOLUTIONS",
+          "confidence": 0.92,
+          "bbox": [
+            393,
+            196,
+            487,
+            209
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            235,
+            330,
+            250
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            236,
+            346,
+            250
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            235,
+            454,
+            250
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            235,
+            527,
+            250
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            235,
+            574,
+            250
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            275,
+            275,
+            287
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            275,
+            333,
+            287
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            275,
+            377,
+            287
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            275,
+            425,
+            287
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.9,
+          "bbox": [
+            430,
+            274,
+            498,
+            290
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.76,
+          "bbox": [
+            503,
+            275,
+            533,
+            287
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            300,
+            330,
+            315
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            340,
+            275,
+            352
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            340,
+            333,
+            352
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            340,
+            377,
+            352
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            340,
+            434,
+            354
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            340,
+            500,
+            352
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            340,
+            534,
+            352
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            364,
+            330,
+            379
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            365,
+            346,
+            379
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            364,
+            454,
+            379
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            364,
+            527,
+            379
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            364,
+            574,
+            379
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            405,
+            275,
+            417
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            405,
+            333,
+            417
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            405,
+            377,
+            417
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            405,
+            425,
+            417
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.9,
+          "bbox": [
+            430,
+            404,
+            498,
+            420
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.76,
+          "bbox": [
+            503,
+            405,
+            533,
+            417
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            429,
+            330,
+            444
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            469,
+            275,
+            481
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            469,
+            333,
+            481
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            469,
+            377,
+            481
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            469,
+            434,
+            483
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            469,
+            500,
+            481
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            469,
+            534,
+            481
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            494,
+            330,
+            509
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            495,
+            346,
+            509
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            494,
+            454,
+            509
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            494,
+            527,
+            509
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            494,
+            574,
+            509
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            534,
+            275,
+            546
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            534,
+            333,
+            546
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            534,
+            377,
+            546
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            534,
+            425,
+            546
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.9,
+          "bbox": [
+            430,
+            533,
+            498,
+            549
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.76,
+          "bbox": [
+            503,
+            534,
+            533,
+            546
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            558,
+            330,
+            573
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            598,
+            275,
+            610
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            598,
+            333,
+            610
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            598,
+            377,
+            610
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            598,
+            434,
+            612
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            598,
+            500,
+            610
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            598,
+            534,
+            610
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            623,
+            330,
+            638
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            624,
+            346,
+            638
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            623,
+            454,
+            638
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            623,
+            527,
+            638
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            623,
+            574,
+            638
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            663,
+            275,
+            675
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            663,
+            333,
+            675
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            663,
+            377,
+            675
+          ]
+        },
+        {
+          "text": "1x150",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            663,
+            425,
+            675
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.9,
+          "bbox": [
+            430,
+            662,
+            498,
+            678
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.76,
+          "bbox": [
+            503,
+            663,
+            533,
+            675
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            688,
+            330,
+            703
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            728,
+            275,
+            740
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            728,
+            333,
+            740
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            728,
+            377,
+            740
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            728,
+            434,
+            742
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            728,
+            500,
+            740
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            728,
+            534,
+            740
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            752,
+            330,
+            767
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            753,
+            346,
+            767
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            752,
+            454,
+            767
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            752,
+            527,
+            767
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            752,
+            574,
+            767
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            792,
+            275,
+            804
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            792,
+            333,
+            804
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            792,
+            377,
+            804
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            792,
+            425,
+            804
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            791,
+            498,
+            807
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            792,
+            533,
+            804
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            817,
+            330,
+            832
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            818,
+            346,
+            832
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            817,
+            454,
+            832
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.66,
+          "bbox": [
+            461,
+            817,
+            527,
+            832
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            817,
+            574,
+            832
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            857,
+            275,
+            869
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            857,
+            333,
+            869
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            857,
+            377,
+            869
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            857,
+            434,
+            871
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            857,
+            500,
+            869
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            857,
+            534,
+            869
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            881,
+            330,
+            896
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            882,
+            346,
+            896
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            881,
+            454,
+            896
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            881,
+            527,
+            896
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            881,
+            574,
+            896
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            922,
+            275,
+            934
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            922,
+            333,
+            934
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            922,
+            377,
+            934
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            922,
+            425,
+            934
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            921,
+            498,
+            937
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            922,
+            533,
+            934
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            946,
+            330,
+            961
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            947,
+            346,
+            961
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            946,
+            454,
+            961
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.71,
+          "bbox": [
+            461,
+            946,
+            527,
+            961
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            946,
+            574,
+            961
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            986,
+            275,
+            998
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            986,
+            333,
+            998
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            986,
+            377,
+            998
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            986,
+            434,
+            1000
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            986,
+            500,
+            998
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            986,
+            534,
+            998
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1011,
+            330,
+            1026
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1012,
+            346,
+            1026
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1011,
+            454,
+            1026
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            1011,
+            527,
+            1026
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1011,
+            574,
+            1026
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1051,
+            275,
+            1063
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            1051,
+            333,
+            1063
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            1051,
+            377,
+            1063
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            1051,
+            425,
+            1063
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            1050,
+            498,
+            1066
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            1051,
+            533,
+            1063
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1075,
+            330,
+            1090
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1076,
+            346,
+            1090
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1075,
+            454,
+            1090
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.68,
+          "bbox": [
+            461,
+            1075,
+            527,
+            1090
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1075,
+            574,
+            1090
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1116,
+            275,
+            1128
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1116,
+            333,
+            1128
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1116,
+            377,
+            1128
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1116,
+            434,
+            1130
+          ]
+        },
+        {
+          "text": "3x1x300",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1116,
+            500,
+            1128
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            1116,
+            534,
+            1128
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1140,
+            330,
+            1155
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1141,
+            346,
+            1155
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1140,
+            454,
+            1155
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            1140,
+            527,
+            1155
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1140,
+            574,
+            1155
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            1180,
+            275,
+            1192
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            1180,
+            333,
+            1192
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            1180,
+            377,
+            1192
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            1180,
+            425,
+            1192
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            1179,
+            498,
+            1195
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            1180,
+            533,
+            1192
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            1205,
+            330,
+            1220
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            1245,
+            275,
+            1257
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1245,
+            333,
+            1257
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1245,
+            377,
+            1257
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1245,
+            434,
+            1259
+          ]
+        },
+        {
+          "text": "4x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1245,
+            500,
+            1257
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            1245,
+            534,
+            1257
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1269,
+            330,
+            1284
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1270,
+            346,
+            1284
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1269,
+            454,
+            1284
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.59,
+          "bbox": [
+            461,
+            1269,
+            527,
+            1284
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1269,
+            574,
+            1284
+          ]
+        },
+        {
+          "text": "MAXI",
+          "confidence": 0.92,
+          "bbox": [
+            213,
+            1292,
+            258,
+            1306
+          ]
+        },
+        {
+          "text": "500M",
+          "confidence": 0.92,
+          "bbox": [
+            266,
+            1292,
+            314,
+            1306
+          ]
+        },
+        {
+          "text": "PAR",
+          "confidence": 0.93,
+          "bbox": [
+            322,
+            1292,
+            361,
+            1306
+          ]
+        },
+        {
+          "text": "TOURET",
+          "confidence": 0.91,
+          "bbox": [
+            367,
+            1291,
+            449,
+            1306
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            1338,
+            275,
+            1350
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1338,
+            333,
+            1350
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            1338,
+            377,
+            1350
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1338,
+            434,
+            1352
+          ]
+        },
+        {
+          "text": "4x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1338,
+            500,
+            1350
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            1338,
+            534,
+            1350
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1362,
+            330,
+            1377
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1363,
+            346,
+            1377
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1362,
+            454,
+            1377
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.68,
+          "bbox": [
+            461,
+            1362,
+            527,
+            1377
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1362,
+            574,
+            1377
+          ]
+        },
+        {
+          "text": "MAXI",
+          "confidence": 0.92,
+          "bbox": [
+            213,
+            1385,
+            258,
+            1399
+          ]
+        },
+        {
+          "text": "500M",
+          "confidence": 0.92,
+          "bbox": [
+            266,
+            1385,
+            314,
+            1399
+          ]
+        },
+        {
+          "text": "PAR",
+          "confidence": 0.93,
+          "bbox": [
+            322,
+            1385,
+            361,
+            1399
+          ]
+        },
+        {
+          "text": "TOURET",
+          "confidence": 0.91,
+          "bbox": [
+            367,
+            1384,
+            449,
+            1399
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            1431,
+            275,
+            1443
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1431,
+            333,
+            1443
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.91,
+          "bbox": [
+            338,
+            1431,
+            377,
+            1443
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1431,
+            434,
+            1445
+          ]
+        },
+        {
+          "text": "4x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1431,
+            500,
+            1443
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            1431,
+            534,
+            1443
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            1455,
+            330,
+            1470
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1456,
+            346,
+            1470
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            1455,
+            454,
+            1470
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.59,
+          "bbox": [
+            461,
+            1455,
+            527,
+            1470
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1455,
+            574,
+            1470
+          ]
+        },
+        {
+          "text": "MAXI",
+          "confidence": 0.92,
+          "bbox": [
+            213,
+            1478,
+            258,
+            1492
+          ]
+        },
+        {
+          "text": "500M",
+          "confidence": 0.92,
+          "bbox": [
+            266,
+            1478,
+            314,
+            1492
+          ]
+        },
+        {
+          "text": "PAR",
+          "confidence": 0.93,
+          "bbox": [
+            322,
+            1478,
+            361,
+            1492
+          ]
+        },
+        {
+          "text": "TOURET",
+          "confidence": 0.91,
+          "bbox": [
+            367,
+            1477,
+            449,
+            1492
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            1524,
+            275,
+            1536
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            1524,
+            333,
+            1536
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            1524,
+            377,
+            1536
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.91,
+          "bbox": [
+            382,
+            1524,
+            434,
+            1538
+          ]
+        },
+        {
+          "text": "4x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            1524,
+            500,
+            1536
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            1524,
+            534,
+            1536
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            1548,
+            330,
+            1563
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            1549,
+            346,
+            1563
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.95,
+          "bbox": [
+            353,
+            1548,
+            454,
+            1563
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.74,
+          "bbox": [
+            461,
+            1548,
+            527,
+            1563
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            1548,
+            574,
+            1563
+          ]
+        },
+        {
+          "text": "Page2/3",
+          "confidence": 0.92,
+          "bbox": [
+            678,
+            195,
+            735,
+            209
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.9,
+          "bbox": [
+            675,
+            276,
+            727,
+            289
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.91,
+          "bbox": [
+            675,
+            341,
+            726,
+            354
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.9,
+          "bbox": [
+            675,
+            406,
+            727,
+            419
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.91,
+          "bbox": [
+            675,
+            470,
+            726,
+            483
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.9,
+          "bbox": [
+            675,
+            535,
+            727,
+            548
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.91,
+          "bbox": [
+            675,
+            599,
+            726,
+            612
+          ]
+        },
+        {
+          "text": "178ML",
+          "confidence": 0.9,
+          "bbox": [
+            675,
+            664,
+            727,
+            677
+          ]
+        },
+        {
+          "text": "470ML",
+          "confidence": 0.68,
+          "bbox": [
+            673,
+            729,
+            726,
+            742
+          ]
+        },
+        {
+          "text": "470OML",
+          "confidence": 0.46,
+          "bbox": [
+            673,
+            793,
+            727,
+            806
+          ]
+        },
+        {
+          "text": "470ML",
+          "confidence": 0.68,
+          "bbox": [
+            673,
+            858,
+            726,
+            871
+          ]
+        },
+        {
+          "text": "470ML",
+          "confidence": 0.64,
+          "bbox": [
+            673,
+            923,
+            727,
+            936
+          ]
+        },
+        {
+          "text": "470mML",
+          "confidence": 0.53,
+          "bbox": [
+            673,
+            987,
+            726,
+            1000
+          ]
+        },
+        {
+          "text": "470ML",
+          "confidence": 0.64,
+          "bbox": [
+            673,
+            1052,
+            727,
+            1065
+          ]
+        },
+        {
+          "text": "470mML",
+          "confidence": 0.53,
+          "bbox": [
+            673,
+            1116,
+            726,
+            1129
+          ]
+        },
+        {
+          "text": "470ML",
+          "confidence": 0.53,
+          "bbox": [
+            673,
+            1181,
+            727,
+            1194
+          ]
+        },
+        {
+          "text": "641ML",
+          "confidence": 0.92,
+          "bbox": [
+            674,
+            1246,
+            726,
+            1259
+          ]
+        },
+        {
+          "text": "641ML",
+          "confidence": 0.9,
+          "bbox": [
+            674,
+            1339,
+            727,
+            1352
+          ]
+        },
+        {
+          "text": "641ML",
+          "confidence": 0.92,
+          "bbox": [
+            674,
+            1432,
+            726,
+            1445
+          ]
+        },
+        {
+          "text": "641ML",
+          "confidence": 0.9,
+          "bbox": [
+            674,
+            1525,
+            727,
+            1538
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.84,
+          "bbox": [
+            787,
+            276,
+            841,
+            292
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            341,
+            841,
+            357
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.85,
+          "bbox": [
+            787,
+            406,
+            841,
+            422
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            470,
+            841,
+            486
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.82,
+          "bbox": [
+            787,
+            535,
+            841,
+            551
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            599,
+            841,
+            615
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.87,
+          "bbox": [
+            787,
+            664,
+            841,
+            680
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            729,
+            841,
+            745
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.83,
+          "bbox": [
+            786,
+            793,
+            841,
+            809
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            858,
+            841,
+            874
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.83,
+          "bbox": [
+            786,
+            923,
+            841,
+            939
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            987,
+            841,
+            1003
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.82,
+          "bbox": [
+            786,
+            1052,
+            841,
+            1068
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            1116,
+            841,
+            1132
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.84,
+          "bbox": [
+            786,
+            1181,
+            841,
+            1197
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            777,
+            1246,
+            841,
+            1262
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.84,
+          "bbox": [
+            777,
+            1339,
+            841,
+            1355
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            777,
+            1432,
+            841,
+            1448
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            777,
+            1525,
+            841,
+            1541
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            406,
+            937,
+            422
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            470,
+            936,
+            486
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1052,
+            937,
+            1068
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1116,
+            936,
+            1132
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1181,
+            937,
+            1197
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1246,
+            936,
+            1262
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1339,
+            937,
+            1355
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1432,
+            936,
+            1448
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            1525,
+            937,
+            1541
+          ]
+        },
+        {
+          "text": "DEVIS",
+          "confidence": 0.96,
+          "bbox": [
+            986,
+            104,
+            1118,
+            141
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.89,
+          "bbox": [
+            971,
+            276,
+            1026,
+            292
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            341,
+            1025,
+            357
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.89,
+          "bbox": [
+            971,
+            406,
+            1026,
+            422
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            470,
+            1025,
+            486
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.91,
+          "bbox": [
+            971,
+            535,
+            1026,
+            551
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            599,
+            1025,
+            615
+          ]
+        },
+        {
+          "text": "2,846€",
+          "confidence": 0.89,
+          "bbox": [
+            971,
+            664,
+            1026,
+            680
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            729,
+            1025,
+            745
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.91,
+          "bbox": [
+            971,
+            793,
+            1026,
+            809
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            858,
+            1025,
+            874
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.91,
+          "bbox": [
+            971,
+            923,
+            1026,
+            939
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            987,
+            1025,
+            1003
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.9,
+          "bbox": [
+            971,
+            1052,
+            1026,
+            1068
+          ]
+        },
+        {
+          "text": "16,513€",
+          "confidence": 0.92,
+          "bbox": [
+            962,
+            1116,
+            1025,
+            1132
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.9,
+          "bbox": [
+            971,
+            1181,
+            1026,
+            1197
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            961,
+            1246,
+            1025,
+            1262
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            961,
+            1339,
+            1026,
+            1355
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            961,
+            1432,
+            1025,
+            1448
+          ]
+        },
+        {
+          "text": "26,440€",
+          "confidence": 0.91,
+          "bbox": [
+            961,
+            1525,
+            1026,
+            1541
+          ]
+        },
+        {
+          "text": "ELEO",
+          "confidence": 0.92,
+          "bbox": [
+            59,
+            1601,
+            100,
+            1613
+          ]
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            1601,
+            137,
+            1613
+          ]
+        },
+        {
+          "text": "(Société",
+          "confidence": 0.95,
+          "bbox": [
+            144,
+            1601,
+            201,
+            1616
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            207,
+            1605,
+            229,
+            1616
+          ]
+        },
+        {
+          "text": "Action",
+          "confidence": 0.93,
+          "bbox": [
+            234,
+            1602,
+            277,
+            1613
+          ]
+        },
+        {
+          "text": "Simplifiée)",
+          "confidence": 0.84,
+          "bbox": [
+            284,
+            1601,
+            358,
+            1616
+          ]
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.96,
+          "bbox": [
+            364,
+            1601,
+            412,
+            1616
+          ]
+        },
+        {
+          "text": "social",
+          "confidence": 0.93,
+          "bbox": [
+            418,
+            1602,
+            458,
+            1613
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            463,
+            1594,
+            471,
+            1622
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            1602,
+            478,
+            1613
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.92,
+          "bbox": [
+            487,
+            1602,
+            512,
+            1613
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.94,
+          "bbox": [
+            518,
+            1602,
+            543,
+            1613
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            548,
+            1601,
+            557,
+            1613
+          ]
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.93,
+          "bbox": [
+            563,
+            1601,
+            609,
+            1613
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            610,
+            1594,
+            618,
+            1622
+          ]
+        },
+        {
+          "text": "811",
+          "confidence": 0.96,
+          "bbox": [
+            624,
+            1602,
+            647,
+            1613
+          ]
+        },
+        {
+          "text": "738",
+          "confidence": 0.96,
+          "bbox": [
+            655,
+            1602,
+            680,
+            1613
+          ]
+        },
+        {
+          "text": "038",
+          "confidence": 0.96,
+          "bbox": [
+            686,
+            1602,
+            711,
+            1613
+          ]
+        },
+        {
+          "text": "00033",
+          "confidence": 0.95,
+          "bbox": [
+            718,
+            1602,
+            760,
+            1613
+          ]
+        },
+        {
+          "text": "Code",
+          "confidence": 0.93,
+          "bbox": [
+            766,
+            1601,
+            803,
+            1613
+          ]
+        },
+        {
+          "text": "NAF",
+          "confidence": 0.92,
+          "bbox": [
+            810,
+            1602,
+            839,
+            1613
+          ]
+        },
+        {
+          "text": "4669A",
+          "confidence": 0.91,
+          "bbox": [
+            845,
+            1602,
+            891,
+            1613
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.89,
+          "bbox": [
+            897,
+            1601,
+            911,
+            1613
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.89,
+          "bbox": [
+            919,
+            1602,
+            935,
+            1613
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.96,
+          "bbox": [
+            941,
+            1602,
+            972,
+            1613
+          ]
+        },
+        {
+          "text": "506,59€",
+          "confidence": 0.91,
+          "bbox": [
+            1063,
+            276,
+            1127,
+            292
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.68,
+          "bbox": [
+            1049,
+            341,
+            1057,
+            354
+          ]
+        },
+        {
+          "text": "939,31€",
+          "confidence": 0.68,
+          "bbox": [
+            1063,
+            341,
+            1127,
+            357
+          ]
+        },
+        {
+          "text": "506,59€",
+          "confidence": 0.91,
+          "bbox": [
+            1063,
+            406,
+            1127,
+            422
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.68,
+          "bbox": [
+            1049,
+            470,
+            1057,
+            483
+          ]
+        },
+        {
+          "text": "939,31€",
+          "confidence": 0.68,
+          "bbox": [
+            1063,
+            470,
+            1127,
+            486
+          ]
+        },
+        {
+          "text": "506,59€",
+          "confidence": 0.91,
+          "bbox": [
+            1063,
+            535,
+            1127,
+            551
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.68,
+          "bbox": [
+            1049,
+            599,
+            1057,
+            612
+          ]
+        },
+        {
+          "text": "939,31€",
+          "confidence": 0.68,
+          "bbox": [
+            1063,
+            599,
+            1127,
+            615
+          ]
+        },
+        {
+          "text": "506,59€",
+          "confidence": 0.91,
+          "bbox": [
+            1063,
+            664,
+            1127,
+            680
+          ]
+        },
+        {
+          "text": "7761,11€",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            729,
+            1127,
+            745
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.55,
+          "bbox": [
+            1048,
+            793,
+            1057,
+            806
+          ]
+        },
+        {
+          "text": "052,02€",
+          "confidence": 0.55,
+          "bbox": [
+            1063,
+            793,
+            1128,
+            809
+          ]
+        },
+        {
+          "text": "7761,11€",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            858,
+            1127,
+            874
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.56,
+          "bbox": [
+            1048,
+            923,
+            1057,
+            936
+          ]
+        },
+        {
+          "text": "052,02€",
+          "confidence": 0.56,
+          "bbox": [
+            1063,
+            923,
+            1128,
+            939
+          ]
+        },
+        {
+          "text": "7761,11€",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            987,
+            1127,
+            1003
+          ]
+        },
+        {
+          "text": "2052,02€",
+          "confidence": 0.72,
+          "bbox": [
+            1048,
+            1052,
+            1128,
+            1068
+          ]
+        },
+        {
+          "text": "7761,11€",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            1116,
+            1127,
+            1132
+          ]
+        },
+        {
+          "text": "2052,02€",
+          "confidence": 0.69,
+          "bbox": [
+            1048,
+            1181,
+            1128,
+            1197
+          ]
+        },
+        {
+          "text": "16",
+          "confidence": 0.93,
+          "bbox": [
+            1039,
+            1246,
+            1057,
+            1259
+          ]
+        },
+        {
+          "text": "948,04€",
+          "confidence": 0.92,
+          "bbox": [
+            1063,
+            1246,
+            1127,
+            1262
+          ]
+        },
+        {
+          "text": "16",
+          "confidence": 0.93,
+          "bbox": [
+            1039,
+            1339,
+            1057,
+            1352
+          ]
+        },
+        {
+          "text": "948,04€",
+          "confidence": 0.92,
+          "bbox": [
+            1063,
+            1339,
+            1127,
+            1355
+          ]
+        },
+        {
+          "text": "16",
+          "confidence": 0.93,
+          "bbox": [
+            1039,
+            1432,
+            1057,
+            1445
+          ]
+        },
+        {
+          "text": "948,04€",
+          "confidence": 0.92,
+          "bbox": [
+            1063,
+            1432,
+            1127,
+            1448
+          ]
+        },
+        {
+          "text": "16",
+          "confidence": 0.93,
+          "bbox": [
+            1039,
+            1525,
+            1057,
+            1538
+          ]
+        },
+        {
+          "text": "948,04€",
+          "confidence": 0.92,
+          "bbox": [
+            1063,
+            1525,
+            1127,
+            1541
+          ]
+        },
+        {
+          "text": "P.2/3",
+          "confidence": 0.62,
+          "bbox": [
+            1097,
+            1602,
+            1133,
+            1613
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 210,
+      "words": [
+        {
+          "text": "CLEO",
+          "confidence": 0.63,
+          "bbox": [
+            70,
+            69,
+            318,
+            148
+          ]
+        },
+        {
+          "text": "ENERGY",
+          "confidence": 0.9,
+          "bbox": [
+            130,
+            148,
+            206,
+            160
+          ]
+        },
+        {
+          "text": "LINK",
+          "confidence": 0.95,
+          "bbox": [
+            215,
+            148,
+            255,
+            160
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.95,
+          "bbox": [
+            89,
+            193,
+            103,
+            204
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.92,
+          "bbox": [
+            109,
+            194,
+            149,
+            204
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            145,
+            185,
+            153,
+            213
+          ]
+        },
+        {
+          "text": "AR3VQC400",
+          "confidence": 0.78,
+          "bbox": [
+            66,
+            276,
+            163,
+            291
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            341,
+            139,
+            354
+          ]
+        },
+        {
+          "text": "AR3VQC400",
+          "confidence": 0.78,
+          "bbox": [
+            66,
+            406,
+            163,
+            421
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            470,
+            139,
+            483
+          ]
+        },
+        {
+          "text": "AR3VQC400",
+          "confidence": 0.78,
+          "bbox": [
+            66,
+            535,
+            163,
+            550
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            599,
+            139,
+            612
+          ]
+        },
+        {
+          "text": "AR3VQC400",
+          "confidence": 0.78,
+          "bbox": [
+            66,
+            664,
+            163,
+            679
+          ]
+        },
+        {
+          "text": "AR3V240",
+          "confidence": 0.91,
+          "bbox": [
+            66,
+            729,
+            139,
+            742
+          ]
+        },
+        {
+          "text": "20,00%",
+          "confidence": 0.91,
+          "bbox": [
+            108,
+            873,
+            166,
+            889
+          ]
+        },
+        {
+          "text": "37712",
+          "confidence": 0.96,
+          "bbox": [
+            173,
+            196,
+            212,
+            206
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.92,
+          "bbox": [
+            336,
+            196,
+            387,
+            209
+          ]
+        },
+        {
+          "text": "SOLUTIONS",
+          "confidence": 0.92,
+          "bbox": [
+            393,
+            196,
+            487,
+            209
+          ]
+        },
+        {
+          "text": "MAXI",
+          "confidence": 0.92,
+          "bbox": [
+            213,
+            236,
+            258,
+            250
+          ]
+        },
+        {
+          "text": "500M",
+          "confidence": 0.92,
+          "bbox": [
+            266,
+            236,
+            314,
+            250
+          ]
+        },
+        {
+          "text": "PAR",
+          "confidence": 0.93,
+          "bbox": [
+            322,
+            236,
+            361,
+            250
+          ]
+        },
+        {
+          "text": "TOURET",
+          "confidence": 0.91,
+          "bbox": [
+            367,
+            235,
+            449,
+            250
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            275,
+            275,
+            287
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            275,
+            333,
+            287
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            275,
+            377,
+            287
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            275,
+            434,
+            289
+          ]
+        },
+        {
+          "text": "3x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            275,
+            500,
+            287
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            275,
+            534,
+            287
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            300,
+            330,
+            315
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            301,
+            346,
+            315
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            300,
+            454,
+            315
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            300,
+            527,
+            315
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            300,
+            574,
+            315
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            340,
+            275,
+            352
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            340,
+            333,
+            352
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            340,
+            377,
+            352
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            340,
+            425,
+            352
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            339,
+            498,
+            355
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            340,
+            533,
+            352
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            364,
+            330,
+            379
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            365,
+            346,
+            379
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            364,
+            454,
+            379
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.67,
+          "bbox": [
+            461,
+            364,
+            527,
+            379
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            364,
+            574,
+            379
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            405,
+            275,
+            417
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            405,
+            333,
+            417
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            405,
+            377,
+            417
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            405,
+            434,
+            419
+          ]
+        },
+        {
+          "text": "3x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            405,
+            500,
+            417
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            405,
+            534,
+            417
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            429,
+            330,
+            444
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            430,
+            346,
+            444
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            429,
+            454,
+            444
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            429,
+            527,
+            444
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            429,
+            574,
+            444
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            469,
+            275,
+            481
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            469,
+            333,
+            481
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            469,
+            377,
+            481
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            469,
+            425,
+            481
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            468,
+            498,
+            484
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            469,
+            533,
+            481
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            494,
+            330,
+            509
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            495,
+            346,
+            509
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            494,
+            454,
+            509
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.66,
+          "bbox": [
+            461,
+            494,
+            527,
+            509
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            494,
+            574,
+            509
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            534,
+            275,
+            546
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            534,
+            333,
+            546
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            534,
+            377,
+            546
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            534,
+            434,
+            548
+          ]
+        },
+        {
+          "text": "3x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            534,
+            500,
+            546
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            534,
+            534,
+            546
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            558,
+            330,
+            573
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            559,
+            346,
+            573
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            558,
+            454,
+            573
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            558,
+            527,
+            573
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            558,
+            574,
+            573
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            598,
+            275,
+            610
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            598,
+            333,
+            610
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            598,
+            377,
+            610
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            598,
+            425,
+            610
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            597,
+            498,
+            613
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            598,
+            533,
+            610
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            623,
+            330,
+            638
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.9,
+          "bbox": [
+            212,
+            663,
+            275,
+            675
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.92,
+          "bbox": [
+            281,
+            663,
+            333,
+            675
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.9,
+          "bbox": [
+            338,
+            663,
+            377,
+            675
+          ]
+        },
+        {
+          "text": "Quadra",
+          "confidence": 0.92,
+          "bbox": [
+            382,
+            663,
+            434,
+            677
+          ]
+        },
+        {
+          "text": "3x1x400",
+          "confidence": 0.91,
+          "bbox": [
+            440,
+            663,
+            500,
+            675
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.88,
+          "bbox": [
+            505,
+            663,
+            534,
+            675
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            688,
+            330,
+            703
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            689,
+            346,
+            703
+          ]
+        },
+        {
+          "text": "SEMAINES",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            688,
+            454,
+            703
+          ]
+        },
+        {
+          "text": "APRES",
+          "confidence": 0.6,
+          "bbox": [
+            461,
+            688,
+            527,
+            703
+          ]
+        },
+        {
+          "text": "ARC",
+          "confidence": 0.95,
+          "bbox": [
+            533,
+            688,
+            574,
+            703
+          ]
+        },
+        {
+          "text": "SOLAIRO",
+          "confidence": 0.91,
+          "bbox": [
+            212,
+            728,
+            275,
+            740
+          ]
+        },
+        {
+          "text": "U-1500",
+          "confidence": 0.9,
+          "bbox": [
+            281,
+            728,
+            333,
+            740
+          ]
+        },
+        {
+          "text": "AR3V",
+          "confidence": 0.93,
+          "bbox": [
+            338,
+            728,
+            377,
+            740
+          ]
+        },
+        {
+          "text": "1x240",
+          "confidence": 0.93,
+          "bbox": [
+            382,
+            728,
+            425,
+            740
+          ]
+        },
+        {
+          "text": "(1.8/3KV)",
+          "confidence": 0.89,
+          "bbox": [
+            430,
+            727,
+            498,
+            743
+          ]
+        },
+        {
+          "text": "AD8",
+          "confidence": 0.77,
+          "bbox": [
+            503,
+            728,
+            533,
+            740
+          ]
+        },
+        {
+          "text": "DISPONIBLE",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            752,
+            330,
+            767
+          ]
+        },
+        {
+          "text": "38",
+          "confidence": 0.91,
+          "bbox": [
+            263,
+            873,
+            281,
+            886
+          ]
+        },
+        {
+          "text": "659,42€",
+          "confidence": 0.91,
+          "bbox": [
+            287,
+            873,
+            352,
+            889
+          ]
+        },
+        {
+          "text": "231",
+          "confidence": 0.9,
+          "bbox": [
+            443,
+            873,
+            472,
+            886
+          ]
+        },
+        {
+          "text": "956,54€",
+          "confidence": 0.9,
+          "bbox": [
+            478,
+            873,
+            542,
+            889
+          ]
+        },
+        {
+          "text": "Page3/3",
+          "confidence": 0.9,
+          "bbox": [
+            678,
+            194,
+            735,
+            209
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.89,
+          "bbox": [
+            673,
+            276,
+            726,
+            289
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.9,
+          "bbox": [
+            673,
+            341,
+            727,
+            354
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.89,
+          "bbox": [
+            673,
+            406,
+            726,
+            419
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.9,
+          "bbox": [
+            673,
+            470,
+            727,
+            483
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.89,
+          "bbox": [
+            673,
+            535,
+            726,
+            548
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.88,
+          "bbox": [
+            673,
+            599,
+            727,
+            612
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.89,
+          "bbox": [
+            673,
+            664,
+            726,
+            677
+          ]
+        },
+        {
+          "text": "446ML",
+          "confidence": 0.91,
+          "bbox": [
+            673,
+            729,
+            727,
+            742
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            276,
+            841,
+            292
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.83,
+          "bbox": [
+            786,
+            341,
+            841,
+            357
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            406,
+            841,
+            422
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.83,
+          "bbox": [
+            786,
+            470,
+            841,
+            486
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            535,
+            841,
+            551
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.82,
+          "bbox": [
+            786,
+            599,
+            841,
+            615
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            664,
+            841,
+            680
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.83,
+          "bbox": [
+            786,
+            729,
+            841,
+            745
+          ]
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.95,
+          "bbox": [
+            823,
+            888,
+            887,
+            901
+          ]
+        },
+        {
+          "text": "TTC",
+          "confidence": 0.96,
+          "bbox": [
+            900,
+            888,
+            929,
+            901
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            276,
+            937,
+            292
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            341,
+            937,
+            357
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            406,
+            937,
+            422
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            470,
+            937,
+            486
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            535,
+            937,
+            551
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            599,
+            937,
+            615
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            664,
+            937,
+            680
+          ]
+        },
+        {
+          "text": "0,00",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            729,
+            937,
+            745
+          ]
+        },
+        {
+          "text": "DEVIS",
+          "confidence": 0.96,
+          "bbox": [
+            986,
+            104,
+            1118,
+            141
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            961,
+            276,
+            1025,
+            292
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.9,
+          "bbox": [
+            971,
+            341,
+            1026,
+            357
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            961,
+            406,
+            1025,
+            422
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.9,
+          "bbox": [
+            971,
+            470,
+            1026,
+            486
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            961,
+            535,
+            1025,
+            551
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.91,
+          "bbox": [
+            971,
+            599,
+            1026,
+            615
+          ]
+        },
+        {
+          "text": "21,731€",
+          "confidence": 0.89,
+          "bbox": [
+            961,
+            664,
+            1025,
+            680
+          ]
+        },
+        {
+          "text": "4,366€",
+          "confidence": 0.9,
+          "bbox": [
+            971,
+            729,
+            1026,
+            745
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            276,
+            1057,
+            289
+          ]
+        },
+        {
+          "text": "692,03€",
+          "confidence": 0.89,
+          "bbox": [
+            1063,
+            276,
+            1127,
+            292
+          ]
+        },
+        {
+          "text": "1947,24€",
+          "confidence": 0.84,
+          "bbox": [
+            1049,
+            341,
+            1128,
+            357
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            406,
+            1057,
+            419
+          ]
+        },
+        {
+          "text": "692,03€",
+          "confidence": 0.89,
+          "bbox": [
+            1063,
+            406,
+            1127,
+            422
+          ]
+        },
+        {
+          "text": "1947,24€",
+          "confidence": 0.84,
+          "bbox": [
+            1049,
+            470,
+            1128,
+            486
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            535,
+            1057,
+            548
+          ]
+        },
+        {
+          "text": "692,03€",
+          "confidence": 0.89,
+          "bbox": [
+            1063,
+            535,
+            1127,
+            551
+          ]
+        },
+        {
+          "text": "1947,24€",
+          "confidence": 0.84,
+          "bbox": [
+            1049,
+            599,
+            1128,
+            615
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.89,
+          "bbox": [
+            1048,
+            664,
+            1057,
+            677
+          ]
+        },
+        {
+          "text": "692,03€",
+          "confidence": 0.89,
+          "bbox": [
+            1063,
+            664,
+            1127,
+            680
+          ]
+        },
+        {
+          "text": "1947,24€",
+          "confidence": 0.84,
+          "bbox": [
+            1049,
+            729,
+            1128,
+            745
+          ]
+        },
+        {
+          "text": "193",
+          "confidence": 0.9,
+          "bbox": [
+            1017,
+            811,
+            1044,
+            824
+          ]
+        },
+        {
+          "text": "297,12€",
+          "confidence": 0.9,
+          "bbox": [
+            1051,
+            811,
+            1115,
+            827
+          ]
+        },
+        {
+          "text": "38",
+          "confidence": 0.91,
+          "bbox": [
+            1026,
+            849,
+            1045,
+            862
+          ]
+        },
+        {
+          "text": "659,42€",
+          "confidence": 0.91,
+          "bbox": [
+            1051,
+            849,
+            1115,
+            865
+          ]
+        },
+        {
+          "text": "231",
+          "confidence": 0.61,
+          "bbox": [
+            1002,
+            889,
+            1034,
+            903
+          ]
+        },
+        {
+          "text": "956,54€",
+          "confidence": 0.61,
+          "bbox": [
+            1041,
+            889,
+            1113,
+            906
+          ]
+        },
+        {
+          "text": "Les",
+          "confidence": 0.96,
+          "bbox": [
+            59,
+            924,
+            81,
+            934
+          ]
+        },
+        {
+          "text": "prix",
+          "confidence": 0.94,
+          "bbox": [
+            87,
+            924,
+            111,
+            937
+          ]
+        },
+        {
+          "text": "accordés",
+          "confidence": 0.94,
+          "bbox": [
+            115,
+            924,
+            175,
+            934
+          ]
+        },
+        {
+          "text": "sont",
+          "confidence": 0.96,
+          "bbox": [
+            180,
+            924,
+            209,
+            934
+          ]
+        },
+        {
+          "text": "valables",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            924,
+            266,
+            934
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.94,
+          "bbox": [
+            271,
+            927,
+            301,
+            937
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.95,
+          "bbox": [
+            306,
+            924,
+            316,
+            934
+          ]
+        },
+        {
+          "text": "globalité",
+          "confidence": 0.9,
+          "bbox": [
+            321,
+            924,
+            377,
+            937
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            381,
+            924,
+            397,
+            934
+          ]
+        },
+        {
+          "text": "devis",
+          "confidence": 0.91,
+          "bbox": [
+            402,
+            924,
+            436,
+            934
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            441,
+            924,
+            453,
+            934
+          ]
+        },
+        {
+          "text": "seront",
+          "confidence": 0.92,
+          "bbox": [
+            457,
+            925,
+            499,
+            934
+          ]
+        },
+        {
+          "text": "révisables",
+          "confidence": 0.88,
+          "bbox": [
+            503,
+            924,
+            569,
+            934
+          ]
+        },
+        {
+          "text": "selon",
+          "confidence": 0.96,
+          "bbox": [
+            574,
+            924,
+            609,
+            934
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.91,
+          "bbox": [
+            615,
+            924,
+            625,
+            934
+          ]
+        },
+        {
+          "text": "variation",
+          "confidence": 0.91,
+          "bbox": [
+            629,
+            924,
+            686,
+            934
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.95,
+          "bbox": [
+            691,
+            924,
+            713,
+            934
+          ]
+        },
+        {
+          "text": "cours",
+          "confidence": 0.94,
+          "bbox": [
+            718,
+            927,
+            755,
+            934
+          ]
+        },
+        {
+          "text": "matières",
+          "confidence": 0.96,
+          "bbox": [
+            760,
+            924,
+            816,
+            934
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.96,
+          "bbox": [
+            821,
+            924,
+            831,
+            934
+          ]
+        },
+        {
+          "text": "jour",
+          "confidence": 0.96,
+          "bbox": [
+            835,
+            924,
+            862,
+            937
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            866,
+            924,
+            881,
+            934
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.95,
+          "bbox": [
+            886,
+            924,
+            897,
+            934
+          ]
+        },
+        {
+          "text": "commande",
+          "confidence": 0.96,
+          "bbox": [
+            901,
+            924,
+            974,
+            934
+          ]
+        },
+        {
+          "text": "ELEO",
+          "confidence": 0.92,
+          "bbox": [
+            59,
+            1601,
+            100,
+            1613
+          ]
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            1601,
+            137,
+            1613
+          ]
+        },
+        {
+          "text": "(Société",
+          "confidence": 0.95,
+          "bbox": [
+            144,
+            1601,
+            201,
+            1616
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            207,
+            1605,
+            229,
+            1616
+          ]
+        },
+        {
+          "text": "Action",
+          "confidence": 0.93,
+          "bbox": [
+            234,
+            1602,
+            277,
+            1613
+          ]
+        },
+        {
+          "text": "Simplifiée)",
+          "confidence": 0.84,
+          "bbox": [
+            284,
+            1601,
+            358,
+            1616
+          ]
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.96,
+          "bbox": [
+            364,
+            1601,
+            412,
+            1616
+          ]
+        },
+        {
+          "text": "social",
+          "confidence": 0.93,
+          "bbox": [
+            418,
+            1602,
+            458,
+            1613
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            463,
+            1594,
+            471,
+            1622
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            477,
+            1602,
+            478,
+            1613
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.92,
+          "bbox": [
+            487,
+            1602,
+            512,
+            1613
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.94,
+          "bbox": [
+            518,
+            1602,
+            543,
+            1613
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            548,
+            1601,
+            557,
+            1613
+          ]
+        },
+        {
+          "text": "SIRET",
+          "confidence": 0.93,
+          "bbox": [
+            563,
+            1601,
+            609,
+            1613
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            610,
+            1594,
+            618,
+            1622
+          ]
+        },
+        {
+          "text": "811",
+          "confidence": 0.96,
+          "bbox": [
+            624,
+            1602,
+            647,
+            1613
+          ]
+        },
+        {
+          "text": "738",
+          "confidence": 0.96,
+          "bbox": [
+            655,
+            1602,
+            680,
+            1613
+          ]
+        },
+        {
+          "text": "038",
+          "confidence": 0.96,
+          "bbox": [
+            686,
+            1602,
+            711,
+            1613
+          ]
+        },
+        {
+          "text": "00033",
+          "confidence": 0.95,
+          "bbox": [
+            718,
+            1602,
+            760,
+            1613
+          ]
+        },
+        {
+          "text": "Code",
+          "confidence": 0.93,
+          "bbox": [
+            766,
+            1601,
+            803,
+            1613
+          ]
+        },
+        {
+          "text": "NAF",
+          "confidence": 0.92,
+          "bbox": [
+            810,
+            1602,
+            839,
+            1613
+          ]
+        },
+        {
+          "text": "4669A",
+          "confidence": 0.91,
+          "bbox": [
+            845,
+            1602,
+            891,
+            1613
+          ]
+        },
+        {
+          "text": "N°",
+          "confidence": 0.89,
+          "bbox": [
+            897,
+            1601,
+            911,
+            1613
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.89,
+          "bbox": [
+            919,
+            1602,
+            935,
+            1613
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.96,
+          "bbox": [
+            941,
+            1602,
+            972,
+            1613
+          ]
+        },
+        {
+          "text": "P.3/3",
+          "confidence": 0.88,
+          "bbox": [
+            1097,
+            1602,
+            1133,
+            1613
+          ]
+        }
+      ]
+    }
+  ]
+}

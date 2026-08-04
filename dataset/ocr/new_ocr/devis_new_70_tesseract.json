@@ -1,0 +1,6484 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_70.pdf",
+  "duration_seconds": 1.191,
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 262,
+      "words": [
+        {
+          "text": "95",
+          "confidence": 0.93,
+          "bbox": [
+            561,
+            68,
+            592,
+            92
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.88,
+          "bbox": [
+            603,
+            81,
+            611,
+            86
+          ]
+        },
+        {
+          "text": "Vemars",
+          "confidence": 0.88,
+          "bbox": [
+            621,
+            69,
+            727,
+            92
+          ]
+        },
+        {
+          "text": "Ombrières",
+          "confidence": 0.9,
+          "bbox": [
+            456,
+            108,
+            604,
+            132
+          ]
+        },
+        {
+          "text": "photovoltaïques",
+          "confidence": 0.96,
+          "bbox": [
+            613,
+            109,
+            833,
+            138
+          ]
+        },
+        {
+          "text": "24.2966",
+          "confidence": 0.9,
+          "bbox": [
+            592,
+            147,
+            697,
+            170
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.93,
+          "bbox": [
+            431,
+            208,
+            482,
+            223
+          ]
+        },
+        {
+          "text": "Estimatif",
+          "confidence": 0.93,
+          "bbox": [
+            490,
+            207,
+            573,
+            223
+          ]
+        },
+        {
+          "text": "Hors",
+          "confidence": 0.95,
+          "bbox": [
+            579,
+            208,
+            622,
+            223
+          ]
+        },
+        {
+          "text": "Taxe",
+          "confidence": 0.96,
+          "bbox": [
+            629,
+            208,
+            673,
+            223
+          ]
+        },
+        {
+          "text": "Pieux",
+          "confidence": 0.93,
+          "bbox": [
+            431,
+            239,
+            482,
+            254
+          ]
+        },
+        {
+          "text": "forés",
+          "confidence": 0.92,
+          "bbox": [
+            489,
+            238,
+            533,
+            254
+          ]
+        },
+        {
+          "text": "simples",
+          "confidence": 0.96,
+          "bbox": [
+            541,
+            238,
+            608,
+            259
+          ]
+        },
+        {
+          "text": "Base",
+          "confidence": 0.96,
+          "bbox": [
+            34,
+            287,
+            78,
+            302
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            85,
+            287,
+            107,
+            302
+          ]
+        },
+        {
+          "text": "l'exécution",
+          "confidence": 0.93,
+          "bbox": [
+            113,
+            286,
+            218,
+            302
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            226,
+            291,
+            230,
+            302
+          ]
+        },
+        {
+          "text": "Nombre",
+          "confidence": 0.96,
+          "bbox": [
+            65,
+            315,
+            126,
+            349
+          ]
+        },
+        {
+          "text": "Charge",
+          "confidence": 0.95,
+          "bbox": [
+            183,
+            327,
+            238,
+            343
+          ]
+        },
+        {
+          "text": "max",
+          "confidence": 0.93,
+          "bbox": [
+            243,
+            330,
+            275,
+            339
+          ]
+        },
+        {
+          "text": "Références",
+          "confidence": 0.92,
+          "bbox": [
+            344,
+            325,
+            434,
+            339
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            440,
+            330,
+            444,
+            339
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            63,
+            347,
+            77,
+            371
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.94,
+          "bbox": [
+            109,
+            355,
+            127,
+            363
+          ]
+        },
+        {
+          "text": "(ELS",
+          "confidence": 0.91,
+          "bbox": [
+            167,
+            350,
+            290,
+            365
+          ]
+        },
+        {
+          "text": "CAR",
+          "confidence": 0.61,
+          "bbox": [
+            215,
+            346,
+            245,
+            370
+          ]
+        },
+        {
+          "text": "ent)",
+          "confidence": 0.61,
+          "bbox": [
+            251,
+            350,
+            290,
+            365
+          ]
+        },
+        {
+          "text": "58",
+          "confidence": 0.95,
+          "bbox": [
+            86,
+            375,
+            104,
+            388
+          ]
+        },
+        {
+          "text": "T2",
+          "confidence": 0.48,
+          "bbox": [
+            222,
+            374,
+            238,
+            387
+          ]
+        },
+        {
+          "text": "plan",
+          "confidence": 0.94,
+          "bbox": [
+            348,
+            375,
+            381,
+            390
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            388,
+            379,
+            391,
+            388
+          ]
+        },
+        {
+          "text": "NF",
+          "confidence": 0.87,
+          "bbox": [
+            746,
+            376,
+            770,
+            389
+          ]
+        },
+        {
+          "text": "P",
+          "confidence": 0.92,
+          "bbox": [
+            775,
+            376,
+            786,
+            389
+          ]
+        },
+        {
+          "text": "94-262",
+          "confidence": 0.94,
+          "bbox": [
+            791,
+            376,
+            846,
+            390
+          ]
+        },
+        {
+          "text": "36",
+          "confidence": 0.96,
+          "bbox": [
+            86,
+            400,
+            104,
+            413
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.82,
+          "bbox": [
+            222,
+            399,
+            238,
+            412
+          ]
+        },
+        {
+          "text": "implantation",
+          "confidence": 0.5,
+          "bbox": [
+            343,
+            402,
+            407,
+            414
+          ]
+        },
+        {
+          "text": "IB0412-EXE-A24001-SFECO-DDC1-2_SFECO_Ombrières",
+          "confidence": 0.0,
+          "bbox": [
+            300,
+            427,
+            609,
+            438
+          ]
+        },
+        {
+          "text": "parking",
+          "confidence": 0.93,
+          "bbox": [
+            614,
+            427,
+            652,
+            439
+          ]
+        },
+        {
+          "text": "Chand",
+          "confidence": 0.49,
+          "bbox": [
+            656,
+            427,
+            686,
+            436
+          ]
+        },
+        {
+          "text": "Plateforme",
+          "confidence": 0.47,
+          "bbox": [
+            705,
+            425,
+            790,
+            438
+          ]
+        },
+        {
+          "text": "stabilisée",
+          "confidence": 0.96,
+          "bbox": [
+            796,
+            425,
+            868,
+            438
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            873,
+            427,
+            887,
+            438
+          ]
+        },
+        {
+          "text": "rapport",
+          "confidence": 0.89,
+          "bbox": [
+            343,
+            452,
+            399,
+            467
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.91,
+          "bbox": [
+            405,
+            450,
+            423,
+            463
+          ]
+        },
+        {
+          "text": "sol",
+          "confidence": 0.92,
+          "bbox": [
+            429,
+            450,
+            450,
+            463
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            457,
+            454,
+            459,
+            463
+          ]
+        },
+        {
+          "text": "horizontale",
+          "confidence": 0.92,
+          "bbox": [
+            725,
+            449,
+            813,
+            462
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.96,
+          "bbox": [
+            819,
+            453,
+            836,
+            462
+          ]
+        },
+        {
+          "text": "TN",
+          "confidence": 0.95,
+          "bbox": [
+            841,
+            449,
+            867,
+            462
+          ]
+        },
+        {
+          "text": "V2",
+          "confidence": 0.91,
+          "bbox": [
+            343,
+            477,
+            357,
+            486
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.85,
+          "bbox": [
+            362,
+            483,
+            365,
+            484
+          ]
+        },
+        {
+          "text": "Eude",
+          "confidence": 0.32,
+          "bbox": [
+            370,
+            477,
+            399,
+            486
+          ]
+        },
+        {
+          "text": "soi",
+          "confidence": 0.61,
+          "bbox": [
+            403,
+            477,
+            422,
+            486
+          ]
+        },
+        {
+          "text": "62",
+          "confidence": 0.51,
+          "bbox": [
+            427,
+            477,
+            441,
+            486
+          ]
+        },
+        {
+          "text": "PRO",
+          "confidence": 0.94,
+          "bbox": [
+            446,
+            477,
+            470,
+            486
+          ]
+        },
+        {
+          "text": "Dimensionnement",
+          "confidence": 0.9,
+          "bbox": [
+            692,
+            351,
+            835,
+            364
+          ]
+        },
+        {
+          "text": "selon",
+          "confidence": 0.96,
+          "bbox": [
+            840,
+            351,
+            881,
+            364
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.95,
+          "bbox": [
+            886,
+            351,
+            900,
+            364
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.93,
+          "bbox": [
+            343,
+            505,
+            355,
+            514
+          ]
+        },
+        {
+          "text": "30-04-2019",
+          "confidence": 0.92,
+          "bbox": [
+            360,
+            505,
+            418,
+            514
+          ]
+        },
+        {
+          "text": "Désignation",
+          "confidence": 0.94,
+          "bbox": [
+            212,
+            538,
+            311,
+            556
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            316,
+            539,
+            342,
+            552
+          ]
+        },
+        {
+          "text": "Travaux",
+          "confidence": 0.95,
+          "bbox": [
+            348,
+            539,
+            419,
+            552
+          ]
+        },
+        {
+          "text": "Amenée",
+          "confidence": 0.86,
+          "bbox": [
+            86,
+            596,
+            145,
+            609
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            151,
+            598,
+            164,
+            609
+          ]
+        },
+        {
+          "text": "repli",
+          "confidence": 0.96,
+          "bbox": [
+            170,
+            597,
+            204,
+            613
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.94,
+          "bbox": [
+            210,
+            597,
+            228,
+            609
+          ]
+        },
+        {
+          "text": "personnel",
+          "confidence": 0.93,
+          "bbox": [
+            234,
+            597,
+            307,
+            613
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.94,
+          "bbox": [
+            312,
+            598,
+            326,
+            609
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.94,
+          "bbox": [
+            331,
+            597,
+            350,
+            609
+          ]
+        },
+        {
+          "text": "matériel",
+          "confidence": 0.93,
+          "bbox": [
+            355,
+            596,
+            417,
+            609
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            424,
+            601,
+            427,
+            609
+          ]
+        },
+        {
+          "text": "Prix",
+          "confidence": 0.96,
+          "bbox": [
+            120,
+            621,
+            149,
+            633
+          ]
+        },
+        {
+          "text": "forfaitaire",
+          "confidence": 0.78,
+          "bbox": [
+            155,
+            621,
+            224,
+            633
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.78,
+          "bbox": [
+            231,
+            625,
+            233,
+            633
+          ]
+        },
+        {
+          "text": "Par",
+          "confidence": 0.96,
+          "bbox": [
+            452,
+            621,
+            475,
+            633
+          ]
+        },
+        {
+          "text": "atelier",
+          "confidence": 0.93,
+          "bbox": [
+            480,
+            621,
+            524,
+            633
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            530,
+            625,
+            532,
+            633
+          ]
+        },
+        {
+          "text": "12000,00",
+          "confidence": 0.77,
+          "bbox": [
+            676,
+            620,
+            746,
+            634
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.91,
+          "bbox": [
+            805,
+            620,
+            820,
+            633
+          ]
+        },
+        {
+          "text": "000,00",
+          "confidence": 0.91,
+          "bbox": [
+            826,
+            620,
+            878,
+            636
+          ]
+        },
+        {
+          "text": "Piquetage",
+          "confidence": 0.82,
+          "bbox": [
+            86,
+            671,
+            159,
+            687
+          ]
+        },
+        {
+          "text": "selon",
+          "confidence": 0.96,
+          "bbox": [
+            165,
+            671,
+            203,
+            683
+          ]
+        },
+        {
+          "text": "plan",
+          "confidence": 0.93,
+          "bbox": [
+            208,
+            671,
+            241,
+            687
+          ]
+        },
+        {
+          "text": "BET",
+          "confidence": 0.9,
+          "bbox": [
+            246,
+            671,
+            281,
+            683
+          ]
+        },
+        {
+          "text": "béto:",
+          "confidence": 0.37,
+          "bbox": [
+            286,
+            670,
+            318,
+            683
+          ]
+        },
+        {
+          "text": "L'unité",
+          "confidence": 0.9,
+          "bbox": [
+            462,
+            670,
+            510,
+            682
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            521,
+            674,
+            523,
+            682
+          ]
+        },
+        {
+          "text": "40,00",
+          "confidence": 0.93,
+          "bbox": [
+            688,
+            659,
+            731,
+            693
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.85,
+          "bbox": [
+            807,
+            670,
+            814,
+            683
+          ]
+        },
+        {
+          "text": "760,00",
+          "confidence": 0.85,
+          "bbox": [
+            821,
+            670,
+            873,
+            686
+          ]
+        },
+        {
+          "text": "Exécution",
+          "confidence": 0.96,
+          "bbox": [
+            86,
+            719,
+            161,
+            732
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            166,
+            720,
+            183,
+            732
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.95,
+          "bbox": [
+            189,
+            720,
+            229,
+            736
+          ]
+        },
+        {
+          "text": "y",
+          "confidence": 0.94,
+          "bbox": [
+            235,
+            724,
+            242,
+            736
+          ]
+        },
+        {
+          "text": "compris",
+          "confidence": 0.92,
+          "bbox": [
+            248,
+            720,
+            308,
+            736
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            315,
+            724,
+            318,
+            732
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.37,
+          "bbox": [
+            88,
+            744,
+            102,
+            756
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.85,
+          "bbox": [
+            120,
+            744,
+            194,
+            756
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            199,
+            746,
+            211,
+            756
+          ]
+        },
+        {
+          "text": "mise",
+          "confidence": 0.91,
+          "bbox": [
+            217,
+            748,
+            249,
+            756
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            254,
+            748,
+            270,
+            756
+          ]
+        },
+        {
+          "text": "place",
+          "confidence": 0.96,
+          "bbox": [
+            276,
+            744,
+            312,
+            760
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            317,
+            744,
+            334,
+            756
+          ]
+        },
+        {
+          "text": "béton",
+          "confidence": 0.92,
+          "bbox": [
+            340,
+            744,
+            378,
+            756
+          ]
+        },
+        {
+          "text": "dosé",
+          "confidence": 0.91,
+          "bbox": [
+            384,
+            744,
+            415,
+            756
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.91,
+          "bbox": [
+            421,
+            744,
+            428,
+            756
+          ]
+        },
+        {
+          "text": "350",
+          "confidence": 0.96,
+          "bbox": [
+            434,
+            744,
+            459,
+            756
+          ]
+        },
+        {
+          "text": "kg,",
+          "confidence": 0.83,
+          "bbox": [
+            464,
+            744,
+            485,
+            760
+          ]
+        },
+        {
+          "text": "type",
+          "confidence": 0.59,
+          "bbox": [
+            120,
+            771,
+            149,
+            785
+          ]
+        },
+        {
+          "text": "XAI",
+          "confidence": 0.8,
+          "bbox": [
+            164,
+            769,
+            194,
+            781
+          ]
+        },
+        {
+          "text": "G3",
+          "confidence": 0.91,
+          "bbox": [
+            120,
+            794,
+            140,
+            806
+          ]
+        },
+        {
+          "text": "étude",
+          "confidence": 0.92,
+          "bbox": [
+            146,
+            794,
+            183,
+            806
+          ]
+        },
+        {
+          "text": "(note",
+          "confidence": 0.92,
+          "bbox": [
+            189,
+            795,
+            224,
+            808
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.94,
+          "bbox": [
+            230,
+            794,
+            245,
+            806
+          ]
+        },
+        {
+          "text": "calculs)",
+          "confidence": 0.94,
+          "bbox": [
+            251,
+            794,
+            305,
+            809
+          ]
+        },
+        {
+          "text": "Essais",
+          "confidence": 0.92,
+          "bbox": [
+            120,
+            819,
+            163,
+            831
+          ]
+        },
+        {
+          "text": "d'impédance",
+          "confidence": 0.85,
+          "bbox": [
+            169,
+            819,
+            257,
+            835
+          ]
+        },
+        {
+          "text": "selon",
+          "confidence": 0.88,
+          "bbox": [
+            263,
+            819,
+            298,
+            831
+          ]
+        },
+        {
+          "text": "norme",
+          "confidence": 0.88,
+          "bbox": [
+            304,
+            823,
+            348,
+            831
+          ]
+        },
+        {
+          "text": "EUROCODE",
+          "confidence": 0.92,
+          "bbox": [
+            354,
+            819,
+            449,
+            831
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.96,
+          "bbox": [
+            454,
+            819,
+            461,
+            831
+          ]
+        },
+        {
+          "text": "Protection",
+          "confidence": 0.96,
+          "bbox": [
+            120,
+            843,
+            192,
+            855
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            197,
+            843,
+            213,
+            855
+          ]
+        },
+        {
+          "text": "l'enrobé",
+          "confidence": 0.9,
+          "bbox": [
+            219,
+            843,
+            273,
+            855
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            82,
+            872,
+            108,
+            880
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.93,
+          "bbox": [
+            144,
+            868,
+            161,
+            880
+          ]
+        },
+        {
+          "text": "pieu",
+          "confidence": 0.92,
+          "bbox": [
+            167,
+            872,
+            196,
+            884
+          ]
+        },
+        {
+          "text": "charge",
+          "confidence": 0.79,
+          "bbox": [
+            202,
+            868,
+            240,
+            884
+          ]
+        },
+        {
+          "text": "ca",
+          "confidence": 0.88,
+          "bbox": [
+            445,
+            864,
+            455,
+            889
+          ]
+        },
+        {
+          "text": "1523,00",
+          "confidence": 0.92,
+          "bbox": [
+            681,
+            867,
+            741,
+            881
+          ]
+        },
+        {
+          "text": "88",
+          "confidence": 0.96,
+          "bbox": [
+            803,
+            867,
+            820,
+            880
+          ]
+        },
+        {
+          "text": "334,00",
+          "confidence": 0.96,
+          "bbox": [
+            826,
+            867,
+            878,
+            883
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.92,
+          "bbox": [
+            82,
+            897,
+            108,
+            905
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.28,
+          "bbox": [
+            144,
+            893,
+            161,
+            905
+          ]
+        },
+        {
+          "text": "pieu",
+          "confidence": 0.28,
+          "bbox": [
+            167,
+            897,
+            196,
+            909
+          ]
+        },
+        {
+          "text": "chargé",
+          "confidence": 0.82,
+          "bbox": [
+            202,
+            893,
+            248,
+            909
+          ]
+        },
+        {
+          "text": "à:",
+          "confidence": 0.82,
+          "bbox": [
+            267,
+            903,
+            269,
+            905
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.87,
+          "bbox": [
+            543,
+            897,
+            545,
+            905
+          ]
+        },
+        {
+          "text": "1523.00",
+          "confidence": 0.64,
+          "bbox": [
+            681,
+            892,
+            741,
+            906
+          ]
+        },
+        {
+          "text": "54",
+          "confidence": 0.91,
+          "bbox": [
+            803,
+            892,
+            820,
+            905
+          ]
+        },
+        {
+          "text": "828,00",
+          "confidence": 0.91,
+          "bbox": [
+            826,
+            892,
+            878,
+            908
+          ]
+        },
+        {
+          "text": "*",
+          "confidence": 0.79,
+          "bbox": [
+            77,
+            916,
+            83,
+            923
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.92,
+          "bbox": [
+            90,
+            916,
+            128,
+            932
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            133,
+            916,
+            149,
+            928
+          ]
+        },
+        {
+          "text": "grue",
+          "confidence": 0.94,
+          "bbox": [
+            155,
+            920,
+            185,
+            932
+          ]
+        },
+        {
+          "text": "non",
+          "confidence": 0.95,
+          "bbox": [
+            190,
+            920,
+            215,
+            928
+          ]
+        },
+        {
+          "text": "inclus",
+          "confidence": 0.96,
+          "bbox": [
+            222,
+            916,
+            263,
+            928
+          ]
+        },
+        {
+          "text": "#",
+          "confidence": 0.63,
+          "bbox": [
+            77,
+            941,
+            83,
+            948
+          ]
+        },
+        {
+          "text": "axes",
+          "confidence": 0.74,
+          "bbox": [
+            90,
+            945,
+            120,
+            953
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.92,
+          "bbox": [
+            125,
+            941,
+            148,
+            953
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.96,
+          "bbox": [
+            154,
+            941,
+            192,
+            957
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            198,
+            941,
+            205,
+            953
+          ]
+        },
+        {
+          "text": "1m",
+          "confidence": 0.84,
+          "bbox": [
+            212,
+            941,
+            231,
+            953
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            237,
+            941,
+            259,
+            953
+          ]
+        },
+        {
+          "text": "avoisinants",
+          "confidence": 0.84,
+          "bbox": [
+            265,
+            943,
+            344,
+            953
+          ]
+        },
+        {
+          "text": "*",
+          "confidence": 0.76,
+          "bbox": [
+            77,
+            966,
+            83,
+            973
+          ]
+        },
+        {
+          "text": "sondages",
+          "confidence": 0.94,
+          "bbox": [
+            90,
+            966,
+            153,
+            982
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            158,
+            966,
+            174,
+            978
+          ]
+        },
+        {
+          "text": "l'étude",
+          "confidence": 0.9,
+          "bbox": [
+            180,
+            966,
+            225,
+            978
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            231,
+            966,
+            246,
+            978
+          ]
+        },
+        {
+          "text": "sol",
+          "confidence": 0.95,
+          "bbox": [
+            252,
+            966,
+            271,
+            978
+          ]
+        },
+        {
+          "text": "trop",
+          "confidence": 0.95,
+          "bbox": [
+            277,
+            968,
+            305,
+            982
+          ]
+        },
+        {
+          "text": "courts",
+          "confidence": 0.96,
+          "bbox": [
+            310,
+            968,
+            352,
+            978
+          ]
+        },
+        {
+          "text": "Plus",
+          "confidence": 0.95,
+          "bbox": [
+            86,
+            1042,
+            117,
+            1054
+          ]
+        },
+        {
+          "text": "value",
+          "confidence": 0.93,
+          "bbox": [
+            123,
+            1042,
+            162,
+            1054
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.93,
+          "bbox": [
+            168,
+            1046,
+            203,
+            1058
+          ]
+        },
+        {
+          "text": "foisonnement",
+          "confidence": 0.86,
+          "bbox": [
+            209,
+            1042,
+            309,
+            1054
+          ]
+        },
+        {
+          "text": "béton",
+          "confidence": 0.93,
+          "bbox": [
+            315,
+            1041,
+            356,
+            1054
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            363,
+            1046,
+            366,
+            1054
+          ]
+        },
+        {
+          "text": "Foisonnement",
+          "confidence": 0.92,
+          "bbox": [
+            139,
+            1067,
+            237,
+            1079
+          ]
+        },
+        {
+          "text": "supérieur",
+          "confidence": 0.96,
+          "bbox": [
+            243,
+            1067,
+            308,
+            1083
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.94,
+          "bbox": [
+            314,
+            1067,
+            321,
+            1079
+          ]
+        },
+        {
+          "text": "30",
+          "confidence": 0.92,
+          "bbox": [
+            326,
+            1067,
+            343,
+            1079
+          ]
+        },
+        {
+          "text": "%",
+          "confidence": 0.92,
+          "bbox": [
+            349,
+            1067,
+            361,
+            1079
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.93,
+          "bbox": [
+            86,
+            1119,
+            168,
+            1131
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            174,
+            1120,
+            187,
+            1131
+          ]
+        },
+        {
+          "text": "mise",
+          "confidence": 0.95,
+          "bbox": [
+            193,
+            1123,
+            206,
+            1131
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.95,
+          "bbox": [
+            231,
+            1123,
+            248,
+            1131
+          ]
+        },
+        {
+          "text": "place",
+          "confidence": 0.91,
+          "bbox": [
+            254,
+            1119,
+            292,
+            1135
+          ]
+        },
+        {
+          "text": "d'aciers",
+          "confidence": 0.89,
+          "bbox": [
+            298,
+            1119,
+            356,
+            1131
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            363,
+            1123,
+            366,
+            1131
+          ]
+        },
+        {
+          "text": "a)",
+          "confidence": 0.81,
+          "bbox": [
+            129,
+            1144,
+            148,
+            1159
+          ]
+        },
+        {
+          "text": "Cages",
+          "confidence": 0.81,
+          "bbox": [
+            163,
+            1143,
+            205,
+            1159
+          ]
+        },
+        {
+          "text": "d'armatures",
+          "confidence": 0.61,
+          "bbox": [
+            211,
+            1143,
+            292,
+            1155
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            303,
+            1147,
+            305,
+            1155
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            538,
+            1147,
+            540,
+            1155
+          ]
+        },
+        {
+          "text": "1,90",
+          "confidence": 0.95,
+          "bbox": [
+            696,
+            1142,
+            727,
+            1157
+          ]
+        },
+        {
+          "text": "30",
+          "confidence": 0.92,
+          "bbox": [
+            802,
+            1143,
+            820,
+            1156
+          ]
+        },
+        {
+          "text": "400,00",
+          "confidence": 0.92,
+          "bbox": [
+            825,
+            1143,
+            878,
+            1159
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.91,
+          "bbox": [
+            86,
+            1192,
+            168,
+            1204
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.91,
+          "bbox": [
+            174,
+            1193,
+            187,
+            1204
+          ]
+        },
+        {
+          "text": "mise",
+          "confidence": 0.95,
+          "bbox": [
+            193,
+            1192,
+            226,
+            1204
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.93,
+          "bbox": [
+            231,
+            1196,
+            248,
+            1204
+          ]
+        },
+        {
+          "text": "place",
+          "confidence": 0.93,
+          "bbox": [
+            254,
+            1192,
+            292,
+            1208
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            298,
+            1192,
+            314,
+            1204
+          ]
+        },
+        {
+          "text": "tubes",
+          "confidence": 0.96,
+          "bbox": [
+            320,
+            1192,
+            359,
+            1204
+          ]
+        },
+        {
+          "text": "définitifs",
+          "confidence": 0.93,
+          "bbox": [
+            365,
+            1191,
+            398,
+            1204
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            438,
+            1196,
+            441,
+            1204
+          ]
+        },
+        {
+          "text": "£",
+          "confidence": 0.23,
+          "bbox": [
+            520,
+            1205,
+            526,
+            1208
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.23,
+          "bbox": [
+            538,
+            1196,
+            540,
+            1204
+          ]
+        },
+        {
+          "text": "non",
+          "confidence": 0.94,
+          "bbox": [
+            692,
+            1194,
+            719,
+            1203
+          ]
+        },
+        {
+          "text": "inclus",
+          "confidence": 0.94,
+          "bbox": [
+            726,
+            1190,
+            771,
+            1203
+          ]
+        },
+        {
+          "text": "Evacuation",
+          "confidence": 0.96,
+          "bbox": [
+            86,
+            1241,
+            171,
+            1253
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            176,
+            1241,
+            200,
+            1253
+          ]
+        },
+        {
+          "text": "déblais",
+          "confidence": 0.91,
+          "bbox": [
+            205,
+            1240,
+            258,
+            1253
+          ]
+        },
+        {
+          "text": "(inertes",
+          "confidence": 0.9,
+          "bbox": [
+            275,
+            1242,
+            320,
+            1253
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            325,
+            1242,
+            339,
+            1253
+          ]
+        },
+        {
+          "text": "non-pollués)",
+          "confidence": 0.92,
+          "bbox": [
+            344,
+            1240,
+            437,
+            1257
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            444,
+            1245,
+            446,
+            1253
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.9,
+          "bbox": [
+            86,
+            1272,
+            102,
+            1280
+          ]
+        },
+        {
+          "text": "filière",
+          "confidence": 0.93,
+          "bbox": [
+            108,
+            1267,
+            152,
+            1280
+          ]
+        },
+        {
+          "text": "ISDI",
+          "confidence": 0.91,
+          "bbox": [
+            157,
+            1268,
+            192,
+            1280
+          ]
+        },
+        {
+          "text": "Lem",
+          "confidence": 0.86,
+          "bbox": [
+            487,
+            1265,
+            528,
+            1282
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.86,
+          "bbox": [
+            539,
+            1274,
+            541,
+            1282
+          ]
+        },
+        {
+          "text": "221",
+          "confidence": 0.96,
+          "bbox": [
+            587,
+            1267,
+            613,
+            1280
+          ]
+        },
+        {
+          "text": "Plus-value",
+          "confidence": 0.82,
+          "bbox": [
+            86,
+            1319,
+            164,
+            1331
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            169,
+            1323,
+            205,
+            1335
+          ]
+        },
+        {
+          "text": "utilisation",
+          "confidence": 0.95,
+          "bbox": [
+            210,
+            1319,
+            286,
+            1331
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.93,
+          "bbox": [
+            291,
+            1319,
+            310,
+            1331
+          ]
+        },
+        {
+          "text": "carottier",
+          "confidence": 0.92,
+          "bbox": [
+            315,
+            1319,
+            381,
+            1331
+          ]
+        },
+        {
+          "text": "au-delà",
+          "confidence": 0.96,
+          "bbox": [
+            386,
+            1319,
+            442,
+            1331
+          ]
+        },
+        {
+          "text": "d'une",
+          "confidence": 0.96,
+          "bbox": [
+            447,
+            1319,
+            489,
+            1331
+          ]
+        },
+        {
+          "text": "heure",
+          "confidence": 0.96,
+          "bbox": [
+            494,
+            1319,
+            537,
+            1331
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.93,
+          "bbox": [
+            542,
+            1323,
+            568,
+            1335
+          ]
+        },
+        {
+          "text": "pieu",
+          "confidence": 0.93,
+          "bbox": [
+            574,
+            1319,
+            605,
+            1335
+          ]
+        },
+        {
+          "text": "L'heure",
+          "confidence": 0.81,
+          "bbox": [
+            484,
+            1343,
+            535,
+            1355
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.81,
+          "bbox": [
+            542,
+            1347,
+            544,
+            1355
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.75,
+          "bbox": [
+            554,
+            1333,
+            566,
+            1365
+          ]
+        },
+        {
+          "text": "PM.",
+          "confidence": 0.34,
+          "bbox": [
+            583,
+            1343,
+            619,
+            1356
+          ]
+        },
+        {
+          "text": "Immobilisation",
+          "confidence": 0.79,
+          "bbox": [
+            86,
+            1393,
+            200,
+            1405
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            205,
+            1397,
+            241,
+            1409
+          ]
+        },
+        {
+          "text": "toute",
+          "confidence": 0.92,
+          "bbox": [
+            247,
+            1394,
+            284,
+            1405
+          ]
+        },
+        {
+          "text": "cause",
+          "confidence": 0.93,
+          "bbox": [
+            289,
+            1397,
+            330,
+            1405
+          ]
+        },
+        {
+          "text": "non-imputable",
+          "confidence": 0.91,
+          "bbox": [
+            336,
+            1393,
+            446,
+            1409
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.95,
+          "bbox": [
+            451,
+            1392,
+            459,
+            1405
+          ]
+        },
+        {
+          "text": "SONDEFOR",
+          "confidence": 0.92,
+          "bbox": [
+            86,
+            1418,
+            183,
+            1430
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            189,
+            1422,
+            192,
+            1430
+          ]
+        },
+        {
+          "text": "Par",
+          "confidence": 0.96,
+          "bbox": [
+            257,
+            1417,
+            278,
+            1429
+          ]
+        },
+        {
+          "text": "atelier",
+          "confidence": 0.9,
+          "bbox": [
+            285,
+            1417,
+            327,
+            1429
+          ]
+        },
+        {
+          "text": "L'heure",
+          "confidence": 0.94,
+          "bbox": [
+            482,
+            1417,
+            533,
+            1429
+          ]
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.93,
+          "bbox": [
+            330,
+            1495,
+            397,
+            1510
+          ]
+        },
+        {
+          "text": "ESTIMATIF",
+          "confidence": 0.91,
+          "bbox": [
+            407,
+            1495,
+            516,
+            1510
+          ]
+        },
+        {
+          "text": "HORS",
+          "confidence": 0.92,
+          "bbox": [
+            527,
+            1495,
+            581,
+            1510
+          ]
+        },
+        {
+          "text": "TAXES",
+          "confidence": 0.92,
+          "bbox": [
+            591,
+            1495,
+            655,
+            1510
+          ]
+        },
+        {
+          "text": "200",
+          "confidence": 0.94,
+          "bbox": [
+            780,
+            1496,
+            808,
+            1509
+          ]
+        },
+        {
+          "text": "372",
+          "confidence": 0.94,
+          "bbox": [
+            813,
+            1496,
+            841,
+            1509
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            847,
+            1496,
+            856,
+            1509
+          ]
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.93,
+          "bbox": [
+            329,
+            1558,
+            396,
+            1573
+          ]
+        },
+        {
+          "text": "ARRONDI",
+          "confidence": 0.89,
+          "bbox": [
+            406,
+            1558,
+            498,
+            1573
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.91,
+          "bbox": [
+            504,
+            1559,
+            517,
+            1572
+          ]
+        },
+        {
+          "text": "HORS",
+          "confidence": 0.92,
+          "bbox": [
+            527,
+            1558,
+            581,
+            1573
+          ]
+        },
+        {
+          "text": "TAXES",
+          "confidence": 0.92,
+          "bbox": [
+            592,
+            1558,
+            656,
+            1573
+          ]
+        },
+        {
+          "text": "200",
+          "confidence": 0.96,
+          "bbox": [
+            780,
+            1559,
+            808,
+            1572
+          ]
+        },
+        {
+          "text": "000",
+          "confidence": 0.96,
+          "bbox": [
+            814,
+            1559,
+            842,
+            1572
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            847,
+            1559,
+            856,
+            1572
+          ]
+        },
+        {
+          "text": "03/02/2025",
+          "confidence": 0.96,
+          "bbox": [
+            111,
+            1640,
+            191,
+            1652
+          ]
+        },
+        {
+          "text": "page",
+          "confidence": 0.95,
+          "bbox": [
+            990,
+            1643,
+            1025,
+            1656
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.53,
+          "bbox": [
+            1032,
+            1640,
+            1036,
+            1652
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.93,
+          "bbox": [
+            1045,
+            1643,
+            1066,
+            1652
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.91,
+          "bbox": [
+            1072,
+            1640,
+            1080,
+            1652
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 384,
+      "words": [
+        {
+          "text": "Prix",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            96,
+            108,
+            109
+          ]
+        },
+        {
+          "text": "valeur",
+          "confidence": 0.93,
+          "bbox": [
+            115,
+            96,
+            162,
+            109
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            169,
+            100,
+            171,
+            109
+          ]
+        },
+        {
+          "text": "03/01/2025",
+          "confidence": 0.96,
+          "bbox": [
+            231,
+            96,
+            319,
+            110
+          ]
+        },
+        {
+          "text": "Durée",
+          "confidence": 0.96,
+          "bbox": [
+            387,
+            96,
+            432,
+            109
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            438,
+            97,
+            455,
+            109
+          ]
+        },
+        {
+          "text": "validité",
+          "confidence": 0.93,
+          "bbox": [
+            460,
+            96,
+            516,
+            109
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            522,
+            101,
+            525,
+            109
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.96,
+          "bbox": [
+            532,
+            97,
+            539,
+            109
+          ]
+        },
+        {
+          "text": "jours",
+          "confidence": 0.96,
+          "bbox": [
+            544,
+            97,
+            584,
+            113
+          ]
+        },
+        {
+          "text": "PRESTATIONS",
+          "confidence": 0.92,
+          "bbox": [
+            248,
+            136,
+            384,
+            151
+          ]
+        },
+        {
+          "text": "NON-INCLUSES",
+          "confidence": 0.88,
+          "bbox": [
+            390,
+            136,
+            535,
+            151
+          ]
+        },
+        {
+          "text": "DANS",
+          "confidence": 0.96,
+          "bbox": [
+            541,
+            136,
+            593,
+            151
+          ]
+        },
+        {
+          "text": "LES",
+          "confidence": 0.96,
+          "bbox": [
+            598,
+            136,
+            634,
+            151
+          ]
+        },
+        {
+          "text": "PRIX",
+          "confidence": 0.96,
+          "bbox": [
+            640,
+            137,
+            687,
+            150
+          ]
+        },
+        {
+          "text": "Implantation",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            195,
+            176,
+            212
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.95,
+          "bbox": [
+            182,
+            195,
+            207,
+            208
+          ]
+        },
+        {
+          "text": "axes",
+          "confidence": 0.95,
+          "bbox": [
+            213,
+            199,
+            246,
+            208
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            252,
+            195,
+            277,
+            208
+          ]
+        },
+        {
+          "text": "bâtiments",
+          "confidence": 0.95,
+          "bbox": [
+            283,
+            195,
+            358,
+            208
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.96,
+          "bbox": [
+            364,
+            199,
+            382,
+            208
+          ]
+        },
+        {
+          "text": "points",
+          "confidence": 0.94,
+          "bbox": [
+            389,
+            195,
+            435,
+            212
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            441,
+            195,
+            459,
+            208
+          ]
+        },
+        {
+          "text": "référence",
+          "confidence": 0.96,
+          "bbox": [
+            465,
+            195,
+            536,
+            208
+          ]
+        },
+        {
+          "text": "Sciage",
+          "confidence": 0.92,
+          "bbox": [
+            77,
+            220,
+            127,
+            237
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            134,
+            220,
+            151,
+            233
+          ]
+        },
+        {
+          "text": "l'enrobé",
+          "confidence": 0.91,
+          "bbox": [
+            157,
+            220,
+            218,
+            233
+          ]
+        },
+        {
+          "text": "Terrassement",
+          "confidence": 0.93,
+          "bbox": [
+            77,
+            245,
+            181,
+            258
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            187,
+            245,
+            212,
+            258
+          ]
+        },
+        {
+          "text": "prés-fouilles",
+          "confidence": 0.92,
+          "bbox": [
+            218,
+            245,
+            314,
+            262
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            320,
+            247,
+            333,
+            258
+          ]
+        },
+        {
+          "text": "évacuation",
+          "confidence": 0.95,
+          "bbox": [
+            339,
+            245,
+            423,
+            258
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            429,
+            245,
+            454,
+            258
+          ]
+        },
+        {
+          "text": "terres",
+          "confidence": 0.91,
+          "bbox": [
+            460,
+            247,
+            502,
+            258
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            269,
+            158,
+            282
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            271,
+            177,
+            282
+          ]
+        },
+        {
+          "text": "pose",
+          "confidence": 0.92,
+          "bbox": [
+            184,
+            273,
+            218,
+            286
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            224,
+            269,
+            249,
+            282
+          ]
+        },
+        {
+          "text": "platines",
+          "confidence": 0.96,
+          "bbox": [
+            255,
+            269,
+            315,
+            286
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.92,
+          "bbox": [
+            321,
+            269,
+            338,
+            282
+          ]
+        },
+        {
+          "text": "prés-scellement",
+          "confidence": 0.83,
+          "bbox": [
+            344,
+            269,
+            465,
+            286
+          ]
+        },
+        {
+          "text": "(raccord",
+          "confidence": 0.93,
+          "bbox": [
+            472,
+            269,
+            535,
+            285
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.95,
+          "bbox": [
+            541,
+            269,
+            566,
+            282
+          ]
+        },
+        {
+          "text": "poteaux",
+          "confidence": 0.96,
+          "bbox": [
+            573,
+            271,
+            633,
+            286
+          ]
+        },
+        {
+          "text": "aux",
+          "confidence": 0.96,
+          "bbox": [
+            639,
+            273,
+            666,
+            282
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.96,
+          "bbox": [
+            672,
+            273,
+            714,
+            286
+          ]
+        },
+        {
+          "text": "via",
+          "confidence": 0.96,
+          "bbox": [
+            720,
+            273,
+            743,
+            282
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            294,
+            102,
+            307
+          ]
+        },
+        {
+          "text": "massifs",
+          "confidence": 0.88,
+          "bbox": [
+            108,
+            294,
+            165,
+            307
+          ]
+        },
+        {
+          "text": "béton)",
+          "confidence": 0.88,
+          "bbox": [
+            171,
+            294,
+            220,
+            310
+          ]
+        },
+        {
+          "text": "Réalisation",
+          "confidence": 0.92,
+          "bbox": [
+            77,
+            319,
+            164,
+            332
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.94,
+          "bbox": [
+            170,
+            319,
+            195,
+            332
+          ]
+        },
+        {
+          "text": "têtes",
+          "confidence": 0.94,
+          "bbox": [
+            201,
+            319,
+            235,
+            332
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.91,
+          "bbox": [
+            242,
+            319,
+            259,
+            332
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.89,
+          "bbox": [
+            265,
+            323,
+            307,
+            336
+          ]
+        },
+        {
+          "text": "(",
+          "confidence": 0.75,
+          "bbox": [
+            313,
+            319,
+            318,
+            335
+          ]
+        },
+        {
+          "text": "terrassement,",
+          "confidence": 0.86,
+          "bbox": [
+            324,
+            321,
+            426,
+            334
+          ]
+        },
+        {
+          "text": "armature",
+          "confidence": 0.93,
+          "bbox": [
+            433,
+            321,
+            501,
+            332
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            507,
+            321,
+            520,
+            332
+          ]
+        },
+        {
+          "text": "bétonnage)",
+          "confidence": 0.85,
+          "bbox": [
+            526,
+            319,
+            611,
+            336
+          ]
+        },
+        {
+          "text": "Remblaiement",
+          "confidence": 0.89,
+          "bbox": [
+            77,
+            344,
+            190,
+            357
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            196,
+            344,
+            220,
+            357
+          ]
+        },
+        {
+          "text": "prés-fouilles",
+          "confidence": 0.92,
+          "bbox": [
+            227,
+            344,
+            323,
+            361
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            329,
+            348,
+            346,
+            357
+          ]
+        },
+        {
+          "text": "béton",
+          "confidence": 0.94,
+          "bbox": [
+            352,
+            344,
+            395,
+            357
+          ]
+        },
+        {
+          "text": "y",
+          "confidence": 0.92,
+          "bbox": [
+            401,
+            348,
+            409,
+            361
+          ]
+        },
+        {
+          "text": "compris",
+          "confidence": 0.93,
+          "bbox": [
+            414,
+            348,
+            476,
+            361
+          ]
+        },
+        {
+          "text": "talochage",
+          "confidence": 0.89,
+          "bbox": [
+            483,
+            344,
+            556,
+            361
+          ]
+        },
+        {
+          "text": "G3",
+          "confidence": 0.92,
+          "bbox": [
+            77,
+            368,
+            99,
+            381
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.94,
+          "bbox": [
+            106,
+            372,
+            130,
+            385
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.93,
+          "bbox": [
+            135,
+            372,
+            154,
+            381
+          ]
+        },
+        {
+          "text": "géotechnicien",
+          "confidence": 0.89,
+          "bbox": [
+            160,
+            368,
+            267,
+            385
+          ]
+        },
+        {
+          "text": "extérieur",
+          "confidence": 0.93,
+          "bbox": [
+            273,
+            368,
+            342,
+            381
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.93,
+          "bbox": [
+            347,
+            368,
+            355,
+            381
+          ]
+        },
+        {
+          "text": "SONDEFOR",
+          "confidence": 0.92,
+          "bbox": [
+            361,
+            368,
+            461,
+            381
+          ]
+        },
+        {
+          "text": "Essais",
+          "confidence": 0.91,
+          "bbox": [
+            77,
+            393,
+            124,
+            406
+          ]
+        },
+        {
+          "text": "spéciaux",
+          "confidence": 0.95,
+          "bbox": [
+            131,
+            393,
+            198,
+            410
+          ]
+        },
+        {
+          "text": "tels",
+          "confidence": 0.95,
+          "bbox": [
+            204,
+            393,
+            230,
+            406
+          ]
+        },
+        {
+          "text": "que",
+          "confidence": 0.89,
+          "bbox": [
+            236,
+            397,
+            263,
+            410
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.89,
+          "bbox": [
+            269,
+            393,
+            289,
+            406
+          ]
+        },
+        {
+          "text": "essais",
+          "confidence": 0.92,
+          "bbox": [
+            295,
+            393,
+            340,
+            406
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.93,
+          "bbox": [
+            346,
+            397,
+            370,
+            410
+          ]
+        },
+        {
+          "text": "auscultations",
+          "confidence": 0.9,
+          "bbox": [
+            376,
+            393,
+            477,
+            406
+          ]
+        },
+        {
+          "text": "soniques",
+          "confidence": 0.9,
+          "bbox": [
+            483,
+            393,
+            550,
+            410
+          ]
+        },
+        {
+          "text": "Sondages",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            418,
+            150,
+            435
+          ]
+        },
+        {
+          "text": "complémentaires",
+          "confidence": 0.96,
+          "bbox": [
+            156,
+            418,
+            289,
+            435
+          ]
+        },
+        {
+          "text": "profonds",
+          "confidence": 0.87,
+          "bbox": [
+            295,
+            418,
+            363,
+            435
+          ]
+        },
+        {
+          "text": "si",
+          "confidence": 0.87,
+          "bbox": [
+            374,
+            418,
+            386,
+            431
+          ]
+        },
+        {
+          "text": "demandés",
+          "confidence": 0.94,
+          "bbox": [
+            392,
+            418,
+            469,
+            431
+          ]
+        },
+        {
+          "text": "Purges",
+          "confidence": 0.91,
+          "bbox": [
+            77,
+            442,
+            129,
+            459
+          ]
+        },
+        {
+          "text": "maçonneries",
+          "confidence": 0.83,
+          "bbox": [
+            135,
+            442,
+            232,
+            459
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.96,
+          "bbox": [
+            239,
+            446,
+            257,
+            455
+          ]
+        },
+        {
+          "text": "autres",
+          "confidence": 0.96,
+          "bbox": [
+            263,
+            444,
+            308,
+            455
+          ]
+        },
+        {
+          "text": "existants",
+          "confidence": 0.9,
+          "bbox": [
+            314,
+            442,
+            382,
+            455
+          ]
+        },
+        {
+          "text": "présents",
+          "confidence": 0.92,
+          "bbox": [
+            388,
+            442,
+            451,
+            459
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.96,
+          "bbox": [
+            457,
+            442,
+            491,
+            455
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.92,
+          "bbox": [
+            498,
+            442,
+            518,
+            455
+          ]
+        },
+        {
+          "text": "remblais.",
+          "confidence": 0.84,
+          "bbox": [
+            524,
+            442,
+            594,
+            455
+          ]
+        },
+        {
+          "text": "Les",
+          "confidence": 0.92,
+          "bbox": [
+            601,
+            442,
+            628,
+            455
+          ]
+        },
+        {
+          "text": "excentrements,",
+          "confidence": 0.92,
+          "bbox": [
+            634,
+            444,
+            750,
+            456
+          ]
+        },
+        {
+          "text": "hors",
+          "confidence": 0.96,
+          "bbox": [
+            756,
+            442,
+            789,
+            455
+          ]
+        },
+        {
+          "text": "tolérances,",
+          "confidence": 0.83,
+          "bbox": [
+            77,
+            467,
+            160,
+            480
+          ]
+        },
+        {
+          "text": "dus",
+          "confidence": 0.96,
+          "bbox": [
+            166,
+            467,
+            192,
+            480
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            198,
+            467,
+            206,
+            480
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.93,
+          "bbox": [
+            212,
+            467,
+            225,
+            480
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.95,
+          "bbox": [
+            231,
+            467,
+            244,
+            480
+          ]
+        },
+        {
+          "text": "présence",
+          "confidence": 0.95,
+          "bbox": [
+            250,
+            467,
+            316,
+            484
+          ]
+        },
+        {
+          "text": "d'obstacles",
+          "confidence": 0.96,
+          "bbox": [
+            322,
+            467,
+            406,
+            480
+          ]
+        },
+        {
+          "text": "non",
+          "confidence": 0.96,
+          "bbox": [
+            413,
+            471,
+            440,
+            480
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.94,
+          "bbox": [
+            447,
+            471,
+            465,
+            480
+          ]
+        },
+        {
+          "text": "mal",
+          "confidence": 0.93,
+          "bbox": [
+            471,
+            467,
+            499,
+            480
+          ]
+        },
+        {
+          "text": "purgés,",
+          "confidence": 0.92,
+          "bbox": [
+            505,
+            467,
+            560,
+            484
+          ]
+        },
+        {
+          "text": "ne",
+          "confidence": 0.96,
+          "bbox": [
+            567,
+            471,
+            584,
+            480
+          ]
+        },
+        {
+          "text": "pourront",
+          "confidence": 0.94,
+          "bbox": [
+            590,
+            469,
+            656,
+            484
+          ]
+        },
+        {
+          "text": "nous",
+          "confidence": 0.95,
+          "bbox": [
+            663,
+            471,
+            698,
+            480
+          ]
+        },
+        {
+          "text": "être",
+          "confidence": 0.93,
+          "bbox": [
+            704,
+            467,
+            732,
+            480
+          ]
+        },
+        {
+          "text": "imputés",
+          "confidence": 0.92,
+          "bbox": [
+            739,
+            467,
+            799,
+            484
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            492,
+            158,
+            505
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.94,
+          "bbox": [
+            164,
+            492,
+            182,
+            505
+          ]
+        },
+        {
+          "text": "l'eau",
+          "confidence": 0.94,
+          "bbox": [
+            188,
+            492,
+            222,
+            505
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.94,
+          "bbox": [
+            228,
+            494,
+            241,
+            505
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            247,
+            492,
+            264,
+            505
+          ]
+        },
+        {
+          "text": "l'électricité.",
+          "confidence": 0.95,
+          "bbox": [
+            271,
+            492,
+            359,
+            505
+          ]
+        },
+        {
+          "text": "+.",
+          "confidence": 0.34,
+          "bbox": [
+            48,
+            197,
+            55,
+            279
+          ]
+        },
+        {
+          "text": "……",
+          "confidence": 0.06,
+          "bbox": [
+            48,
+            321,
+            55,
+            452
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.39,
+          "bbox": [
+            48,
+            494,
+            55,
+            502
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.53,
+          "bbox": [
+            48,
+            519,
+            55,
+            527
+          ]
+        },
+        {
+          "text": "Heures",
+          "confidence": 0.77,
+          "bbox": [
+            77,
+            517,
+            131,
+            530
+          ]
+        },
+        {
+          "text": "d'insertions",
+          "confidence": 0.83,
+          "bbox": [
+            137,
+            517,
+            225,
+            530
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.56,
+          "bbox": [
+            48,
+            543,
+            55,
+            551
+          ]
+        },
+        {
+          "text": "Protection",
+          "confidence": 0.81,
+          "bbox": [
+            77,
+            541,
+            156,
+            554
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            163,
+            541,
+            187,
+            554
+          ]
+        },
+        {
+          "text": "voiries",
+          "confidence": 0.95,
+          "bbox": [
+            194,
+            541,
+            245,
+            554
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.95,
+          "bbox": [
+            251,
+            543,
+            264,
+            554
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.91,
+          "bbox": [
+            270,
+            541,
+            295,
+            554
+          ]
+        },
+        {
+          "text": "mitoyens",
+          "confidence": 0.9,
+          "bbox": [
+            302,
+            541,
+            371,
+            558
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.88,
+          "bbox": [
+            48,
+            571,
+            55,
+            579
+          ]
+        },
+        {
+          "text": "La",
+          "confidence": 0.8,
+          "bbox": [
+            76,
+            569,
+            101,
+            584
+          ]
+        },
+        {
+          "text": "plateforme",
+          "confidence": 0.96,
+          "bbox": [
+            105,
+            568,
+            208,
+            589
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            215,
+            570,
+            232,
+            584
+          ]
+        },
+        {
+          "text": "pistes",
+          "confidence": 0.93,
+          "bbox": [
+            235,
+            568,
+            288,
+            589
+          ]
+        },
+        {
+          "text": "EV2",
+          "confidence": 0.92,
+          "bbox": [
+            300,
+            568,
+            341,
+            584
+          ]
+        },
+        {
+          "text": ">",
+          "confidence": 0.96,
+          "bbox": [
+            348,
+            571,
+            359,
+            583
+          ]
+        },
+        {
+          "text": "50",
+          "confidence": 0.92,
+          "bbox": [
+            366,
+            568,
+            389,
+            584
+          ]
+        },
+        {
+          "text": "MPA",
+          "confidence": 0.91,
+          "bbox": [
+            395,
+            568,
+            443,
+            584
+          ]
+        },
+        {
+          "text": "selon",
+          "confidence": 0.96,
+          "bbox": [
+            450,
+            568,
+            498,
+            584
+          ]
+        },
+        {
+          "text": "prescriptions",
+          "confidence": 0.93,
+          "bbox": [
+            503,
+            568,
+            626,
+            589
+          ]
+        },
+        {
+          "text": "SOFFONS,",
+          "confidence": 0.9,
+          "bbox": [
+            633,
+            568,
+            741,
+            588
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.94,
+          "bbox": [
+            749,
+            568,
+            773,
+            584
+          ]
+        },
+        {
+          "text": "accès,",
+          "confidence": 0.96,
+          "bbox": [
+            780,
+            568,
+            834,
+            588
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            76,
+            598,
+            101,
+            614
+          ]
+        },
+        {
+          "text": "rampes",
+          "confidence": 0.93,
+          "bbox": [
+            107,
+            603,
+            175,
+            619
+          ]
+        },
+        {
+          "text": "inclinées",
+          "confidence": 0.92,
+          "bbox": [
+            182,
+            598,
+            264,
+            614
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            270,
+            598,
+            281,
+            614
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.92,
+          "bbox": [
+            289,
+            598,
+            310,
+            614
+          ]
+        },
+        {
+          "text": "%",
+          "confidence": 0.92,
+          "bbox": [
+            318,
+            598,
+            335,
+            614
+          ]
+        },
+        {
+          "text": "maxi,",
+          "confidence": 0.96,
+          "bbox": [
+            341,
+            598,
+            392,
+            618
+          ]
+        },
+        {
+          "text": "larges",
+          "confidence": 0.96,
+          "bbox": [
+            400,
+            598,
+            456,
+            619
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.97,
+          "bbox": [
+            463,
+            598,
+            484,
+            614
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.93,
+          "bbox": [
+            490,
+            599,
+            502,
+            614
+          ]
+        },
+        {
+          "text": "m",
+          "confidence": 0.92,
+          "bbox": [
+            508,
+            603,
+            524,
+            614
+          ]
+        },
+        {
+          "text": "mini",
+          "confidence": 0.95,
+          "bbox": [
+            531,
+            598,
+            574,
+            614
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.95,
+          "bbox": [
+            581,
+            601,
+            597,
+            614
+          ]
+        },
+        {
+          "text": "hors",
+          "confidence": 0.96,
+          "bbox": [
+            602,
+            598,
+            643,
+            614
+          ]
+        },
+        {
+          "text": "emprise",
+          "confidence": 0.96,
+          "bbox": [
+            651,
+            598,
+            723,
+            619
+          ]
+        },
+        {
+          "text": "bâtiment",
+          "confidence": 0.96,
+          "bbox": [
+            729,
+            598,
+            812,
+            614
+          ]
+        },
+        {
+          "text": "Arase",
+          "confidence": 0.91,
+          "bbox": [
+            77,
+            627,
+            121,
+            640
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.9,
+          "bbox": [
+            127,
+            629,
+            140,
+            640
+          ]
+        },
+        {
+          "text": "recépage",
+          "confidence": 0.88,
+          "bbox": [
+            146,
+            627,
+            214,
+            644
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.95,
+          "bbox": [
+            220,
+            627,
+            245,
+            640
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.95,
+          "bbox": [
+            251,
+            631,
+            293,
+            644
+          ]
+        },
+        {
+          "text": "sous",
+          "confidence": 0.96,
+          "bbox": [
+            299,
+            631,
+            333,
+            640
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            339,
+            627,
+            352,
+            640
+          ]
+        },
+        {
+          "text": "plateforme",
+          "confidence": 0.95,
+          "bbox": [
+            358,
+            627,
+            441,
+            644
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.95,
+          "bbox": [
+            77,
+            652,
+            158,
+            665
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            164,
+            652,
+            189,
+            665
+          ]
+        },
+        {
+          "text": "clotures",
+          "confidence": 0.93,
+          "bbox": [
+            195,
+            652,
+            256,
+            665
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            262,
+            652,
+            279,
+            665
+          ]
+        },
+        {
+          "text": "chantier",
+          "confidence": 0.96,
+          "bbox": [
+            285,
+            652,
+            348,
+            665
+          ]
+        },
+        {
+          "text": "Gardiennage",
+          "confidence": 0.94,
+          "bbox": [
+            77,
+            676,
+            175,
+            693
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            181,
+            676,
+            199,
+            689
+          ]
+        },
+        {
+          "text": "chantier.",
+          "confidence": 0.9,
+          "bbox": [
+            205,
+            676,
+            272,
+            689
+          ]
+        },
+        {
+          "text": "Mise",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            701,
+            115,
+            714
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            121,
+            701,
+            129,
+            714
+          ]
+        },
+        {
+          "text": "disposition",
+          "confidence": 0.95,
+          "bbox": [
+            134,
+            701,
+            219,
+            718
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            225,
+            701,
+            243,
+            714
+          ]
+        },
+        {
+          "text": "locaux",
+          "confidence": 0.96,
+          "bbox": [
+            249,
+            701,
+            299,
+            714
+          ]
+        },
+        {
+          "text": "sanitaires.",
+          "confidence": 0.96,
+          "bbox": [
+            306,
+            701,
+            382,
+            714
+          ]
+        },
+        {
+          "text": "Fourniture",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            726,
+            158,
+            739
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            164,
+            726,
+            189,
+            739
+          ]
+        },
+        {
+          "text": "plans",
+          "confidence": 0.96,
+          "bbox": [
+            196,
+            726,
+            235,
+            743
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            242,
+            726,
+            259,
+            739
+          ]
+        },
+        {
+          "text": "charges",
+          "confidence": 0.95,
+          "bbox": [
+            265,
+            726,
+            323,
+            743
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            329,
+            730,
+            363,
+            739
+          ]
+        },
+        {
+          "text": "cotes",
+          "confidence": 0.93,
+          "bbox": [
+            369,
+            728,
+            408,
+            739
+          ]
+        },
+        {
+          "text": "d'arase",
+          "confidence": 0.92,
+          "bbox": [
+            415,
+            726,
+            466,
+            739
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            472,
+            728,
+            486,
+            739
+          ]
+        },
+        {
+          "text": "implantation",
+          "confidence": 0.96,
+          "bbox": [
+            492,
+            726,
+            589,
+            743
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            596,
+            726,
+            620,
+            739
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.95,
+          "bbox": [
+            627,
+            726,
+            668,
+            743
+          ]
+        },
+        {
+          "text": "Evcauation",
+          "confidence": 0.56,
+          "bbox": [
+            77,
+            751,
+            163,
+            764
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            169,
+            751,
+            194,
+            764
+          ]
+        },
+        {
+          "text": "déblais",
+          "confidence": 0.92,
+          "bbox": [
+            200,
+            751,
+            255,
+            764
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            261,
+            751,
+            278,
+            764
+          ]
+        },
+        {
+          "text": "forage",
+          "confidence": 0.95,
+          "bbox": [
+            284,
+            751,
+            332,
+            768
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.95,
+          "bbox": [
+            338,
+            753,
+            351,
+            764
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            357,
+            751,
+            382,
+            764
+          ]
+        },
+        {
+          "text": "chandelles",
+          "confidence": 0.95,
+          "bbox": [
+            388,
+            751,
+            470,
+            764
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            476,
+            751,
+            493,
+            764
+          ]
+        },
+        {
+          "text": "pieux",
+          "confidence": 0.96,
+          "bbox": [
+            499,
+            751,
+            541,
+            768
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            547,
+            755,
+            564,
+            764
+          ]
+        },
+        {
+          "text": "filière",
+          "confidence": 0.96,
+          "bbox": [
+            571,
+            751,
+            616,
+            764
+          ]
+        },
+        {
+          "text": "autre",
+          "confidence": 0.96,
+          "bbox": [
+            622,
+            753,
+            660,
+            764
+          ]
+        },
+        {
+          "text": "que",
+          "confidence": 0.93,
+          "bbox": [
+            666,
+            755,
+            693,
+            768
+          ]
+        },
+        {
+          "text": "ISDI",
+          "confidence": 0.91,
+          "bbox": [
+            699,
+            751,
+            735,
+            764
+          ]
+        },
+        {
+          "text": "Reconnaissance",
+          "confidence": 0.94,
+          "bbox": [
+            77,
+            775,
+            200,
+            788
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            206,
+            777,
+            220,
+            788
+          ]
+        },
+        {
+          "text": "devoiement",
+          "confidence": 0.9,
+          "bbox": [
+            226,
+            775,
+            315,
+            788
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            321,
+            775,
+            346,
+            788
+          ]
+        },
+        {
+          "text": "réseaux",
+          "confidence": 0.96,
+          "bbox": [
+            352,
+            775,
+            411,
+            788
+          ]
+        },
+        {
+          "text": "enterrés",
+          "confidence": 0.96,
+          "bbox": [
+            416,
+            775,
+            477,
+            788
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.96,
+          "bbox": [
+            483,
+            779,
+            501,
+            788
+          ]
+        },
+        {
+          "text": "aériens",
+          "confidence": 0.96,
+          "bbox": [
+            508,
+            775,
+            562,
+            788
+          ]
+        },
+        {
+          "text": "(fils",
+          "confidence": 0.96,
+          "bbox": [
+            568,
+            775,
+            598,
+            790
+          ]
+        },
+        {
+          "text": "électriques,",
+          "confidence": 0.95,
+          "bbox": [
+            604,
+            775,
+            693,
+            792
+          ]
+        },
+        {
+          "text": "canalisations,",
+          "confidence": 0.95,
+          "bbox": [
+            699,
+            775,
+            803,
+            790
+          ]
+        },
+        {
+          "text": "etc.)",
+          "confidence": 0.92,
+          "bbox": [
+            810,
+            775,
+            842,
+            791
+          ]
+        },
+        {
+          "text": "En",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            800,
+            97,
+            813
+          ]
+        },
+        {
+          "text": "l'absence",
+          "confidence": 0.89,
+          "bbox": [
+            104,
+            800,
+            175,
+            813
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            181,
+            800,
+            206,
+            813
+          ]
+        },
+        {
+          "text": "plans",
+          "confidence": 0.96,
+          "bbox": [
+            210,
+            800,
+            253,
+            817
+          ]
+        },
+        {
+          "text": "précis",
+          "confidence": 0.96,
+          "bbox": [
+            258,
+            800,
+            305,
+            817
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            312,
+            800,
+            337,
+            813
+          ]
+        },
+        {
+          "text": "divers",
+          "confidence": 0.96,
+          "bbox": [
+            343,
+            800,
+            390,
+            813
+          ]
+        },
+        {
+          "text": "réseaux,",
+          "confidence": 0.93,
+          "bbox": [
+            396,
+            800,
+            459,
+            815
+          ]
+        },
+        {
+          "text": "SONDEFOR",
+          "confidence": 0.92,
+          "bbox": [
+            466,
+            800,
+            565,
+            813
+          ]
+        },
+        {
+          "text": "ne",
+          "confidence": 0.96,
+          "bbox": [
+            571,
+            804,
+            588,
+            813
+          ]
+        },
+        {
+          "text": "pourra",
+          "confidence": 0.96,
+          "bbox": [
+            592,
+            804,
+            647,
+            817
+          ]
+        },
+        {
+          "text": "être",
+          "confidence": 0.96,
+          "bbox": [
+            653,
+            800,
+            682,
+            813
+          ]
+        },
+        {
+          "text": "tenue",
+          "confidence": 0.91,
+          "bbox": [
+            689,
+            803,
+            730,
+            813
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            734,
+            804,
+            773,
+            817
+          ]
+        },
+        {
+          "text": "responsable,",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            825,
+            174,
+            842
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.94,
+          "bbox": [
+            181,
+            829,
+            198,
+            838
+          ]
+        },
+        {
+          "text": "cas",
+          "confidence": 0.94,
+          "bbox": [
+            205,
+            829,
+            230,
+            838
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            235,
+            825,
+            253,
+            838
+          ]
+        },
+        {
+          "text": "détérioration.",
+          "confidence": 0.96,
+          "bbox": [
+            259,
+            825,
+            365,
+            838
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.47,
+          "bbox": [
+            48,
+            851,
+            55,
+            859
+          ]
+        },
+        {
+          "text": "Cette",
+          "confidence": 0.62,
+          "bbox": [
+            77,
+            849,
+            117,
+            862
+          ]
+        },
+        {
+          "text": "technique",
+          "confidence": 0.95,
+          "bbox": [
+            123,
+            849,
+            198,
+            866
+          ]
+        },
+        {
+          "text": "ne",
+          "confidence": 0.95,
+          "bbox": [
+            204,
+            853,
+            221,
+            862
+          ]
+        },
+        {
+          "text": "permet",
+          "confidence": 0.9,
+          "bbox": [
+            228,
+            851,
+            280,
+            866
+          ]
+        },
+        {
+          "text": "pas",
+          "confidence": 0.96,
+          "bbox": [
+            287,
+            853,
+            311,
+            866
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.9,
+          "bbox": [
+            317,
+            849,
+            330,
+            862
+          ]
+        },
+        {
+          "text": "trépannage",
+          "confidence": 0.9,
+          "bbox": [
+            336,
+            849,
+            420,
+            866
+          ]
+        },
+        {
+          "text": ";",
+          "confidence": 0.84,
+          "bbox": [
+            423,
+            839,
+            429,
+            870
+          ]
+        },
+        {
+          "text": "celui-ci",
+          "confidence": 0.87,
+          "bbox": [
+            437,
+            849,
+            494,
+            862
+          ]
+        },
+        {
+          "text": "est",
+          "confidence": 0.87,
+          "bbox": [
+            500,
+            851,
+            521,
+            862
+          ]
+        },
+        {
+          "text": "donc",
+          "confidence": 0.92,
+          "bbox": [
+            527,
+            849,
+            563,
+            862
+          ]
+        },
+        {
+          "text": "exclu.",
+          "confidence": 0.95,
+          "bbox": [
+            569,
+            849,
+            615,
+            862
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.55,
+          "bbox": [
+            48,
+            876,
+            55,
+            884
+          ]
+        },
+        {
+          "text": "Assurances",
+          "confidence": 0.75,
+          "bbox": [
+            77,
+            874,
+            164,
+            887
+          ]
+        },
+        {
+          "text": "nominatives",
+          "confidence": 0.96,
+          "bbox": [
+            171,
+            874,
+            265,
+            887
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            271,
+            878,
+            306,
+            891
+          ]
+        },
+        {
+          "text": "dépassement",
+          "confidence": 0.96,
+          "bbox": [
+            312,
+            874,
+            411,
+            891
+          ]
+        },
+        {
+          "text": "marché",
+          "confidence": 0.93,
+          "bbox": [
+            417,
+            874,
+            473,
+            887
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            480,
+            878,
+            482,
+            887
+          ]
+        },
+        {
+          "text": "CA",
+          "confidence": 0.92,
+          "bbox": [
+            489,
+            874,
+            515,
+            887
+          ]
+        },
+        {
+          "text": "TCE",
+          "confidence": 0.92,
+          "bbox": [
+            520,
+            874,
+            556,
+            887
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            562,
+            874,
+            579,
+            887
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.95,
+          "bbox": [
+            590,
+            877,
+            600,
+            887
+          ]
+        },
+        {
+          "text": "15",
+          "confidence": 0.95,
+          "bbox": [
+            608,
+            874,
+            624,
+            887
+          ]
+        },
+        {
+          "text": "Millions",
+          "confidence": 0.95,
+          "bbox": [
+            631,
+            874,
+            696,
+            887
+          ]
+        },
+        {
+          "text": "d'euros",
+          "confidence": 0.96,
+          "bbox": [
+            702,
+            874,
+            756,
+            887
+          ]
+        },
+        {
+          "text": "Plus",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            899,
+            110,
+            912
+          ]
+        },
+        {
+          "text": "value",
+          "confidence": 0.93,
+          "bbox": [
+            116,
+            899,
+            157,
+            912
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            164,
+            903,
+            166,
+            912
+          ]
+        },
+        {
+          "text": "forfait",
+          "confidence": 0.96,
+          "bbox": [
+            173,
+            899,
+            221,
+            912
+          ]
+        },
+        {
+          "text": "1500",
+          "confidence": 0.96,
+          "bbox": [
+            229,
+            899,
+            265,
+            912
+          ]
+        },
+        {
+          "text": "euros",
+          "confidence": 0.96,
+          "bbox": [
+            271,
+            903,
+            312,
+            912
+          ]
+        },
+        {
+          "text": "+.",
+          "confidence": 0.55,
+          "bbox": [
+            48,
+            926,
+            55,
+            934
+          ]
+        },
+        {
+          "text": "Démarches",
+          "confidence": 0.83,
+          "bbox": [
+            77,
+            924,
+            163,
+            937
+          ]
+        },
+        {
+          "text": "administratives",
+          "confidence": 0.93,
+          "bbox": [
+            169,
+            924,
+            288,
+            937
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            293,
+            926,
+            307,
+            937
+          ]
+        },
+        {
+          "text": "financières",
+          "confidence": 0.96,
+          "bbox": [
+            313,
+            924,
+            397,
+            937
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            404,
+            928,
+            438,
+            941
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.96,
+          "bbox": [
+            444,
+            924,
+            464,
+            937
+          ]
+        },
+        {
+          "text": "aménagements",
+          "confidence": 0.96,
+          "bbox": [
+            471,
+            924,
+            585,
+            941
+          ]
+        },
+        {
+          "text": "nécessaires",
+          "confidence": 0.96,
+          "bbox": [
+            592,
+            924,
+            678,
+            937
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.93,
+          "bbox": [
+            684,
+            924,
+            692,
+            937
+          ]
+        },
+        {
+          "text": "l'amenée/repli",
+          "confidence": 0.87,
+          "bbox": [
+            698,
+            924,
+            806,
+            941
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            812,
+            924,
+            829,
+            937
+          ]
+        },
+        {
+          "text": "notre",
+          "confidence": 0.95,
+          "bbox": [
+            836,
+            926,
+            874,
+            937
+          ]
+        },
+        {
+          "text": "foreuse",
+          "confidence": 0.88,
+          "bbox": [
+            77,
+            947,
+            133,
+            961
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.96,
+          "bbox": [
+            139,
+            950,
+            149,
+            959
+          ]
+        },
+        {
+          "text": "matériel",
+          "confidence": 0.92,
+          "bbox": [
+            155,
+            947,
+            217,
+            961
+          ]
+        },
+        {
+          "text": "(neutralisation",
+          "confidence": 0.74,
+          "bbox": [
+            224,
+            947,
+            336,
+            965
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            342,
+            948,
+            359,
+            961
+          ]
+        },
+        {
+          "text": "stationnement,",
+          "confidence": 0.0,
+          "bbox": [
+            366,
+            950,
+            486,
+            964
+          ]
+        },
+        {
+          "text": "déplacement/enlèvement",
+          "confidence": 0.87,
+          "bbox": [
+            493,
+            948,
+            686,
+            965
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            692,
+            948,
+            709,
+            961
+          ]
+        },
+        {
+          "text": "mobilier",
+          "confidence": 0.93,
+          "bbox": [
+            715,
+            947,
+            780,
+            961
+          ]
+        },
+        {
+          "text": "urbain…)",
+          "confidence": 0.75,
+          "bbox": [
+            786,
+            948,
+            861,
+            965
+          ]
+        },
+        {
+          "text": "PRECISION",
+          "confidence": 0.92,
+          "bbox": [
+            202,
+            991,
+            330,
+            1025
+          ]
+        },
+        {
+          "text": "CONCERNANT",
+          "confidence": 0.96,
+          "bbox": [
+            206,
+            995,
+            773,
+            1014
+          ]
+        },
+        {
+          "text": "LES",
+          "confidence": 0.92,
+          "bbox": [
+            502,
+            991,
+            545,
+            1025
+          ]
+        },
+        {
+          "text": "EXCENTREMENTS",
+          "confidence": 0.91,
+          "bbox": [
+            559,
+            995,
+            749,
+            1014
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            760,
+            991,
+            778,
+            1025
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.4,
+          "bbox": [
+            48,
+            1022,
+            55,
+            1030
+          ]
+        },
+        {
+          "text": "En",
+          "confidence": 0.74,
+          "bbox": [
+            77,
+            1020,
+            97,
+            1033
+          ]
+        },
+        {
+          "text": "l'absence",
+          "confidence": 0.95,
+          "bbox": [
+            104,
+            1020,
+            173,
+            1033
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            179,
+            1020,
+            196,
+            1033
+          ]
+        },
+        {
+          "text": "données",
+          "confidence": 0.95,
+          "bbox": [
+            202,
+            1020,
+            265,
+            1033
+          ]
+        },
+        {
+          "text": "précises,",
+          "confidence": 0.96,
+          "bbox": [
+            271,
+            1024,
+            337,
+            1037
+          ]
+        },
+        {
+          "text": "il",
+          "confidence": 0.87,
+          "bbox": [
+            344,
+            1020,
+            353,
+            1033
+          ]
+        },
+        {
+          "text": "sera",
+          "confidence": 0.94,
+          "bbox": [
+            360,
+            1024,
+            390,
+            1033
+          ]
+        },
+        {
+          "text": "fait",
+          "confidence": 0.95,
+          "bbox": [
+            396,
+            1020,
+            421,
+            1033
+          ]
+        },
+        {
+          "text": "application",
+          "confidence": 0.93,
+          "bbox": [
+            427,
+            1020,
+            513,
+            1037
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            519,
+            1020,
+            543,
+            1033
+          ]
+        },
+        {
+          "text": "tolérances",
+          "confidence": 0.68,
+          "bbox": [
+            550,
+            1020,
+            628,
+            1033
+          ]
+        },
+        {
+          "text": "figurant",
+          "confidence": 0.96,
+          "bbox": [
+            634,
+            1020,
+            694,
+            1037
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.93,
+          "bbox": [
+            700,
+            1020,
+            735,
+            1033
+          ]
+        },
+        {
+          "text": "l'eurocode",
+          "confidence": 0.85,
+          "bbox": [
+            741,
+            1020,
+            820,
+            1033
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.96,
+          "bbox": [
+            827,
+            1020,
+            835,
+            1033
+          ]
+        },
+        {
+          "text": "vérifications",
+          "confidence": 0.89,
+          "bbox": [
+            82,
+            1045,
+            178,
+            1058
+          ]
+        },
+        {
+          "text": "contradictoires",
+          "confidence": 0.89,
+          "bbox": [
+            189,
+            1045,
+            304,
+            1058
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            310,
+            1047,
+            323,
+            1058
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.93,
+          "bbox": [
+            329,
+            1045,
+            364,
+            1058
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            370,
+            1045,
+            390,
+            1058
+          ]
+        },
+        {
+          "text": "règles",
+          "confidence": 0.96,
+          "bbox": [
+            397,
+            1045,
+            442,
+            1062
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            448,
+            1045,
+            465,
+            1058
+          ]
+        },
+        {
+          "text": "l'art",
+          "confidence": 0.92,
+          "bbox": [
+            472,
+            1045,
+            500,
+            1058
+          ]
+        },
+        {
+          "text": "+...",
+          "confidence": 0.03,
+          "bbox": [
+            48,
+            629,
+            55,
+            785
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.55,
+          "bbox": [
+            48,
+            1072,
+            55,
+            1079
+          ]
+        },
+        {
+          "text": "Nos",
+          "confidence": 0.55,
+          "bbox": [
+            77,
+            1071,
+            103,
+            1082
+          ]
+        },
+        {
+          "text": "prix",
+          "confidence": 0.92,
+          "bbox": [
+            109,
+            1074,
+            135,
+            1085
+          ]
+        },
+        {
+          "text": "sont",
+          "confidence": 0.92,
+          "bbox": [
+            140,
+            1072,
+            170,
+            1082
+          ]
+        },
+        {
+          "text": "établis",
+          "confidence": 0.95,
+          "bbox": [
+            176,
+            1070,
+            222,
+            1082
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.95,
+          "bbox": [
+            228,
+            1074,
+            249,
+            1082
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            255,
+            1070,
+            265,
+            1082
+          ]
+        },
+        {
+          "text": "base",
+          "confidence": 0.94,
+          "bbox": [
+            271,
+            1070,
+            303,
+            1082
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.94,
+          "bbox": [
+            309,
+            1070,
+            332,
+            1082
+          ]
+        },
+        {
+          "text": "impots",
+          "confidence": 0.96,
+          "bbox": [
+            338,
+            1072,
+            386,
+            1085
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            392,
+            1072,
+            405,
+            1082
+          ]
+        },
+        {
+          "text": "taxes",
+          "confidence": 0.96,
+          "bbox": [
+            410,
+            1072,
+            447,
+            1082
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            453,
+            1074,
+            469,
+            1082
+          ]
+        },
+        {
+          "text": "vigueur",
+          "confidence": 0.96,
+          "bbox": [
+            475,
+            1074,
+            528,
+            1085
+          ]
+        },
+        {
+          "text": "lors",
+          "confidence": 0.95,
+          "bbox": [
+            534,
+            1070,
+            558,
+            1082
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            564,
+            1070,
+            581,
+            1082
+          ]
+        },
+        {
+          "text": "l'établissement",
+          "confidence": 0.7,
+          "bbox": [
+            587,
+            1070,
+            695,
+            1082
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            701,
+            1070,
+            717,
+            1082
+          ]
+        },
+        {
+          "text": "cette",
+          "confidence": 0.89,
+          "bbox": [
+            723,
+            1072,
+            759,
+            1082
+          ]
+        },
+        {
+          "text": "offre.",
+          "confidence": 0.95,
+          "bbox": [
+            764,
+            1070,
+            802,
+            1082
+          ]
+        },
+        {
+          "text": "Toute",
+          "confidence": 0.96,
+          "bbox": [
+            76,
+            1096,
+            114,
+            1106
+          ]
+        },
+        {
+          "text": "modification",
+          "confidence": 0.94,
+          "bbox": [
+            119,
+            1095,
+            201,
+            1106
+          ]
+        },
+        {
+          "text": "ultérieure",
+          "confidence": 0.84,
+          "bbox": [
+            207,
+            1095,
+            272,
+            1106
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            277,
+            1095,
+            292,
+            1106
+          ]
+        },
+        {
+          "text": "ces",
+          "confidence": 0.9,
+          "bbox": [
+            297,
+            1098,
+            317,
+            1106
+          ]
+        },
+        {
+          "text": "impots",
+          "confidence": 0.9,
+          "bbox": [
+            323,
+            1097,
+            367,
+            1109
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.95,
+          "bbox": [
+            372,
+            1098,
+            387,
+            1106
+          ]
+        },
+        {
+          "text": "taxes",
+          "confidence": 0.95,
+          "bbox": [
+            393,
+            1096,
+            426,
+            1106
+          ]
+        },
+        {
+          "text": "sera",
+          "confidence": 0.93,
+          "bbox": [
+            432,
+            1098,
+            458,
+            1106
+          ]
+        },
+        {
+          "text": "répercutée",
+          "confidence": 0.89,
+          "bbox": [
+            464,
+            1095,
+            536,
+            1109
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            541,
+            1098,
+            560,
+            1106
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            566,
+            1095,
+            582,
+            1106
+          ]
+        },
+        {
+          "text": "prix",
+          "confidence": 0.93,
+          "bbox": [
+            588,
+            1098,
+            611,
+            1109
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            616,
+            1096,
+            628,
+            1106
+          ]
+        },
+        {
+          "text": "donc",
+          "confidence": 0.95,
+          "bbox": [
+            633,
+            1095,
+            665,
+            1106
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            670,
+            1098,
+            689,
+            1106
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.96,
+          "bbox": [
+            694,
+            1095,
+            705,
+            1106
+          ]
+        },
+        {
+          "text": "marché",
+          "confidence": 0.91,
+          "bbox": [
+            710,
+            1095,
+            758,
+            1106
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            764,
+            1098,
+            778,
+            1106
+          ]
+        },
+        {
+          "text": "découlant",
+          "confidence": 0.96,
+          "bbox": [
+            784,
+            1095,
+            849,
+            1106
+          ]
+        },
+        {
+          "text": "Fait",
+          "confidence": 0.96,
+          "bbox": [
+            257,
+            1137,
+            286,
+            1149
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.93,
+          "bbox": [
+            292,
+            1136,
+            300,
+            1149
+          ]
+        },
+        {
+          "text": "CONFLANS",
+          "confidence": 0.92,
+          "bbox": [
+            305,
+            1137,
+            401,
+            1149
+          ]
+        },
+        {
+          "text": "ST",
+          "confidence": 0.93,
+          "bbox": [
+            407,
+            1137,
+            427,
+            1149
+          ]
+        },
+        {
+          "text": "HONORINE,",
+          "confidence": 0.91,
+          "bbox": [
+            433,
+            1137,
+            535,
+            1152
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.95,
+          "bbox": [
+            545,
+            1137,
+            557,
+            1149
+          ]
+        },
+        {
+          "text": "03/02/2025",
+          "confidence": 0.88,
+          "bbox": [
+            604,
+            1136,
+            684,
+            1148
+          ]
+        },
+        {
+          "text": "03/02/2025",
+          "confidence": 0.96,
+          "bbox": [
+            111,
+            1640,
+            191,
+            1652
+          ]
+        },
+        {
+          "text": "page",
+          "confidence": 0.96,
+          "bbox": [
+            990,
+            1643,
+            1025,
+            1656
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1031,
+            1640,
+            1039,
+            1652
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            1045,
+            1643,
+            1066,
+            1652
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.91,
+          "bbox": [
+            1072,
+            1640,
+            1080,
+            1652
+          ]
+        }
+      ]
+    }
+  ]
+}

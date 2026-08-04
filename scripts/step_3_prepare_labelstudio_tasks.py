@@ -5,9 +5,9 @@ import json
 from scripts.utils.labelstudio import build_regions, build_task
 
 
-OCR_DIR = Path("dataset/ocr")
-IMAGES_DIR = Path("dataset/images")
-OUTPUT_FILE = Path("label_studio_data/tasks.json")
+OCR_DIR = Path("dataset/ocr/new_ocr")
+IMAGES_DIR = Path("dataset/images/new_images")
+OUTPUT_FILE = Path("label_studio_data/new_tasks.json")
 
 
 def main() -> None:

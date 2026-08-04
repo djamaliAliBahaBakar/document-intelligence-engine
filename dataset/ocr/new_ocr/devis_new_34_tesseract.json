@@ -1,0 +1,2196 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_34.pdf",
+  "duration_seconds": 0.517,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 218,
+      "words": [
+        {
+          "text": "genelios",
+          "confidence": 0.91,
+          "bbox": [
+            52,
+            51,
+            381,
+            140
+          ]
+        },
+        {
+          "text": "Energy",
+          "confidence": 0.93,
+          "bbox": [
+            100,
+            142,
+            189,
+            169
+          ]
+        },
+        {
+          "text": "&",
+          "confidence": 0.93,
+          "bbox": [
+            203,
+            142,
+            218,
+            164
+          ]
+        },
+        {
+          "text": "Carpark",
+          "confidence": 0.92,
+          "bbox": [
+            233,
+            142,
+            339,
+            169
+          ]
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.93,
+          "bbox": [
+            1011,
+            58,
+            1047,
+            73
+          ]
+        },
+        {
+          "text": "ISOSSUN",
+          "confidence": 0.92,
+          "bbox": [
+            1055,
+            58,
+            1135,
+            73
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.96,
+          "bbox": [
+            887,
+            89,
+            907,
+            104
+          ]
+        },
+        {
+          "text": "CHEMIN",
+          "confidence": 0.95,
+          "bbox": [
+            914,
+            89,
+            989,
+            104
+          ]
+        },
+        {
+          "text": "DU",
+          "confidence": 0.91,
+          "bbox": [
+            997,
+            89,
+            1021,
+            104
+          ]
+        },
+        {
+          "text": "TRONCHON",
+          "confidence": 0.9,
+          "bbox": [
+            1028,
+            89,
+            1136,
+            104
+          ]
+        },
+        {
+          "text": "69570",
+          "confidence": 0.93,
+          "bbox": [
+            1008,
+            120,
+            1063,
+            134
+          ]
+        },
+        {
+          "text": "Dardilly",
+          "confidence": 0.92,
+          "bbox": [
+            1071,
+            119,
+            1136,
+            138
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.91,
+          "bbox": [
+            687,
+            355,
+            748,
+            370
+          ]
+        },
+        {
+          "text": "79",
+          "confidence": 0.96,
+          "bbox": [
+            687,
+            383,
+            708,
+            398
+          ]
+        },
+        {
+          "text": "rue",
+          "confidence": 0.96,
+          "bbox": [
+            716,
+            387,
+            743,
+            398
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            749,
+            383,
+            781,
+            398
+          ]
+        },
+        {
+          "text": "Joncs",
+          "confidence": 0.93,
+          "bbox": [
+            787,
+            383,
+            841,
+            398
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            848,
+            383,
+            879,
+            398
+          ]
+        },
+        {
+          "text": "Bois",
+          "confidence": 0.96,
+          "bbox": [
+            887,
+            383,
+            924,
+            398
+          ]
+        },
+        {
+          "text": "84000",
+          "confidence": 0.96,
+          "bbox": [
+            687,
+            408,
+            743,
+            423
+          ]
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.96,
+          "bbox": [
+            749,
+            408,
+            836,
+            423
+          ]
+        },
+        {
+          "text": "France",
+          "confidence": 0.96,
+          "bbox": [
+            688,
+            434,
+            748,
+            449
+          ]
+        },
+        {
+          "text": "TVA:",
+          "confidence": 0.89,
+          "bbox": [
+            687,
+            462,
+            729,
+            477
+          ]
+        },
+        {
+          "text": "FR03919931410",
+          "confidence": 0.87,
+          "bbox": [
+            737,
+            462,
+            884,
+            477
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.93,
+          "bbox": [
+            56,
+            526,
+            150,
+            555
+          ]
+        },
+        {
+          "text": "#",
+          "confidence": 0.91,
+          "bbox": [
+            164,
+            526,
+            187,
+            555
+          ]
+        },
+        {
+          "text": "S00371",
+          "confidence": 0.89,
+          "bbox": [
+            200,
+            526,
+            330,
+            555
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.96,
+          "bbox": [
+            54,
+            588,
+            94,
+            603
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.97,
+          "bbox": [
+            100,
+            587,
+            121,
+            603
+          ]
+        },
+        {
+          "text": "devis",
+          "confidence": 0.96,
+          "bbox": [
+            128,
+            587,
+            174,
+            603
+          ]
+        },
+        {
+          "text": "Echéance",
+          "confidence": 0.96,
+          "bbox": [
+            416,
+            587,
+            503,
+            603
+          ]
+        },
+        {
+          "text": "Vendeur",
+          "confidence": 0.96,
+          "bbox": [
+            777,
+            587,
+            853,
+            603
+          ]
+        },
+        {
+          "text": "09/04/2025",
+          "confidence": 0.96,
+          "bbox": [
+            54,
+            618,
+            161,
+            634
+          ]
+        },
+        {
+          "text": "09/05/2025",
+          "confidence": 0.96,
+          "bbox": [
+            416,
+            618,
+            523,
+            634
+          ]
+        },
+        {
+          "text": "Maxime",
+          "confidence": 0.93,
+          "bbox": [
+            779,
+            618,
+            849,
+            633
+          ]
+        },
+        {
+          "text": "Gondard",
+          "confidence": 0.91,
+          "bbox": [
+            856,
+            618,
+            932,
+            633
+          ]
+        },
+        {
+          "text": "DESCRIPTION",
+          "confidence": 0.96,
+          "bbox": [
+            65,
+            690,
+            189,
+            705
+          ]
+        },
+        {
+          "text": "QUANTITÉ",
+          "confidence": 0.96,
+          "bbox": [
+            641,
+            686,
+            737,
+            707
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            741,
+            682,
+            752,
+            714
+          ]
+        },
+        {
+          "text": "PRIX",
+          "confidence": 0.92,
+          "bbox": [
+            761,
+            690,
+            803,
+            705
+          ]
+        },
+        {
+          "text": "UNITAIRE",
+          "confidence": 0.91,
+          "bbox": [
+            809,
+            690,
+            897,
+            705
+          ]
+        },
+        {
+          "text": "TAXES",
+          "confidence": 0.89,
+          "bbox": [
+            938,
+            690,
+            999,
+            705
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            1006,
+            686,
+            1018,
+            714
+          ]
+        },
+        {
+          "text": "MONTANT",
+          "confidence": 0.96,
+          "bbox": [
+            1031,
+            690,
+            1128,
+            705
+          ]
+        },
+        {
+          "text": "ALIM-100W]",
+          "confidence": 0.61,
+          "bbox": [
+            69,
+            741,
+            179,
+            760
+          ]
+        },
+        {
+          "text": "Alimentation",
+          "confidence": 0.96,
+          "bbox": [
+            185,
+            742,
+            299,
+            757
+          ]
+        },
+        {
+          "text": "LED",
+          "confidence": 0.91,
+          "bbox": [
+            308,
+            743,
+            341,
+            757
+          ]
+        },
+        {
+          "text": "100W",
+          "confidence": 0.91,
+          "bbox": [
+            349,
+            743,
+            399,
+            757
+          ]
+        },
+        {
+          "text": "49,00",
+          "confidence": 0.93,
+          "bbox": [
+            611,
+            743,
+            660,
+            760
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.91,
+          "bbox": [
+            667,
+            741,
+            736,
+            762
+          ]
+        },
+        {
+          "text": "154,550",
+          "confidence": 0.95,
+          "bbox": [
+            825,
+            743,
+            895,
+            760
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            904,
+            739,
+            914,
+            766
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.65,
+          "bbox": [
+            919,
+            743,
+            957,
+            757
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.65,
+          "bbox": [
+            963,
+            743,
+            999,
+            757
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.94,
+          "bbox": [
+            1007,
+            739,
+            1019,
+            766
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.03,
+          "bbox": [
+            1034,
+            743,
+            1044,
+            757
+          ]
+        },
+        {
+          "text": "572,95",
+          "confidence": 0.0,
+          "bbox": [
+            1051,
+            743,
+            1111,
+            760
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.0,
+          "bbox": [
+            1117,
+            743,
+            1127,
+            757
+          ]
+        },
+        {
+          "text": "DETECT-MA?2]",
+          "confidence": 0.56,
+          "bbox": [
+            70,
+            793,
+            195,
+            813
+          ]
+        },
+        {
+          "text": "Détecteur",
+          "confidence": 0.96,
+          "bbox": [
+            203,
+            795,
+            290,
+            810
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            296,
+            795,
+            317,
+            810
+          ]
+        },
+        {
+          "text": "mouvement",
+          "confidence": 0.95,
+          "bbox": [
+            324,
+            796,
+            430,
+            810
+          ]
+        },
+        {
+          "text": "noir",
+          "confidence": 0.96,
+          "bbox": [
+            437,
+            795,
+            471,
+            810
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            477,
+            799,
+            518,
+            810
+          ]
+        },
+        {
+          "text": "49,00",
+          "confidence": 0.93,
+          "bbox": [
+            611,
+            795,
+            660,
+            813
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.91,
+          "bbox": [
+            667,
+            794,
+            736,
+            815
+          ]
+        },
+        {
+          "text": "65,000",
+          "confidence": 0.95,
+          "bbox": [
+            836,
+            795,
+            895,
+            813
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            903,
+            791,
+            913,
+            817
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.93,
+          "bbox": [
+            919,
+            795,
+            957,
+            810
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.93,
+          "bbox": [
+            963,
+            795,
+            999,
+            810
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.89,
+          "bbox": [
+            1007,
+            791,
+            1021,
+            817
+          ]
+        },
+        {
+          "text": "3185,00€",
+          "confidence": 0.85,
+          "bbox": [
+            1034,
+            795,
+            1127,
+            813
+          ]
+        },
+        {
+          "text": "minuterie",
+          "confidence": 0.96,
+          "bbox": [
+            64,
+            826,
+            148,
+            841
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            155,
+            827,
+            171,
+            841
+          ]
+        },
+        {
+          "text": "régulation",
+          "confidence": 0.96,
+          "bbox": [
+            178,
+            826,
+            266,
+            845
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            274,
+            826,
+            294,
+            841
+          ]
+        },
+        {
+          "text": "distance",
+          "confidence": 0.96,
+          "bbox": [
+            301,
+            826,
+            377,
+            841
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            384,
+            830,
+            425,
+            841
+          ]
+        },
+        {
+          "text": "connecteur",
+          "confidence": 0.95,
+          "bbox": [
+            431,
+            827,
+            533,
+            841
+          ]
+        },
+        {
+          "text": "Ma2",
+          "confidence": 0.81,
+          "bbox": [
+            65,
+            856,
+            103,
+            871
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.93,
+          "bbox": [
+            110,
+            860,
+            150,
+            875
+          ]
+        },
+        {
+          "text": "l'ALIM100",
+          "confidence": 0.89,
+          "bbox": [
+            156,
+            856,
+            245,
+            871
+          ]
+        },
+        {
+          "text": "LED-5.72M]",
+          "confidence": 0.92,
+          "bbox": [
+            70,
+            907,
+            172,
+            927
+          ]
+        },
+        {
+          "text": "Bande",
+          "confidence": 0.97,
+          "bbox": [
+            180,
+            909,
+            235,
+            924
+          ]
+        },
+        {
+          "text": "LED",
+          "confidence": 0.96,
+          "bbox": [
+            243,
+            909,
+            276,
+            924
+          ]
+        },
+        {
+          "text": "5,72",
+          "confidence": 0.93,
+          "bbox": [
+            284,
+            909,
+            320,
+            927
+          ]
+        },
+        {
+          "text": "m",
+          "confidence": 0.91,
+          "bbox": [
+            327,
+            913,
+            342,
+            924
+          ]
+        },
+        {
+          "text": "3000K",
+          "confidence": 0.91,
+          "bbox": [
+            350,
+            909,
+            407,
+            924
+          ]
+        },
+        {
+          "text": "24Vdc",
+          "confidence": 0.92,
+          "bbox": [
+            413,
+            909,
+            470,
+            924
+          ]
+        },
+        {
+          "text": "4.3W/m",
+          "confidence": 0.91,
+          "bbox": [
+            476,
+            909,
+            548,
+            925
+          ]
+        },
+        {
+          "text": "196,00",
+          "confidence": 0.93,
+          "bbox": [
+            601,
+            909,
+            660,
+            927
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.92,
+          "bbox": [
+            667,
+            908,
+            736,
+            929
+          ]
+        },
+        {
+          "text": "114,730",
+          "confidence": 0.96,
+          "bbox": [
+            825,
+            909,
+            895,
+            927
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            905,
+            905,
+            912,
+            933
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.94,
+          "bbox": [
+            919,
+            909,
+            957,
+            924
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.94,
+          "bbox": [
+            963,
+            909,
+            999,
+            924
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            1003,
+            905,
+            1015,
+            933
+          ]
+        },
+        {
+          "text": "22",
+          "confidence": 0.94,
+          "bbox": [
+            1023,
+            909,
+            1044,
+            924
+          ]
+        },
+        {
+          "text": "487,08",
+          "confidence": 0.94,
+          "bbox": [
+            1050,
+            909,
+            1110,
+            927
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.94,
+          "bbox": [
+            1117,
+            909,
+            1127,
+            924
+          ]
+        },
+        {
+          "text": "5.72m",
+          "confidence": 0.81,
+          "bbox": [
+            64,
+            940,
+            119,
+            955
+          ]
+        },
+        {
+          "text": "IP65",
+          "confidence": 0.71,
+          "bbox": [
+            127,
+            940,
+            167,
+            955
+          ]
+        },
+        {
+          "text": "CABLE-5M]",
+          "confidence": 0.88,
+          "bbox": [
+            70,
+            990,
+            170,
+            1010
+          ]
+        },
+        {
+          "text": "Câble",
+          "confidence": 0.96,
+          "bbox": [
+            177,
+            992,
+            227,
+            1007
+          ]
+        },
+        {
+          "text": "d'extension",
+          "confidence": 0.96,
+          "bbox": [
+            234,
+            992,
+            335,
+            1007
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            342,
+            992,
+            363,
+            1007
+          ]
+        },
+        {
+          "text": "5m",
+          "confidence": 0.96,
+          "bbox": [
+            370,
+            992,
+            397,
+            1007
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.93,
+          "bbox": [
+            404,
+            996,
+            445,
+            1007
+          ]
+        },
+        {
+          "text": "micro-",
+          "confidence": 0.91,
+          "bbox": [
+            452,
+            992,
+            508,
+            1007
+          ]
+        },
+        {
+          "text": "490,00",
+          "confidence": 0.93,
+          "bbox": [
+            600,
+            992,
+            660,
+            1010
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.92,
+          "bbox": [
+            667,
+            991,
+            736,
+            1012
+          ]
+        },
+        {
+          "text": "7,750",
+          "confidence": 0.95,
+          "bbox": [
+            847,
+            992,
+            895,
+            1010
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            988,
+            913,
+            1014
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.86,
+          "bbox": [
+            919,
+            992,
+            957,
+            1007
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.86,
+          "bbox": [
+            963,
+            992,
+            999,
+            1007
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.92,
+          "bbox": [
+            1007,
+            988,
+            1019,
+            1014
+          ]
+        },
+        {
+          "text": "3797,50€",
+          "confidence": 0.86,
+          "bbox": [
+            1034,
+            992,
+            1127,
+            1010
+          ]
+        },
+        {
+          "text": "connecteur",
+          "confidence": 0.95,
+          "bbox": [
+            64,
+            1024,
+            165,
+            1038
+          ]
+        },
+        {
+          "text": "mâle",
+          "confidence": 0.96,
+          "bbox": [
+            172,
+            1023,
+            215,
+            1038
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.96,
+          "bbox": [
+            221,
+            1026,
+            231,
+            1037
+          ]
+        },
+        {
+          "text": "femelle",
+          "confidence": 0.96,
+          "bbox": [
+            238,
+            1022,
+            304,
+            1038
+          ]
+        },
+        {
+          "text": "CABLE-ATETES]",
+          "confidence": 0.9,
+          "bbox": [
+            70,
+            1074,
+            212,
+            1093
+          ]
+        },
+        {
+          "text": "Câble",
+          "confidence": 0.96,
+          "bbox": [
+            219,
+            1075,
+            269,
+            1090
+          ]
+        },
+        {
+          "text": "séparateur",
+          "confidence": 0.96,
+          "bbox": [
+            276,
+            1075,
+            372,
+            1094
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            379,
+            1079,
+            420,
+            1090
+          ]
+        },
+        {
+          "text": "connecteur",
+          "confidence": 0.96,
+          "bbox": [
+            426,
+            1077,
+            527,
+            1090
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            534,
+            1075,
+            543,
+            1090
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            550,
+            1076,
+            560,
+            1090
+          ]
+        },
+        {
+          "text": "49,00",
+          "confidence": 0.93,
+          "bbox": [
+            611,
+            1076,
+            660,
+            1093
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.91,
+          "bbox": [
+            667,
+            1074,
+            736,
+            1095
+          ]
+        },
+        {
+          "text": "18,000",
+          "confidence": 0.96,
+          "bbox": [
+            837,
+            1076,
+            895,
+            1093
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            902,
+            1070,
+            912,
+            1097
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.96,
+          "bbox": [
+            919,
+            1076,
+            957,
+            1090
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.96,
+          "bbox": [
+            963,
+            1076,
+            999,
+            1090
+          ]
+        },
+        {
+          "text": "882,00",
+          "confidence": 0.96,
+          "bbox": [
+            1051,
+            1076,
+            1110,
+            1093
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            1117,
+            1076,
+            1127,
+            1090
+          ]
+        },
+        {
+          "text": "pôles",
+          "confidence": 0.83,
+          "bbox": [
+            64,
+            1106,
+            112,
+            1125
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            118,
+            1107,
+            134,
+            1121
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.95,
+          "bbox": [
+            141,
+            1106,
+            151,
+            1121
+          ]
+        },
+        {
+          "text": "têtes",
+          "confidence": 0.95,
+          "bbox": [
+            157,
+            1106,
+            201,
+            1121
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            208,
+            1110,
+            249,
+            1121
+          ]
+        },
+        {
+          "text": "micro",
+          "confidence": 0.96,
+          "bbox": [
+            256,
+            1106,
+            307,
+            1121
+          ]
+        },
+        {
+          "text": "connecteur",
+          "confidence": 0.95,
+          "bbox": [
+            313,
+            1107,
+            414,
+            1121
+          ]
+        },
+        {
+          "text": "CABLE-6M2T]",
+          "confidence": 0.86,
+          "bbox": [
+            70,
+            1157,
+            193,
+            1177
+          ]
+        },
+        {
+          "text": "Câble",
+          "confidence": 0.93,
+          "bbox": [
+            201,
+            1159,
+            251,
+            1174
+          ]
+        },
+        {
+          "text": "IN/OUT",
+          "confidence": 0.91,
+          "bbox": [
+            258,
+            1159,
+            324,
+            1175
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            331,
+            1163,
+            372,
+            1174
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            378,
+            1159,
+            388,
+            1174
+          ]
+        },
+        {
+          "text": "connecteurs",
+          "confidence": 0.96,
+          "bbox": [
+            395,
+            1160,
+            506,
+            1174
+          ]
+        },
+        {
+          "text": "98,00",
+          "confidence": 0.93,
+          "bbox": [
+            612,
+            1159,
+            660,
+            1177
+          ]
+        },
+        {
+          "text": "Unité(s)",
+          "confidence": 0.92,
+          "bbox": [
+            667,
+            1158,
+            736,
+            1179
+          ]
+        },
+        {
+          "text": "18,000",
+          "confidence": 0.93,
+          "bbox": [
+            837,
+            1159,
+            895,
+            1177
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            903,
+            1155,
+            913,
+            1183
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.59,
+          "bbox": [
+            919,
+            1159,
+            957,
+            1174
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.59,
+          "bbox": [
+            963,
+            1159,
+            999,
+            1174
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            1008,
+            1155,
+            1018,
+            1183
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.74,
+          "bbox": [
+            1035,
+            1159,
+            1041,
+            1174
+          ]
+        },
+        {
+          "text": "764,00",
+          "confidence": 0.74,
+          "bbox": [
+            1051,
+            1159,
+            1110,
+            1177
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.95,
+          "bbox": [
+            1117,
+            1159,
+            1127,
+            1174
+          ]
+        },
+        {
+          "text": "mâles+femelles",
+          "confidence": 0.89,
+          "bbox": [
+            64,
+            1188,
+            207,
+            1204
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.97,
+          "bbox": [
+            214,
+            1189,
+            223,
+            1204
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            230,
+            1189,
+            240,
+            1204
+          ]
+        },
+        {
+          "text": "pôles",
+          "confidence": 0.85,
+          "bbox": [
+            247,
+            1189,
+            295,
+            1208
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.95,
+          "bbox": [
+            301,
+            1193,
+            343,
+            1204
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.92,
+          "bbox": [
+            349,
+            1189,
+            359,
+            1204
+          ]
+        },
+        {
+          "text": "T",
+          "confidence": 0.92,
+          "bbox": [
+            365,
+            1189,
+            377,
+            1204
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            383,
+            1193,
+            424,
+            1204
+          ]
+        },
+        {
+          "text": "micro",
+          "confidence": 0.96,
+          "bbox": [
+            431,
+            1189,
+            481,
+            1204
+          ]
+        },
+        {
+          "text": "connecteurs",
+          "confidence": 0.96,
+          "bbox": [
+            64,
+            1221,
+            175,
+            1235
+          ]
+        },
+        {
+          "text": "femelles",
+          "confidence": 0.96,
+          "bbox": [
+            182,
+            1219,
+            258,
+            1235
+          ]
+        },
+        {
+          "text": "Montant",
+          "confidence": 0.96,
+          "bbox": [
+            607,
+            1272,
+            682,
+            1286
+          ]
+        },
+        {
+          "text": "hors",
+          "confidence": 0.95,
+          "bbox": [
+            689,
+            1271,
+            727,
+            1286
+          ]
+        },
+        {
+          "text": "taxes",
+          "confidence": 0.95,
+          "bbox": [
+            733,
+            1272,
+            781,
+            1286
+          ]
+        },
+        {
+          "text": "39",
+          "confidence": 0.95,
+          "bbox": [
+            1023,
+            1272,
+            1044,
+            1286
+          ]
+        },
+        {
+          "text": "688,53",
+          "confidence": 0.95,
+          "bbox": [
+            1051,
+            1272,
+            1110,
+            1289
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            1117,
+            1272,
+            1127,
+            1286
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.89,
+          "bbox": [
+            606,
+            1324,
+            644,
+            1339
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.89,
+          "bbox": [
+            650,
+            1324,
+            687,
+            1339
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.77,
+          "bbox": [
+            1034,
+            1324,
+            1044,
+            1339
+          ]
+        },
+        {
+          "text": "937,71",
+          "confidence": 0.77,
+          "bbox": [
+            1051,
+            1324,
+            1107,
+            1342
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.95,
+          "bbox": [
+            1117,
+            1324,
+            1127,
+            1339
+          ]
+        },
+        {
+          "text": "Conditions",
+          "confidence": 0.95,
+          "bbox": [
+            54,
+            1448,
+            150,
+            1463
+          ]
+        },
+        {
+          "text": "générales",
+          "confidence": 0.93,
+          "bbox": [
+            157,
+            1448,
+            244,
+            1467
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.87,
+          "bbox": [
+            251,
+            1452,
+            253,
+            1463
+          ]
+        },
+        {
+          "text": "https://isossun2.0do0.com/terms",
+          "confidence": 0.28,
+          "bbox": [
+            261,
+            1448,
+            569,
+            1467
+          ]
+        },
+        {
+          "text": "161]",
+          "confidence": 0.78,
+          "bbox": [
+            629,
+            1372,
+            651,
+            1401
+          ]
+        },
+        {
+          "text": "47",
+          "confidence": 0.84,
+          "bbox": [
+            1022,
+            1376,
+            1044,
+            1391
+          ]
+        },
+        {
+          "text": "626,24",
+          "confidence": 0.9,
+          "bbox": [
+            1051,
+            1376,
+            1111,
+            1394
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.9,
+          "bbox": [
+            1117,
+            1376,
+            1127,
+            1391
+          ]
+        },
+        {
+          "text": "Génélios",
+          "confidence": 0.89,
+          "bbox": [
+            54,
+            1522,
+            131,
+            1537
+          ]
+        },
+        {
+          "text": "société",
+          "confidence": 0.93,
+          "bbox": [
+            138,
+            1522,
+            202,
+            1537
+          ]
+        },
+        {
+          "text": "ISOSSUN,",
+          "confidence": 0.92,
+          "bbox": [
+            210,
+            1522,
+            295,
+            1540
+          ]
+        },
+        {
+          "text": "SAS",
+          "confidence": 0.96,
+          "bbox": [
+            302,
+            1522,
+            338,
+            1537
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.96,
+          "bbox": [
+            345,
+            1526,
+            365,
+            1537
+          ]
+        },
+        {
+          "text": "capital",
+          "confidence": 0.96,
+          "bbox": [
+            372,
+            1522,
+            431,
+            1541
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            438,
+            1522,
+            459,
+            1537
+          ]
+        },
+        {
+          "text": "100.000",
+          "confidence": 0.96,
+          "bbox": [
+            467,
+            1522,
+            538,
+            1537
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.95,
+          "bbox": [
+            545,
+            1522,
+            555,
+            1537
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.96,
+          "bbox": [
+            563,
+            1522,
+            584,
+            1537
+          ]
+        },
+        {
+          "text": "chemin",
+          "confidence": 0.96,
+          "bbox": [
+            590,
+            1522,
+            655,
+            1537
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            662,
+            1522,
+            683,
+            1537
+          ]
+        },
+        {
+          "text": "Page:1/1",
+          "confidence": 0.78,
+          "bbox": [
+            1035,
+            1522,
+            1133,
+            1541
+          ]
+        },
+        {
+          "text": "Tronchon,",
+          "confidence": 0.9,
+          "bbox": [
+            53,
+            1553,
+            143,
+            1571
+          ]
+        },
+        {
+          "text": "69570",
+          "confidence": 0.91,
+          "bbox": [
+            150,
+            1553,
+            205,
+            1568
+          ]
+        },
+        {
+          "text": "Dardilly",
+          "confidence": 0.9,
+          "bbox": [
+            213,
+            1553,
+            279,
+            1572
+          ]
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.89,
+          "bbox": [
+            54,
+            1584,
+            90,
+            1599
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.97,
+          "bbox": [
+            97,
+            1584,
+            117,
+            1599
+          ]
+        },
+        {
+          "text": "LYON",
+          "confidence": 0.93,
+          "bbox": [
+            125,
+            1584,
+            174,
+            1599
+          ]
+        },
+        {
+          "text": "siret",
+          "confidence": 0.89,
+          "bbox": [
+            181,
+            1584,
+            220,
+            1599
+          ]
+        },
+        {
+          "text": "n°",
+          "confidence": 0.92,
+          "bbox": [
+            227,
+            1584,
+            243,
+            1599
+          ]
+        },
+        {
+          "text": "94996359900012",
+          "confidence": 0.86,
+          "bbox": [
+            250,
+            1584,
+            410,
+            1599
+          ]
+        },
+        {
+          "text": "code",
+          "confidence": 0.96,
+          "bbox": [
+            416,
+            1584,
+            460,
+            1599
+          ]
+        },
+        {
+          "text": "APE",
+          "confidence": 0.92,
+          "bbox": [
+            466,
+            1584,
+            503,
+            1599
+          ]
+        },
+        {
+          "text": "2562B",
+          "confidence": 0.91,
+          "bbox": [
+            509,
+            1584,
+            566,
+            1599
+          ]
+        },
+        {
+          "text": "Nr",
+          "confidence": 0.96,
+          "bbox": [
+            574,
+            1584,
+            593,
+            1599
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.91,
+          "bbox": [
+            599,
+            1584,
+            637,
+            1599
+          ]
+        },
+        {
+          "text": "Intraco",
+          "confidence": 0.87,
+          "bbox": [
+            644,
+            1584,
+            706,
+            1599
+          ]
+        },
+        {
+          "text": "FR60949963599",
+          "confidence": 0.92,
+          "bbox": [
+            54,
+            1614,
+            202,
+            1629
+          ]
+        }
+      ]
+    }
+  ]
+}

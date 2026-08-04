@@ -1,0 +1,1250 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_102.pdf",
+  "duration_seconds": 0.859,
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1440,
+      "image_height": 1080,
+      "word_count": 13,
+      "words": [
+        {
+          "text": "=)",
+          "confidence": 0.79,
+          "bbox": [
+            39,
+            27,
+            108,
+            97
+          ]
+        },
+        {
+          "text": "EIFFAGE",
+          "confidence": 0.87,
+          "bbox": [
+            133,
+            46,
+            412,
+            119
+          ]
+        },
+        {
+          "text": "ÉNERGIE",
+          "confidence": 0.95,
+          "bbox": [
+            135,
+            115,
+            239,
+            148
+          ]
+        },
+        {
+          "text": "SYSTÈMES",
+          "confidence": 0.95,
+          "bbox": [
+            254,
+            120,
+            380,
+            138
+          ]
+        },
+        {
+          "text": "Ferme",
+          "confidence": 0.96,
+          "bbox": [
+            61,
+            346,
+            326,
+            416
+          ]
+        },
+        {
+          "text": "Solaire",
+          "confidence": 0.95,
+          "bbox": [
+            362,
+            345,
+            652,
+            416
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            687,
+            346,
+            786,
+            416
+          ]
+        },
+        {
+          "text": "Les",
+          "confidence": 0.96,
+          "bbox": [
+            824,
+            346,
+            968,
+            416
+          ]
+        },
+        {
+          "text": "TERRES",
+          "confidence": 0.91,
+          "bbox": [
+            1000,
+            345,
+            1382,
+            416
+          ]
+        },
+        {
+          "text": "NOIRES",
+          "confidence": 0.88,
+          "bbox": [
+            543,
+            460,
+            899,
+            531
+          ]
+        },
+        {
+          "text": "Implantation",
+          "confidence": 0.95,
+          "bbox": [
+            165,
+            576,
+            672,
+            664
+          ]
+        },
+        {
+          "text": "caméras",
+          "confidence": 0.93,
+          "bbox": [
+            711,
+            576,
+            1071,
+            646
+          ]
+        },
+        {
+          "text": "PTZ",
+          "confidence": 0.88,
+          "bbox": [
+            1109,
+            576,
+            1281,
+            645
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_width": 1440,
+      "image_height": 1080,
+      "word_count": 9,
+      "words": [
+        {
+          "text": "=]",
+          "confidence": 0.49,
+          "bbox": [
+            21,
+            15,
+            60,
+            54
+          ]
+        },
+        {
+          "text": "EIFFAGE",
+          "confidence": 0.81,
+          "bbox": [
+            74,
+            25,
+            230,
+            54
+          ]
+        },
+        {
+          "text": "ÉNERGIE",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            64,
+            135,
+            77
+          ]
+        },
+        {
+          "text": "SYSTÈMES",
+          "confidence": 0.95,
+          "bbox": [
+            141,
+            64,
+            212,
+            77
+          ]
+        },
+        {
+          "text": "Implantation",
+          "confidence": 0.96,
+          "bbox": [
+            351,
+            86,
+            689,
+            145
+          ]
+        },
+        {
+          "text": "caméras",
+          "confidence": 0.93,
+          "bbox": [
+            713,
+            86,
+            955,
+            133
+          ]
+        },
+        {
+          "text": "PTZ",
+          "confidence": 0.91,
+          "bbox": [
+            979,
+            86,
+            1094,
+            132
+          ]
+        },
+        {
+          "text": "ê",
+          "confidence": 0.54,
+          "bbox": [
+            646,
+            268,
+            669,
+            309
+          ]
+        },
+        {
+          "text": "$",
+          "confidence": 0.0,
+          "bbox": [
+            796,
+            245,
+            819,
+            262
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_width": 1440,
+      "image_height": 1080,
+      "word_count": 22,
+      "words": [
+        {
+          "text": "EIFFAGE",
+          "confidence": 0.9,
+          "bbox": [
+            74,
+            25,
+            230,
+            54
+          ]
+        },
+        {
+          "text": "ÉNERGIE",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            64,
+            135,
+            77
+          ]
+        },
+        {
+          "text": "SYSTÈMES",
+          "confidence": 0.95,
+          "bbox": [
+            141,
+            64,
+            212,
+            77
+          ]
+        },
+        {
+          "text": "Camera",
+          "confidence": 0.95,
+          "bbox": [
+            583,
+            85,
+            805,
+            133
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.96,
+          "bbox": [
+            832,
+            86,
+            849,
+            132
+          ]
+        },
+        {
+          "text": "Model:",
+          "confidence": 0.93,
+          "bbox": [
+            61,
+            226,
+            99,
+            236
+          ]
+        },
+        {
+          "text": "Hikvision",
+          "confidence": 0.91,
+          "bbox": [
+            110,
+            226,
+            169,
+            236
+          ]
+        },
+        {
+          "text": "DS-2D1",
+          "confidence": 0.44,
+          "bbox": [
+            176,
+            226,
+            215,
+            236
+          ]
+        },
+        {
+          "text": "Resolution:",
+          "confidence": 0.88,
+          "bbox": [
+            352,
+            226,
+            421,
+            236
+          ]
+        },
+        {
+          "text": "2m",
+          "confidence": 0.43,
+          "bbox": [
+            361,
+            251,
+            375,
+            260
+          ]
+        },
+        {
+          "text": "PPM:",
+          "confidence": 0.67,
+          "bbox": [
+            405,
+            250,
+            435,
+            260
+          ]
+        },
+        {
+          "text": "HAoV:",
+          "confidence": 0.89,
+          "bbox": [
+            60,
+            250,
+            97,
+            260
+          ]
+        },
+        {
+          "text": "10°",
+          "confidence": 0.79,
+          "bbox": [
+            109,
+            250,
+            121,
+            260
+          ]
+        },
+        {
+          "text": "Distance:",
+          "confidence": 0.95,
+          "bbox": [
+            156,
+            250,
+            213,
+            260
+          ]
+        },
+        {
+          "text": "Scene",
+          "confidence": 0.93,
+          "bbox": [
+            644,
+            273,
+            683,
+            284
+          ]
+        },
+        {
+          "text": "Height:",
+          "confidence": 0.84,
+          "bbox": [
+            690,
+            273,
+            732,
+            287
+          ]
+        },
+        {
+          "text": "3.05m",
+          "confidence": 0.77,
+          "bbox": [
+            742,
+            274,
+            778,
+            284
+          ]
+        },
+        {
+          "text": "Camera",
+          "confidence": 0.84,
+          "bbox": [
+            368,
+            273,
+            420,
+            284
+          ]
+        },
+        {
+          "text": "Height",
+          "confidence": 0.87,
+          "bbox": [
+            427,
+            273,
+            468,
+            287
+          ]
+        },
+        {
+          "text": "Cogh",
+          "confidence": 0.4,
+          "bbox": [
+            3,
+            1059,
+            54,
+            1080
+          ]
+        },
+        {
+          "text": "2,",
+          "confidence": 0.47,
+          "bbox": [
+            637,
+            1065,
+            641,
+            1080
+          ]
+        },
+        {
+          "text": "RE",
+          "confidence": 0.36,
+          "bbox": [
+            895,
+            1071,
+            1109,
+            1079
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "image_width": 1440,
+      "image_height": 1080,
+      "word_count": 77,
+      "words": [
+        {
+          "text": "=]",
+          "confidence": 0.49,
+          "bbox": [
+            21,
+            15,
+            60,
+            54
+          ]
+        },
+        {
+          "text": "EIFFAGE",
+          "confidence": 0.81,
+          "bbox": [
+            74,
+            25,
+            230,
+            54
+          ]
+        },
+        {
+          "text": "ÉNERGIE",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            64,
+            135,
+            77
+          ]
+        },
+        {
+          "text": "SYSTÈMES",
+          "confidence": 0.95,
+          "bbox": [
+            141,
+            64,
+            212,
+            77
+          ]
+        },
+        {
+          "text": "Camera",
+          "confidence": 0.95,
+          "bbox": [
+            583,
+            85,
+            805,
+            133
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            827,
+            86,
+            857,
+            132
+          ]
+        },
+        {
+          "text": "Model:",
+          "confidence": 0.93,
+          "bbox": [
+            61,
+            226,
+            99,
+            236
+          ]
+        },
+        {
+          "text": "Hikvision",
+          "confidence": 0.82,
+          "bbox": [
+            110,
+            226,
+            183,
+            236
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.95,
+          "bbox": [
+            175,
+            217,
+            186,
+            245
+          ]
+        },
+        {
+          "text": "V-AE(TS)",
+          "confidence": 0.85,
+          "bbox": [
+            271,
+            226,
+            318,
+            236
+          ]
+        },
+        {
+          "text": "Resolution",
+          "confidence": 0.23,
+          "bbox": [
+            352,
+            226,
+            421,
+            236
+          ]
+        },
+        {
+          "text": "Width:",
+          "confidence": 0.72,
+          "bbox": [
+            279,
+            249,
+            317,
+            260
+          ]
+        },
+        {
+          "text": "23.4m",
+          "confidence": 0.62,
+          "bbox": [
+            327,
+            250,
+            367,
+            260
+          ]
+        },
+        {
+          "text": "PPM:10",
+          "confidence": 0.62,
+          "bbox": [
+            396,
+            250,
+            450,
+            260
+          ]
+        },
+        {
+          "text": "HAoV:",
+          "confidence": 0.78,
+          "bbox": [
+            61,
+            250,
+            97,
+            260
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            250,
+            113,
+            256
+          ]
+        },
+        {
+          "text": "Distance:",
+          "confidence": 0.93,
+          "bbox": [
+            148,
+            250,
+            205,
+            260
+          ]
+        },
+        {
+          "text": "150n",
+          "confidence": 0.89,
+          "bbox": [
+            217,
+            250,
+            241,
+            260
+          ]
+        },
+        {
+          "text": "Fi",
+          "confidence": 0.7,
+          "bbox": [
+            4,
+            249,
+            50,
+            296
+          ]
+        },
+        {
+          "text": "Imager:",
+          "confidence": 0.81,
+          "bbox": [
+            61,
+            274,
+            107,
+            287
+          ]
+        },
+        {
+          "text": "1/28°",
+          "confidence": 0.22,
+          "bbox": [
+            117,
+            274,
+            149,
+            284
+          ]
+        },
+        {
+          "text": "Focal",
+          "confidence": 0.96,
+          "bbox": [
+            182,
+            273,
+            216,
+            284
+          ]
+        },
+        {
+          "text": "Length:",
+          "confidence": 0.9,
+          "bbox": [
+            223,
+            273,
+            267,
+            287
+          ]
+        },
+        {
+          "text": "41.29mm",
+          "confidence": 0.9,
+          "bbox": [
+            277,
+            274,
+            339,
+            284
+          ]
+        },
+        {
+          "text": "Scene",
+          "confidence": 0.93,
+          "bbox": [
+            644,
+            273,
+            683,
+            284
+          ]
+        },
+        {
+          "text": "Height",
+          "confidence": 0.29,
+          "bbox": [
+            690,
+            273,
+            732,
+            287
+          ]
+        },
+        {
+          "text": "ce",
+          "confidence": 0.26,
+          "bbox": [
+            700,
+            295,
+            725,
+            310
+          ]
+        },
+        {
+          "text": "2e",
+          "confidence": 0.46,
+          "bbox": [
+            404,
+            464,
+            416,
+            472
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.42,
+          "bbox": [
+            389,
+            464,
+            399,
+            471
+          ]
+        },
+        {
+          "text": "PDT",
+          "confidence": 0.04,
+          "bbox": [
+            370,
+            473,
+            401,
+            483
+          ]
+        },
+        {
+          "text": "AGRAUA",
+          "confidence": 0.0,
+          "bbox": [
+            350,
+            484,
+            401,
+            496
+          ]
+        },
+        {
+          "text": "48",
+          "confidence": 0.51,
+          "bbox": [
+            222,
+            498,
+            232,
+            505
+          ]
+        },
+        {
+          "text": "ene7oR",
+          "confidence": 0.0,
+          "bbox": [
+            236,
+            487,
+            267,
+            515
+          ]
+        },
+        {
+          "text": "1562988,",
+          "confidence": 0.49,
+          "bbox": [
+            274,
+            487,
+            309,
+            515
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.34,
+          "bbox": [
+            320,
+            499,
+            322,
+            505
+          ]
+        },
+        {
+          "text": "596",
+          "confidence": 0.0,
+          "bbox": [
+            327,
+            487,
+            347,
+            515
+          ]
+        },
+        {
+          "text": "É064",
+          "confidence": 0.0,
+          "bbox": [
+            348,
+            487,
+            372,
+            515
+          ]
+        },
+        {
+          "text": "56849",
+          "confidence": 0.03,
+          "bbox": [
+            374,
+            487,
+            401,
+            515
+          ]
+        },
+        {
+          "text": "109.5",
+          "confidence": 0.95,
+          "bbox": [
+            1246,
+            568,
+            1278,
+            597
+          ]
+        },
+        {
+          "text": "ppm",
+          "confidence": 0.95,
+          "bbox": [
+            1283,
+            579,
+            1309,
+            590
+          ]
+        },
+        {
+          "text": "150m",
+          "confidence": 0.8,
+          "bbox": [
+            1259,
+            598,
+            1295,
+            608
+          ]
+        },
+        {
+          "text": "nu",
+          "confidence": 0.44,
+          "bbox": [
+            460,
+            688,
+            470,
+            699
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.46,
+          "bbox": [
+            133,
+            712,
+            142,
+            722
+          ]
+        },
+        {
+          "text": "peu",
+          "confidence": 0.3,
+          "bbox": [
+            458,
+            715,
+            564,
+            736
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.47,
+          "bbox": [
+            121,
+            738,
+            126,
+            748
+          ]
+        },
+        {
+          "text": "nl",
+          "confidence": 0.09,
+          "bbox": [
+            458,
+            738,
+            568,
+            751
+          ]
+        },
+        {
+          "text": "fl",
+          "confidence": 0.56,
+          "bbox": [
+            109,
+            751,
+            119,
+            779
+          ]
+        },
+        {
+          "text": "DR",
+          "confidence": 0.35,
+          "bbox": [
+            420,
+            763,
+            436,
+            773
+          ]
+        },
+        {
+          "text": "LME",
+          "confidence": 0.05,
+          "bbox": [
+            494,
+            763,
+            509,
+            774
+          ]
+        },
+        {
+          "text": "ARERRE",
+          "confidence": 0.0,
+          "bbox": [
+            531,
+            763,
+            547,
+            773
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.7,
+          "bbox": [
+            107,
+            775,
+            111,
+            784
+          ]
+        },
+        {
+          "text": "EL",
+          "confidence": 0.38,
+          "bbox": [
+            420,
+            777,
+            513,
+            790
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.36,
+          "bbox": [
+            95,
+            795,
+            103,
+            819
+          ]
+        },
+        {
+          "text": "us",
+          "confidence": 0.04,
+          "bbox": [
+            421,
+            802,
+            435,
+            812
+          ]
+        },
+        {
+          "text": "Un",
+          "confidence": 0.14,
+          "bbox": [
+            472,
+            798,
+            498,
+            820
+          ]
+        },
+        {
+          "text": "En",
+          "confidence": 0.1,
+          "bbox": [
+            508,
+            798,
+            531,
+            820
+          ]
+        },
+        {
+          "text": "[",
+          "confidence": 0.05,
+          "bbox": [
+            95,
+            821,
+            97,
+            828
+          ]
+        },
+        {
+          "text": "nus",
+          "confidence": 0.31,
+          "bbox": [
+            422,
+            818,
+            437,
+            828
+          ]
+        },
+        {
+          "text": "ti",
+          "confidence": 0.28,
+          "bbox": [
+            472,
+            808,
+            491,
+            839
+          ]
+        },
+        {
+          "text": "min",
+          "confidence": 0.1,
+          "bbox": [
+            508,
+            808,
+            535,
+            839
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.39,
+          "bbox": [
+            544,
+            817,
+            547,
+            829
+          ]
+        },
+        {
+          "text": "Î",
+          "confidence": 0.26,
+          "bbox": [
+            89,
+            834,
+            94,
+            859
+          ]
+        },
+        {
+          "text": "EE",
+          "confidence": 0.37,
+          "bbox": [
+            422,
+            842,
+            437,
+            852
+          ]
+        },
+        {
+          "text": "EE",
+          "confidence": 0.43,
+          "bbox": [
+            457,
+            842,
+            551,
+            852
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.68,
+          "bbox": [
+            1111,
+            845,
+            1112,
+            848
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.36,
+          "bbox": [
+            88,
+            860,
+            89,
+            864
+          ]
+        },
+        {
+          "text": "Lg",
+          "confidence": 0.09,
+          "bbox": [
+            422,
+            856,
+            437,
+            868
+          ]
+        },
+        {
+          "text": "run",
+          "confidence": 0.07,
+          "bbox": [
+            474,
+            846,
+            496,
+            877
+          ]
+        },
+        {
+          "text": "nu",
+          "confidence": 0.14,
+          "bbox": [
+            511,
+            846,
+            532,
+            877
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.57,
+          "bbox": [
+            547,
+            854,
+            548,
+            867
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.87,
+          "bbox": [
+            1112,
+            854,
+            1114,
+            860
+          ]
+        },
+        {
+          "text": "[L",
+          "confidence": 0.31,
+          "bbox": [
+            81,
+            872,
+            87,
+            894
+          ]
+        },
+        {
+          "text": "CL",
+          "confidence": 0.41,
+          "bbox": [
+            420,
+            876,
+            443,
+            897
+          ]
+        },
+        {
+          "text": "I",
+          "confidence": 0.04,
+          "bbox": [
+            499,
+            880,
+            513,
+            890
+          ]
+        },
+        {
+          "text": "CC.",
+          "confidence": 0.0,
+          "bbox": [
+            534,
+            880,
+            550,
+            890
+          ]
+        },
+        {
+          "text": "tnt",
+          "confidence": 0.2,
+          "bbox": [
+            424,
+            879,
+            551,
+            907
+          ]
+        },
+        {
+          "text": "reve",
+          "confidence": 0.17,
+          "bbox": [
+            895,
+            1071,
+            1011,
+            1079
+          ]
+        }
+      ]
+    }
+  ]
+}

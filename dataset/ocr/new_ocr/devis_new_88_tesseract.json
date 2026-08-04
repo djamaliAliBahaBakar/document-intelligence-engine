@@ -1,0 +1,2146 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_88.pdf",
+  "duration_seconds": 0.501,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 213,
+      "words": [
+        {
+          "text": "S",
+          "confidence": 0.88,
+          "bbox": [
+            577,
+            40,
+            618,
+            91
+          ]
+        },
+        {
+          "text": "CEPOVETT",
+          "confidence": 0.76,
+          "bbox": [
+            493,
+            126,
+            698,
+            180
+          ]
+        },
+        {
+          "text": "ATEX",
+          "confidence": 0.89,
+          "bbox": [
+            48,
+            192,
+            167,
+            217
+          ]
+        },
+        {
+          "text": "260",
+          "confidence": 0.94,
+          "bbox": [
+            213,
+            192,
+            295,
+            217
+          ]
+        },
+        {
+          "text": "XP",
+          "confidence": 0.94,
+          "bbox": [
+            340,
+            192,
+            390,
+            217
+          ]
+        },
+        {
+          "text": "9D88",
+          "confidence": 0.91,
+          "bbox": [
+            49,
+            236,
+            146,
+            273
+          ]
+        },
+        {
+          "text": "8496",
+          "confidence": 0.96,
+          "bbox": [
+            162,
+            236,
+            254,
+            273
+          ]
+        },
+        {
+          "text": "BLOUSON",
+          "confidence": 0.93,
+          "bbox": [
+            265,
+            243,
+            412,
+            273
+          ]
+        },
+        {
+          "text": "ETNA",
+          "confidence": 0.92,
+          "bbox": [
+            426,
+            243,
+            503,
+            272
+          ]
+        },
+        {
+          "text": "L",
+          "confidence": 0.0,
+          "bbox": [
+            314,
+            301,
+            335,
+            328
+          ]
+        },
+        {
+          "text": "WXEAO\")",
+          "confidence": 0.06,
+          "bbox": [
+            445,
+            279,
+            619,
+            326
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.0,
+          "bbox": [
+            750,
+            308,
+            771,
+            320
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.91,
+          "bbox": [
+            85,
+            314,
+            149,
+            378
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.73,
+          "bbox": [
+            313,
+            332,
+            336,
+            364
+          ]
+        },
+        {
+          "text": "Transfert",
+          "confidence": 0.96,
+          "bbox": [
+            342,
+            329,
+            406,
+            346
+          ]
+        },
+        {
+          "text": "FR",
+          "confidence": 0.93,
+          "bbox": [
+            413,
+            329,
+            432,
+            346
+          ]
+        },
+        {
+          "text": "C9037",
+          "confidence": 0.91,
+          "bbox": [
+            439,
+            329,
+            488,
+            346
+          ]
+        },
+        {
+          "text": "pictos",
+          "confidence": 0.92,
+          "bbox": [
+            495,
+            330,
+            539,
+            350
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            546,
+            334,
+            569,
+            346
+          ]
+        },
+        {
+          "text": "patte",
+          "confidence": 0.94,
+          "bbox": [
+            575,
+            330,
+            610,
+            350
+          ]
+        },
+        {
+          "text": "milieu",
+          "confidence": 0.95,
+          "bbox": [
+            617,
+            329,
+            662,
+            346
+          ]
+        },
+        {
+          "text": "devant",
+          "confidence": 0.96,
+          "bbox": [
+            669,
+            330,
+            718,
+            346
+          ]
+        },
+        {
+          "text": "æ",
+          "confidence": 0.11,
+          "bbox": [
+            750,
+            322,
+            771,
+            358
+          ]
+        },
+        {
+          "text": "8496",
+          "confidence": 0.96,
+          "bbox": [
+            919,
+            341,
+            961,
+            357
+          ]
+        },
+        {
+          "text": "Satin",
+          "confidence": 0.96,
+          "bbox": [
+            969,
+            340,
+            1013,
+            357
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.96,
+          "bbox": [
+            54,
+            362,
+            92,
+            389
+          ]
+        },
+        {
+          "text": "Produit",
+          "confidence": 0.95,
+          "bbox": [
+            133,
+            355,
+            264,
+            398
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.34,
+          "bbox": [
+            314,
+            366,
+            335,
+            397
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.74,
+          "bbox": [
+            424,
+            357,
+            437,
+            373
+          ]
+        },
+        {
+          "text": "nl",
+          "confidence": 0.29,
+          "bbox": [
+            442,
+            356,
+            512,
+            399
+          ]
+        },
+        {
+          "text": "nee",
+          "confidence": 0.29,
+          "bbox": [
+            518,
+            357,
+            617,
+            403
+          ]
+        },
+        {
+          "text": "Æ",
+          "confidence": 0.51,
+          "bbox": [
+            750,
+            367,
+            771,
+            391
+          ]
+        },
+        {
+          "text": "79%",
+          "confidence": 0.96,
+          "bbox": [
+            783,
+            371,
+            817,
+            387
+          ]
+        },
+        {
+          "text": "coton",
+          "confidence": 0.96,
+          "bbox": [
+            824,
+            371,
+            865,
+            387
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.96,
+          "bbox": [
+            871,
+            371,
+            906,
+            387
+          ]
+        },
+        {
+          "text": "polyester",
+          "confidence": 0.96,
+          "bbox": [
+            914,
+            370,
+            982,
+            391
+          ]
+        },
+        {
+          "text": "1%",
+          "confidence": 0.96,
+          "bbox": [
+            989,
+            371,
+            1012,
+            387
+          ]
+        },
+        {
+          "text": "fibre",
+          "confidence": 0.93,
+          "bbox": [
+            1019,
+            370,
+            1052,
+            387
+          ]
+        },
+        {
+          "text": "antistatique",
+          "confidence": 0.87,
+          "bbox": [
+            1058,
+            370,
+            1145,
+            391
+          ]
+        },
+        {
+          "text": "Poches",
+          "confidence": 0.96,
+          "bbox": [
+            34,
+            397,
+            88,
+            414
+          ]
+        },
+        {
+          "text": "basses",
+          "confidence": 0.93,
+          "bbox": [
+            95,
+            398,
+            146,
+            414
+          ]
+        },
+        {
+          "text": "insérées",
+          "confidence": 0.91,
+          "bbox": [
+            153,
+            397,
+            214,
+            414
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.95,
+          "bbox": [
+            221,
+            397,
+            256,
+            414
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.96,
+          "bbox": [
+            263,
+            397,
+            282,
+            414
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.89,
+          "bbox": [
+            291,
+            393,
+            304,
+            422
+          ]
+        },
+        {
+          "text": "©>",
+          "confidence": 0.45,
+          "bbox": [
+            314,
+            400,
+            335,
+            412
+          ]
+        },
+        {
+          "text": "Entretien",
+          "confidence": 0.89,
+          "bbox": [
+            459,
+            409,
+            505,
+            426
+          ]
+        },
+        {
+          "text": "industriel",
+          "confidence": 0.94,
+          "bbox": [
+            532,
+            409,
+            600,
+            426
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.77,
+          "bbox": [
+            750,
+            393,
+            771,
+            410
+          ]
+        },
+        {
+          "text": "260",
+          "confidence": 0.93,
+          "bbox": [
+            928,
+            397,
+            956,
+            413
+          ]
+        },
+        {
+          "text": "gr/m?",
+          "confidence": 0.76,
+          "bbox": [
+            963,
+            396,
+            1004,
+            417
+          ]
+        },
+        {
+          "text": "découpes",
+          "confidence": 0.95,
+          "bbox": [
+            63,
+            425,
+            135,
+            445
+          ]
+        },
+        {
+          "text": "côtés",
+          "confidence": 0.95,
+          "bbox": [
+            141,
+            425,
+            180,
+            441
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.92,
+          "bbox": [
+            187,
+            429,
+            221,
+            445
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            227,
+            429,
+            253,
+            441
+          ]
+        },
+        {
+          "text": "Fe",
+          "confidence": 0.0,
+          "bbox": [
+            310,
+            411,
+            335,
+            458
+          ]
+        },
+        {
+          "text": "\"",
+          "confidence": 0.0,
+          "bbox": [
+            469,
+            414,
+            476,
+            426
+          ]
+        },
+        {
+          "text": "iles",
+          "confidence": 0.21,
+          "bbox": [
+            484,
+            414,
+            533,
+            452
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.71,
+          "bbox": [
+            537,
+            414,
+            547,
+            452
+          ]
+        },
+        {
+          "text": "26",
+          "confidence": 0.29,
+          "bbox": [
+            553,
+            414,
+            596,
+            452
+          ]
+        },
+        {
+          "text": "ce",
+          "confidence": 0.76,
+          "bbox": [
+            677,
+            421,
+            714,
+            433
+          ]
+        },
+        {
+          "text": "meilleure",
+          "confidence": 0.88,
+          "bbox": [
+            74,
+            450,
+            143,
+            467
+          ]
+        },
+        {
+          "text": "accessibilité",
+          "confidence": 0.91,
+          "bbox": [
+            150,
+            450,
+            242,
+            467
+          ]
+        },
+        {
+          "text": "L",
+          "confidence": 0.0,
+          "bbox": [
+            323,
+            462,
+            324,
+            476
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.59,
+          "bbox": [
+            677,
+            451,
+            681,
+            454
+          ]
+        },
+        {
+          "text": "EPI",
+          "confidence": 0.75,
+          "bbox": [
+            483,
+            486,
+            502,
+            498
+          ]
+        },
+        {
+          "text": "catégorie",
+          "confidence": 0.87,
+          "bbox": [
+            508,
+            486,
+            568,
+            501
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.96,
+          "bbox": [
+            573,
+            486,
+            580,
+            498
+          ]
+        },
+        {
+          "text": "Compatibilité",
+          "confidence": 0.93,
+          "bbox": [
+            54,
+            503,
+            154,
+            524
+          ]
+        },
+        {
+          "text": "ATEX",
+          "confidence": 0.91,
+          "bbox": [
+            160,
+            503,
+            200,
+            520
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            206,
+            504,
+            218,
+            520
+          ]
+        },
+        {
+          "text": "ATEX",
+          "confidence": 0.92,
+          "bbox": [
+            224,
+            503,
+            263,
+            520
+          ]
+        },
+        {
+          "text": "De)",
+          "confidence": 0.4,
+          "bbox": [
+            311,
+            499,
+            339,
+            529
+          ]
+        },
+        {
+          "text": "MRB71",
+          "confidence": 0.87,
+          "bbox": [
+            509,
+            504,
+            553,
+            516
+          ]
+        },
+        {
+          "text": "De)",
+          "confidence": 0.63,
+          "bbox": [
+            750,
+            512,
+            771,
+            524
+          ]
+        },
+        {
+          "text": "REFLECT",
+          "confidence": 0.92,
+          "bbox": [
+            47,
+            529,
+            117,
+            546
+          ]
+        },
+        {
+          "text": "320",
+          "confidence": 0.93,
+          "bbox": [
+            123,
+            530,
+            151,
+            546
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.93,
+          "bbox": [
+            157,
+            534,
+            190,
+            546
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            198,
+            529,
+            209,
+            546
+          ]
+        },
+        {
+          "text": "gamme",
+          "confidence": 0.96,
+          "bbox": [
+            215,
+            533,
+            270,
+            550
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.94,
+          "bbox": [
+            315,
+            526,
+            336,
+            557
+          ]
+        },
+        {
+          "text": "œ",
+          "confidence": 0.57,
+          "bbox": [
+            750,
+            527,
+            771,
+            543
+          ]
+        },
+        {
+          "text": "S",
+          "confidence": 0.48,
+          "bbox": [
+            749,
+            547,
+            772,
+            559
+          ]
+        },
+        {
+          "text": "LRRERREE",
+          "confidence": 0.0,
+          "bbox": [
+            315,
+            537,
+            771,
+            581
+          ]
+        },
+        {
+          "text": "S",
+          "confidence": 0.7,
+          "bbox": [
+            314,
+            574,
+            337,
+            586
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.72,
+          "bbox": [
+            749,
+            575,
+            772,
+            587
+          ]
+        },
+        {
+          "text": "ZZ",
+          "confidence": 0.35,
+          "bbox": [
+            315,
+            590,
+            336,
+            602
+          ]
+        },
+        {
+          "text": "enstass",
+          "confidence": 0.14,
+          "bbox": [
+            355,
+            598,
+            402,
+            606
+          ]
+        },
+        {
+          "text": "enisonet2",
+          "confidence": 0.38,
+          "bbox": [
+            420,
+            598,
+            480,
+            606
+          ]
+        },
+        {
+          "text": "EuISOnets",
+          "confidence": 0.0,
+          "bbox": [
+            500,
+            598,
+            559,
+            606
+          ]
+        },
+        {
+          "text": "Ento0te",
+          "confidence": 0.0,
+          "bbox": [
+            582,
+            598,
+            625,
+            606
+          ]
+        },
+        {
+          "text": "1ECG1482-2",
+          "confidence": 0.0,
+          "bbox": [
+            650,
+            598,
+            704,
+            606
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.35,
+          "bbox": [
+            749,
+            591,
+            772,
+            603
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.66,
+          "bbox": [
+            369,
+            611,
+            382,
+            619
+          ]
+        },
+        {
+          "text": "215",
+          "confidence": 0.38,
+          "bbox": [
+            440,
+            611,
+            460,
+            619
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.1,
+          "bbox": [
+            520,
+            611,
+            540,
+            619
+          ]
+        },
+        {
+          "text": "AGEN",
+          "confidence": 0.14,
+          "bbox": [
+            568,
+            611,
+            596,
+            619
+          ]
+        },
+        {
+          "text": "AI-200",
+          "confidence": 0.11,
+          "bbox": [
+            600,
+            611,
+            640,
+            619
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.37,
+          "bbox": [
+            646,
+            595,
+            655,
+            629
+          ]
+        },
+        {
+          "text": "DIE",
+          "confidence": 0.02,
+          "bbox": [
+            667,
+            611,
+            687,
+            619
+          ]
+        },
+        {
+          "text": "MONET",
+          "confidence": 0.06,
+          "bbox": [
+            418,
+            624,
+            481,
+            632
+          ]
+        },
+        {
+          "text": "AtGaet",
+          "confidence": 0.0,
+          "bbox": [
+            505,
+            624,
+            553,
+            632
+          ]
+        },
+        {
+          "text": "pepe",
+          "confidence": 0.0,
+          "bbox": [
+            581,
+            624,
+            625,
+            634
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.07,
+          "bbox": [
+            666,
+            624,
+            686,
+            632
+          ]
+        },
+        {
+          "text": "MARQUAGE",
+          "confidence": 0.95,
+          "bbox": [
+            762,
+            673,
+            849,
+            686
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.95,
+          "bbox": [
+            853,
+            666,
+            861,
+            694
+          ]
+        },
+        {
+          "text": "TITRE",
+          "confidence": 0.96,
+          "bbox": [
+            872,
+            673,
+            913,
+            684
+          ]
+        },
+        {
+          "text": "INDICATIF",
+          "confidence": 0.94,
+          "bbox": [
+            921,
+            673,
+            994,
+            684
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 0.94,
+          "bbox": [
+            1001,
+            673,
+            1019,
+            684
+          ]
+        },
+        {
+          "text": "NON",
+          "confidence": 0.96,
+          "bbox": [
+            1026,
+            673,
+            1058,
+            684
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.93,
+          "bbox": [
+            1065,
+            673,
+            1075,
+            684
+          ]
+        },
+        {
+          "text": "L'ÉCHELLE",
+          "confidence": 0.9,
+          "bbox": [
+            1082,
+            670,
+            1162,
+            684
+          ]
+        },
+        {
+          "text": "Manches",
+          "confidence": 0.96,
+          "bbox": [
+            652,
+            775,
+            708,
+            789
+          ]
+        },
+        {
+          "text": "montées",
+          "confidence": 0.96,
+          "bbox": [
+            654,
+            798,
+            706,
+            811
+          ]
+        },
+        {
+          "text": "Passants",
+          "confidence": 0.63,
+          "bbox": [
+            137,
+            858,
+            197,
+            887
+          ]
+        },
+        {
+          "text": "Collerette",
+          "confidence": 0.89,
+          "bbox": [
+            429,
+            859,
+            488,
+            873
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            493,
+            860,
+            507,
+            873
+          ]
+        },
+        {
+          "text": "porte-dosimètre",
+          "confidence": 0.85,
+          "bbox": [
+            118,
+            881,
+            219,
+            908
+          ]
+        },
+        {
+          "text": "marquage",
+          "confidence": 0.94,
+          "bbox": [
+            405,
+            884,
+            467,
+            897
+          ]
+        },
+        {
+          "text": "intérieure",
+          "confidence": 0.93,
+          "bbox": [
+            472,
+            881,
+            530,
+            894
+          ]
+        },
+        {
+          "text": "Devant",
+          "confidence": 0.96,
+          "bbox": [
+            548,
+            927,
+            592,
+            941
+          ]
+        },
+        {
+          "text": "fermé",
+          "confidence": 0.96,
+          "bbox": [
+            595,
+            928,
+            630,
+            941
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            633,
+            931,
+            655,
+            944
+          ]
+        },
+        {
+          "text": "fermeture",
+          "confidence": 0.39,
+          "bbox": [
+            566,
+            949,
+            625,
+            962
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            629,
+            949,
+            636,
+            962
+          ]
+        },
+        {
+          "text": "glissière",
+          "confidence": 0.95,
+          "bbox": [
+            557,
+            971,
+            610,
+            987
+          ]
+        },
+        {
+          "text": "sous",
+          "confidence": 0.94,
+          "bbox": [
+            615,
+            974,
+            644,
+            984
+          ]
+        },
+        {
+          "text": "patte",
+          "confidence": 0.95,
+          "bbox": [
+            551,
+            992,
+            581,
+            1008
+          ]
+        },
+        {
+          "text": "maintenue",
+          "confidence": 0.93,
+          "bbox": [
+            586,
+            992,
+            650,
+            1005
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.94,
+          "bbox": [
+            558,
+            1017,
+            579,
+            1030
+          ]
+        },
+        {
+          "text": "pressions",
+          "confidence": 0.83,
+          "bbox": [
+            582,
+            1017,
+            643,
+            1030
+          ]
+        },
+        {
+          "text": "cachées",
+          "confidence": 0.96,
+          "bbox": [
+            576,
+            1035,
+            626,
+            1049
+          ]
+        },
+        {
+          "text": "Poche",
+          "confidence": 0.96,
+          "bbox": [
+            65,
+            979,
+            103,
+            993
+          ]
+        },
+        {
+          "text": "poitrine",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            980,
+            155,
+            996
+          ]
+        },
+        {
+          "text": "droite",
+          "confidence": 0.95,
+          "bbox": [
+            160,
+            980,
+            195,
+            993
+          ]
+        },
+        {
+          "text": "Sous",
+          "confidence": 0.76,
+          "bbox": [
+            66,
+            1004,
+            96,
+            1014
+          ]
+        },
+        {
+          "text": "rabat",
+          "confidence": 0.96,
+          "bbox": [
+            100,
+            1000,
+            132,
+            1014
+          ]
+        },
+        {
+          "text": "fermé",
+          "confidence": 0.96,
+          "bbox": [
+            135,
+            1001,
+            170,
+            1014
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            173,
+            1004,
+            195,
+            1017
+          ]
+        },
+        {
+          "text": "pression",
+          "confidence": 0.96,
+          "bbox": [
+            79,
+            1026,
+            133,
+            1039
+          ]
+        },
+        {
+          "text": "cachée",
+          "confidence": 0.96,
+          "bbox": [
+            138,
+            1023,
+            180,
+            1036
+          ]
+        },
+        {
+          "text": "Bas",
+          "confidence": 0.96,
+          "bbox": [
+            734,
+            1252,
+            756,
+            1266
+          ]
+        },
+        {
+          "text": "dos",
+          "confidence": 0.96,
+          "bbox": [
+            761,
+            1253,
+            783,
+            1266
+          ]
+        },
+        {
+          "text": "dépassant",
+          "confidence": 0.95,
+          "bbox": [
+            788,
+            1253,
+            851,
+            1269
+          ]
+        },
+        {
+          "text": "Bas",
+          "confidence": 0.83,
+          "bbox": [
+            900,
+            1277,
+            923,
+            1291
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            928,
+            1277,
+            942,
+            1291
+          ]
+        },
+        {
+          "text": "manche",
+          "confidence": 0.96,
+          "bbox": [
+            946,
+            1278,
+            995,
+            1291
+          ]
+        },
+        {
+          "text": "fermé",
+          "confidence": 0.92,
+          "bbox": [
+            1000,
+            1278,
+            1034,
+            1291
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.92,
+          "bbox": [
+            1038,
+            1281,
+            1059,
+            1294
+          ]
+        },
+        {
+          "text": "pression",
+          "confidence": 0.94,
+          "bbox": [
+            920,
+            1303,
+            974,
+            1316
+          ]
+        },
+        {
+          "text": "intérieure",
+          "confidence": 0.96,
+          "bbox": [
+            979,
+            1300,
+            1038,
+            1313
+          ]
+        },
+        {
+          "text": "Poches",
+          "confidence": 0.96,
+          "bbox": [
+            118,
+            1392,
+            163,
+            1406
+          ]
+        },
+        {
+          "text": "basses",
+          "confidence": 0.92,
+          "bbox": [
+            168,
+            1393,
+            210,
+            1406
+          ]
+        },
+        {
+          "text": "insérées",
+          "confidence": 0.92,
+          "bbox": [
+            215,
+            1393,
+            266,
+            1406
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.96,
+          "bbox": [
+            133,
+            1413,
+            162,
+            1427
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            167,
+            1414,
+            184,
+            1427
+          ]
+        },
+        {
+          "text": "découpes,",
+          "confidence": 0.95,
+          "bbox": [
+            189,
+            1413,
+            250,
+            1430
+          ]
+        },
+        {
+          "text": "Poches",
+          "confidence": 0.95,
+          "bbox": [
+            475,
+            1406,
+            520,
+            1420
+          ]
+        },
+        {
+          "text": "intérieures",
+          "confidence": 0.95,
+          "bbox": [
+            525,
+            1407,
+            590,
+            1420
+          ]
+        },
+        {
+          "text": "fermées",
+          "confidence": 0.83,
+          "bbox": [
+            467,
+            1428,
+            515,
+            1441
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.95,
+          "bbox": [
+            519,
+            1431,
+            540,
+            1444
+          ]
+        },
+        {
+          "text": "pression",
+          "confidence": 0.96,
+          "bbox": [
+            543,
+            1431,
+            597,
+            1444
+          ]
+        },
+        {
+          "text": "cachée",
+          "confidence": 0.96,
+          "bbox": [
+            511,
+            1450,
+            554,
+            1463
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.93,
+          "bbox": [
+            919,
+            1445,
+            951,
+            1462
+          ]
+        },
+        {
+          "text": "&",
+          "confidence": 0.93,
+          "bbox": [
+            958,
+            1445,
+            968,
+            1462
+          ]
+        },
+        {
+          "text": "Signature",
+          "confidence": 0.85,
+          "bbox": [
+            975,
+            1445,
+            1047,
+            1466
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.85,
+          "bbox": [
+            1054,
+            1460,
+            1056,
+            1462
+          ]
+        },
+        {
+          "text": "fermées",
+          "confidence": 0.93,
+          "bbox": [
+            119,
+            1436,
+            167,
+            1449
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            171,
+            1439,
+            192,
+            1452
+          ]
+        },
+        {
+          "text": "fermeture",
+          "confidence": 0.91,
+          "bbox": [
+            196,
+            1436,
+            255,
+            1449
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            259,
+            1436,
+            265,
+            1449
+          ]
+        },
+        {
+          "text": "glissière",
+          "confidence": 0.94,
+          "bbox": [
+            142,
+            1458,
+            195,
+            1474
+          ]
+        },
+        {
+          "text": "cachée",
+          "confidence": 0.96,
+          "bbox": [
+            200,
+            1458,
+            242,
+            1471
+          ]
+        },
+        {
+          "text": "150,",
+          "confidence": 0.96,
+          "bbox": [
+            57,
+            1579,
+            81,
+            1592
+          ]
+        },
+        {
+          "text": "ANCIENNE",
+          "confidence": 0.93,
+          "bbox": [
+            89,
+            1579,
+            157,
+            1592
+          ]
+        },
+        {
+          "text": "ROUTE",
+          "confidence": 0.96,
+          "bbox": [
+            163,
+            1579,
+            207,
+            1592
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 0.93,
+          "bbox": [
+            213,
+            1579,
+            229,
+            1592
+          ]
+        },
+        {
+          "text": "BEAUJEU",
+          "confidence": 0.88,
+          "bbox": [
+            235,
+            1579,
+            295,
+            1592
+          ]
+        },
+        {
+          "text": "BP.",
+          "confidence": 0.88,
+          "bbox": [
+            301,
+            1579,
+            319,
+            1592
+          ]
+        },
+        {
+          "text": "90421",
+          "confidence": 0.88,
+          "bbox": [
+            324,
+            1579,
+            364,
+            1592
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.93,
+          "bbox": [
+            372,
+            1586,
+            376,
+            1587
+          ]
+        },
+        {
+          "text": "GLEIZÉ",
+          "confidence": 0.92,
+          "bbox": [
+            383,
+            1576,
+            427,
+            1592
+          ]
+        },
+        {
+          "text": "69653",
+          "confidence": 0.93,
+          "bbox": [
+            56,
+            1601,
+            98,
+            1613
+          ]
+        },
+        {
+          "text": "VILLEFRANCHE-SUR-SAÔNE",
+          "confidence": 0.87,
+          "bbox": [
+            103,
+            1597,
+            289,
+            1613
+          ]
+        },
+        {
+          "text": "CEDEX",
+          "confidence": 0.93,
+          "bbox": [
+            294,
+            1600,
+            338,
+            1613
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            344,
+            1607,
+            348,
+            1609
+          ]
+        },
+        {
+          "text": "FRANCE",
+          "confidence": 0.96,
+          "bbox": [
+            354,
+            1600,
+            407,
+            1613
+          ]
+        },
+        {
+          "text": "TÉL.",
+          "confidence": 0.94,
+          "bbox": [
+            56,
+            1619,
+            80,
+            1635
+          ]
+        },
+        {
+          "text": "+33",
+          "confidence": 0.86,
+          "bbox": [
+            89,
+            1622,
+            116,
+            1635
+          ]
+        },
+        {
+          "text": "(0)4",
+          "confidence": 0.89,
+          "bbox": [
+            121,
+            1622,
+            146,
+            1638
+          ]
+        },
+        {
+          "text": "74",
+          "confidence": 0.95,
+          "bbox": [
+            152,
+            1622,
+            167,
+            1635
+          ]
+        },
+        {
+          "text": "62",
+          "confidence": 0.95,
+          "bbox": [
+            173,
+            1622,
+            189,
+            1635
+          ]
+        },
+        {
+          "text": "47",
+          "confidence": 0.96,
+          "bbox": [
+            195,
+            1622,
+            211,
+            1635
+          ]
+        },
+        {
+          "text": "00",
+          "confidence": 0.87,
+          "bbox": [
+            216,
+            1622,
+            232,
+            1635
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            238,
+            1629,
+            243,
+            1630
+          ]
+        },
+        {
+          "text": "FAX",
+          "confidence": 0.95,
+          "bbox": [
+            249,
+            1622,
+            272,
+            1635
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            278,
+            1626,
+            280,
+            1635
+          ]
+        },
+        {
+          "text": "+33",
+          "confidence": 0.92,
+          "bbox": [
+            286,
+            1622,
+            312,
+            1635
+          ]
+        },
+        {
+          "text": "(0)4",
+          "confidence": 0.86,
+          "bbox": [
+            318,
+            1622,
+            343,
+            1638
+          ]
+        },
+        {
+          "text": "74",
+          "confidence": 0.95,
+          "bbox": [
+            348,
+            1622,
+            364,
+            1635
+          ]
+        },
+        {
+          "text": "62",
+          "confidence": 0.96,
+          "bbox": [
+            370,
+            1622,
+            386,
+            1635
+          ]
+        },
+        {
+          "text": "49",
+          "confidence": 0.96,
+          "bbox": [
+            391,
+            1622,
+            407,
+            1635
+          ]
+        },
+        {
+          "text": "99",
+          "confidence": 0.88,
+          "bbox": [
+            413,
+            1622,
+            429,
+            1635
+          ]
+        },
+        {
+          "text": "Ej",
+          "confidence": 0.07,
+          "bbox": [
+            943,
+            1608,
+            988,
+            1661
+          ]
+        },
+        {
+          "text": "ny",
+          "confidence": 0.56,
+          "bbox": [
+            998,
+            1608,
+            1046,
+            1661
+          ]
+        },
+        {
+          "text": "in",
+          "confidence": 0.64,
+          "bbox": [
+            1057,
+            1607,
+            1106,
+            1660
+          ]
+        },
+        {
+          "text": "You",
+          "confidence": 0.95,
+          "bbox": [
+            1131,
+            1616,
+            1155,
+            1634
+          ]
+        },
+        {
+          "text": "CEPOVETT-SAFETY.COM",
+          "confidence": 0.81,
+          "bbox": [
+            56,
+            1639,
+            228,
+            1666
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.94,
+          "bbox": [
+            590,
+            1647,
+            614,
+            1658
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            618,
+            1650,
+            620,
+            1658
+          ]
+        },
+        {
+          "text": "13/04/2022",
+          "confidence": 0.86,
+          "bbox": [
+            625,
+            1647,
+            688,
+            1658
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            692,
+            1653,
+            696,
+            1654
+          ]
+        },
+        {
+          "text": "V4",
+          "confidence": 0.95,
+          "bbox": [
+            700,
+            1647,
+            714,
+            1658
+          ]
+        }
+      ]
+    }
+  ]
+}

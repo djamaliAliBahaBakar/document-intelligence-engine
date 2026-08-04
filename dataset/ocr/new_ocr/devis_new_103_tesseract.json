@@ -1,0 +1,2766 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_103.pdf",
+  "duration_seconds": 0.716,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 275,
+      "words": [
+        {
+          "text": "NOUVELLE",
+          "confidence": 0.96,
+          "bbox": [
+            351,
+            47,
+            494,
+            66
+          ]
+        },
+        {
+          "text": "GAMME",
+          "confidence": 0.93,
+          "bbox": [
+            506,
+            47,
+            610,
+            66
+          ]
+        },
+        {
+          "text": "BÉTON",
+          "confidence": 0.92,
+          "bbox": [
+            622,
+            42,
+            711,
+            66
+          ]
+        },
+        {
+          "text": "&",
+          "confidence": 0.91,
+          "bbox": [
+            724,
+            47,
+            742,
+            66
+          ]
+        },
+        {
+          "text": "BLOCS",
+          "confidence": 0.9,
+          "bbox": [
+            752,
+            47,
+            840,
+            66
+          ]
+        },
+        {
+          "text": "Face",
+          "confidence": 0.96,
+          "bbox": [
+            109,
+            128,
+            155,
+            144
+          ]
+        },
+        {
+          "text": "aux",
+          "confidence": 0.96,
+          "bbox": [
+            165,
+            132,
+            198,
+            144
+          ]
+        },
+        {
+          "text": "enjeux",
+          "confidence": 0.93,
+          "bbox": [
+            207,
+            128,
+            270,
+            148
+          ]
+        },
+        {
+          "text": "sociétaux",
+          "confidence": 0.91,
+          "bbox": [
+            279,
+            128,
+            375,
+            144
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            384,
+            130,
+            404,
+            144
+          ]
+        },
+        {
+          "text": "environnementaux",
+          "confidence": 0.96,
+          "bbox": [
+            413,
+            128,
+            598,
+            144
+          ]
+        },
+        {
+          "text": "actuels,",
+          "confidence": 0.96,
+          "bbox": [
+            606,
+            128,
+            685,
+            146
+          ]
+        },
+        {
+          "text": "l'entreprise",
+          "confidence": 0.73,
+          "bbox": [
+            696,
+            128,
+            811,
+            148
+          ]
+        },
+        {
+          "text": "Hervé",
+          "confidence": 0.96,
+          "bbox": [
+            821,
+            128,
+            880,
+            144
+          ]
+        },
+        {
+          "text": "souhaite",
+          "confidence": 0.95,
+          "bbox": [
+            889,
+            128,
+            975,
+            144
+          ]
+        },
+        {
+          "text": "s'engager",
+          "confidence": 0.88,
+          "bbox": [
+            984,
+            128,
+            1083,
+            149
+          ]
+        },
+        {
+          "text": "durablement",
+          "confidence": 0.96,
+          "bbox": [
+            272,
+            155,
+            398,
+            171
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.95,
+          "bbox": [
+            407,
+            155,
+            454,
+            171
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            464,
+            159,
+            498,
+            171
+          ]
+        },
+        {
+          "text": "démarche",
+          "confidence": 0.96,
+          "bbox": [
+            507,
+            155,
+            607,
+            171
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            616,
+            155,
+            638,
+            171
+          ]
+        },
+        {
+          "text": "production",
+          "confidence": 0.95,
+          "bbox": [
+            648,
+            155,
+            755,
+            175
+          ]
+        },
+        {
+          "text": "plus",
+          "confidence": 0.96,
+          "bbox": [
+            765,
+            155,
+            804,
+            175
+          ]
+        },
+        {
+          "text": "raisonnée.",
+          "confidence": 0.96,
+          "bbox": [
+            813,
+            155,
+            916,
+            171
+          ]
+        },
+        {
+          "text": "Indice",
+          "confidence": 0.96,
+          "bbox": [
+            172,
+            225,
+            254,
+            248
+          ]
+        },
+        {
+          "text": "bas",
+          "confidence": 0.96,
+          "bbox": [
+            268,
+            225,
+            318,
+            248
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.92,
+          "bbox": [
+            332,
+            225,
+            449,
+            248
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            462,
+            238,
+            471,
+            241
+          ]
+        },
+        {
+          "text": "Gamme",
+          "confidence": 0.93,
+          "bbox": [
+            484,
+            224,
+            596,
+            248
+          ]
+        },
+        {
+          "text": "HÉ-VERT",
+          "confidence": 0.91,
+          "bbox": [
+            610,
+            218,
+            747,
+            248
+          ]
+        },
+        {
+          "text": "A+",
+          "confidence": 0.61,
+          "bbox": [
+            176,
+            300,
+            212,
+            321
+          ]
+        },
+        {
+          "text": "D)",
+          "confidence": 0.21,
+          "bbox": [
+            225,
+            294,
+            482,
+            327
+          ]
+        },
+        {
+          "text": "st",
+          "confidence": 0.19,
+          "bbox": [
+            500,
+            299,
+            566,
+            320
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.87,
+          "bbox": [
+            573,
+            303,
+            592,
+            316
+          ]
+        },
+        {
+          "text": "70%",
+          "confidence": 0.9,
+          "bbox": [
+            600,
+            303,
+            640,
+            316
+          ]
+        },
+        {
+          "text": "d'émissions",
+          "confidence": 0.93,
+          "bbox": [
+            647,
+            303,
+            742,
+            316
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.96,
+          "bbox": [
+            750,
+            303,
+            816,
+            316
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            824,
+            307,
+            842,
+            316
+          ]
+        },
+        {
+          "text": "moins",
+          "confidence": 0.96,
+          "bbox": [
+            850,
+            303,
+            897,
+            316
+          ]
+        },
+        {
+          "text": "(Objectif",
+          "confidence": 0.89,
+          "bbox": [
+            855,
+            324,
+            926,
+            340
+          ]
+        },
+        {
+          "text": "2030)",
+          "confidence": 0.96,
+          "bbox": [
+            930,
+            324,
+            983,
+            337
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.81,
+          "bbox": [
+            194,
+            351,
+            212,
+            371
+          ]
+        },
+        {
+          "text": "EN)",
+          "confidence": 0.3,
+          "bbox": [
+            225,
+            343,
+            446,
+            376
+          ]
+        },
+        {
+          "text": "De",
+          "confidence": 0.86,
+          "bbox": [
+            465,
+            353,
+            487,
+            366
+          ]
+        },
+        {
+          "text": "500%",
+          "confidence": 0.86,
+          "bbox": [
+            495,
+            353,
+            536,
+            366
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            543,
+            353,
+            551,
+            366
+          ]
+        },
+        {
+          "text": "70%",
+          "confidence": 0.9,
+          "bbox": [
+            559,
+            353,
+            600,
+            366
+          ]
+        },
+        {
+          "text": "d'émissions",
+          "confidence": 0.89,
+          "bbox": [
+            607,
+            353,
+            702,
+            366
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.96,
+          "bbox": [
+            709,
+            353,
+            776,
+            366
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.92,
+          "bbox": [
+            783,
+            357,
+            801,
+            366
+          ]
+        },
+        {
+          "text": "mains",
+          "confidence": 0.88,
+          "bbox": [
+            810,
+            357,
+            857,
+            366
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.33,
+          "bbox": [
+            196,
+            400,
+            211,
+            420
+          ]
+        },
+        {
+          "text": "M)",
+          "confidence": 0.27,
+          "bbox": [
+            225,
+            393,
+            410,
+            425
+          ]
+        },
+        {
+          "text": "De",
+          "confidence": 0.87,
+          "bbox": [
+            430,
+            403,
+            452,
+            416
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.96,
+          "bbox": [
+            460,
+            403,
+            500,
+            416
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            508,
+            403,
+            516,
+            416
+          ]
+        },
+        {
+          "text": "50%",
+          "confidence": 0.95,
+          "bbox": [
+            524,
+            403,
+            564,
+            416
+          ]
+        },
+        {
+          "text": "d'émissions",
+          "confidence": 0.92,
+          "bbox": [
+            572,
+            403,
+            667,
+            416
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.95,
+          "bbox": [
+            674,
+            403,
+            740,
+            416
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.91,
+          "bbox": [
+            748,
+            407,
+            766,
+            416
+          ]
+        },
+        {
+          "text": "moins",
+          "confidence": 0.96,
+          "bbox": [
+            774,
+            403,
+            821,
+            416
+          ]
+        },
+        {
+          "text": "De",
+          "confidence": 0.95,
+          "bbox": [
+            393,
+            472,
+            415,
+            485
+          ]
+        },
+        {
+          "text": "10%",
+          "confidence": 0.95,
+          "bbox": [
+            424,
+            472,
+            463,
+            485
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            471,
+            472,
+            479,
+            485
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.83,
+          "bbox": [
+            487,
+            472,
+            528,
+            485
+          ]
+        },
+        {
+          "text": "d'émissions",
+          "confidence": 0.9,
+          "bbox": [
+            535,
+            472,
+            630,
+            485
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.96,
+          "bbox": [
+            637,
+            472,
+            703,
+            485
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            711,
+            476,
+            729,
+            485
+          ]
+        },
+        {
+          "text": "moins",
+          "confidence": 0.96,
+          "bbox": [
+            737,
+            472,
+            784,
+            485
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.64,
+          "bbox": [
+            195,
+            519,
+            213,
+            540
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 0.39,
+          "bbox": [
+            224,
+            513,
+            338,
+            546
+          ]
+        },
+        {
+          "text": "cc",
+          "confidence": 0.46,
+          "bbox": [
+            358,
+            523,
+            442,
+            536
+          ]
+        },
+        {
+          "text": "10%",
+          "confidence": 0.58,
+          "bbox": [
+            451,
+            523,
+            491,
+            536
+          ]
+        },
+        {
+          "text": "Mesures",
+          "confidence": 0.96,
+          "bbox": [
+            286,
+            571,
+            348,
+            581
+          ]
+        },
+        {
+          "text": "réalisées",
+          "confidence": 0.95,
+          "bbox": [
+            356,
+            571,
+            421,
+            581
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            429,
+            574,
+            451,
+            584
+          ]
+        },
+        {
+          "text": "rapport",
+          "confidence": 0.95,
+          "bbox": [
+            459,
+            572,
+            513,
+            584
+          ]
+        },
+        {
+          "text": "aux",
+          "confidence": 0.96,
+          "bbox": [
+            520,
+            574,
+            544,
+            581
+          ]
+        },
+        {
+          "text": "bétons",
+          "confidence": 0.96,
+          "bbox": [
+            551,
+            571,
+            599,
+            581
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            607,
+            571,
+            622,
+            581
+          ]
+        },
+        {
+          "text": "référence,",
+          "confidence": 0.92,
+          "bbox": [
+            630,
+            571,
+            704,
+            582
+          ]
+        },
+        {
+          "text": "formulés",
+          "confidence": 0.92,
+          "bbox": [
+            713,
+            571,
+            775,
+            581
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            783,
+            571,
+            790,
+            581
+          ]
+        },
+        {
+          "text": "base",
+          "confidence": 0.95,
+          "bbox": [
+            798,
+            571,
+            830,
+            581
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            838,
+            571,
+            853,
+            581
+          ]
+        },
+        {
+          "text": "CEM",
+          "confidence": 0.92,
+          "bbox": [
+            861,
+            571,
+            894,
+            581
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.88,
+          "bbox": [
+            903,
+            571,
+            904,
+            581
+          ]
+        },
+        {
+          "text": "LH3N-3H",
+          "confidence": 0.17,
+          "bbox": [
+            1015,
+            362,
+            1035,
+            455
+          ]
+        },
+        {
+          "text": "AWWVO",
+          "confidence": 0.07,
+          "bbox": [
+            1015,
+            266,
+            1031,
+            352
+          ]
+        },
+        {
+          "text": "C'est",
+          "confidence": 0.93,
+          "bbox": [
+            141,
+            629,
+            195,
+            645
+          ]
+        },
+        {
+          "text": "ainsi",
+          "confidence": 0.94,
+          "bbox": [
+            203,
+            629,
+            249,
+            645
+          ]
+        },
+        {
+          "text": "que",
+          "confidence": 0.95,
+          "bbox": [
+            258,
+            633,
+            293,
+            649
+          ]
+        },
+        {
+          "text": "nous",
+          "confidence": 0.96,
+          "bbox": [
+            303,
+            633,
+            350,
+            645
+          ]
+        },
+        {
+          "text": "avons",
+          "confidence": 0.96,
+          "bbox": [
+            359,
+            633,
+            418,
+            645
+          ]
+        },
+        {
+          "text": "créé",
+          "confidence": 0.96,
+          "bbox": [
+            426,
+            629,
+            471,
+            645
+          ]
+        },
+        {
+          "text": "notre",
+          "confidence": 0.96,
+          "bbox": [
+            481,
+            631,
+            536,
+            645
+          ]
+        },
+        {
+          "text": "nouvelle",
+          "confidence": 0.96,
+          "bbox": [
+            545,
+            629,
+            627,
+            645
+          ]
+        },
+        {
+          "text": "gamme",
+          "confidence": 0.96,
+          "bbox": [
+            636,
+            633,
+            708,
+            650
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            718,
+            629,
+            740,
+            645
+          ]
+        },
+        {
+          "text": "béton",
+          "confidence": 0.96,
+          "bbox": [
+            750,
+            629,
+            807,
+            645
+          ]
+        },
+        {
+          "text": "bas",
+          "confidence": 0.96,
+          "bbox": [
+            816,
+            629,
+            851,
+            645
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.93,
+          "bbox": [
+            860,
+            629,
+            942,
+            645
+          ]
+        },
+        {
+          "text": "HÉ-VERT.",
+          "confidence": 0.89,
+          "bbox": [
+            952,
+            624,
+            1048,
+            645
+          ]
+        },
+        {
+          "text": "Elle",
+          "confidence": 0.91,
+          "bbox": [
+            121,
+            656,
+            155,
+            672
+          ]
+        },
+        {
+          "text": "se",
+          "confidence": 0.96,
+          "bbox": [
+            164,
+            660,
+            187,
+            672
+          ]
+        },
+        {
+          "text": "distingue",
+          "confidence": 0.96,
+          "bbox": [
+            196,
+            656,
+            286,
+            677
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            296,
+            660,
+            328,
+            676
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            338,
+            656,
+            352,
+            672
+          ]
+        },
+        {
+          "text": "création",
+          "confidence": 0.96,
+          "bbox": [
+            361,
+            656,
+            444,
+            672
+          ]
+        },
+        {
+          "text": "d’un",
+          "confidence": 0.75,
+          "bbox": [
+            454,
+            656,
+            493,
+            672
+          ]
+        },
+        {
+          "text": "indice",
+          "confidence": 0.95,
+          "bbox": [
+            503,
+            656,
+            559,
+            672
+          ]
+        },
+        {
+          "text": "spécifique,",
+          "confidence": 0.96,
+          "bbox": [
+            568,
+            656,
+            673,
+            676
+          ]
+        },
+        {
+          "text": "calculé",
+          "confidence": 0.96,
+          "bbox": [
+            685,
+            656,
+            753,
+            672
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.95,
+          "bbox": [
+            762,
+            660,
+            795,
+            672
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            804,
+            660,
+            838,
+            672
+          ]
+        },
+        {
+          "text": "réduction",
+          "confidence": 0.96,
+          "bbox": [
+            848,
+            656,
+            943,
+            672
+          ]
+        },
+        {
+          "text": "significative",
+          "confidence": 0.96,
+          "bbox": [
+            952,
+            656,
+            1070,
+            677
+          ]
+        },
+        {
+          "text": "d'émissions",
+          "confidence": 0.92,
+          "bbox": [
+            230,
+            682,
+            347,
+            698
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            356,
+            682,
+            378,
+            698
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.96,
+          "bbox": [
+            387,
+            682,
+            468,
+            698
+          ]
+        },
+        {
+          "text": "lié",
+          "confidence": 0.96,
+          "bbox": [
+            478,
+            682,
+            497,
+            698
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.96,
+          "bbox": [
+            507,
+            686,
+            529,
+            698
+          ]
+        },
+        {
+          "text": "processus",
+          "confidence": 0.95,
+          "bbox": [
+            539,
+            686,
+            644,
+            702
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            653,
+            682,
+            675,
+            698
+          ]
+        },
+        {
+          "text": "fabrication",
+          "confidence": 0.96,
+          "bbox": [
+            684,
+            682,
+            792,
+            698
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            801,
+            682,
+            824,
+            698
+          ]
+        },
+        {
+          "text": "notre",
+          "confidence": 0.95,
+          "bbox": [
+            833,
+            684,
+            887,
+            698
+          ]
+        },
+        {
+          "text": "béton.",
+          "confidence": 0.96,
+          "bbox": [
+            897,
+            682,
+            958,
+            698
+          ]
+        },
+        {
+          "text": "POURQUOI",
+          "confidence": 0.93,
+          "bbox": [
+            592,
+            795,
+            720,
+            811
+          ]
+        },
+        {
+          "text": "PASSER",
+          "confidence": 0.95,
+          "bbox": [
+            733,
+            795,
+            827,
+            811
+          ]
+        },
+        {
+          "text": "AU",
+          "confidence": 0.96,
+          "bbox": [
+            838,
+            795,
+            870,
+            811
+          ]
+        },
+        {
+          "text": "BAS",
+          "confidence": 0.95,
+          "bbox": [
+            883,
+            795,
+            929,
+            811
+          ]
+        },
+        {
+          "text": "CARBONE",
+          "confidence": 0.9,
+          "bbox": [
+            940,
+            795,
+            1057,
+            811
+          ]
+        },
+        {
+          "text": "?",
+          "confidence": 0.9,
+          "bbox": [
+            1068,
+            795,
+            1079,
+            811
+          ]
+        },
+        {
+          "text": "Ses",
+          "confidence": 0.96,
+          "bbox": [
+            598,
+            857,
+            636,
+            873
+          ]
+        },
+        {
+          "text": "propriétés",
+          "confidence": 0.96,
+          "bbox": [
+            652,
+            857,
+            756,
+            877
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            772,
+            857,
+            794,
+            873
+          ]
+        },
+        {
+          "text": "durabilité",
+          "confidence": 0.94,
+          "bbox": [
+            809,
+            857,
+            902,
+            873
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            917,
+            859,
+            937,
+            873
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            952,
+            857,
+            975,
+            873
+          ]
+        },
+        {
+          "text": "résistance",
+          "confidence": 0.96,
+          "bbox": [
+            991,
+            857,
+            1097,
+            873
+          ]
+        },
+        {
+          "text": "sont",
+          "confidence": 0.96,
+          "bbox": [
+            576,
+            885,
+            621,
+            899
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            638,
+            883,
+            665,
+            899
+          ]
+        },
+        {
+          "text": "mêmes",
+          "confidence": 0.95,
+          "bbox": [
+            682,
+            883,
+            753,
+            899
+          ]
+        },
+        {
+          "text": "que",
+          "confidence": 0.96,
+          "bbox": [
+            770,
+            887,
+            805,
+            903
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            823,
+            887,
+            867,
+            903
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.96,
+          "bbox": [
+            884,
+            887,
+            906,
+            899
+          ]
+        },
+        {
+          "text": "béton",
+          "confidence": 0.95,
+          "bbox": [
+            924,
+            883,
+            980,
+            899
+          ]
+        },
+        {
+          "text": "classique.",
+          "confidence": 0.96,
+          "bbox": [
+            997,
+            883,
+            1095,
+            903
+          ]
+        },
+        {
+          "text": "Elles",
+          "confidence": 0.96,
+          "bbox": [
+            577,
+            910,
+            623,
+            926
+          ]
+        },
+        {
+          "text": "garantissent",
+          "confidence": 0.96,
+          "bbox": [
+            638,
+            910,
+            767,
+            931
+          ]
+        },
+        {
+          "text": "donc",
+          "confidence": 0.95,
+          "bbox": [
+            782,
+            910,
+            829,
+            926
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.95,
+          "bbox": [
+            844,
+            914,
+            878,
+            926
+          ]
+        },
+        {
+          "text": "application",
+          "confidence": 0.96,
+          "bbox": [
+            893,
+            910,
+            1000,
+            930
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            1016,
+            914,
+            1061,
+            930
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            1075,
+            910,
+            1097,
+            926
+          ]
+        },
+        {
+          "text": "nombreux",
+          "confidence": 0.96,
+          "bbox": [
+            576,
+            936,
+            675,
+            952
+          ]
+        },
+        {
+          "text": "projets",
+          "confidence": 0.93,
+          "bbox": [
+            687,
+            936,
+            757,
+            956
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            772,
+            941,
+            774,
+            952
+          ]
+        },
+        {
+          "text": "fondation,",
+          "confidence": 0.96,
+          "bbox": [
+            787,
+            936,
+            887,
+            954
+          ]
+        },
+        {
+          "text": "maison",
+          "confidence": 0.96,
+          "bbox": [
+            902,
+            936,
+            971,
+            952
+          ]
+        },
+        {
+          "text": "individuelle,",
+          "confidence": 0.96,
+          "bbox": [
+            984,
+            936,
+            1095,
+            954
+          ]
+        },
+        {
+          "text": "industrie.",
+          "confidence": 0.38,
+          "bbox": [
+            576,
+            963,
+            684,
+            979
+          ]
+        },
+        {
+          "text": "Notre",
+          "confidence": 0.96,
+          "bbox": [
+            599,
+            989,
+            657,
+            1005
+          ]
+        },
+        {
+          "text": "gamme",
+          "confidence": 0.95,
+          "bbox": [
+            669,
+            993,
+            740,
+            1010
+          ]
+        },
+        {
+          "text": "représente",
+          "confidence": 0.96,
+          "bbox": [
+            752,
+            989,
+            864,
+            1009
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.96,
+          "bbox": [
+            876,
+            989,
+            891,
+            1005
+          ]
+        },
+        {
+          "text": "point",
+          "confidence": 0.96,
+          "bbox": [
+            903,
+            989,
+            952,
+            1009
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            963,
+            989,
+            985,
+            1005
+          ]
+        },
+        {
+          "text": "rencontre",
+          "confidence": 0.95,
+          "bbox": [
+            998,
+            991,
+            1097,
+            1005
+          ]
+        },
+        {
+          "text": "entre",
+          "confidence": 0.96,
+          "bbox": [
+            576,
+            1017,
+            630,
+            1031
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.96,
+          "bbox": [
+            643,
+            1015,
+            670,
+            1031
+          ]
+        },
+        {
+          "text": "impératifs",
+          "confidence": 0.96,
+          "bbox": [
+            683,
+            1015,
+            784,
+            1035
+          ]
+        },
+        {
+          "text": "écologiques",
+          "confidence": 0.96,
+          "bbox": [
+            797,
+            1015,
+            914,
+            1036
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            926,
+            1017,
+            947,
+            1031
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.96,
+          "bbox": [
+            960,
+            1015,
+            986,
+            1031
+          ]
+        },
+        {
+          "text": "exigences",
+          "confidence": 0.96,
+          "bbox": [
+            999,
+            1015,
+            1097,
+            1036
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.97,
+          "bbox": [
+            576,
+            1042,
+            598,
+            1058
+          ]
+        },
+        {
+          "text": "secteur",
+          "confidence": 0.96,
+          "bbox": [
+            608,
+            1044,
+            686,
+            1058
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            695,
+            1042,
+            717,
+            1058
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            727,
+            1042,
+            742,
+            1058
+          ]
+        },
+        {
+          "text": "construction.",
+          "confidence": 0.96,
+          "bbox": [
+            751,
+            1042,
+            885,
+            1058
+          ]
+        },
+        {
+          "text": "M",
+          "confidence": 0.5,
+          "bbox": [
+            489,
+            1064,
+            516,
+            1083
+          ]
+        },
+        {
+          "text": "HÉ-VERT",
+          "confidence": 0.87,
+          "bbox": [
+            405,
+            1128,
+            785,
+            1181
+          ]
+        },
+        {
+          "text": "Béton",
+          "confidence": 0.95,
+          "bbox": [
+            427,
+            1195,
+            515,
+            1217
+          ]
+        },
+        {
+          "text": "bas",
+          "confidence": 0.96,
+          "bbox": [
+            533,
+            1195,
+            585,
+            1217
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.96,
+          "bbox": [
+            602,
+            1195,
+            729,
+            1217
+          ]
+        },
+        {
+          "text": "La",
+          "confidence": 0.96,
+          "bbox": [
+            93,
+            1254,
+            116,
+            1270
+          ]
+        },
+        {
+          "text": "gamme",
+          "confidence": 0.93,
+          "bbox": [
+            125,
+            1258,
+            197,
+            1275
+          ]
+        },
+        {
+          "text": "HÉ-VERT",
+          "confidence": 0.91,
+          "bbox": [
+            207,
+            1249,
+            302,
+            1270
+          ]
+        },
+        {
+          "text": "se",
+          "confidence": 0.95,
+          "bbox": [
+            310,
+            1258,
+            332,
+            1270
+          ]
+        },
+        {
+          "text": "décline",
+          "confidence": 0.95,
+          "bbox": [
+            342,
+            1254,
+            410,
+            1270
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.94,
+          "bbox": [
+            419,
+            1258,
+            452,
+            1270
+          ]
+        },
+        {
+          "text": "nos",
+          "confidence": 0.96,
+          "bbox": [
+            461,
+            1258,
+            496,
+            1270
+          ]
+        },
+        {
+          "text": "bétons",
+          "confidence": 0.96,
+          "bbox": [
+            505,
+            1254,
+            573,
+            1270
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            582,
+            1256,
+            603,
+            1270
+          ]
+        },
+        {
+          "text": "également",
+          "confidence": 0.96,
+          "bbox": [
+            611,
+            1254,
+            716,
+            1275
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            725,
+            1258,
+            758,
+            1270
+          ]
+        },
+        {
+          "text": "nos",
+          "confidence": 0.96,
+          "bbox": [
+            767,
+            1258,
+            801,
+            1270
+          ]
+        },
+        {
+          "text": "blocs",
+          "confidence": 0.96,
+          "bbox": [
+            811,
+            1254,
+            861,
+            1270
+          ]
+        },
+        {
+          "text": "modulables.",
+          "confidence": 0.96,
+          "bbox": [
+            871,
+            1254,
+            988,
+            1270
+          ]
+        },
+        {
+          "text": "Cela",
+          "confidence": 0.96,
+          "bbox": [
+            999,
+            1254,
+            1042,
+            1270
+          ]
+        },
+        {
+          "text": "offre",
+          "confidence": 0.96,
+          "bbox": [
+            1051,
+            1254,
+            1098,
+            1270
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            126,
+            1285,
+            161,
+            1297
+          ]
+        },
+        {
+          "text": "plus",
+          "confidence": 0.96,
+          "bbox": [
+            171,
+            1281,
+            210,
+            1301
+          ]
+        },
+        {
+          "text": "grande",
+          "confidence": 0.96,
+          "bbox": [
+            219,
+            1281,
+            287,
+            1302
+          ]
+        },
+        {
+          "text": "polyvalence",
+          "confidence": 0.96,
+          "bbox": [
+            297,
+            1281,
+            411,
+            1301
+          ]
+        },
+        {
+          "text": "d'utilisation",
+          "confidence": 0.88,
+          "bbox": [
+            420,
+            1281,
+            535,
+            1297
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            545,
+            1285,
+            589,
+            1301
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            598,
+            1281,
+            632,
+            1297
+          ]
+        },
+        {
+          "text": "constructions",
+          "confidence": 0.96,
+          "bbox": [
+            642,
+            1281,
+            783,
+            1297
+          ]
+        },
+        {
+          "text": "temporaires",
+          "confidence": 0.96,
+          "bbox": [
+            791,
+            1281,
+            915,
+            1301
+          ]
+        },
+        {
+          "text": "ou",
+          "confidence": 0.95,
+          "bbox": [
+            924,
+            1285,
+            946,
+            1297
+          ]
+        },
+        {
+          "text": "définitives.",
+          "confidence": 0.96,
+          "bbox": [
+            956,
+            1281,
+            1062,
+            1297
+          ]
+        },
+        {
+          "text": "Cette",
+          "confidence": 0.96,
+          "bbox": [
+            120,
+            1333,
+            176,
+            1349
+          ]
+        },
+        {
+          "text": "démarche",
+          "confidence": 0.96,
+          "bbox": [
+            185,
+            1333,
+            284,
+            1349
+          ]
+        },
+        {
+          "text": "s'inscrit",
+          "confidence": 0.78,
+          "bbox": [
+            293,
+            1333,
+            374,
+            1349
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.96,
+          "bbox": [
+            383,
+            1333,
+            430,
+            1349
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            439,
+            1337,
+            474,
+            1349
+          ]
+        },
+        {
+          "text": "vision",
+          "confidence": 0.96,
+          "bbox": [
+            483,
+            1333,
+            538,
+            1349
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.97,
+          "bbox": [
+            547,
+            1333,
+            558,
+            1349
+          ]
+        },
+        {
+          "text": "long",
+          "confidence": 0.96,
+          "bbox": [
+            568,
+            1333,
+            606,
+            1354
+          ]
+        },
+        {
+          "text": "terme",
+          "confidence": 0.96,
+          "bbox": [
+            615,
+            1335,
+            676,
+            1349
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            685,
+            1337,
+            731,
+            1349
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.96,
+          "bbox": [
+            740,
+            1337,
+            762,
+            1349
+          ]
+        },
+        {
+          "text": "objectif",
+          "confidence": 0.95,
+          "bbox": [
+            772,
+            1333,
+            846,
+            1353
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            854,
+            1333,
+            876,
+            1349
+          ]
+        },
+        {
+          "text": "70%",
+          "confidence": 0.96,
+          "bbox": [
+            886,
+            1333,
+            935,
+            1349
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            944,
+            1333,
+            967,
+            1349
+          ]
+        },
+        {
+          "text": "réduction",
+          "confidence": 0.96,
+          "bbox": [
+            976,
+            1333,
+            1071,
+            1349
+          ]
+        },
+        {
+          "text": "d'émission",
+          "confidence": 0.95,
+          "bbox": [
+            82,
+            1360,
+            186,
+            1376
+          ]
+        },
+        {
+          "text": "carbone",
+          "confidence": 0.96,
+          "bbox": [
+            195,
+            1360,
+            276,
+            1376
+          ]
+        },
+        {
+          "text": "d'ici",
+          "confidence": 0.88,
+          "bbox": [
+            285,
+            1360,
+            322,
+            1376
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.95,
+          "bbox": [
+            337,
+            1360,
+            342,
+            1376
+          ]
+        },
+        {
+          "text": "2030.",
+          "confidence": 0.95,
+          "bbox": [
+            351,
+            1360,
+            413,
+            1376
+          ]
+        },
+        {
+          "text": "Nous",
+          "confidence": 0.93,
+          "bbox": [
+            425,
+            1360,
+            476,
+            1376
+          ]
+        },
+        {
+          "text": "répondons",
+          "confidence": 0.91,
+          "bbox": [
+            486,
+            1360,
+            591,
+            1380
+          ]
+        },
+        {
+          "text": "aux",
+          "confidence": 0.96,
+          "bbox": [
+            600,
+            1364,
+            634,
+            1376
+          ]
+        },
+        {
+          "text": "besoins",
+          "confidence": 0.96,
+          "bbox": [
+            643,
+            1360,
+            719,
+            1376
+          ]
+        },
+        {
+          "text": "actuels",
+          "confidence": 0.96,
+          "bbox": [
+            728,
+            1360,
+            801,
+            1376
+          ]
+        },
+        {
+          "text": "tout",
+          "confidence": 0.96,
+          "bbox": [
+            810,
+            1362,
+            852,
+            1376
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            861,
+            1364,
+            883,
+            1376
+          ]
+        },
+        {
+          "text": "s'inscrivant",
+          "confidence": 0.8,
+          "bbox": [
+            893,
+            1360,
+            1009,
+            1376
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.96,
+          "bbox": [
+            1017,
+            1360,
+            1064,
+            1376
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.95,
+          "bbox": [
+            1074,
+            1364,
+            1108,
+            1376
+          ]
+        },
+        {
+          "text": "approche",
+          "confidence": 0.96,
+          "bbox": [
+            376,
+            1386,
+            469,
+            1406
+          ]
+        },
+        {
+          "text": "résolument",
+          "confidence": 0.96,
+          "bbox": [
+            478,
+            1386,
+            592,
+            1402
+          ]
+        },
+        {
+          "text": "tournée",
+          "confidence": 0.96,
+          "bbox": [
+            600,
+            1386,
+            680,
+            1402
+          ]
+        },
+        {
+          "text": "vers",
+          "confidence": 0.96,
+          "bbox": [
+            688,
+            1390,
+            732,
+            1402
+          ]
+        },
+        {
+          "text": "l'avenir.",
+          "confidence": 0.92,
+          "bbox": [
+            742,
+            1386,
+            813,
+            1402
+          ]
+        },
+        {
+          "text": "Hervé",
+          "confidence": 0.96,
+          "bbox": [
+            944,
+            1478,
+            999,
+            1493
+          ]
+        },
+        {
+          "text": "Loire",
+          "confidence": 0.95,
+          "bbox": [
+            1008,
+            1478,
+            1054,
+            1493
+          ]
+        },
+        {
+          "text": "Béton",
+          "confidence": 0.95,
+          "bbox": [
+            1063,
+            1478,
+            1117,
+            1493
+          ]
+        },
+        {
+          "text": "ENTREPRISE",
+          "confidence": 0.95,
+          "bbox": [
+            278,
+            1501,
+            437,
+            1517
+          ]
+        },
+        {
+          "text": "Route",
+          "confidence": 0.93,
+          "bbox": [
+            732,
+            1502,
+            781,
+            1515
+          ]
+        },
+        {
+          "text": "d'Ancenis,",
+          "confidence": 0.74,
+          "bbox": [
+            789,
+            1502,
+            871,
+            1517
+          ]
+        },
+        {
+          "text": "44670",
+          "confidence": 0.93,
+          "bbox": [
+            879,
+            1502,
+            938,
+            1515
+          ]
+        },
+        {
+          "text": "Juigne-des-Moutiers",
+          "confidence": 0.91,
+          "bbox": [
+            946,
+            1502,
+            1118,
+            1519
+          ]
+        },
+        {
+          "text": ">",
+          "confidence": 0.17,
+          "bbox": [
+            67,
+            1504,
+            113,
+            1573
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.76,
+          "bbox": [
+            147,
+            1508,
+            182,
+            1568
+          ]
+        },
+        {
+          "text": "HE",
+          "confidence": 0.93,
+          "bbox": [
+            278,
+            1527,
+            370,
+            1561
+          ]
+        },
+        {
+          "text": "RVE",
+          "confidence": 0.8,
+          "bbox": [
+            381,
+            1522,
+            516,
+            1561
+          ]
+        },
+        {
+          "text": "02.40.55.50.01",
+          "confidence": 0.82,
+          "bbox": [
+            930,
+            1543,
+            1069,
+            1556
+          ]
+        },
+        {
+          "text": "RD",
+          "confidence": 0.54,
+          "bbox": [
+            1091,
+            1532,
+            1118,
+            1560
+          ]
+        },
+        {
+          "text": "accueil@hervegroupe.fr",
+          "confidence": 0.89,
+          "bbox": [
+            874,
+            1577,
+            1073,
+            1594
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.58,
+          "bbox": [
+            1091,
+            1573,
+            1119,
+            1593
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.96,
+          "bbox": [
+            72,
+            1593,
+            91,
+            1617
+          ]
+        },
+        {
+          "text": "vos",
+          "confidence": 0.96,
+          "bbox": [
+            100,
+            1603,
+            142,
+            1617
+          ]
+        },
+        {
+          "text": "côtés",
+          "confidence": 0.49,
+          "bbox": [
+            151,
+            1598,
+            221,
+            1617
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.95,
+          "bbox": [
+            231,
+            1603,
+            286,
+            1622
+          ]
+        },
+        {
+          "text": "construire",
+          "confidence": 0.96,
+          "bbox": [
+            296,
+            1598,
+            428,
+            1617
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.96,
+          "bbox": [
+            439,
+            1603,
+            465,
+            1617
+          ]
+        },
+        {
+          "text": "avenir",
+          "confidence": 0.96,
+          "bbox": [
+            476,
+            1598,
+            553,
+            1617
+          ]
+        },
+        {
+          "text": "durable.",
+          "confidence": 0.95,
+          "bbox": [
+            564,
+            1598,
+            662,
+            1617
+          ]
+        },
+        {
+          "text": "www.hervegroupe.fr",
+          "confidence": 0.73,
+          "bbox": [
+            925,
+            1613,
+            1118,
+            1632
+          ]
+        }
+      ]
+    }
+  ]
+}

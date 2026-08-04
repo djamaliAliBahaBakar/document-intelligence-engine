@@ -1,0 +1,2664 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_17.pdf",
+  "duration_seconds": 0.806,
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 156,
+      "words": [
+        {
+          "text": "Dalia",
+          "confidence": 0.91,
+          "bbox": [
+            75,
+            108,
+            130,
+            126
+          ]
+        },
+        {
+          "text": "AZIZ",
+          "confidence": 0.92,
+          "bbox": [
+            138,
+            109,
+            191,
+            126
+          ]
+        },
+        {
+          "text": "De:",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            161,
+            104,
+            189
+          ]
+        },
+        {
+          "text": "Yoann",
+          "confidence": 0.95,
+          "bbox": [
+            380,
+            166,
+            433,
+            180
+          ]
+        },
+        {
+          "text": "Monceau",
+          "confidence": 0.93,
+          "bbox": [
+            442,
+            166,
+            521,
+            180
+          ]
+        },
+        {
+          "text": "BM",
+          "confidence": 0.92,
+          "bbox": [
+            529,
+            166,
+            555,
+            180
+          ]
+        },
+        {
+          "text": "ECHAFAUDAGES",
+          "confidence": 0.9,
+          "bbox": [
+            564,
+            166,
+            709,
+            180
+          ]
+        },
+        {
+          "text": "<yoann.monceau@bm-echafaudages.fr>",
+          "confidence": 0.77,
+          "bbox": [
+            718,
+            165,
+            1073,
+            185
+          ]
+        },
+        {
+          "text": "Envoyé:",
+          "confidence": 0.95,
+          "bbox": [
+            75,
+            187,
+            145,
+            215
+          ]
+        },
+        {
+          "text": "vendredi",
+          "confidence": 0.96,
+          "bbox": [
+            380,
+            191,
+            455,
+            206
+          ]
+        },
+        {
+          "text": "17",
+          "confidence": 0.96,
+          "bbox": [
+            464,
+            192,
+            482,
+            206
+          ]
+        },
+        {
+          "text": "octobre",
+          "confidence": 0.96,
+          "bbox": [
+            490,
+            191,
+            557,
+            206
+          ]
+        },
+        {
+          "text": "2025",
+          "confidence": 0.96,
+          "bbox": [
+            564,
+            192,
+            604,
+            206
+          ]
+        },
+        {
+          "text": "14:05",
+          "confidence": 0.96,
+          "bbox": [
+            614,
+            192,
+            658,
+            206
+          ]
+        },
+        {
+          "text": "À:",
+          "confidence": 0.96,
+          "bbox": [
+            70,
+            211,
+            92,
+            245
+          ]
+        },
+        {
+          "text": "Dalia",
+          "confidence": 0.9,
+          "bbox": [
+            381,
+            218,
+            422,
+            233
+          ]
+        },
+        {
+          "text": "AZIZ",
+          "confidence": 0.92,
+          "bbox": [
+            429,
+            219,
+            469,
+            233
+          ]
+        },
+        {
+          "text": "Objet:",
+          "confidence": 0.96,
+          "bbox": [
+            74,
+            240,
+            130,
+            268
+          ]
+        },
+        {
+          "text": "A24001-251007-CHANEL-Transmission",
+          "confidence": 0.91,
+          "bbox": [
+            380,
+            244,
+            721,
+            259
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.97,
+          "bbox": [
+            729,
+            244,
+            749,
+            259
+          ]
+        },
+        {
+          "text": "DCE",
+          "confidence": 0.91,
+          "bbox": [
+            758,
+            245,
+            792,
+            259
+          ]
+        },
+        {
+          "text": "-—",
+          "confidence": 0.26,
+          "bbox": [
+            798,
+            253,
+            808,
+            254
+          ]
+        },
+        {
+          "text": "Travaux",
+          "confidence": 0.96,
+          "bbox": [
+            814,
+            245,
+            881,
+            259
+          ]
+        },
+        {
+          "text": "d'installation",
+          "confidence": 0.94,
+          "bbox": [
+            887,
+            244,
+            997,
+            259
+          ]
+        },
+        {
+          "text": "d'échafaudages",
+          "confidence": 0.91,
+          "bbox": [
+            380,
+            270,
+            516,
+            290
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.95,
+          "bbox": [
+            523,
+            275,
+            549,
+            285
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            556,
+            270,
+            577,
+            285
+          ]
+        },
+        {
+          "text": "sites",
+          "confidence": 0.93,
+          "bbox": [
+            584,
+            270,
+            621,
+            285
+          ]
+        },
+        {
+          "text": "VO1",
+          "confidence": 0.58,
+          "bbox": [
+            628,
+            271,
+            658,
+            285
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            668,
+            272,
+            684,
+            285
+          ]
+        },
+        {
+          "text": "VO",
+          "confidence": 0.96,
+          "bbox": [
+            690,
+            271,
+            712,
+            285
+          ]
+        },
+        {
+          "text": "Bonjour",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            350,
+            155,
+            370
+          ]
+        },
+        {
+          "text": "madame",
+          "confidence": 0.93,
+          "bbox": [
+            162,
+            350,
+            251,
+            366
+          ]
+        },
+        {
+          "text": "AZIZ,",
+          "confidence": 0.88,
+          "bbox": [
+            257,
+            350,
+            308,
+            369
+          ]
+        },
+        {
+          "text": "Concernant",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            408,
+            197,
+            424
+          ]
+        },
+        {
+          "text": "votre",
+          "confidence": 0.96,
+          "bbox": [
+            202,
+            410,
+            253,
+            424
+          ]
+        },
+        {
+          "text": "projet",
+          "confidence": 0.96,
+          "bbox": [
+            261,
+            408,
+            320,
+            428
+          ]
+        },
+        {
+          "text": "voici",
+          "confidence": 0.95,
+          "bbox": [
+            325,
+            408,
+            372,
+            424
+          ]
+        },
+        {
+          "text": "notre",
+          "confidence": 0.95,
+          "bbox": [
+            380,
+            410,
+            432,
+            424
+          ]
+        },
+        {
+          "text": "retour",
+          "confidence": 0.95,
+          "bbox": [
+            440,
+            410,
+            501,
+            424
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.96,
+          "bbox": [
+            507,
+            413,
+            518,
+            419
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.58,
+          "bbox": [
+            111,
+            473,
+            118,
+            480
+          ]
+        },
+        {
+          "text": "_",
+          "confidence": 0.58,
+          "bbox": [
+            129,
+            462,
+            135,
+            492
+          ]
+        },
+        {
+          "text": "Poste",
+          "confidence": 0.86,
+          "bbox": [
+            147,
+            466,
+            207,
+            482
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.92,
+          "bbox": [
+            215,
+            467,
+            223,
+            482
+          ]
+        },
+        {
+          "text": "bât",
+          "confidence": 0.92,
+          "bbox": [
+            233,
+            466,
+            266,
+            482
+          ]
+        },
+        {
+          "text": "V1:",
+          "confidence": 0.96,
+          "bbox": [
+            272,
+            466,
+            309,
+            482
+          ]
+        },
+        {
+          "text": "o",
+          "confidence": 0.64,
+          "bbox": [
+            255,
+            502,
+            264,
+            511
+          ]
+        },
+        {
+          "text": "“",
+          "confidence": 0.57,
+          "bbox": [
+            255,
+            530,
+            261,
+            536
+          ]
+        },
+        {
+          "text": "Location",
+          "confidence": 0.34,
+          "bbox": [
+            291,
+            524,
+            379,
+            540
+          ]
+        },
+        {
+          "text": "(1",
+          "confidence": 0.95,
+          "bbox": [
+            386,
+            524,
+            400,
+            544
+          ]
+        },
+        {
+          "text": "semaine)",
+          "confidence": 0.95,
+          "bbox": [
+            411,
+            524,
+            505,
+            544
+          ]
+        },
+        {
+          "text": "d'une",
+          "confidence": 0.93,
+          "bbox": [
+            512,
+            524,
+            567,
+            540
+          ]
+        },
+        {
+          "text": "sapine",
+          "confidence": 0.92,
+          "bbox": [
+            575,
+            524,
+            642,
+            544
+          ]
+        },
+        {
+          "text": "auto",
+          "confidence": 0.96,
+          "bbox": [
+            649,
+            526,
+            694,
+            540
+          ]
+        },
+        {
+          "text": "stable",
+          "confidence": 0.96,
+          "bbox": [
+            701,
+            524,
+            763,
+            540
+          ]
+        },
+        {
+          "text": "d'accès",
+          "confidence": 0.96,
+          "bbox": [
+            771,
+            524,
+            849,
+            540
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            857,
+            524,
+            880,
+            540
+          ]
+        },
+        {
+          "text": "3m",
+          "confidence": 0.93,
+          "bbox": [
+            888,
+            524,
+            918,
+            540
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            926,
+            524,
+            949,
+            540
+          ]
+        },
+        {
+          "text": "long",
+          "confidence": 0.75,
+          "bbox": [
+            957,
+            524,
+            1014,
+            545
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.94,
+          "bbox": [
+            1005,
+            520,
+            1013,
+            549
+          ]
+        },
+        {
+          "text": "1,50",
+          "confidence": 0.95,
+          "bbox": [
+            1022,
+            524,
+            1064,
+            543
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            1071,
+            524,
+            1095,
+            540
+          ]
+        },
+        {
+          "text": "large",
+          "confidence": 0.96,
+          "bbox": [
+            291,
+            554,
+            339,
+            575
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.95,
+          "bbox": [
+            346,
+            558,
+            356,
+            570
+          ]
+        },
+        {
+          "text": "9,25",
+          "confidence": 0.95,
+          "bbox": [
+            363,
+            554,
+            405,
+            573
+          ]
+        },
+        {
+          "text": "GC",
+          "confidence": 0.96,
+          "bbox": [
+            413,
+            554,
+            444,
+            570
+          ]
+        },
+        {
+          "text": "(+",
+          "confidence": 0.84,
+          "bbox": [
+            451,
+            554,
+            469,
+            574
+          ]
+        },
+        {
+          "text": "2m)",
+          "confidence": 0.84,
+          "bbox": [
+            475,
+            554,
+            514,
+            574
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.92,
+          "bbox": [
+            521,
+            559,
+            532,
+            565
+          ]
+        },
+        {
+          "text": "3200",
+          "confidence": 0.85,
+          "bbox": [
+            539,
+            554,
+            593,
+            570
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.94,
+          "bbox": [
+            600,
+            554,
+            627,
+            570
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.61,
+          "bbox": [
+            111,
+            590,
+            118,
+            597
+          ]
+        },
+        {
+          "text": "_",
+          "confidence": 0.4,
+          "bbox": [
+            129,
+            579,
+            135,
+            609
+          ]
+        },
+        {
+          "text": "Poste",
+          "confidence": 0.91,
+          "bbox": [
+            147,
+            583,
+            207,
+            599
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9,
+          "bbox": [
+            214,
+            583,
+            226,
+            599
+          ]
+        },
+        {
+          "text": "bât",
+          "confidence": 0.92,
+          "bbox": [
+            233,
+            583,
+            266,
+            599
+          ]
+        },
+        {
+          "text": "V2:",
+          "confidence": 0.96,
+          "bbox": [
+            272,
+            583,
+            309,
+            599
+          ]
+        },
+        {
+          "text": "o",
+          "confidence": 0.64,
+          "bbox": [
+            255,
+            619,
+            264,
+            628
+          ]
+        },
+        {
+          "text": "“",
+          "confidence": 0.57,
+          "bbox": [
+            255,
+            647,
+            261,
+            653
+          ]
+        },
+        {
+          "text": "Location",
+          "confidence": 0.34,
+          "bbox": [
+            291,
+            641,
+            379,
+            657
+          ]
+        },
+        {
+          "text": "(1",
+          "confidence": 0.95,
+          "bbox": [
+            386,
+            641,
+            400,
+            661
+          ]
+        },
+        {
+          "text": "semaine)",
+          "confidence": 0.95,
+          "bbox": [
+            411,
+            641,
+            505,
+            661
+          ]
+        },
+        {
+          "text": "d'une",
+          "confidence": 0.93,
+          "bbox": [
+            512,
+            641,
+            567,
+            657
+          ]
+        },
+        {
+          "text": "sapine",
+          "confidence": 0.92,
+          "bbox": [
+            575,
+            641,
+            642,
+            661
+          ]
+        },
+        {
+          "text": "auto",
+          "confidence": 0.96,
+          "bbox": [
+            649,
+            643,
+            694,
+            657
+          ]
+        },
+        {
+          "text": "stable",
+          "confidence": 0.96,
+          "bbox": [
+            701,
+            641,
+            763,
+            657
+          ]
+        },
+        {
+          "text": "d'accès",
+          "confidence": 0.96,
+          "bbox": [
+            771,
+            641,
+            849,
+            657
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            857,
+            641,
+            880,
+            657
+          ]
+        },
+        {
+          "text": "3m",
+          "confidence": 0.93,
+          "bbox": [
+            888,
+            641,
+            918,
+            657
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            926,
+            641,
+            949,
+            657
+          ]
+        },
+        {
+          "text": "long",
+          "confidence": 0.75,
+          "bbox": [
+            957,
+            641,
+            1014,
+            662
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.94,
+          "bbox": [
+            1005,
+            637,
+            1013,
+            666
+          ]
+        },
+        {
+          "text": "1,50",
+          "confidence": 0.95,
+          "bbox": [
+            1022,
+            641,
+            1064,
+            660
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            1071,
+            641,
+            1095,
+            657
+          ]
+        },
+        {
+          "text": "large",
+          "confidence": 0.96,
+          "bbox": [
+            291,
+            671,
+            339,
+            692
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.95,
+          "bbox": [
+            346,
+            675,
+            356,
+            687
+          ]
+        },
+        {
+          "text": "11,25",
+          "confidence": 0.96,
+          "bbox": [
+            364,
+            671,
+            418,
+            690
+          ]
+        },
+        {
+          "text": "GC",
+          "confidence": 0.93,
+          "bbox": [
+            425,
+            671,
+            456,
+            687
+          ]
+        },
+        {
+          "text": "(+2m)",
+          "confidence": 0.9,
+          "bbox": [
+            464,
+            671,
+            521,
+            691
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.93,
+          "bbox": [
+            529,
+            676,
+            540,
+            682
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.93,
+          "bbox": [
+            547,
+            671,
+            557,
+            687
+          ]
+        },
+        {
+          "text": "800",
+          "confidence": 0.96,
+          "bbox": [
+            565,
+            671,
+            601,
+            687
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.96,
+          "bbox": [
+            608,
+            671,
+            635,
+            687
+          ]
+        },
+        {
+          "text": "*__",
+          "confidence": 0.0,
+          "bbox": [
+            111,
+            707,
+            118,
+            714
+          ]
+        },
+        {
+          "text": "Livraison",
+          "confidence": 0.0,
+          "bbox": [
+            147,
+            700,
+            237,
+            716
+          ]
+        },
+        {
+          "text": "A/R",
+          "confidence": 0.74,
+          "bbox": [
+            244,
+            700,
+            280,
+            716
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.74,
+          "bbox": [
+            287,
+            705,
+            297,
+            711
+          ]
+        },
+        {
+          "text": "600",
+          "confidence": 0.74,
+          "bbox": [
+            304,
+            700,
+            341,
+            716
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.87,
+          "bbox": [
+            348,
+            700,
+            374,
+            716
+          ]
+        },
+        {
+          "text": "*",
+          "confidence": 0.0,
+          "bbox": [
+            111,
+            736,
+            118,
+            743
+          ]
+        },
+        {
+          "text": "Location",
+          "confidence": 0.1,
+          "bbox": [
+            147,
+            729,
+            235,
+            745
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.96,
+          "bbox": [
+            242,
+            733,
+            266,
+            745
+          ]
+        },
+        {
+          "text": "delà",
+          "confidence": 0.95,
+          "bbox": [
+            273,
+            729,
+            315,
+            745
+          ]
+        },
+        {
+          "text": "d'une",
+          "confidence": 0.95,
+          "bbox": [
+            323,
+            729,
+            378,
+            745
+          ]
+        },
+        {
+          "text": "semaine",
+          "confidence": 0.96,
+          "bbox": [
+            386,
+            729,
+            472,
+            745
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 0.96,
+          "bbox": [
+            480,
+            734,
+            491,
+            740
+          ]
+        },
+        {
+          "text": "50",
+          "confidence": 0.93,
+          "bbox": [
+            498,
+            729,
+            521,
+            745
+          ]
+        },
+        {
+          "text": "HT/sapine/jour",
+          "confidence": 0.91,
+          "bbox": [
+            529,
+            729,
+            681,
+            749
+          ]
+        },
+        {
+          "text": "calendaire.",
+          "confidence": 0.89,
+          "bbox": [
+            688,
+            729,
+            802,
+            745
+          ]
+        },
+        {
+          "text": "J'espère",
+          "confidence": 0.95,
+          "bbox": [
+            74,
+            816,
+            157,
+            836
+          ]
+        },
+        {
+          "text": "avoir",
+          "confidence": 0.95,
+          "bbox": [
+            164,
+            816,
+            213,
+            832
+          ]
+        },
+        {
+          "text": "répondu",
+          "confidence": 0.95,
+          "bbox": [
+            220,
+            816,
+            304,
+            836
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.96,
+          "bbox": [
+            312,
+            820,
+            322,
+            832
+          ]
+        },
+        {
+          "text": "votre",
+          "confidence": 0.94,
+          "bbox": [
+            329,
+            818,
+            379,
+            832
+          ]
+        },
+        {
+          "text": "demande",
+          "confidence": 0.94,
+          "bbox": [
+            387,
+            816,
+            483,
+            832
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            490,
+            818,
+            509,
+            832
+          ]
+        },
+        {
+          "text": "pardonnez",
+          "confidence": 0.92,
+          "bbox": [
+            516,
+            816,
+            624,
+            836
+          ]
+        },
+        {
+          "text": "nous",
+          "confidence": 0.95,
+          "bbox": [
+            632,
+            820,
+            680,
+            832
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.95,
+          "bbox": [
+            688,
+            820,
+            734,
+            836
+          ]
+        },
+        {
+          "text": "notre",
+          "confidence": 0.96,
+          "bbox": [
+            741,
+            818,
+            793,
+            832
+          ]
+        },
+        {
+          "text": "réactivité",
+          "confidence": 0.96,
+          "bbox": [
+            801,
+            816,
+            894,
+            832
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.96,
+          "bbox": [
+            902,
+            820,
+            925,
+            832
+          ]
+        },
+        {
+          "text": "peu",
+          "confidence": 0.96,
+          "bbox": [
+            934,
+            820,
+            970,
+            836
+          ]
+        },
+        {
+          "text": "tardive.",
+          "confidence": 0.96,
+          "bbox": [
+            976,
+            816,
+            1053,
+            832
+          ]
+        },
+        {
+          "text": "Cordialement,",
+          "confidence": 0.96,
+          "bbox": [
+            75,
+            874,
+            221,
+            893
+          ]
+        },
+        {
+          "text": "BM.ECHAFAUDAGES",
+          "confidence": 0.43,
+          "bbox": [
+            75,
+            1083,
+            414,
+            1120
+          ]
+        },
+        {
+          "text": "Yoann",
+          "confidence": 0.94,
+          "bbox": [
+            76,
+            1178,
+            137,
+            1194
+          ]
+        },
+        {
+          "text": "Monceau",
+          "confidence": 0.96,
+          "bbox": [
+            145,
+            1178,
+            237,
+            1194
+          ]
+        },
+        {
+          "text": "73/75",
+          "confidence": 0.95,
+          "bbox": [
+            77,
+            1234,
+            128,
+            1250
+          ]
+        },
+        {
+          "text": "rue",
+          "confidence": 0.96,
+          "bbox": [
+            135,
+            1239,
+            168,
+            1250
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            174,
+            1234,
+            197,
+            1250
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            203,
+            1234,
+            220,
+            1250
+          ]
+        },
+        {
+          "text": "plaine",
+          "confidence": 0.96,
+          "bbox": [
+            225,
+            1234,
+            289,
+            1255
+          ]
+        },
+        {
+          "text": "75020",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            1289,
+            134,
+            1305
+          ]
+        },
+        {
+          "text": "Paris",
+          "confidence": 0.96,
+          "bbox": [
+            139,
+            1289,
+            191,
+            1305
+          ]
+        },
+        {
+          "text": "Port:",
+          "confidence": 0.92,
+          "bbox": [
+            73,
+            1345,
+            123,
+            1361
+          ]
+        },
+        {
+          "text": "06.75.38.91.99",
+          "confidence": 0.91,
+          "bbox": [
+            132,
+            1345,
+            274,
+            1361
+          ]
+        },
+        {
+          "text": "Tel:",
+          "confidence": 0.93,
+          "bbox": [
+            76,
+            1401,
+            112,
+            1417
+          ]
+        },
+        {
+          "text": "01.48.35.08.05",
+          "confidence": 0.92,
+          "bbox": [
+            121,
+            1401,
+            263,
+            1417
+          ]
+        },
+        {
+          "text": "Mail:",
+          "confidence": 0.93,
+          "bbox": [
+            73,
+            1456,
+            127,
+            1472
+          ]
+        },
+        {
+          "text": "yoann.monceau@bm-echafaudages.fr",
+          "confidence": 0.84,
+          "bbox": [
+            135,
+            1456,
+            510,
+            1477
+          ]
+        },
+        {
+          "text": "Site",
+          "confidence": 0.54,
+          "bbox": [
+            73,
+            1512,
+            111,
+            1528
+          ]
+        },
+        {
+          "text": "internet:",
+          "confidence": 0.92,
+          "bbox": [
+            117,
+            1512,
+            201,
+            1528
+          ]
+        },
+        {
+          "text": "https://www.bm-echafaudages.fr",
+          "confidence": 0.86,
+          "bbox": [
+            209,
+            1512,
+            530,
+            1533
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 108,
+      "words": [
+        {
+          "text": "Le",
+          "confidence": 0.95,
+          "bbox": [
+            147,
+            80,
+            169,
+            96
+          ]
+        },
+        {
+          "text": "09/10/2025",
+          "confidence": 0.95,
+          "bbox": [
+            176,
+            80,
+            293,
+            96
+          ]
+        },
+        {
+          "text": "08:04",
+          "confidence": 0.96,
+          "bbox": [
+            300,
+            80,
+            356,
+            96
+          ]
+        },
+        {
+          "text": "CEST,",
+          "confidence": 0.93,
+          "bbox": [
+            363,
+            80,
+            422,
+            99
+          ]
+        },
+        {
+          "text": "BM",
+          "confidence": 0.91,
+          "bbox": [
+            431,
+            80,
+            460,
+            96
+          ]
+        },
+        {
+          "text": "échafaudages",
+          "confidence": 0.91,
+          "bbox": [
+            468,
+            80,
+            613,
+            101
+          ]
+        },
+        {
+          "text": "<contact@bm-echafaudages.fr>",
+          "confidence": 0.89,
+          "bbox": [
+            620,
+            80,
+            956,
+            101
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.96,
+          "bbox": [
+            962,
+            84,
+            972,
+            96
+          ]
+        },
+        {
+          "text": "écrit:",
+          "confidence": 0.82,
+          "bbox": [
+            980,
+            80,
+            1035,
+            96
+          ]
+        },
+        {
+          "text": "ae",
+          "confidence": 0.26,
+          "bbox": [
+            218,
+            216,
+            298,
+            218
+          ]
+        },
+        {
+          "text": "Message",
+          "confidence": 0.96,
+          "bbox": [
+            306,
+            207,
+            395,
+            228
+          ]
+        },
+        {
+          "text": "d'origine",
+          "confidence": 0.93,
+          "bbox": [
+            402,
+            207,
+            489,
+            228
+          ]
+        },
+        {
+          "text": "----------",
+          "confidence": 0.78,
+          "bbox": [
+            495,
+            216,
+            575,
+            218
+          ]
+        },
+        {
+          "text": "De",
+          "confidence": 0.93,
+          "bbox": [
+            219,
+            237,
+            246,
+            253
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            254,
+            241,
+            257,
+            253
+          ]
+        },
+        {
+          "text": "Dalia",
+          "confidence": 0.91,
+          "bbox": [
+            265,
+            237,
+            316,
+            253
+          ]
+        },
+        {
+          "text": "AZIZ",
+          "confidence": 0.9,
+          "bbox": [
+            323,
+            237,
+            367,
+            253
+          ]
+        },
+        {
+          "text": "<d.aziz@sfeco.fr>",
+          "confidence": 0.9,
+          "bbox": [
+            374,
+            237,
+            558,
+            256
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.92,
+          "bbox": [
+            218,
+            262,
+            232,
+            282
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.59,
+          "bbox": [
+            238,
+            270,
+            242,
+            282
+          ]
+        },
+        {
+          "text": "\"contact@bm-ec",
+          "confidence": 0.59,
+          "bbox": [
+            250,
+            266,
+            424,
+            285
+          ]
+        },
+        {
+          "text": "hafaudages.fr\"",
+          "confidence": 0.9,
+          "bbox": [
+            428,
+            266,
+            577,
+            287
+          ]
+        },
+        {
+          "text": "<contact@bm-echafaudages.fr>",
+          "confidence": 0.9,
+          "bbox": [
+            585,
+            266,
+            921,
+            287
+          ]
+        },
+        {
+          "text": "CC",
+          "confidence": 0.89,
+          "bbox": [
+            219,
+            295,
+            250,
+            311
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            258,
+            299,
+            261,
+            311
+          ]
+        },
+        {
+          "text": "Nicolas",
+          "confidence": 0.93,
+          "bbox": [
+            269,
+            295,
+            346,
+            311
+          ]
+        },
+        {
+          "text": "MAZIEUX",
+          "confidence": 0.91,
+          "bbox": [
+            353,
+            295,
+            446,
+            311
+          ]
+        },
+        {
+          "text": "<n.mazieux@sfeco.fr>,",
+          "confidence": 0.91,
+          "bbox": [
+            453,
+            295,
+            689,
+            314
+          ]
+        },
+        {
+          "text": "Romain",
+          "confidence": 0.93,
+          "bbox": [
+            697,
+            295,
+            774,
+            311
+          ]
+        },
+        {
+          "text": "DUCRES",
+          "confidence": 0.88,
+          "bbox": [
+            782,
+            295,
+            871,
+            311
+          ]
+        },
+        {
+          "text": "<r.ducres@sfeco.fr>,",
+          "confidence": 0.9,
+          "bbox": [
+            219,
+            325,
+            436,
+            344
+          ]
+        },
+        {
+          "text": "Mathieu",
+          "confidence": 0.93,
+          "bbox": [
+            445,
+            325,
+            526,
+            341
+          ]
+        },
+        {
+          "text": "SALLEMBIEN",
+          "confidence": 0.92,
+          "bbox": [
+            533,
+            325,
+            665,
+            341
+          ]
+        },
+        {
+          "text": "<m.sallembien@sfeco.fr>,",
+          "confidence": 0.91,
+          "bbox": [
+            674,
+            325,
+            946,
+            344
+          ]
+        },
+        {
+          "text": "Achats",
+          "confidence": 0.93,
+          "bbox": [
+            218,
+            354,
+            289,
+            370
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.92,
+          "bbox": [
+            295,
+            354,
+            367,
+            370
+          ]
+        },
+        {
+          "text": "<achats@sfeco.fr>",
+          "confidence": 0.9,
+          "bbox": [
+            374,
+            354,
+            570,
+            373
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.92,
+          "bbox": [
+            219,
+            383,
+            266,
+            399
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            274,
+            387,
+            277,
+            399
+          ]
+        },
+        {
+          "text": "07/10/2025",
+          "confidence": 0.96,
+          "bbox": [
+            285,
+            383,
+            402,
+            399
+          ]
+        },
+        {
+          "text": "15:30",
+          "confidence": 0.96,
+          "bbox": [
+            410,
+            383,
+            465,
+            399
+          ]
+        },
+        {
+          "text": "CEST",
+          "confidence": 0.96,
+          "bbox": [
+            472,
+            383,
+            525,
+            399
+          ]
+        },
+        {
+          "text": "Sujet",
+          "confidence": 0.92,
+          "bbox": [
+            218,
+            413,
+            271,
+            433
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.91,
+          "bbox": [
+            278,
+            417,
+            281,
+            429
+          ]
+        },
+        {
+          "text": "A24001-251007-CHANEL-Transmission",
+          "confidence": 0.91,
+          "bbox": [
+            288,
+            413,
+            695,
+            429
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            702,
+            413,
+            726,
+            429
+          ]
+        },
+        {
+          "text": "DCE",
+          "confidence": 0.93,
+          "bbox": [
+            734,
+            413,
+            778,
+            429
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.9,
+          "bbox": [
+            784,
+            422,
+            795,
+            424
+          ]
+        },
+        {
+          "text": "Travaux",
+          "confidence": 0.96,
+          "bbox": [
+            800,
+            413,
+            879,
+            429
+          ]
+        },
+        {
+          "text": "d'installation",
+          "confidence": 0.14,
+          "bbox": [
+            219,
+            442,
+            352,
+            458
+          ]
+        },
+        {
+          "text": "d’échafaudages",
+          "confidence": 0.65,
+          "bbox": [
+            360,
+            442,
+            525,
+            463
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.95,
+          "bbox": [
+            532,
+            446,
+            563,
+            458
+          ]
+        },
+        {
+          "text": "Les",
+          "confidence": 0.86,
+          "bbox": [
+            570,
+            442,
+            598,
+            458
+          ]
+        },
+        {
+          "text": "sites",
+          "confidence": 0.93,
+          "bbox": [
+            605,
+            442,
+            653,
+            458
+          ]
+        },
+        {
+          "text": "V01",
+          "confidence": 0.82,
+          "bbox": [
+            659,
+            442,
+            694,
+            458
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            704,
+            444,
+            722,
+            458
+          ]
+        },
+        {
+          "text": "VO2",
+          "confidence": 0.89,
+          "bbox": [
+            728,
+            442,
+            766,
+            458
+          ]
+        },
+        {
+          "text": "Bonjour,",
+          "confidence": 0.91,
+          "bbox": [
+            219,
+            558,
+            304,
+            578
+          ]
+        },
+        {
+          "text": "Suite",
+          "confidence": 0.95,
+          "bbox": [
+            218,
+            615,
+            270,
+            631
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            277,
+            615,
+            287,
+            631
+          ]
+        },
+        {
+          "text": "notre",
+          "confidence": 0.96,
+          "bbox": [
+            295,
+            617,
+            347,
+            631
+          ]
+        },
+        {
+          "text": "conversation",
+          "confidence": 0.95,
+          "bbox": [
+            354,
+            615,
+            487,
+            631
+          ]
+        },
+        {
+          "text": "téléphonique,",
+          "confidence": 0.95,
+          "bbox": [
+            493,
+            615,
+            636,
+            635
+          ]
+        },
+        {
+          "text": "je",
+          "confidence": 0.96,
+          "bbox": [
+            642,
+            615,
+            660,
+            635
+          ]
+        },
+        {
+          "text": "vous",
+          "confidence": 0.96,
+          "bbox": [
+            666,
+            619,
+            714,
+            631
+          ]
+        },
+        {
+          "text": "prie",
+          "confidence": 0.96,
+          "bbox": [
+            721,
+            615,
+            758,
+            635
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            766,
+            615,
+            789,
+            631
+          ]
+        },
+        {
+          "text": "trouver",
+          "confidence": 0.95,
+          "bbox": [
+            795,
+            617,
+            869,
+            631
+          ]
+        },
+        {
+          "text": "ci-joint",
+          "confidence": 0.96,
+          "bbox": [
+            875,
+            615,
+            946,
+            635
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.92,
+          "bbox": [
+            953,
+            615,
+            969,
+            631
+          ]
+        },
+        {
+          "text": "DCE",
+          "confidence": 0.95,
+          "bbox": [
+            219,
+            644,
+            263,
+            660
+          ]
+        },
+        {
+          "text": "relatif",
+          "confidence": 0.96,
+          "bbox": [
+            271,
+            644,
+            329,
+            660
+          ]
+        },
+        {
+          "text": "aux",
+          "confidence": 0.96,
+          "bbox": [
+            336,
+            648,
+            370,
+            660
+          ]
+        },
+        {
+          "text": "travaux",
+          "confidence": 0.96,
+          "bbox": [
+            376,
+            646,
+            452,
+            660
+          ]
+        },
+        {
+          "text": "d'installation",
+          "confidence": 0.35,
+          "bbox": [
+            458,
+            644,
+            592,
+            660
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.93,
+          "bbox": [
+            599,
+            644,
+            635,
+            660
+          ]
+        },
+        {
+          "text": "échafaudages",
+          "confidence": 0.91,
+          "bbox": [
+            642,
+            644,
+            786,
+            665
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            794,
+            648,
+            825,
+            660
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.89,
+          "bbox": [
+            832,
+            644,
+            860,
+            660
+          ]
+        },
+        {
+          "text": "sites",
+          "confidence": 0.92,
+          "bbox": [
+            867,
+            644,
+            914,
+            660
+          ]
+        },
+        {
+          "text": "VO1",
+          "confidence": 0.38,
+          "bbox": [
+            920,
+            644,
+            956,
+            660
+          ]
+        },
+        {
+          "text": "etVO2.",
+          "confidence": 0.84,
+          "bbox": [
+            219,
+            674,
+            288,
+            690
+          ]
+        },
+        {
+          "text": "Restant",
+          "confidence": 0.91,
+          "bbox": [
+            219,
+            731,
+            298,
+            747
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.97,
+          "bbox": [
+            304,
+            731,
+            314,
+            747
+          ]
+        },
+        {
+          "text": "votre",
+          "confidence": 0.96,
+          "bbox": [
+            321,
+            733,
+            372,
+            747
+          ]
+        },
+        {
+          "text": "disposition",
+          "confidence": 0.96,
+          "bbox": [
+            379,
+            731,
+            491,
+            751
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            499,
+            735,
+            545,
+            751
+          ]
+        },
+        {
+          "text": "toute",
+          "confidence": 0.96,
+          "bbox": [
+            551,
+            733,
+            604,
+            747
+          ]
+        },
+        {
+          "text": "information",
+          "confidence": 0.95,
+          "bbox": [
+            612,
+            731,
+            730,
+            747
+          ]
+        },
+        {
+          "text": "complémentaire.",
+          "confidence": 0.95,
+          "bbox": [
+            737,
+            731,
+            913,
+            751
+          ]
+        },
+        {
+          "text": "Cordialement,",
+          "confidence": 0.96,
+          "bbox": [
+            219,
+            788,
+            365,
+            807
+          ]
+        },
+        {
+          "text": "Dalia",
+          "confidence": 0.92,
+          "bbox": [
+            606,
+            1041,
+            662,
+            1058
+          ]
+        },
+        {
+          "text": "AZIZ",
+          "confidence": 0.92,
+          "bbox": [
+            670,
+            1043,
+            723,
+            1058
+          ]
+        },
+        {
+          "text": "Conductrice",
+          "confidence": 0.91,
+          "bbox": [
+            605,
+            1071,
+            746,
+            1089
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            752,
+            1071,
+            782,
+            1089
+          ]
+        },
+        {
+          "text": "Travaux",
+          "confidence": 0.96,
+          "bbox": [
+            788,
+            1073,
+            878,
+            1089
+          ]
+        },
+        {
+          "text": "07.50.66.80.85",
+          "confidence": 0.8,
+          "bbox": [
+            606,
+            1100,
+            758,
+            1117
+          ]
+        },
+        {
+          "text": "AURALIANCZ=",
+          "confidence": 0.35,
+          "bbox": [
+            265,
+            1125,
+            510,
+            1151
+          ]
+        },
+        {
+          "text": "d.aziz@sfeco.fr",
+          "confidence": 0.58,
+          "bbox": [
+            605,
+            1128,
+            779,
+            1150
+          ]
+        },
+        {
+          "text": "”steco",
+          "confidence": 0.18,
+          "bbox": [
+            254,
+            1184,
+            510,
+            1265
+          ]
+        },
+        {
+          "text": "L£",
+          "confidence": 0.0,
+          "bbox": [
+            605,
+            1178,
+            666,
+            1237
+          ]
+        },
+        {
+          "text": "Jin",
+          "confidence": 0.66,
+          "bbox": [
+            679,
+            1178,
+            739,
+            1237
+          ]
+        },
+        {
+          "text": "l'accent",
+          "confidence": 0.93,
+          "bbox": [
+            319,
+            1258,
+            388,
+            1271
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            397,
+            1262,
+            423,
+            1271
+          ]
+        },
+        {
+          "text": "l'énergie",
+          "confidence": 0.94,
+          "bbox": [
+            433,
+            1258,
+            509,
+            1274
+          ]
+        },
+        {
+          "text": "wwwauraliance.com",
+          "confidence": 0.79,
+          "bbox": [
+            605,
+            1280,
+            834,
+            1297
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.9,
+          "bbox": [
+            841,
+            1280,
+            850,
+            1299
+          ]
+        },
+        {
+          "text": "www.sfecoifr",
+          "confidence": 0.52,
+          "bbox": [
+            855,
+            1280,
+            996,
+            1299
+          ]
+        }
+      ]
+    }
+  ]
+}

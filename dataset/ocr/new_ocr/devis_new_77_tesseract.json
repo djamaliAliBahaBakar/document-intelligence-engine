@@ -1,0 +1,1176 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_77.pdf",
+  "duration_seconds": 0.273,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 116,
+      "words": [
+        {
+          "text": "NES",
+          "confidence": 0.71,
+          "bbox": [
+            58,
+            52,
+            256,
+            96
+          ]
+        },
+        {
+          "text": "CEF",
+          "confidence": 0.89,
+          "bbox": [
+            40,
+            211,
+            69,
+            222
+          ]
+        },
+        {
+          "text": "Yesss",
+          "confidence": 0.86,
+          "bbox": [
+            74,
+            211,
+            116,
+            222
+          ]
+        },
+        {
+          "text": "Electrique",
+          "confidence": 0.94,
+          "bbox": [
+            122,
+            211,
+            193,
+            225
+          ]
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.96,
+          "bbox": [
+            198,
+            211,
+            267,
+            222
+          ]
+        },
+        {
+          "text": "PRO",
+          "confidence": 0.95,
+          "bbox": [
+            1036,
+            211,
+            1067,
+            222
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.96,
+          "bbox": [
+            1072,
+            211,
+            1079,
+            222
+          ]
+        },
+        {
+          "text": "LAURENT",
+          "confidence": 0.96,
+          "bbox": [
+            1085,
+            211,
+            1155,
+            222
+          ]
+        },
+        {
+          "text": "28",
+          "confidence": 0.96,
+          "bbox": [
+            35,
+            228,
+            51,
+            239
+          ]
+        },
+        {
+          "text": "avenue",
+          "confidence": 0.93,
+          "bbox": [
+            57,
+            231,
+            105,
+            239
+          ]
+        },
+        {
+          "text": "Fontcouverte",
+          "confidence": 0.9,
+          "bbox": [
+            110,
+            228,
+            196,
+            239
+          ]
+        },
+        {
+          "text": "84000",
+          "confidence": 0.94,
+          "bbox": [
+            36,
+            244,
+            76,
+            255
+          ]
+        },
+        {
+          "text": "AVIGNON",
+          "confidence": 0.95,
+          "bbox": [
+            81,
+            244,
+            149,
+            255
+          ]
+        },
+        {
+          "text": "Tél",
+          "confidence": 0.86,
+          "bbox": [
+            35,
+            260,
+            55,
+            271
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.86,
+          "bbox": [
+            66,
+            263,
+            68,
+            271
+          ]
+        },
+        {
+          "text": "04",
+          "confidence": 0.94,
+          "bbox": [
+            73,
+            260,
+            89,
+            271
+          ]
+        },
+        {
+          "text": "90",
+          "confidence": 0.94,
+          "bbox": [
+            94,
+            260,
+            109,
+            271
+          ]
+        },
+        {
+          "text": "14",
+          "confidence": 0.96,
+          "bbox": [
+            116,
+            260,
+            130,
+            271
+          ]
+        },
+        {
+          "text": "02",
+          "confidence": 0.96,
+          "bbox": [
+            136,
+            260,
+            151,
+            271
+          ]
+        },
+        {
+          "text": "00",
+          "confidence": 0.96,
+          "bbox": [
+            157,
+            260,
+            172,
+            271
+          ]
+        },
+        {
+          "text": "Fax",
+          "confidence": 0.9,
+          "bbox": [
+            36,
+            276,
+            59,
+            287
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            66,
+            279,
+            68,
+            287
+          ]
+        },
+        {
+          "text": "04",
+          "confidence": 0.89,
+          "bbox": [
+            73,
+            276,
+            89,
+            287
+          ]
+        },
+        {
+          "text": "90",
+          "confidence": 0.95,
+          "bbox": [
+            94,
+            276,
+            109,
+            287
+          ]
+        },
+        {
+          "text": "14",
+          "confidence": 0.95,
+          "bbox": [
+            116,
+            276,
+            130,
+            287
+          ]
+        },
+        {
+          "text": "70",
+          "confidence": 0.96,
+          "bbox": [
+            136,
+            276,
+            151,
+            287
+          ]
+        },
+        {
+          "text": "22",
+          "confidence": 0.95,
+          "bbox": [
+            156,
+            276,
+            172,
+            287
+          ]
+        },
+        {
+          "text": "30/09/2025",
+          "confidence": 0.95,
+          "bbox": [
+            1076,
+            339,
+            1150,
+            350
+          ]
+        },
+        {
+          "text": "16/09/2025",
+          "confidence": 0.93,
+          "bbox": [
+            41,
+            339,
+            115,
+            350
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            120,
+            345,
+            124,
+            347
+          ]
+        },
+        {
+          "text": "Devis",
+          "confidence": 0.96,
+          "bbox": [
+            130,
+            339,
+            168,
+            350
+          ]
+        },
+        {
+          "text": "n°:",
+          "confidence": 0.96,
+          "bbox": [
+            174,
+            340,
+            192,
+            350
+          ]
+        },
+        {
+          "text": "15656766",
+          "confidence": 0.92,
+          "bbox": [
+            198,
+            339,
+            263,
+            350
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.82,
+          "bbox": [
+            268,
+            339,
+            272,
+            350
+          ]
+        },
+        {
+          "text": "IMS",
+          "confidence": 0.82,
+          "bbox": [
+            277,
+            339,
+            303,
+            350
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            309,
+            342,
+            311,
+            350
+          ]
+        },
+        {
+          "text": "O",
+          "confidence": 0.68,
+          "bbox": [
+            317,
+            339,
+            324,
+            350
+          ]
+        },
+        {
+          "text": "ONDULEUR",
+          "confidence": 0.93,
+          "bbox": [
+            548,
+            339,
+            632,
+            350
+          ]
+        },
+        {
+          "text": "SFECO",
+          "confidence": 0.92,
+          "bbox": [
+            637,
+            339,
+            688,
+            350
+          ]
+        },
+        {
+          "text": "Val",
+          "confidence": 0.83,
+          "bbox": [
+            1013,
+            339,
+            1034,
+            350
+          ]
+        },
+        {
+          "text": "RES",
+          "confidence": 0.49,
+          "bbox": [
+            26,
+            378,
+            140,
+            435
+          ]
+        },
+        {
+          "text": "ES",
+          "confidence": 0.33,
+          "bbox": [
+            220,
+            378,
+            482,
+            435
+          ]
+        },
+        {
+          "text": "EE",
+          "confidence": 0.21,
+          "bbox": [
+            520,
+            382,
+            710,
+            426
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 0.43,
+          "bbox": [
+            743,
+            378,
+            910,
+            435
+          ]
+        },
+        {
+          "text": "os",
+          "confidence": 0.35,
+          "bbox": [
+            926,
+            398,
+            977,
+            412
+          ]
+        },
+        {
+          "text": "nes",
+          "confidence": 0.26,
+          "bbox": [
+            1001,
+            398,
+            1019,
+            409
+          ]
+        },
+        {
+          "text": "67632",
+          "confidence": 0.91,
+          "bbox": [
+            151,
+            431,
+            201,
+            444
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            195,
+            418,
+            201,
+            452
+          ]
+        },
+        {
+          "text": "e4",
+          "confidence": 0.79,
+          "bbox": [
+            207,
+            431,
+            223,
+            442
+          ]
+        },
+        {
+          "text": "pro",
+          "confidence": 0.96,
+          "bbox": [
+            228,
+            434,
+            248,
+            445
+          ]
+        },
+        {
+          "text": "one",
+          "confidence": 0.93,
+          "bbox": [
+            253,
+            434,
+            278,
+            442
+          ]
+        },
+        {
+          "text": "10k",
+          "confidence": 0.91,
+          "bbox": [
+            284,
+            431,
+            306,
+            442
+          ]
+        },
+        {
+          "text": "onduleur",
+          "confidence": 0.95,
+          "bbox": [
+            311,
+            431,
+            369,
+            442
+          ]
+        },
+        {
+          "text": "on",
+          "confidence": 0.95,
+          "bbox": [
+            374,
+            434,
+            389,
+            442
+          ]
+        },
+        {
+          "text": "line",
+          "confidence": 0.96,
+          "bbox": [
+            398,
+            434,
+            417,
+            442
+          ]
+        },
+        {
+          "text": "double",
+          "confidence": 0.96,
+          "bbox": [
+            422,
+            431,
+            466,
+            442
+          ]
+        },
+        {
+          "text": "F1",
+          "confidence": 0.48,
+          "bbox": [
+            69,
+            437,
+            109,
+            485
+          ]
+        },
+        {
+          "text": "conversion",
+          "confidence": 0.67,
+          "bbox": [
+            152,
+            450,
+            223,
+            458
+          ]
+        },
+        {
+          "text": "10k",
+          "confidence": 0.84,
+          "bbox": [
+            230,
+            447,
+            252,
+            458
+          ]
+        },
+        {
+          "text": "va",
+          "confidence": 0.96,
+          "bbox": [
+            257,
+            450,
+            272,
+            458
+          ]
+        },
+        {
+          "text": "INFOSEC",
+          "confidence": 0.92,
+          "bbox": [
+            501,
+            455,
+            565,
+            466
+          ]
+        },
+        {
+          "text": "COMMUNICAT",
+          "confidence": 0.9,
+          "bbox": [
+            571,
+            455,
+            673,
+            466
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.66,
+          "bbox": [
+            707,
+            455,
+            711,
+            466
+          ]
+        },
+        {
+          "text": "NET",
+          "confidence": 0.96,
+          "bbox": [
+            841,
+            455,
+            870,
+            466
+          ]
+        },
+        {
+          "text": "2300,00",
+          "confidence": 0.74,
+          "bbox": [
+            961,
+            455,
+            1019,
+            466
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.94,
+          "bbox": [
+            1024,
+            455,
+            1032,
+            466
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.9,
+          "bbox": [
+            1089,
+            455,
+            1096,
+            466
+          ]
+        },
+        {
+          "text": "300,00",
+          "confidence": 0.84,
+          "bbox": [
+            1101,
+            455,
+            1146,
+            468
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.91,
+          "bbox": [
+            1151,
+            455,
+            1159,
+            466
+          ]
+        },
+        {
+          "text": "67284",
+          "confidence": 0.93,
+          "bbox": [
+            152,
+            500,
+            193,
+            511
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            198,
+            506,
+            202,
+            508
+          ]
+        },
+        {
+          "text": "module",
+          "confidence": 0.96,
+          "bbox": [
+            207,
+            500,
+            255,
+            511
+          ]
+        },
+        {
+          "text": "autonomie",
+          "confidence": 0.96,
+          "bbox": [
+            260,
+            501,
+            329,
+            511
+          ]
+        },
+        {
+          "text": "4323",
+          "confidence": 0.96,
+          "bbox": [
+            334,
+            500,
+            367,
+            511
+          ]
+        },
+        {
+          "text": "module",
+          "confidence": 0.96,
+          "bbox": [
+            372,
+            500,
+            420,
+            511
+          ]
+        },
+        {
+          "text": "d-autonomie",
+          "confidence": 0.92,
+          "bbox": [
+            152,
+            517,
+            234,
+            528
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.92,
+          "bbox": [
+            240,
+            520,
+            269,
+            531
+          ]
+        },
+        {
+          "text": "e4",
+          "confidence": 0.92,
+          "bbox": [
+            273,
+            517,
+            289,
+            528
+          ]
+        },
+        {
+          "text": "Icd",
+          "confidence": 0.77,
+          "bbox": [
+            295,
+            517,
+            312,
+            528
+          ]
+        },
+        {
+          "text": "pro",
+          "confidence": 0.95,
+          "bbox": [
+            318,
+            520,
+            338,
+            531
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 0.93,
+          "bbox": [
+            343,
+            517,
+            351,
+            528
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.84,
+          "bbox": [
+            356,
+            523,
+            360,
+            525
+          ]
+        },
+        {
+          "text": "10k,",
+          "confidence": 0.92,
+          "bbox": [
+            366,
+            517,
+            392,
+            530
+          ]
+        },
+        {
+          "text": "e4",
+          "confidence": 0.89,
+          "bbox": [
+            398,
+            517,
+            414,
+            528
+          ]
+        },
+        {
+          "text": "pro",
+          "confidence": 0.93,
+          "bbox": [
+            419,
+            520,
+            439,
+            531
+          ]
+        },
+        {
+          "text": "10k",
+          "confidence": 0.88,
+          "bbox": [
+            445,
+            517,
+            468,
+            528
+          ]
+        },
+        {
+          "text": "tm",
+          "confidence": 0.92,
+          "bbox": [
+            472,
+            518,
+            488,
+            528
+          ]
+        },
+        {
+          "text": "INFOSEC",
+          "confidence": 0.93,
+          "bbox": [
+            501,
+            533,
+            565,
+            544
+          ]
+        },
+        {
+          "text": "COMMUNICAT",
+          "confidence": 0.91,
+          "bbox": [
+            571,
+            533,
+            673,
+            544
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.57,
+          "bbox": [
+            707,
+            533,
+            711,
+            544
+          ]
+        },
+        {
+          "text": "NET",
+          "confidence": 0.96,
+          "bbox": [
+            841,
+            533,
+            870,
+            544
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.81,
+          "bbox": [
+            962,
+            533,
+            966,
+            544
+          ]
+        },
+        {
+          "text": "200,50",
+          "confidence": 0.81,
+          "bbox": [
+            974,
+            533,
+            1019,
+            546
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.94,
+          "bbox": [
+            1024,
+            533,
+            1032,
+            544
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.51,
+          "bbox": [
+            1090,
+            533,
+            1094,
+            544
+          ]
+        },
+        {
+          "text": "200,50",
+          "confidence": 0.51,
+          "bbox": [
+            1101,
+            533,
+            1146,
+            546
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            1151,
+            533,
+            1159,
+            544
+          ]
+        },
+        {
+          "text": "Total",
+          "confidence": 0.96,
+          "bbox": [
+            959,
+            598,
+            993,
+            609
+          ]
+        },
+        {
+          "text": "HT",
+          "confidence": 0.9,
+          "bbox": [
+            999,
+            598,
+            1018,
+            609
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            1024,
+            601,
+            1027,
+            609
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.78,
+          "bbox": [
+            1089,
+            598,
+            1096,
+            609
+          ]
+        },
+        {
+          "text": "500,50",
+          "confidence": 0.9,
+          "bbox": [
+            1102,
+            598,
+            1146,
+            611
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.93,
+          "bbox": [
+            1151,
+            598,
+            1159,
+            609
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.39,
+          "bbox": [
+            976,
+            647,
+            984,
+            654
+          ]
+        },
+        {
+          "text": "TVA:",
+          "confidence": 0.39,
+          "bbox": [
+            989,
+            643,
+            1027,
+            654
+          ]
+        },
+        {
+          "text": "700,10",
+          "confidence": 0.84,
+          "bbox": [
+            1102,
+            643,
+            1146,
+            656
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.84,
+          "bbox": [
+            1151,
+            643,
+            1159,
+            654
+          ]
+        },
+        {
+          "text": "Total",
+          "confidence": 0.95,
+          "bbox": [
+            949,
+            688,
+            984,
+            699
+          ]
+        },
+        {
+          "text": "TTC:",
+          "confidence": 0.78,
+          "bbox": [
+            989,
+            688,
+            1027,
+            699
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.94,
+          "bbox": [
+            1089,
+            688,
+            1096,
+            699
+          ]
+        },
+        {
+          "text": "200,60",
+          "confidence": 0.94,
+          "bbox": [
+            1101,
+            688,
+            1146,
+            701
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.96,
+          "bbox": [
+            1151,
+            688,
+            1159,
+            699
+          ]
+        },
+        {
+          "text": "Cordialement",
+          "confidence": 0.96,
+          "bbox": [
+            32,
+            742,
+            120,
+            753
+          ]
+        },
+        {
+          "text": "ROMAIN",
+          "confidence": 0.93,
+          "bbox": [
+            126,
+            742,
+            184,
+            753
+          ]
+        },
+        {
+          "text": "CLAPIER,",
+          "confidence": 0.92,
+          "bbox": [
+            189,
+            742,
+            256,
+            755
+          ]
+        },
+        {
+          "text": "Représentant",
+          "confidence": 0.94,
+          "bbox": [
+            263,
+            742,
+            351,
+            756
+          ]
+        }
+      ]
+    }
+  ]
+}

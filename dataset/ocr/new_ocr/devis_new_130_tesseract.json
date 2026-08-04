@@ -1,0 +1,3722 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_130.pdf",
+  "duration_seconds": 1.004,
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1192,
+      "image_height": 1686,
+      "word_count": 110,
+      "words": [
+        {
+          "text": "Fiche",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            66,
+            176,
+            87
+          ]
+        },
+        {
+          "text": "technique",
+          "confidence": 0.96,
+          "bbox": [
+            185,
+            66,
+            316,
+            94
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.89,
+          "bbox": [
+            107,
+            221,
+            119,
+            244
+          ]
+        },
+        {
+          "text": "ELECTROVOLT",
+          "confidence": 0.82,
+          "bbox": [
+            130,
+            221,
+            343,
+            244
+          ]
+        },
+        {
+          "text": "GLE",
+          "confidence": 0.9,
+          "bbox": [
+            353,
+            221,
+            410,
+            244
+          ]
+        },
+        {
+          "text": "Gants",
+          "confidence": 0.95,
+          "bbox": [
+            108,
+            252,
+            173,
+            271
+          ]
+        },
+        {
+          "text": "Latex",
+          "confidence": 0.96,
+          "bbox": [
+            183,
+            252,
+            241,
+            271
+          ]
+        },
+        {
+          "text": "isolants",
+          "confidence": 0.96,
+          "bbox": [
+            250,
+            252,
+            333,
+            271
+          ]
+        },
+        {
+          "text": "Voir",
+          "confidence": 0.95,
+          "bbox": [
+            988,
+            302,
+            1007,
+            314
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.84,
+          "bbox": [
+            1021,
+            292,
+            1032,
+            324
+          ]
+        },
+        {
+          "text": "fi",
+          "confidence": 0.86,
+          "bbox": [
+            1041,
+            302,
+            1050,
+            314
+          ]
+        },
+        {
+          "text": "technique",
+          "confidence": 0.93,
+          "bbox": [
+            962,
+            317,
+            1038,
+            333
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.94,
+          "bbox": [
+            1044,
+            321,
+            1062,
+            329
+          ]
+        },
+        {
+          "text": "ligne",
+          "confidence": 0.94,
+          "bbox": [
+            1068,
+            317,
+            1104,
+            333
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.91,
+          "bbox": [
+            785,
+            385,
+            796,
+            404
+          ]
+        },
+        {
+          "text": "Normes",
+          "confidence": 0.95,
+          "bbox": [
+            805,
+            385,
+            898,
+            404
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.74,
+          "bbox": [
+            801,
+            428,
+            813,
+            440
+          ]
+        },
+        {
+          "text": "Catégories",
+          "confidence": 0.96,
+          "bbox": [
+            822,
+            425,
+            923,
+            447
+          ]
+        },
+        {
+          "text": "CE",
+          "confidence": 0.93,
+          "bbox": [
+            930,
+            425,
+            957,
+            442
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            965,
+            431,
+            967,
+            442
+          ]
+        },
+        {
+          "text": "Catégorie",
+          "confidence": 0.96,
+          "bbox": [
+            976,
+            426,
+            1067,
+            447
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.96,
+          "bbox": [
+            1074,
+            427,
+            1085,
+            442
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.9,
+          "bbox": [
+            60,
+            781,
+            71,
+            800
+          ]
+        },
+        {
+          "text": "Utilisation",
+          "confidence": 0.96,
+          "bbox": [
+            79,
+            780,
+            197,
+            800
+          ]
+        },
+        {
+          "text": "Gants",
+          "confidence": 0.96,
+          "bbox": [
+            76,
+            815,
+            129,
+            831
+          ]
+        },
+        {
+          "text": "isolants",
+          "confidence": 0.96,
+          "bbox": [
+            137,
+            815,
+            205,
+            831
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            213,
+            820,
+            234,
+            831
+          ]
+        },
+        {
+          "text": "caoutchouc",
+          "confidence": 0.95,
+          "bbox": [
+            242,
+            815,
+            352,
+            831
+          ]
+        },
+        {
+          "text": "disponibles",
+          "confidence": 0.96,
+          "bbox": [
+            359,
+            815,
+            463,
+            835
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.96,
+          "bbox": [
+            471,
+            815,
+            514,
+            831
+          ]
+        },
+        {
+          "text": "toutes",
+          "confidence": 0.96,
+          "bbox": [
+            522,
+            817,
+            578,
+            831
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.96,
+          "bbox": [
+            586,
+            815,
+            609,
+            831
+          ]
+        },
+        {
+          "text": "classes,",
+          "confidence": 0.96,
+          "bbox": [
+            617,
+            815,
+            687,
+            833
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            695,
+            815,
+            717,
+            831
+          ]
+        },
+        {
+          "text": "nombreuses",
+          "confidence": 0.96,
+          "bbox": [
+            726,
+            815,
+            838,
+            831
+          ]
+        },
+        {
+          "text": "tailles,",
+          "confidence": 0.89,
+          "bbox": [
+            846,
+            815,
+            901,
+            833
+          ]
+        },
+        {
+          "text": "différentes",
+          "confidence": 0.96,
+          "bbox": [
+            910,
+            815,
+            1006,
+            831
+          ]
+        },
+        {
+          "text": "longueurs",
+          "confidence": 0.96,
+          "bbox": [
+            1015,
+            815,
+            1106,
+            836
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            1114,
+            817,
+            1130,
+            831
+          ]
+        },
+        {
+          "text": "couleurs.",
+          "confidence": 0.96,
+          "bbox": [
+            76,
+            838,
+            159,
+            854
+          ]
+        },
+        {
+          "text": "Les",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            861,
+            105,
+            876
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.96,
+          "bbox": [
+            113,
+            865,
+            140,
+            876
+          ]
+        },
+        {
+          "text": "gants",
+          "confidence": 0.96,
+          "bbox": [
+            148,
+            862,
+            198,
+            881
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            206,
+            865,
+            227,
+            876
+          ]
+        },
+        {
+          "text": "cuir",
+          "confidence": 0.96,
+          "bbox": [
+            235,
+            860,
+            269,
+            876
+          ]
+        },
+        {
+          "text": "sont",
+          "confidence": 0.96,
+          "bbox": [
+            276,
+            862,
+            315,
+            876
+          ]
+        },
+        {
+          "text": "recommandés",
+          "confidence": 0.96,
+          "bbox": [
+            323,
+            860,
+            455,
+            876
+          ]
+        },
+        {
+          "text": "afin",
+          "confidence": 0.96,
+          "bbox": [
+            463,
+            860,
+            495,
+            876
+          ]
+        },
+        {
+          "text": "d'assurer",
+          "confidence": 0.96,
+          "bbox": [
+            503,
+            860,
+            586,
+            876
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            594,
+            865,
+            627,
+            876
+          ]
+        },
+        {
+          "text": "protection",
+          "confidence": 0.96,
+          "bbox": [
+            635,
+            861,
+            728,
+            881
+          ]
+        },
+        {
+          "text": "mécanique",
+          "confidence": 0.96,
+          "bbox": [
+            737,
+            861,
+            839,
+            881
+          ]
+        },
+        {
+          "text": "(les",
+          "confidence": 0.94,
+          "bbox": [
+            847,
+            860,
+            876,
+            879
+          ]
+        },
+        {
+          "text": "réglementations",
+          "confidence": 0.96,
+          "bbox": [
+            884,
+            860,
+            1032,
+            881
+          ]
+        },
+        {
+          "text": "locales,",
+          "confidence": 0.92,
+          "bbox": [
+            1041,
+            860,
+            1108,
+            878
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.96,
+          "bbox": [
+            76,
+            882,
+            99,
+            898
+          ]
+        },
+        {
+          "text": "pratiques",
+          "confidence": 0.96,
+          "bbox": [
+            108,
+            882,
+            192,
+            903
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            200,
+            882,
+            222,
+            898
+          ]
+        },
+        {
+          "text": "travail",
+          "confidence": 0.96,
+          "bbox": [
+            229,
+            882,
+            282,
+            898
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            290,
+            884,
+            307,
+            898
+          ]
+        },
+        {
+          "text": "l'analyse",
+          "confidence": 0.96,
+          "bbox": [
+            315,
+            882,
+            391,
+            903
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.95,
+          "bbox": [
+            398,
+            882,
+            430,
+            898
+          ]
+        },
+        {
+          "text": "risques",
+          "confidence": 0.96,
+          "bbox": [
+            438,
+            883,
+            502,
+            903
+          ]
+        },
+        {
+          "text": "s'appliquent).",
+          "confidence": 0.95,
+          "bbox": [
+            510,
+            882,
+            631,
+            903
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.96,
+          "bbox": [
+            77,
+            906,
+            96,
+            921
+          ]
+        },
+        {
+          "text": "caoutchouc",
+          "confidence": 0.96,
+          "bbox": [
+            104,
+            905,
+            213,
+            921
+          ]
+        },
+        {
+          "text": "naturel",
+          "confidence": 0.96,
+          "bbox": [
+            221,
+            905,
+            283,
+            921
+          ]
+        },
+        {
+          "text": "offre",
+          "confidence": 0.96,
+          "bbox": [
+            291,
+            905,
+            333,
+            921
+          ]
+        },
+        {
+          "text": "une",
+          "confidence": 0.96,
+          "bbox": [
+            341,
+            910,
+            374,
+            921
+          ]
+        },
+        {
+          "text": "protection",
+          "confidence": 0.96,
+          "bbox": [
+            383,
+            906,
+            476,
+            926
+          ]
+        },
+        {
+          "text": "diélectrique",
+          "confidence": 0.96,
+          "bbox": [
+            484,
+            905,
+            592,
+            926
+          ]
+        },
+        {
+          "text": "élevée.",
+          "confidence": 0.96,
+          "bbox": [
+            600,
+            905,
+            662,
+            921
+          ]
+        },
+        {
+          "text": "La",
+          "confidence": 0.96,
+          "bbox": [
+            672,
+            906,
+            691,
+            921
+          ]
+        },
+        {
+          "text": "forme",
+          "confidence": 0.96,
+          "bbox": [
+            698,
+            905,
+            752,
+            921
+          ]
+        },
+        {
+          "text": "ergonomique",
+          "confidence": 0.96,
+          "bbox": [
+            760,
+            906,
+            885,
+            926
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.95,
+          "bbox": [
+            892,
+            907,
+            908,
+            921
+          ]
+        },
+        {
+          "text": "l'intérieur",
+          "confidence": 0.95,
+          "bbox": [
+            917,
+            905,
+            1000,
+            921
+          ]
+        },
+        {
+          "text": "légèrement",
+          "confidence": 0.96,
+          "bbox": [
+            1008,
+            905,
+            1112,
+            926
+          ]
+        },
+        {
+          "text": "poudré",
+          "confidence": 0.89,
+          "bbox": [
+            76,
+            927,
+            141,
+            947
+          ]
+        },
+        {
+          "text": "rendent",
+          "confidence": 0.94,
+          "bbox": [
+            150,
+            927,
+            221,
+            943
+          ]
+        },
+        {
+          "text": "les",
+          "confidence": 0.95,
+          "bbox": [
+            229,
+            927,
+            251,
+            943
+          ]
+        },
+        {
+          "text": "gants",
+          "confidence": 0.93,
+          "bbox": [
+            259,
+            929,
+            309,
+            948
+          ]
+        },
+        {
+          "text": "Electrovolt",
+          "confidence": 0.89,
+          "bbox": [
+            318,
+            927,
+            414,
+            943
+          ]
+        },
+        {
+          "text": "faciles",
+          "confidence": 0.96,
+          "bbox": [
+            421,
+            927,
+            478,
+            943
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.93,
+          "bbox": [
+            486,
+            929,
+            495,
+            943
+          ]
+        },
+        {
+          "text": "enfiler",
+          "confidence": 0.91,
+          "bbox": [
+            503,
+            927,
+            560,
+            943
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            567,
+            929,
+            583,
+            943
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            591,
+            929,
+            600,
+            943
+          ]
+        },
+        {
+          "text": "retirer.",
+          "confidence": 0.95,
+          "bbox": [
+            609,
+            928,
+            665,
+            943
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.92,
+          "bbox": [
+            60,
+            980,
+            71,
+            999
+          ]
+        },
+        {
+          "text": "Domaines",
+          "confidence": 0.96,
+          "bbox": [
+            80,
+            980,
+            199,
+            999
+          ]
+        },
+        {
+          "text": "d'activité",
+          "confidence": 0.96,
+          "bbox": [
+            207,
+            979,
+            316,
+            999
+          ]
+        },
+        {
+          "text": "(«à",
+          "confidence": 0.39,
+          "bbox": [
+            70,
+            1011,
+            108,
+            1053
+          ]
+        },
+        {
+          "text": "Distribution",
+          "confidence": 0.96,
+          "bbox": [
+            125,
+            1023,
+            228,
+            1039
+          ]
+        },
+        {
+          "text": "d'électricité",
+          "confidence": 0.96,
+          "bbox": [
+            237,
+            1023,
+            342,
+            1039
+          ]
+        },
+        {
+          "text": "Sécurité",
+          "confidence": 0.95,
+          "bbox": [
+            421,
+            1023,
+            496,
+            1039
+          ]
+        },
+        {
+          "text": "civile",
+          "confidence": 0.95,
+          "bbox": [
+            503,
+            1023,
+            549,
+            1039
+          ]
+        },
+        {
+          "text": "Transport",
+          "confidence": 0.96,
+          "bbox": [
+            672,
+            1019,
+            761,
+            1048
+          ]
+        },
+        {
+          "text": "Industrie",
+          "confidence": 0.94,
+          "bbox": [
+            125,
+            1055,
+            203,
+            1085
+          ]
+        },
+        {
+          "text": "Sous-station",
+          "confidence": 0.91,
+          "bbox": [
+            421,
+            1059,
+            535,
+            1075
+          ]
+        },
+        {
+          "text": "@",
+          "confidence": 0.76,
+          "bbox": [
+            74,
+            1087,
+            108,
+            1121
+          ]
+        },
+        {
+          "text": "Production",
+          "confidence": 0.96,
+          "bbox": [
+            125,
+            1091,
+            225,
+            1120
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.91,
+          "bbox": [
+            372,
+            1087,
+            406,
+            1121
+          ]
+        },
+        {
+          "text": "Traction",
+          "confidence": 0.96,
+          "bbox": [
+            420,
+            1096,
+            494,
+            1111
+          ]
+        },
+        {
+          "text": "électrique",
+          "confidence": 0.96,
+          "bbox": [
+            502,
+            1095,
+            593,
+            1116
+          ]
+        },
+        {
+          "text": "pentaesp.com",
+          "confidence": 0.89,
+          "bbox": [
+            62,
+            1637,
+            215,
+            1657
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.78,
+          "bbox": [
+            877,
+            1602,
+            933,
+            1656
+          ]
+        },
+        {
+          "text": "ELECTRICAL",
+          "confidence": 0.55,
+          "bbox": [
+            950,
+            1644,
+            1018,
+            1653
+          ]
+        },
+        {
+          "text": "SAFETY",
+          "confidence": 0.9,
+          "bbox": [
+            1022,
+            1644,
+            1065,
+            1653
+          ]
+        },
+        {
+          "text": "PRODUCTS",
+          "confidence": 0.94,
+          "bbox": [
+            1069,
+            1644,
+            1130,
+            1653
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "image_width": 1192,
+      "image_height": 1686,
+      "word_count": 123,
+      "words": [
+        {
+          "text": "Fiche",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            66,
+            176,
+            87
+          ]
+        },
+        {
+          "text": "technique",
+          "confidence": 0.96,
+          "bbox": [
+            185,
+            66,
+            316,
+            94
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.92,
+          "bbox": [
+            60,
+            152,
+            71,
+            171
+          ]
+        },
+        {
+          "text": "Caractéristiques",
+          "confidence": 0.95,
+          "bbox": [
+            79,
+            151,
+            276,
+            177
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.69,
+          "bbox": [
+            76,
+            196,
+            88,
+            208
+          ]
+        },
+        {
+          "text": "Couleur",
+          "confidence": 0.96,
+          "bbox": [
+            98,
+            193,
+            173,
+            210
+          ]
+        },
+        {
+          "text": "principale",
+          "confidence": 0.93,
+          "bbox": [
+            180,
+            193,
+            282,
+            214
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            274,
+            189,
+            285,
+            219
+          ]
+        },
+        {
+          "text": "Beige",
+          "confidence": 0.96,
+          "bbox": [
+            291,
+            195,
+            341,
+            215
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.44,
+          "bbox": [
+            612,
+            196,
+            624,
+            208
+          ]
+        },
+        {
+          "text": "Tension",
+          "confidence": 0.96,
+          "bbox": [
+            634,
+            193,
+            704,
+            210
+          ]
+        },
+        {
+          "text": "maximale",
+          "confidence": 0.96,
+          "bbox": [
+            713,
+            193,
+            800,
+            210
+          ]
+        },
+        {
+          "text": "d'utilisation",
+          "confidence": 0.93,
+          "bbox": [
+            807,
+            193,
+            910,
+            210
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            918,
+            198,
+            922,
+            210
+          ]
+        },
+        {
+          "text": "Alternatif",
+          "confidence": 0.93,
+          "bbox": [
+            929,
+            194,
+            1012,
+            210
+          ]
+        },
+        {
+          "text": "(V",
+          "confidence": 0.9,
+          "bbox": [
+            1020,
+            194,
+            1038,
+            213
+          ]
+        },
+        {
+          "text": "AC)",
+          "confidence": 0.96,
+          "bbox": [
+            1044,
+            194,
+            1077,
+            213
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.38,
+          "bbox": [
+            76,
+            226,
+            88,
+            238
+          ]
+        },
+        {
+          "text": "Tailles",
+          "confidence": 0.96,
+          "bbox": [
+            98,
+            223,
+            153,
+            240
+          ]
+        },
+        {
+          "text": "disponibles",
+          "confidence": 0.93,
+          "bbox": [
+            160,
+            223,
+            265,
+            244
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            273,
+            228,
+            277,
+            240
+          ]
+        },
+        {
+          "text": "6,",
+          "confidence": 0.96,
+          "bbox": [
+            284,
+            225,
+            300,
+            242
+          ]
+        },
+        {
+          "text": "7,",
+          "confidence": 0.96,
+          "bbox": [
+            307,
+            225,
+            320,
+            242
+          ]
+        },
+        {
+          "text": "8,",
+          "confidence": 0.96,
+          "bbox": [
+            329,
+            224,
+            345,
+            242
+          ]
+        },
+        {
+          "text": "9,",
+          "confidence": 0.96,
+          "bbox": [
+            353,
+            224,
+            368,
+            242
+          ]
+        },
+        {
+          "text": "10,",
+          "confidence": 0.92,
+          "bbox": [
+            377,
+            224,
+            401,
+            242
+          ]
+        },
+        {
+          "text": "11,",
+          "confidence": 0.88,
+          "bbox": [
+            409,
+            225,
+            427,
+            242
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.96,
+          "bbox": [
+            435,
+            224,
+            453,
+            240
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.63,
+          "bbox": [
+            612,
+            226,
+            624,
+            238
+          ]
+        },
+        {
+          "text": "Pourcentage",
+          "confidence": 0.95,
+          "bbox": [
+            635,
+            223,
+            753,
+            249
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            760,
+            223,
+            783,
+            240
+          ]
+        },
+        {
+          "text": "poids",
+          "confidence": 0.96,
+          "bbox": [
+            791,
+            223,
+            841,
+            244
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            848,
+            223,
+            871,
+            240
+          ]
+        },
+        {
+          "text": "produit",
+          "confidence": 0.9,
+          "bbox": [
+            879,
+            223,
+            945,
+            244
+          ]
+        },
+        {
+          "text": "fabriqué",
+          "confidence": 0.95,
+          "bbox": [
+            951,
+            223,
+            1028,
+            244
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.95,
+          "bbox": [
+            1035,
+            228,
+            1057,
+            240
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.26,
+          "bbox": [
+            76,
+            256,
+            88,
+            268
+          ]
+        },
+        {
+          "text": "Matériau",
+          "confidence": 0.95,
+          "bbox": [
+            99,
+            253,
+            179,
+            270
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.91,
+          "bbox": [
+            186,
+            253,
+            209,
+            270
+          ]
+        },
+        {
+          "text": "l'enduction",
+          "confidence": 0.84,
+          "bbox": [
+            217,
+            253,
+            317,
+            270
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            325,
+            258,
+            329,
+            270
+          ]
+        },
+        {
+          "text": "Latex",
+          "confidence": 0.96,
+          "bbox": [
+            337,
+            255,
+            384,
+            270
+          ]
+        },
+        {
+          "text": "matière",
+          "confidence": 0.92,
+          "bbox": [
+            612,
+            247,
+            681,
+            262
+          ]
+        },
+        {
+          "text": "recyclée",
+          "confidence": 0.89,
+          "bbox": [
+            688,
+            245,
+            765,
+            267
+          ]
+        },
+        {
+          "text": "(%)",
+          "confidence": 0.89,
+          "bbox": [
+            772,
+            245,
+            801,
+            265
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            809,
+            251,
+            812,
+            262
+          ]
+        },
+        {
+          "text": "O",
+          "confidence": 0.89,
+          "bbox": [
+            820,
+            246,
+            833,
+            262
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.66,
+          "bbox": [
+            76,
+            286,
+            88,
+            298
+          ]
+        },
+        {
+          "text": "Finition",
+          "confidence": 0.96,
+          "bbox": [
+            99,
+            283,
+            165,
+            300
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            172,
+            283,
+            196,
+            300
+          ]
+        },
+        {
+          "text": "l'enduction",
+          "confidence": 0.85,
+          "bbox": [
+            203,
+            283,
+            303,
+            300
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            312,
+            288,
+            315,
+            300
+          ]
+        },
+        {
+          "text": "Lisse",
+          "confidence": 0.89,
+          "bbox": [
+            324,
+            284,
+            367,
+            299
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.0,
+          "bbox": [
+            612,
+            279,
+            624,
+            291
+          ]
+        },
+        {
+          "text": "Pourcentage",
+          "confidence": 0.96,
+          "bbox": [
+            635,
+            276,
+            753,
+            297
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.97,
+          "bbox": [
+            760,
+            275,
+            783,
+            292
+          ]
+        },
+        {
+          "text": "matériaux",
+          "confidence": 0.96,
+          "bbox": [
+            791,
+            276,
+            882,
+            292
+          ]
+        },
+        {
+          "text": "recyclés",
+          "confidence": 0.96,
+          "bbox": [
+            888,
+            275,
+            963,
+            297
+          ]
+        },
+        {
+          "text": "dans",
+          "confidence": 0.96,
+          "bbox": [
+            970,
+            275,
+            1014,
+            292
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 0.19,
+          "bbox": [
+            617,
+            298,
+            619,
+            304
+          ]
+        },
+        {
+          "text": "de)",
+          "confidence": 0.47,
+          "bbox": [
+            729,
+            298,
+            738,
+            306
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.42,
+          "bbox": [
+            761,
+            303,
+            765,
+            306
+          ]
+        },
+        {
+          "text": "e",
+          "confidence": 0.58,
+          "bbox": [
+            76,
+            316,
+            88,
+            328
+          ]
+        },
+        {
+          "text": "Matériau",
+          "confidence": 0.96,
+          "bbox": [
+            99,
+            313,
+            179,
+            330
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            186,
+            315,
+            203,
+            330
+          ]
+        },
+        {
+          "text": "finition",
+          "confidence": 0.96,
+          "bbox": [
+            209,
+            313,
+            272,
+            330
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            279,
+            313,
+            302,
+            330
+          ]
+        },
+        {
+          "text": "l'enduction",
+          "confidence": 0.9,
+          "bbox": [
+            310,
+            313,
+            410,
+            330
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            418,
+            318,
+            422,
+            330
+          ]
+        },
+        {
+          "text": "Latex",
+          "confidence": 0.96,
+          "bbox": [
+            431,
+            314,
+            477,
+            329
+          ]
+        },
+        {
+          "text": "lisse",
+          "confidence": 0.96,
+          "bbox": [
+            485,
+            313,
+            522,
+            329
+          ]
+        },
+        {
+          "text": "l'emballage",
+          "confidence": 0.9,
+          "bbox": [
+            613,
+            298,
+            717,
+            319
+          ]
+        },
+        {
+          "text": "(%)",
+          "confidence": 0.39,
+          "bbox": [
+            724,
+            297,
+            753,
+            318
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.89,
+          "bbox": [
+            761,
+            311,
+            765,
+            315
+          ]
+        },
+        {
+          "text": "30",
+          "confidence": 0.75,
+          "bbox": [
+            772,
+            298,
+            797,
+            314
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.53,
+          "bbox": [
+            76,
+            346,
+            88,
+            358
+          ]
+        },
+        {
+          "text": "Niveau",
+          "confidence": 0.93,
+          "bbox": [
+            99,
+            343,
+            161,
+            360
+          ]
+        },
+        {
+          "text": "d'enduction",
+          "confidence": 0.92,
+          "bbox": [
+            169,
+            343,
+            277,
+            360
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            286,
+            348,
+            289,
+            360
+          ]
+        },
+        {
+          "text": "Enduction",
+          "confidence": 0.9,
+          "bbox": [
+            298,
+            343,
+            390,
+            359
+          ]
+        },
+        {
+          "text": "complète",
+          "confidence": 0.96,
+          "bbox": [
+            398,
+            343,
+            484,
+            363
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.64,
+          "bbox": [
+            76,
+            376,
+            88,
+            388
+          ]
+        },
+        {
+          "text": "Nombre",
+          "confidence": 0.93,
+          "bbox": [
+            99,
+            373,
+            174,
+            390
+          ]
+        },
+        {
+          "text": "d'enduction",
+          "confidence": 0.9,
+          "bbox": [
+            181,
+            373,
+            290,
+            390
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            298,
+            378,
+            301,
+            390
+          ]
+        },
+        {
+          "text": "Simple",
+          "confidence": 0.93,
+          "bbox": [
+            309,
+            373,
+            371,
+            394
+          ]
+        },
+        {
+          "text": "enduction",
+          "confidence": 0.9,
+          "bbox": [
+            379,
+            373,
+            471,
+            389
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.3,
+          "bbox": [
+            76,
+            406,
+            88,
+            418
+          ]
+        },
+        {
+          "text": "Caractéristique",
+          "confidence": 0.95,
+          "bbox": [
+            98,
+            403,
+            239,
+            424
+          ]
+        },
+        {
+          "text": "manchette",
+          "confidence": 0.96,
+          "bbox": [
+            247,
+            403,
+            346,
+            420
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            352,
+            403,
+            385,
+            420
+          ]
+        },
+        {
+          "text": "gants",
+          "confidence": 0.57,
+          "bbox": [
+            392,
+            405,
+            442,
+            424
+          ]
+        },
+        {
+          "text": "isolants",
+          "confidence": 0.93,
+          "bbox": [
+            450,
+            403,
+            518,
+            420
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.93,
+          "bbox": [
+            526,
+            408,
+            530,
+            420
+          ]
+        },
+        {
+          "text": "Non",
+          "confidence": 0.97,
+          "bbox": [
+            538,
+            404,
+            575,
+            419
+          ]
+        },
+        {
+          "text": "contourné",
+          "confidence": 0.91,
+          "bbox": [
+            76,
+            428,
+            171,
+            442
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.91,
+          "bbox": [
+            75,
+            478,
+            86,
+            497
+          ]
+        },
+        {
+          "text": "Accessoires",
+          "confidence": 0.96,
+          "bbox": [
+            93,
+            478,
+            236,
+            497
+          ]
+        },
+        {
+          "text": "Vérificateur",
+          "confidence": 0.88,
+          "bbox": [
+            297,
+            561,
+            385,
+            574
+          ]
+        },
+        {
+          "text": "pneumatique",
+          "confidence": 0.92,
+          "bbox": [
+            391,
+            563,
+            493,
+            578
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            499,
+            561,
+            518,
+            574
+          ]
+        },
+        {
+          "text": "gants",
+          "confidence": 0.87,
+          "bbox": [
+            524,
+            563,
+            566,
+            578
+          ]
+        },
+        {
+          "text": "isolants",
+          "confidence": 0.95,
+          "bbox": [
+            573,
+            561,
+            629,
+            574
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.07,
+          "bbox": [
+            78,
+            598,
+            102,
+            614
+          ]
+        },
+        {
+          "text": "|RaXx-sa",
+          "confidence": 0.47,
+          "bbox": [
+            118,
+            600,
+            172,
+            611
+          ]
+        },
+        {
+          "text": "Surgant",
+          "confidence": 0.92,
+          "bbox": [
+            297,
+            599,
+            357,
+            616
+          ]
+        },
+        {
+          "text": "cuir",
+          "confidence": 0.96,
+          "bbox": [
+            364,
+            599,
+            392,
+            612
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.96,
+          "bbox": [
+            399,
+            603,
+            433,
+            616
+          ]
+        },
+        {
+          "text": "protection",
+          "confidence": 0.96,
+          "bbox": [
+            440,
+            601,
+            518,
+            616
+          ]
+        },
+        {
+          "text": "mécanique",
+          "confidence": 0.93,
+          "bbox": [
+            525,
+            599,
+            610,
+            616
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            616,
+            599,
+            643,
+            612
+          ]
+        },
+        {
+          "text": "gants",
+          "confidence": 0.87,
+          "bbox": [
+            649,
+            601,
+            691,
+            616
+          ]
+        },
+        {
+          "text": "latex",
+          "confidence": 0.96,
+          "bbox": [
+            698,
+            599,
+            732,
+            612
+          ]
+        },
+        {
+          "text": "pa",
+          "confidence": 0.86,
+          "bbox": [
+            74,
+            626,
+            109,
+            663
+          ]
+        },
+        {
+          "text": "RGX-SAC",
+          "confidence": 0.92,
+          "bbox": [
+            118,
+            639,
+            181,
+            650
+          ]
+        },
+        {
+          "text": "Sacoche",
+          "confidence": 0.96,
+          "bbox": [
+            297,
+            638,
+            364,
+            651
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            370,
+            638,
+            389,
+            651
+          ]
+        },
+        {
+          "text": "transport",
+          "confidence": 0.95,
+          "bbox": [
+            395,
+            640,
+            465,
+            655
+          ]
+        },
+        {
+          "text": "pentaesp.com",
+          "confidence": 0.89,
+          "bbox": [
+            62,
+            1637,
+            215,
+            1657
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.78,
+          "bbox": [
+            877,
+            1602,
+            933,
+            1656
+          ]
+        },
+        {
+          "text": "ELECTRICAL",
+          "confidence": 0.55,
+          "bbox": [
+            950,
+            1645,
+            1018,
+            1653
+          ]
+        },
+        {
+          "text": "SAFETY",
+          "confidence": 0.9,
+          "bbox": [
+            1022,
+            1645,
+            1065,
+            1653
+          ]
+        },
+        {
+          "text": "PRODUCTS",
+          "confidence": 0.94,
+          "bbox": [
+            1069,
+            1645,
+            1130,
+            1653
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "image_width": 1192,
+      "image_height": 1686,
+      "word_count": 136,
+      "words": [
+        {
+          "text": "Fiche",
+          "confidence": 0.96,
+          "bbox": [
+            107,
+            66,
+            176,
+            87
+          ]
+        },
+        {
+          "text": "technique",
+          "confidence": 0.96,
+          "bbox": [
+            185,
+            66,
+            316,
+            94
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.92,
+          "bbox": [
+            60,
+            182,
+            71,
+            201
+          ]
+        },
+        {
+          "text": "Légende",
+          "confidence": 0.95,
+          "bbox": [
+            80,
+            181,
+            183,
+            207
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.95,
+          "bbox": [
+            191,
+            181,
+            221,
+            201
+          ]
+        },
+        {
+          "text": "tableau",
+          "confidence": 0.96,
+          "bbox": [
+            230,
+            181,
+            318,
+            201
+          ]
+        },
+        {
+          "text": "Compléter",
+          "confidence": 0.95,
+          "bbox": [
+            76,
+            216,
+            174,
+            237
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            182,
+            216,
+            195,
+            232
+          ]
+        },
+        {
+          "text": "référence",
+          "confidence": 0.96,
+          "bbox": [
+            204,
+            216,
+            291,
+            232
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.95,
+          "bbox": [
+            299,
+            221,
+            340,
+            232
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.95,
+          "bbox": [
+            348,
+            216,
+            361,
+            232
+          ]
+        },
+        {
+          "text": "taille",
+          "confidence": 0.95,
+          "bbox": [
+            369,
+            216,
+            411,
+            232
+          ]
+        },
+        {
+          "text": "souhaitée",
+          "confidence": 0.92,
+          "bbox": [
+            418,
+            216,
+            507,
+            232
+          ]
+        },
+        {
+          "text": "Tension",
+          "confidence": 0.96,
+          "bbox": [
+            170,
+            289,
+            227,
+            301
+          ]
+        },
+        {
+          "text": "d'utilisation",
+          "confidence": 0.96,
+          "bbox": [
+            233,
+            289,
+            318,
+            301
+          ]
+        },
+        {
+          "text": "max",
+          "confidence": 0.96,
+          "bbox": [
+            324,
+            293,
+            354,
+            301
+          ]
+        },
+        {
+          "text": "EN",
+          "confidence": 0.91,
+          "bbox": [
+            746,
+            289,
+            766,
+            301
+          ]
+        },
+        {
+          "text": "60903:2004",
+          "confidence": 0.91,
+          "bbox": [
+            772,
+            289,
+            871,
+            301
+          ]
+        },
+        {
+          "text": "Protection",
+          "confidence": 0.96,
+          "bbox": [
+            878,
+            289,
+            954,
+            301
+          ]
+        },
+        {
+          "text": "Référence",
+          "confidence": 0.89,
+          "bbox": [
+            70,
+            298,
+            145,
+            310
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.89,
+          "bbox": [
+            153,
+            287,
+            164,
+            326
+          ]
+        },
+        {
+          "text": "()",
+          "confidence": 0.29,
+          "bbox": [
+            171,
+            306,
+            191,
+            322
+          ]
+        },
+        {
+          "text": "Tailles",
+          "confidence": 0.88,
+          "bbox": [
+            395,
+            298,
+            440,
+            310
+          ]
+        },
+        {
+          "text": "disponibles",
+          "confidence": 0.88,
+          "bbox": [
+            446,
+            298,
+            530,
+            314
+          ]
+        },
+        {
+          "text": "Longueur",
+          "confidence": 0.94,
+          "bbox": [
+            657,
+            298,
+            727,
+            314
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.94,
+          "bbox": [
+            733,
+            287,
+            740,
+            327
+          ]
+        },
+        {
+          "text": "El",
+          "confidence": 0.17,
+          "bbox": [
+            749,
+            307,
+            757,
+            319
+          ]
+        },
+        {
+          "text": "rique",
+          "confidence": 0.21,
+          "bbox": [
+            759,
+            307,
+            820,
+            323
+          ]
+        },
+        {
+          "text": "Catégorie",
+          "confidence": 0.96,
+          "bbox": [
+            1049,
+            298,
+            1122,
+            314
+          ]
+        },
+        {
+          "text": "GLESé-",
+          "confidence": 0.46,
+          "bbox": [
+            69,
+            361,
+            128,
+            392
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.54,
+          "bbox": [
+            148,
+            356,
+            166,
+            396
+          ]
+        },
+        {
+          "text": "5oov",
+          "confidence": 0.57,
+          "bbox": [
+            171,
+            369,
+            219,
+            383
+          ]
+        },
+        {
+          "text": "Ac",
+          "confidence": 0.83,
+          "bbox": [
+            225,
+            369,
+            250,
+            383
+          ]
+        },
+        {
+          "text": "678.910",
+          "confidence": 0.27,
+          "bbox": [
+            396,
+            360,
+            522,
+            392
+          ]
+        },
+        {
+          "text": "lité",
+          "confidence": 0.41,
+          "bbox": [
+            563,
+            369,
+            596,
+            383
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            603,
+            373,
+            633,
+            383
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.76,
+          "bbox": [
+            642,
+            356,
+            652,
+            396
+          ]
+        },
+        {
+          "text": "360",
+          "confidence": 0.76,
+          "bbox": [
+            656,
+            369,
+            690,
+            383
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.94,
+          "bbox": [
+            698,
+            374,
+            727,
+            383
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            732,
+            356,
+            743,
+            396
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.86,
+          "bbox": [
+            746,
+            369,
+            799,
+            383
+          ]
+        },
+        {
+          "text": "00",
+          "confidence": 0.91,
+          "bbox": [
+            806,
+            369,
+            830,
+            383
+          ]
+        },
+        {
+          "text": "A,Z,C",
+          "confidence": 0.65,
+          "bbox": [
+            1049,
+            369,
+            1106,
+            385
+          ]
+        },
+        {
+          "text": "GLE36-0",
+          "confidence": 0.39,
+          "bbox": [
+            69,
+            445,
+            141,
+            458
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.79,
+          "bbox": [
+            154,
+            431,
+            167,
+            468
+          ]
+        },
+        {
+          "text": "1000V",
+          "confidence": 0.79,
+          "bbox": [
+            171,
+            444,
+            227,
+            458
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.96,
+          "bbox": [
+            234,
+            444,
+            258,
+            458
+          ]
+        },
+        {
+          "text": "&78",
+          "confidence": 0.0,
+          "bbox": [
+            396,
+            435,
+            449,
+            467
+          ]
+        },
+        {
+          "text": "210",
+          "confidence": 0.0,
+          "bbox": [
+            457,
+            435,
+            522,
+            450
+          ]
+        },
+        {
+          "text": "limm",
+          "confidence": 0.0,
+          "bbox": [
+            563,
+            444,
+            627,
+            458
+          ]
+        },
+        {
+          "text": "|360",
+          "confidence": 0.88,
+          "bbox": [
+            656,
+            444,
+            690,
+            458
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.81,
+          "bbox": [
+            698,
+            449,
+            727,
+            458
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.81,
+          "bbox": [
+            732,
+            431,
+            739,
+            471
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.86,
+          "bbox": [
+            746,
+            444,
+            799,
+            458
+          ]
+        },
+        {
+          "text": "O",
+          "confidence": 0.69,
+          "bbox": [
+            806,
+            444,
+            817,
+            458
+          ]
+        },
+        {
+          "text": "A,Z,C",
+          "confidence": 0.65,
+          "bbox": [
+            1049,
+            444,
+            1106,
+            460
+          ]
+        },
+        {
+          "text": "GLES61",
+          "confidence": 0.56,
+          "bbox": [
+            69,
+            520,
+            133,
+            533
+          ]
+        },
+        {
+          "text": "|7500V",
+          "confidence": 0.64,
+          "bbox": [
+            170,
+            519,
+            234,
+            533
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.92,
+          "bbox": [
+            240,
+            519,
+            265,
+            533
+          ]
+        },
+        {
+          "text": "7,8.9,10.1,12",
+          "confidence": 0.42,
+          "bbox": [
+            395,
+            519,
+            524,
+            535
+          ]
+        },
+        {
+          "text": "|<21mm",
+          "confidence": 0.81,
+          "bbox": [
+            563,
+            519,
+            632,
+            533
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.73,
+          "bbox": [
+            641,
+            505,
+            651,
+            543
+          ]
+        },
+        {
+          "text": "360",
+          "confidence": 0.73,
+          "bbox": [
+            656,
+            519,
+            690,
+            533
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.96,
+          "bbox": [
+            698,
+            524,
+            727,
+            533
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            732,
+            505,
+            740,
+            543
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.9,
+          "bbox": [
+            746,
+            519,
+            810,
+            533
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9,
+          "bbox": [
+            802,
+            505,
+            813,
+            543
+          ]
+        },
+        {
+          "text": "RC",
+          "confidence": 0.73,
+          "bbox": [
+            1050,
+            519,
+            1084,
+            535
+          ]
+        },
+        {
+          "text": "GLES6-2",
+          "confidence": 0.37,
+          "bbox": [
+            69,
+            595,
+            138,
+            608
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.21,
+          "bbox": [
+            153,
+            580,
+            167,
+            618
+          ]
+        },
+        {
+          "text": "17",
+          "confidence": 0.21,
+          "bbox": [
+            171,
+            594,
+            186,
+            608
+          ]
+        },
+        {
+          "text": "OOOV",
+          "confidence": 0.48,
+          "bbox": [
+            193,
+            594,
+            243,
+            608
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.96,
+          "bbox": [
+            249,
+            594,
+            274,
+            608
+          ]
+        },
+        {
+          "text": "7,8,9,10,",
+          "confidence": 0.37,
+          "bbox": [
+            395,
+            594,
+            478,
+            610
+          ]
+        },
+        {
+          "text": "1,12",
+          "confidence": 0.37,
+          "bbox": [
+            486,
+            594,
+            524,
+            610
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.68,
+          "bbox": [
+            543,
+            580,
+            559,
+            618
+          ]
+        },
+        {
+          "text": "<2.9",
+          "confidence": 0.76,
+          "bbox": [
+            563,
+            594,
+            600,
+            608
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.95,
+          "bbox": [
+            608,
+            599,
+            637,
+            608
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            644,
+            580,
+            651,
+            618
+          ]
+        },
+        {
+          "text": "360",
+          "confidence": 0.95,
+          "bbox": [
+            656,
+            594,
+            690,
+            608
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.96,
+          "bbox": [
+            698,
+            599,
+            727,
+            608
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            732,
+            580,
+            740,
+            618
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.88,
+          "bbox": [
+            746,
+            594,
+            799,
+            608
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 0.91,
+          "bbox": [
+            806,
+            594,
+            815,
+            608
+          ]
+        },
+        {
+          "text": "RC",
+          "confidence": 0.73,
+          "bbox": [
+            1050,
+            594,
+            1084,
+            610
+          ]
+        },
+        {
+          "text": "GLES6-3",
+          "confidence": 0.6,
+          "bbox": [
+            69,
+            670,
+            139,
+            683
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.92,
+          "bbox": [
+            153,
+            655,
+            167,
+            693
+          ]
+        },
+        {
+          "text": "26",
+          "confidence": 0.87,
+          "bbox": [
+            171,
+            669,
+            191,
+            683
+          ]
+        },
+        {
+          "text": "500V",
+          "confidence": 0.87,
+          "bbox": [
+            199,
+            669,
+            247,
+            683
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.94,
+          "bbox": [
+            253,
+            669,
+            277,
+            683
+          ]
+        },
+        {
+          "text": "7,8.9,10,1,12",
+          "confidence": 0.27,
+          "bbox": [
+            395,
+            669,
+            524,
+            685
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.66,
+          "bbox": [
+            543,
+            655,
+            559,
+            693
+          ]
+        },
+        {
+          "text": "<3.5",
+          "confidence": 0.56,
+          "bbox": [
+            563,
+            669,
+            600,
+            683
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.93,
+          "bbox": [
+            607,
+            674,
+            637,
+            683
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            644,
+            655,
+            651,
+            693
+          ]
+        },
+        {
+          "text": "360",
+          "confidence": 0.95,
+          "bbox": [
+            656,
+            669,
+            690,
+            683
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.96,
+          "bbox": [
+            698,
+            674,
+            727,
+            683
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.96,
+          "bbox": [
+            732,
+            655,
+            740,
+            693
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.87,
+          "bbox": [
+            746,
+            669,
+            799,
+            683
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.93,
+          "bbox": [
+            806,
+            669,
+            815,
+            683
+          ]
+        },
+        {
+          "text": "RC",
+          "confidence": 0.73,
+          "bbox": [
+            1050,
+            669,
+            1084,
+            685
+          ]
+        },
+        {
+          "text": "GLE4T-0",
+          "confidence": 0.0,
+          "bbox": [
+            69,
+            745,
+            137,
+            758
+          ]
+        },
+        {
+          "text": "|1000V",
+          "confidence": 0.74,
+          "bbox": [
+            171,
+            744,
+            233,
+            758
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.96,
+          "bbox": [
+            239,
+            744,
+            263,
+            758
+          ]
+        },
+        {
+          "text": "BB",
+          "confidence": 0.0,
+          "bbox": [
+            396,
+            735,
+            449,
+            767
+          ]
+        },
+        {
+          "text": "910",
+          "confidence": 0.04,
+          "bbox": [
+            457,
+            735,
+            522,
+            750
+          ]
+        },
+        {
+          "text": "lité",
+          "confidence": 0.41,
+          "bbox": [
+            563,
+            744,
+            596,
+            758
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.94,
+          "bbox": [
+            603,
+            748,
+            633,
+            758
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.19,
+          "bbox": [
+            642,
+            731,
+            656,
+            771
+          ]
+        },
+        {
+          "text": "410",
+          "confidence": 0.19,
+          "bbox": [
+            656,
+            744,
+            686,
+            758
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.91,
+          "bbox": [
+            693,
+            748,
+            723,
+            758
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.86,
+          "bbox": [
+            732,
+            731,
+            743,
+            771
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.86,
+          "bbox": [
+            746,
+            744,
+            799,
+            758
+          ]
+        },
+        {
+          "text": "O",
+          "confidence": 0.8,
+          "bbox": [
+            806,
+            744,
+            817,
+            758
+          ]
+        },
+        {
+          "text": "A,Z,C",
+          "confidence": 0.65,
+          "bbox": [
+            1049,
+            744,
+            1106,
+            760
+          ]
+        },
+        {
+          "text": "GLEar-4",
+          "confidence": 0.38,
+          "bbox": [
+            69,
+            820,
+            137,
+            833
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.87,
+          "bbox": [
+            151,
+            806,
+            164,
+            843
+          ]
+        },
+        {
+          "text": "36",
+          "confidence": 0.87,
+          "bbox": [
+            171,
+            819,
+            191,
+            833
+          ]
+        },
+        {
+          "text": "O0OV",
+          "confidence": 0.42,
+          "bbox": [
+            199,
+            819,
+            249,
+            833
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.95,
+          "bbox": [
+            255,
+            819,
+            279,
+            833
+          ]
+        },
+        {
+          "text": "8,9,",
+          "confidence": 0.86,
+          "bbox": [
+            396,
+            819,
+            431,
+            835
+          ]
+        },
+        {
+          "text": "10,",
+          "confidence": 0.86,
+          "bbox": [
+            438,
+            819,
+            460,
+            835
+          ]
+        },
+        {
+          "text": "1,",
+          "confidence": 0.61,
+          "bbox": [
+            467,
+            819,
+            483,
+            835
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.74,
+          "bbox": [
+            490,
+            819,
+            506,
+            833
+          ]
+        },
+        {
+          "text": "<42",
+          "confidence": 0.0,
+          "bbox": [
+            563,
+            810,
+            601,
+            842
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.18,
+          "bbox": [
+            629,
+            806,
+            653,
+            846
+          ]
+        },
+        {
+          "text": "410mm",
+          "confidence": 0.18,
+          "bbox": [
+            656,
+            819,
+            723,
+            833
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.51,
+          "bbox": [
+            732,
+            806,
+            743,
+            846
+          ]
+        },
+        {
+          "text": "Classe",
+          "confidence": 0.51,
+          "bbox": [
+            746,
+            819,
+            799,
+            833
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.96,
+          "bbox": [
+            806,
+            819,
+            816,
+            833
+          ]
+        },
+        {
+          "text": "RC",
+          "confidence": 0.51,
+          "bbox": [
+            1050,
+            819,
+            1084,
+            835
+          ]
+        },
+        {
+          "text": "pentaesp.com",
+          "confidence": 0.89,
+          "bbox": [
+            62,
+            1637,
+            215,
+            1657
+          ]
+        },
+        {
+          "text": "©",
+          "confidence": 0.82,
+          "bbox": [
+            877,
+            1602,
+            933,
+            1656
+          ]
+        },
+        {
+          "text": "ELECTRICAL",
+          "confidence": 0.55,
+          "bbox": [
+            950,
+            1645,
+            1018,
+            1653
+          ]
+        },
+        {
+          "text": "SAFETY",
+          "confidence": 0.9,
+          "bbox": [
+            1022,
+            1645,
+            1065,
+            1653
+          ]
+        },
+        {
+          "text": "PRODUCTS",
+          "confidence": 0.94,
+          "bbox": [
+            1069,
+            1645,
+            1130,
+            1653
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2516 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_129.pdf",
+  "duration_seconds": 0.577,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 250,
+      "words": [
+        {
+          "text": "PARADE",
+          "confidence": 0.9,
+          "bbox": [
+            132,
+            37,
+            309,
+            65
+          ]
+        },
+        {
+          "text": "parade-protection.com",
+          "confidence": 0.87,
+          "bbox": [
+            132,
+            68,
+            309,
+            84
+          ]
+        },
+        {
+          "text": "FICHE",
+          "confidence": 0.95,
+          "bbox": [
+            758,
+            43,
+            873,
+            74
+          ]
+        },
+        {
+          "text": "TECHNIQUE",
+          "confidence": 0.95,
+          "bbox": [
+            887,
+            43,
+            1127,
+            74
+          ]
+        },
+        {
+          "text": "NOUVEAUTI",
+          "confidence": 0.77,
+          "bbox": [
+            62,
+            178,
+            183,
+            193
+          ]
+        },
+        {
+          "text": "ECHARG",
+          "confidence": 0.9,
+          "bbox": [
+            53,
+            218,
+            317,
+            266
+          ]
+        },
+        {
+          "text": "ÿ",
+          "confidence": 0.3,
+          "bbox": [
+            338,
+            214,
+            375,
+            285
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.42,
+          "bbox": [
+            405,
+            219,
+            437,
+            262
+          ]
+        },
+        {
+          "text": "ME,",
+          "confidence": 0.95,
+          "bbox": [
+            81,
+            357,
+            107,
+            371
+          ]
+        },
+        {
+          "text": "SE",
+          "confidence": 0.44,
+          "bbox": [
+            63,
+            360,
+            135,
+            385
+          ]
+        },
+        {
+          "text": "(CE",
+          "confidence": 0.0,
+          "bbox": [
+            57,
+            382,
+            86,
+            419
+          ]
+        },
+        {
+          "text": "EcTéE)",
+          "confidence": 0.36,
+          "bbox": [
+            85,
+            379,
+            141,
+            423
+          ]
+        },
+        {
+          "text": "an",
+          "confidence": 0.19,
+          "bbox": [
+            65,
+            416,
+            132,
+            441
+          ]
+        },
+        {
+          "text": "M",
+          "confidence": 0.74,
+          "bbox": [
+            228,
+            911,
+            244,
+            928
+          ]
+        },
+        {
+          "text": "1824",
+          "confidence": 0.84,
+          "bbox": [
+            258,
+            915,
+            295,
+            927
+          ]
+        },
+        {
+          "text": "NOIR",
+          "confidence": 0.87,
+          "bbox": [
+            301,
+            915,
+            341,
+            927
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.78,
+          "bbox": [
+            345,
+            906,
+            356,
+            937
+          ]
+        },
+        {
+          "text": "35",
+          "confidence": 0.75,
+          "bbox": [
+            367,
+            915,
+            382,
+            926
+          ]
+        },
+        {
+          "text": ">",
+          "confidence": 0.75,
+          "bbox": [
+            389,
+            915,
+            398,
+            926
+          ]
+        },
+        {
+          "text": "48",
+          "confidence": 0.71,
+          "bbox": [
+            405,
+            915,
+            421,
+            926
+          ]
+        },
+        {
+          "text": "COMPOSITION",
+          "confidence": 0.96,
+          "bbox": [
+            58,
+            1016,
+            288,
+            1040
+          ]
+        },
+        {
+          "text": "Dessus",
+          "confidence": 0.95,
+          "bbox": [
+            64,
+            1082,
+            115,
+            1093
+          ]
+        },
+        {
+          "text": "Cuir",
+          "confidence": 0.88,
+          "bbox": [
+            262,
+            1081,
+            290,
+            1093
+          ]
+        },
+        {
+          "text": "pull",
+          "confidence": 0.88,
+          "bbox": [
+            296,
+            1081,
+            320,
+            1098
+          ]
+        },
+        {
+          "text": "up",
+          "confidence": 0.96,
+          "bbox": [
+            327,
+            1085,
+            344,
+            1098
+          ]
+        },
+        {
+          "text": "Renfort",
+          "confidence": 0.9,
+          "bbox": [
+            64,
+            1109,
+            120,
+            1121
+          ]
+        },
+        {
+          "text": "avant",
+          "confidence": 0.96,
+          "bbox": [
+            125,
+            1111,
+            166,
+            1121
+          ]
+        },
+        {
+          "text": "Microfibre",
+          "confidence": 0.96,
+          "bbox": [
+            263,
+            1109,
+            333,
+            1121
+          ]
+        },
+        {
+          "text": "Doublure",
+          "confidence": 0.95,
+          "bbox": [
+            64,
+            1134,
+            132,
+            1158
+          ]
+        },
+        {
+          "text": "Mesh",
+          "confidence": 0.92,
+          "bbox": [
+            263,
+            1138,
+            299,
+            1150
+          ]
+        },
+        {
+          "text": "3D",
+          "confidence": 0.91,
+          "bbox": [
+            306,
+            1139,
+            325,
+            1150
+          ]
+        },
+        {
+          "text": "Embout",
+          "confidence": 0.96,
+          "bbox": [
+            64,
+            1158,
+            122,
+            1190
+          ]
+        },
+        {
+          "text": "Polycarbonate",
+          "confidence": 0.92,
+          "bbox": [
+            263,
+            1166,
+            363,
+            1182
+          ]
+        },
+        {
+          "text": "Mousse",
+          "confidence": 0.96,
+          "bbox": [
+            263,
+            1201,
+            316,
+            1212
+          ]
+        },
+        {
+          "text": "PU",
+          "confidence": 0.96,
+          "bbox": [
+            323,
+            1201,
+            340,
+            1212
+          ]
+        },
+        {
+          "text": "cellule",
+          "confidence": 0.93,
+          "bbox": [
+            346,
+            1200,
+            391,
+            1212
+          ]
+        },
+        {
+          "text": "ouverte",
+          "confidence": 0.93,
+          "bbox": [
+            397,
+            1202,
+            450,
+            1212
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            456,
+            1208,
+            460,
+            1209
+          ]
+        },
+        {
+          "text": "Semelle",
+          "confidence": 0.96,
+          "bbox": [
+            63,
+            1209,
+            121,
+            1221
+          ]
+        },
+        {
+          "text": "intérieure",
+          "confidence": 0.95,
+          "bbox": [
+            127,
+            1209,
+            199,
+            1221
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.41,
+          "bbox": [
+            285,
+            1220,
+            289,
+            1222
+          ]
+        },
+        {
+          "text": "revêtement",
+          "confidence": 0.96,
+          "bbox": [
+            262,
+            1221,
+            343,
+            1231
+          ]
+        },
+        {
+          "text": "textile",
+          "confidence": 0.9,
+          "bbox": [
+            348,
+            1219,
+            390,
+            1231
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.82,
+          "bbox": [
+            401,
+            1227,
+            405,
+            1228
+          ]
+        },
+        {
+          "text": "isolante",
+          "confidence": 0.82,
+          "bbox": [
+            411,
+            1219,
+            464,
+            1231
+          ]
+        },
+        {
+          "text": "Semelle",
+          "confidence": 0.92,
+          "bbox": [
+            63,
+            1252,
+            121,
+            1264
+          ]
+        },
+        {
+          "text": "antiperforation",
+          "confidence": 0.71,
+          "bbox": [
+            127,
+            1252,
+            240,
+            1268
+          ]
+        },
+        {
+          "text": "APT",
+          "confidence": 0.96,
+          "bbox": [
+            261,
+            1255,
+            290,
+            1266
+          ]
+        },
+        {
+          "text": "Pointe",
+          "confidence": 0.96,
+          "bbox": [
+            296,
+            1255,
+            339,
+            1266
+          ]
+        },
+        {
+          "text": "Small",
+          "confidence": 0.93,
+          "bbox": [
+            346,
+            1254,
+            382,
+            1266
+          ]
+        },
+        {
+          "text": "isolante",
+          "confidence": 0.92,
+          "bbox": [
+            389,
+            1254,
+            442,
+            1266
+          ]
+        },
+        {
+          "text": "Inter",
+          "confidence": 0.9,
+          "bbox": [
+            263,
+            1285,
+            294,
+            1296
+          ]
+        },
+        {
+          "text": "PU",
+          "confidence": 0.91,
+          "bbox": [
+            300,
+            1285,
+            317,
+            1296
+          ]
+        },
+        {
+          "text": "/",
+          "confidence": 0.91,
+          "bbox": [
+            323,
+            1285,
+            329,
+            1296
+          ]
+        },
+        {
+          "text": "Semelle",
+          "confidence": 0.95,
+          "bbox": [
+            63,
+            1290,
+            121,
+            1321
+          ]
+        },
+        {
+          "text": "Patin",
+          "confidence": 0.91,
+          "bbox": [
+            263,
+            1304,
+            296,
+            1315
+          ]
+        },
+        {
+          "text": "Caoutchouc",
+          "confidence": 0.92,
+          "bbox": [
+            302,
+            1303,
+            387,
+            1315
+          ]
+        },
+        {
+          "text": "nitrile",
+          "confidence": 0.85,
+          "bbox": [
+            393,
+            1303,
+            431,
+            1315
+          ]
+        },
+        {
+          "text": "Vibram®",
+          "confidence": 0.84,
+          "bbox": [
+            436,
+            1303,
+            494,
+            1315
+          ]
+        },
+        {
+          "text": "isolant",
+          "confidence": 0.93,
+          "bbox": [
+            500,
+            1303,
+            545,
+            1315
+          ]
+        },
+        {
+          "text": "Poids",
+          "confidence": 0.95,
+          "bbox": [
+            64,
+            1337,
+            104,
+            1349
+          ]
+        },
+        {
+          "text": "taille",
+          "confidence": 0.9,
+          "bbox": [
+            109,
+            1337,
+            145,
+            1349
+          ]
+        },
+        {
+          "text": "42*",
+          "confidence": 0.9,
+          "bbox": [
+            151,
+            1337,
+            176,
+            1349
+          ]
+        },
+        {
+          "text": "588",
+          "confidence": 0.93,
+          "bbox": [
+            262,
+            1337,
+            287,
+            1349
+          ]
+        },
+        {
+          "text": "g",
+          "confidence": 0.46,
+          "bbox": [
+            293,
+            1341,
+            301,
+            1353
+          ]
+        },
+        {
+          "text": "“Poids",
+          "confidence": 0.73,
+          "bbox": [
+            311,
+            1339,
+            350,
+            1349
+          ]
+        },
+        {
+          "text": "par",
+          "confidence": 0.96,
+          "bbox": [
+            355,
+            1342,
+            375,
+            1353
+          ]
+        },
+        {
+          "text": "pied",
+          "confidence": 0.94,
+          "bbox": [
+            380,
+            1338,
+            406,
+            1353
+          ]
+        },
+        {
+          "text": "Coefficient",
+          "confidence": 0.62,
+          "bbox": [
+            105,
+            1441,
+            150,
+            1453
+          ]
+        },
+        {
+          "text": "obtenu",
+          "confidence": 0.28,
+          "bbox": [
+            173,
+            1441,
+            245,
+            1453
+          ]
+        },
+        {
+          "text": "Surl'avantpied",
+          "confidence": 0.7,
+          "bbox": [
+            293,
+            1435,
+            409,
+            1451
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.37,
+          "bbox": [
+            444,
+            1439,
+            461,
+            1447
+          ]
+        },
+        {
+          "text": "talon",
+          "confidence": 0.37,
+          "bbox": [
+            464,
+            1425,
+            504,
+            1458
+          ]
+        },
+        {
+          "text": "pointure",
+          "confidence": 0.96,
+          "bbox": [
+            132,
+            1459,
+            195,
+            1473
+          ]
+        },
+        {
+          "text": "42",
+          "confidence": 0.96,
+          "bbox": [
+            201,
+            1457,
+            219,
+            1469
+          ]
+        },
+        {
+          "text": "Norme",
+          "confidence": 0.86,
+          "bbox": [
+            297,
+            1462,
+            341,
+            1472
+          ]
+        },
+        {
+          "text": "Parade",
+          "confidence": 0.74,
+          "bbox": [
+            362,
+            1461,
+            407,
+            1472
+          ]
+        },
+        {
+          "text": "Norme",
+          "confidence": 0.71,
+          "bbox": [
+            422,
+            1462,
+            467,
+            1472
+          ]
+        },
+        {
+          "text": "Parade",
+          "confidence": 0.71,
+          "bbox": [
+            482,
+            1461,
+            526,
+            1472
+          ]
+        },
+        {
+          "text": "Sol",
+          "confidence": 0.91,
+          "bbox": [
+            111,
+            1487,
+            130,
+            1498
+          ]
+        },
+        {
+          "text": "céramique/Nals",
+          "confidence": 0.89,
+          "bbox": [
+            136,
+            1487,
+            240,
+            1502
+          ]
+        },
+        {
+          "text": "(solution",
+          "confidence": 0.67,
+          "bbox": [
+            105,
+            1503,
+            159,
+            1516
+          ]
+        },
+        {
+          "text": "savonneuse)",
+          "confidence": 0.89,
+          "bbox": [
+            166,
+            1503,
+            246,
+            1516
+          ]
+        },
+        {
+          "text": "0,36",
+          "confidence": 0.68,
+          "bbox": [
+            306,
+            1494,
+            335,
+            1508
+          ]
+        },
+        {
+          "text": "0.59",
+          "confidence": 0.5,
+          "bbox": [
+            371,
+            1494,
+            404,
+            1508
+          ]
+        },
+        {
+          "text": "031",
+          "confidence": 0.83,
+          "bbox": [
+            435,
+            1494,
+            462,
+            1508
+          ]
+        },
+        {
+          "text": "0,52",
+          "confidence": 0.81,
+          "bbox": [
+            491,
+            1494,
+            523,
+            1508
+          ]
+        },
+        {
+          "text": "SR",
+          "confidence": 0.96,
+          "bbox": [
+            69,
+            1540,
+            84,
+            1551
+          ]
+        },
+        {
+          "text": "Sol",
+          "confidence": 0.96,
+          "bbox": [
+            91,
+            1540,
+            110,
+            1551
+          ]
+        },
+        {
+          "text": "Céramique",
+          "confidence": 0.94,
+          "bbox": [
+            116,
+            1540,
+            267,
+            1555
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.9,
+          "bbox": [
+            194,
+            1530,
+            200,
+            1561
+          ]
+        },
+        {
+          "text": "glycérine",
+          "confidence": 0.89,
+          "bbox": [
+            209,
+            1540,
+            267,
+            1555
+          ]
+        },
+        {
+          "text": "022",
+          "confidence": 0.7,
+          "bbox": [
+            306,
+            1542,
+            335,
+            1556
+          ]
+        },
+        {
+          "text": "0,32",
+          "confidence": 0.74,
+          "bbox": [
+            371,
+            1542,
+            403,
+            1556
+          ]
+        },
+        {
+          "text": "019",
+          "confidence": 0.63,
+          "bbox": [
+            435,
+            1542,
+            464,
+            1556
+          ]
+        },
+        {
+          "text": "0,25",
+          "confidence": 0.89,
+          "bbox": [
+            491,
+            1542,
+            523,
+            1556
+          ]
+        },
+        {
+          "text": "LES",
+          "confidence": 0.92,
+          "bbox": [
+            655,
+            175,
+            694,
+            193
+          ]
+        },
+        {
+          "text": "SPÉCIFICITÉS",
+          "confidence": 0.92,
+          "bbox": [
+            703,
+            171,
+            855,
+            193
+          ]
+        },
+        {
+          "text": "@",
+          "confidence": 0.76,
+          "bbox": [
+            662,
+            250,
+            719,
+            308
+          ]
+        },
+        {
+          "text": "Isolation",
+          "confidence": 0.29,
+          "bbox": [
+            670,
+            315,
+            713,
+            324
+          ]
+        },
+        {
+          "text": "HRO+300°C",
+          "confidence": 0.32,
+          "bbox": [
+            751,
+            315,
+            819,
+            324
+          ]
+        },
+        {
+          "text": "Amagnétique",
+          "confidence": 0.32,
+          "bbox": [
+            842,
+            316,
+            914,
+            327
+          ]
+        },
+        {
+          "text": "électrique",
+          "confidence": 0.94,
+          "bbox": [
+            665,
+            329,
+            717,
+            341
+          ]
+        },
+        {
+          "text": "te",
+          "confidence": 0.57,
+          "bbox": [
+            768,
+            331,
+            773,
+            336
+          ]
+        },
+        {
+          "text": "résistance",
+          "confidence": 0.56,
+          "bbox": [
+            777,
+            330,
+            823,
+            336
+          ]
+        },
+        {
+          "text": "TECHNOLOGIE",
+          "confidence": 0.92,
+          "bbox": [
+            651,
+            419,
+            827,
+            437
+          ]
+        },
+        {
+          "text": "PARADE",
+          "confidence": 0.9,
+          "bbox": [
+            837,
+            420,
+            934,
+            437
+          ]
+        },
+        {
+          "text": "Amor",
+          "confidence": 0.06,
+          "bbox": [
+            656,
+            529,
+            692,
+            537
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.9,
+          "bbox": [
+            697,
+            531,
+            712,
+            537
+          ]
+        },
+        {
+          "text": "coussin",
+          "confidence": 0.93,
+          "bbox": [
+            652,
+            546,
+            689,
+            552
+          ]
+        },
+        {
+          "text": "d'air",
+          "confidence": 0.93,
+          "bbox": [
+            694,
+            543,
+            717,
+            552
+          ]
+        },
+        {
+          "text": "vs",
+          "confidence": 0.35,
+          "bbox": [
+            843,
+            499,
+            855,
+            507
+          ]
+        },
+        {
+          "text": "fpation",
+          "confidence": 0.28,
+          "bbox": [
+            770,
+            530,
+            802,
+            540
+          ]
+        },
+        {
+          "text": "Maintien",
+          "confidence": 0.5,
+          "bbox": [
+            827,
+            529,
+            872,
+            537
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            877,
+            528,
+            890,
+            537
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.93,
+          "bbox": [
+            895,
+            528,
+            902,
+            537
+          ]
+        },
+        {
+          "text": "ondes",
+          "confidence": 0.83,
+          "bbox": [
+            769,
+            543,
+            801,
+            552
+          ]
+        },
+        {
+          "text": "voûte",
+          "confidence": 0.43,
+          "bbox": [
+            826,
+            545,
+            854,
+            552
+          ]
+        },
+        {
+          "text": "plantaire",
+          "confidence": 0.94,
+          "bbox": [
+            859,
+            546,
+            904,
+            555
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            751,
+            564,
+            756,
+            566
+          ]
+        },
+        {
+          "text": "chocs",
+          "confidence": 0.95,
+          "bbox": [
+            768,
+            557,
+            797,
+            566
+          ]
+        },
+        {
+          "text": "CHAUSSURE",
+          "confidence": 0.95,
+          "bbox": [
+            682,
+            654,
+            826,
+            671
+          ]
+        },
+        {
+          "text": "À",
+          "confidence": 0.96,
+          "bbox": [
+            835,
+            649,
+            852,
+            671
+          ]
+        },
+        {
+          "text": "SEMELLE",
+          "confidence": 0.96,
+          "bbox": [
+            860,
+            654,
+            966,
+            671
+          ]
+        },
+        {
+          "text": "re",
+          "confidence": 0.28,
+          "bbox": [
+            514,
+            656,
+            659,
+            710
+          ]
+        },
+        {
+          "text": "ISOLANTE",
+          "confidence": 0.91,
+          "bbox": [
+            683,
+            683,
+            800,
+            700
+          ]
+        },
+        {
+          "text": "CONTRE",
+          "confidence": 0.95,
+          "bbox": [
+            809,
+            683,
+            907,
+            700
+          ]
+        },
+        {
+          "text": "LES",
+          "confidence": 0.96,
+          "bbox": [
+            683,
+            712,
+            722,
+            729
+          ]
+        },
+        {
+          "text": "RISQUES",
+          "confidence": 0.95,
+          "bbox": [
+            732,
+            712,
+            833,
+            729
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 0.93,
+          "bbox": [
+            843,
+            712,
+            873,
+            729
+          ]
+        },
+        {
+          "text": "CHOCS",
+          "confidence": 0.92,
+          "bbox": [
+            882,
+            712,
+            965,
+            729
+          ]
+        },
+        {
+          "text": "ÉLECTRIQUES",
+          "confidence": 0.9,
+          "bbox": [
+            683,
+            735,
+            843,
+            757
+          ]
+        },
+        {
+          "text": "EN",
+          "confidence": 0.96,
+          "bbox": [
+            853,
+            740,
+            884,
+            757
+          ]
+        },
+        {
+          "text": "MILIEU",
+          "confidence": 0.96,
+          "bbox": [
+            895,
+            740,
+            974,
+            757
+          ]
+        },
+        {
+          "text": "SEC",
+          "confidence": 0.96,
+          "bbox": [
+            984,
+            740,
+            1028,
+            757
+          ]
+        },
+        {
+          "text": "NORMÉE",
+          "confidence": 0.91,
+          "bbox": [
+            683,
+            768,
+            788,
+            790
+          ]
+        },
+        {
+          "text": "ASTM",
+          "confidence": 0.92,
+          "bbox": [
+            797,
+            773,
+            862,
+            790
+          ]
+        },
+        {
+          "text": "F2413-18",
+          "confidence": 0.92,
+          "bbox": [
+            873,
+            773,
+            977,
+            790
+          ]
+        },
+        {
+          "text": "1000V",
+          "confidence": 0.91,
+          "bbox": [
+            683,
+            802,
+            755,
+            819
+          ]
+        },
+        {
+          "text": "AC",
+          "confidence": 0.88,
+          "bbox": [
+            762,
+            802,
+            796,
+            819
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.88,
+          "bbox": [
+            804,
+            812,
+            810,
+            814
+          ]
+        },
+        {
+          "text": "1500V",
+          "confidence": 0.92,
+          "bbox": [
+            819,
+            802,
+            891,
+            819
+          ]
+        },
+        {
+          "text": "DC",
+          "confidence": 0.96,
+          "bbox": [
+            900,
+            802,
+            932,
+            819
+          ]
+        },
+        {
+          "text": "Combinaison",
+          "confidence": 0.95,
+          "bbox": [
+            682,
+            833,
+            790,
+            847
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            797,
+            833,
+            817,
+            847
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.96,
+          "bbox": [
+            824,
+            834,
+            833,
+            847
+          ]
+        },
+        {
+          "text": "éléments",
+          "confidence": 0.96,
+          "bbox": [
+            840,
+            833,
+            916,
+            847
+          ]
+        },
+        {
+          "text": "isolant:",
+          "confidence": 0.81,
+          "bbox": [
+            923,
+            833,
+            977,
+            847
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.64,
+          "bbox": [
+            683,
+            860,
+            689,
+            866
+          ]
+        },
+        {
+          "text": "Patin",
+          "confidence": 0.89,
+          "bbox": [
+            697,
+            856,
+            738,
+            869
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            745,
+            860,
+            764,
+            869
+          ]
+        },
+        {
+          "text": "caoutchouc",
+          "confidence": 0.89,
+          "bbox": [
+            771,
+            855,
+            866,
+            869
+          ]
+        },
+        {
+          "text": "nitrile",
+          "confidence": 0.89,
+          "bbox": [
+            873,
+            855,
+            920,
+            869
+          ]
+        },
+        {
+          "text": "Vibram®",
+          "confidence": 0.86,
+          "bbox": [
+            927,
+            855,
+            996,
+            869
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.82,
+          "bbox": [
+            683,
+            881,
+            689,
+            887
+          ]
+        },
+        {
+          "text": "APT",
+          "confidence": 0.96,
+          "bbox": [
+            696,
+            877,
+            731,
+            890
+          ]
+        },
+        {
+          "text": "Pointe",
+          "confidence": 0.96,
+          "bbox": [
+            738,
+            877,
+            790,
+            890
+          ]
+        },
+        {
+          "text": "Small",
+          "confidence": 0.92,
+          "bbox": [
+            797,
+            876,
+            840,
+            890
+          ]
+        },
+        {
+          "text": "isolante",
+          "confidence": 0.91,
+          "bbox": [
+            848,
+            876,
+            912,
+            890
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.63,
+          "bbox": [
+            683,
+            903,
+            689,
+            909
+          ]
+        },
+        {
+          "text": "Première",
+          "confidence": 0.95,
+          "bbox": [
+            697,
+            899,
+            772,
+            912
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.97,
+          "bbox": [
+            778,
+            898,
+            799,
+            912
+          ]
+        },
+        {
+          "text": "propreté",
+          "confidence": 0.93,
+          "bbox": [
+            806,
+            899,
+            880,
+            916
+          ]
+        },
+        {
+          "text": "isolante",
+          "confidence": 0.91,
+          "bbox": [
+            887,
+            898,
+            951,
+            912
+          ]
+        },
+        {
+          "text": "TABLEAU",
+          "confidence": 0.91,
+          "bbox": [
+            650,
+            1015,
+            787,
+            1038
+          ]
+        },
+        {
+          "text": "NIVEAU",
+          "confidence": 0.96,
+          "bbox": [
+            801,
+            1015,
+            917,
+            1038
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 0.96,
+          "bbox": [
+            931,
+            1015,
+            970,
+            1037
+          ]
+        },
+        {
+          "text": "SÉCURITÉ",
+          "confidence": 0.96,
+          "bbox": [
+            981,
+            1009,
+            1126,
+            1038
+          ]
+        },
+        {
+          "text": "EN",
+          "confidence": 0.85,
+          "bbox": [
+            654,
+            1055,
+            672,
+            1065
+          ]
+        },
+        {
+          "text": "ISO",
+          "confidence": 0.85,
+          "bbox": [
+            678,
+            1055,
+            701,
+            1065
+          ]
+        },
+        {
+          "text": "20345",
+          "confidence": 0.93,
+          "bbox": [
+            706,
+            1055,
+            747,
+            1065
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.9,
+          "bbox": [
+            752,
+            1058,
+            755,
+            1065
+          ]
+        },
+        {
+          "text": "2022",
+          "confidence": 0.9,
+          "bbox": [
+            760,
+            1055,
+            792,
+            1065
+          ]
+        },
+        {
+          "text": "SB",
+          "confidence": 0.36,
+          "bbox": [
+            798,
+            1055,
+            814,
+            1065
+          ]
+        },
+        {
+          "text": "PS",
+          "confidence": 0.96,
+          "bbox": [
+            819,
+            1055,
+            835,
+            1065
+          ]
+        },
+        {
+          "text": "SR",
+          "confidence": 0.92,
+          "bbox": [
+            840,
+            1055,
+            856,
+            1065
+          ]
+        },
+        {
+          "text": "E",
+          "confidence": 0.92,
+          "bbox": [
+            862,
+            1055,
+            869,
+            1065
+          ]
+        },
+        {
+          "text": "FO",
+          "confidence": 0.96,
+          "bbox": [
+            875,
+            1055,
+            893,
+            1065
+          ]
+        },
+        {
+          "text": "HI",
+          "confidence": 0.85,
+          "bbox": [
+            899,
+            1055,
+            912,
+            1065
+          ]
+        },
+        {
+          "text": "HRO",
+          "confidence": 0.9,
+          "bbox": [
+            918,
+            1055,
+            948,
+            1065
+          ]
+        },
+        {
+          "text": "WPA",
+          "confidence": 0.92,
+          "bbox": [
+            953,
+            1055,
+            985,
+            1065
+          ]
+        },
+        {
+          "text": "Protection",
+          "confidence": 0.95,
+          "bbox": [
+            711,
+            1086,
+            774,
+            1096
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.96,
+          "bbox": [
+            780,
+            1085,
+            801,
+            1096
+          ]
+        },
+        {
+          "text": "orteils",
+          "confidence": 0.95,
+          "bbox": [
+            806,
+            1085,
+            844,
+            1096
+          ]
+        },
+        {
+          "text": "(Embout",
+          "confidence": 0.89,
+          "bbox": [
+            711,
+            1101,
+            763,
+            1114
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.89,
+          "bbox": [
+            768,
+            1101,
+            783,
+            1112
+          ]
+        },
+        {
+          "text": "sécurité)",
+          "confidence": 0.95,
+          "bbox": [
+            788,
+            1102,
+            839,
+            1114
+          ]
+        },
+        {
+          "text": "Résistance",
+          "confidence": 0.94,
+          "bbox": [
+            708,
+            1131,
+            773,
+            1141
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.94,
+          "bbox": [
+            778,
+            1131,
+            784,
+            1141
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            790,
+            1130,
+            799,
+            1141
+          ]
+        },
+        {
+          "text": "glisse",
+          "confidence": 0.93,
+          "bbox": [
+            804,
+            1130,
+            838,
+            1144
+          ]
+        },
+        {
+          "text": "Sols",
+          "confidence": 0.94,
+          "bbox": [
+            709,
+            1143,
+            733,
+            1154
+          ]
+        },
+        {
+          "text": "céramique",
+          "confidence": 0.96,
+          "bbox": [
+            738,
+            1144,
+            802,
+            1157
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.96,
+          "bbox": [
+            808,
+            1147,
+            815,
+            1153
+          ]
+        },
+        {
+          "text": "détergent",
+          "confidence": 0.96,
+          "bbox": [
+            820,
+            1144,
+            882,
+            1157
+          ]
+        },
+        {
+          "text": "Résistance",
+          "confidence": 0.9,
+          "bbox": [
+            708,
+            1174,
+            773,
+            1184
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.9,
+          "bbox": [
+            778,
+            1174,
+            784,
+            1184
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            790,
+            1173,
+            799,
+            1184
+          ]
+        },
+        {
+          "text": "perforation",
+          "confidence": 0.96,
+          "bbox": [
+            804,
+            1173,
+            873,
+            1187
+          ]
+        },
+        {
+          "text": "Insert",
+          "confidence": 0.91,
+          "bbox": [
+            709,
+            1188,
+            742,
+            1198
+          ]
+        },
+        {
+          "text": "non-métallique",
+          "confidence": 0.68,
+          "bbox": [
+            747,
+            1187,
+            840,
+            1201
+          ]
+        },
+        {
+          "text": "Test",
+          "confidence": 0.92,
+          "bbox": [
+            709,
+            1205,
+            733,
+            1215
+          ]
+        },
+        {
+          "text": "sur",
+          "confidence": 0.92,
+          "bbox": [
+            737,
+            1208,
+            755,
+            1215
+          ]
+        },
+        {
+          "text": "Pointe",
+          "confidence": 0.94,
+          "bbox": [
+            760,
+            1205,
+            798,
+            1215
+          ]
+        },
+        {
+          "text": "Small",
+          "confidence": 0.94,
+          "bbox": [
+            803,
+            1204,
+            836,
+            1215
+          ]
+        },
+        {
+          "text": "3,0",
+          "confidence": 0.92,
+          "bbox": [
+            840,
+            1205,
+            858,
+            1217
+          ]
+        },
+        {
+          "text": "mm",
+          "confidence": 0.92,
+          "bbox": [
+            862,
+            1208,
+            885,
+            1215
+          ]
+        },
+        {
+          "text": "Résistance",
+          "confidence": 0.96,
+          "bbox": [
+            708,
+            1234,
+            773,
+            1244
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.96,
+          "bbox": [
+            778,
+            1234,
+            784,
+            1244
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            790,
+            1233,
+            799,
+            1244
+          ]
+        },
+        {
+          "text": "glisse",
+          "confidence": 0.96,
+          "bbox": [
+            804,
+            1233,
+            838,
+            1247
+          ]
+        },
+        {
+          "text": "(Sols",
+          "confidence": 0.9,
+          "bbox": [
+            708,
+            1247,
+            736,
+            1260
+          ]
+        },
+        {
+          "text": "céramique",
+          "confidence": 0.91,
+          "bbox": [
+            741,
+            1248,
+            806,
+            1261
+          ]
+        },
+        {
+          "text": "+",
+          "confidence": 0.91,
+          "bbox": [
+            812,
+            1250,
+            819,
+            1255
+          ]
+        },
+        {
+          "text": "huile)",
+          "confidence": 0.82,
+          "bbox": [
+            824,
+            1248,
+            857,
+            1260
+          ]
+        },
+        {
+          "text": "Absorption",
+          "confidence": 0.95,
+          "bbox": [
+            710,
+            1280,
+            780,
+            1294
+          ]
+        },
+        {
+          "text": "énergie",
+          "confidence": 0.96,
+          "bbox": [
+            785,
+            1281,
+            832,
+            1294
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.92,
+          "bbox": [
+            837,
+            1284,
+            851,
+            1291
+          ]
+        },
+        {
+          "text": "talon",
+          "confidence": 0.92,
+          "bbox": [
+            856,
+            1280,
+            886,
+            1291
+          ]
+        },
+        {
+          "text": "Résistance",
+          "confidence": 0.89,
+          "bbox": [
+            708,
+            1324,
+            773,
+            1334
+          ]
+        },
+        {
+          "text": "aux",
+          "confidence": 0.95,
+          "bbox": [
+            778,
+            1327,
+            799,
+            1334
+          ]
+        },
+        {
+          "text": "hydrocarbures",
+          "confidence": 0.95,
+          "bbox": [
+            805,
+            1323,
+            893,
+            1337
+          ]
+        },
+        {
+          "text": "Isolation",
+          "confidence": 0.94,
+          "bbox": [
+            711,
+            1365,
+            762,
+            1376
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.91,
+          "bbox": [
+            768,
+            1365,
+            782,
+            1376
+          ]
+        },
+        {
+          "text": "semelage",
+          "confidence": 0.85,
+          "bbox": [
+            788,
+            1365,
+            847,
+            1379
+          ]
+        },
+        {
+          "text": "(chaud)",
+          "confidence": 0.93,
+          "bbox": [
+            852,
+            1365,
+            897,
+            1378
+          ]
+        },
+        {
+          "text": "Résistance",
+          "confidence": 0.9,
+          "bbox": [
+            708,
+            1401,
+            773,
+            1411
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.9,
+          "bbox": [
+            778,
+            1401,
+            784,
+            1411
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.96,
+          "bbox": [
+            790,
+            1400,
+            799,
+            1411
+          ]
+        },
+        {
+          "text": "chaleur",
+          "confidence": 0.91,
+          "bbox": [
+            804,
+            1400,
+            849,
+            1411
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.91,
+          "bbox": [
+            854,
+            1400,
+            869,
+            1411
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.95,
+          "bbox": [
+            875,
+            1400,
+            883,
+            1411
+          ]
+        },
+        {
+          "text": "semelle",
+          "confidence": 0.94,
+          "bbox": [
+            708,
+            1417,
+            755,
+            1428
+          ]
+        },
+        {
+          "text": "d'usure",
+          "confidence": 0.92,
+          "bbox": [
+            760,
+            1417,
+            805,
+            1428
+          ]
+        },
+        {
+          "text": "(jusqu'a",
+          "confidence": 0.9,
+          "bbox": [
+            811,
+            1418,
+            858,
+            1431
+          ]
+        },
+        {
+          "text": "300°C)",
+          "confidence": 0.87,
+          "bbox": [
+            863,
+            1418,
+            905,
+            1430
+          ]
+        },
+        {
+          "text": "6600000606",
+          "confidence": 0.65,
+          "bbox": [
+            662,
+            1084,
+            694,
+            1471
+          ]
+        },
+        {
+          "text": "Matière",
+          "confidence": 0.88,
+          "bbox": [
+            708,
+            1451,
+            756,
+            1461
+          ]
+        },
+        {
+          "text": "Tige",
+          "confidence": 0.92,
+          "bbox": [
+            760,
+            1451,
+            787,
+            1464
+          ]
+        },
+        {
+          "text": "Hydrofuge",
+          "confidence": 0.77,
+          "bbox": [
+            793,
+            1450,
+            858,
+            1464
+          ]
+        },
+        {
+          "text": "ASTM",
+          "confidence": 0.89,
+          "bbox": [
+            653,
+            1495,
+            692,
+            1505
+          ]
+        },
+        {
+          "text": "F2413-181",
+          "confidence": 0.86,
+          "bbox": [
+            698,
+            1495,
+            767,
+            1505
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 0.89,
+          "bbox": [
+            777,
+            1495,
+            785,
+            1505
+          ]
+        },
+        {
+          "text": "EH",
+          "confidence": 0.4,
+          "bbox": [
+            795,
+            1495,
+            813,
+            1505
+          ]
+        },
+        {
+          "text": "PR",
+          "confidence": 0.4,
+          "bbox": [
+            819,
+            1495,
+            835,
+            1505
+          ]
+        },
+        {
+          "text": "Isolation",
+          "confidence": 0.88,
+          "bbox": [
+            708,
+            1527,
+            760,
+            1538
+          ]
+        },
+        {
+          "text": "electrique",
+          "confidence": 0.89,
+          "bbox": [
+            765,
+            1527,
+            827,
+            1541
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.9,
+          "bbox": [
+            708,
+            1549,
+            723,
+            1556
+          ]
+        },
+        {
+          "text": "milieu",
+          "confidence": 0.94,
+          "bbox": [
+            728,
+            1546,
+            764,
+            1556
+          ]
+        },
+        {
+          "text": "sec",
+          "confidence": 0.96,
+          "bbox": [
+            769,
+            1549,
+            789,
+            1556
+          ]
+        }
+      ]
+    }
+  ]
+}

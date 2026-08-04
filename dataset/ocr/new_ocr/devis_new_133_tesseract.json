@@ -1,0 +1,2546 @@
+{
+  "engine": "tesseract",
+  "document": "devis_new_133.pdf",
+  "duration_seconds": 0.425,
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "image_width": 1191,
+      "image_height": 1684,
+      "word_count": 253,
+      "words": [
+        {
+          "text": "[Mr",
+          "confidence": 0.74,
+          "bbox": [
+            405,
+            1327,
+            420,
+            1337
+          ]
+        },
+        {
+          "text": "Rémy",
+          "confidence": 0.95,
+          "bbox": [
+            424,
+            1327,
+            458,
+            1339
+          ]
+        },
+        {
+          "text": "MARTIN",
+          "confidence": 0.95,
+          "bbox": [
+            462,
+            1327,
+            511,
+            1337
+          ]
+        },
+        {
+          "text": "(societe.",
+          "confidence": 0.0,
+          "bbox": [
+            405,
+            1344,
+            446,
+            1353
+          ]
+        },
+        {
+          "text": "m2b@gmai.com",
+          "confidence": 0.0,
+          "bbox": [
+            451,
+            1343,
+            549,
+            1356
+          ]
+        },
+        {
+          "text": "ét:",
+          "confidence": 0.0,
+          "bbox": [
+            405,
+            1364,
+            418,
+            1374
+          ]
+        },
+        {
+          "text": "06",
+          "confidence": 0.84,
+          "bbox": [
+            426,
+            1364,
+            440,
+            1374
+          ]
+        },
+        {
+          "text": "82",
+          "confidence": 0.94,
+          "bbox": [
+            444,
+            1364,
+            458,
+            1374
+          ]
+        },
+        {
+          "text": "68",
+          "confidence": 0.9,
+          "bbox": [
+            463,
+            1364,
+            477,
+            1374
+          ]
+        },
+        {
+          "text": "71",
+          "confidence": 0.86,
+          "bbox": [
+            481,
+            1364,
+            493,
+            1374
+          ]
+        },
+        {
+          "text": "50",
+          "confidence": 0.86,
+          "bbox": [
+            500,
+            1364,
+            514,
+            1374
+          ]
+        },
+        {
+          "text": "Date:",
+          "confidence": 0.96,
+          "bbox": [
+            924,
+            1327,
+            954,
+            1337
+          ]
+        },
+        {
+          "text": "signature:",
+          "confidence": 0.84,
+          "bbox": [
+            923,
+            1344,
+            977,
+            1356
+          ]
+        },
+        {
+          "text": "sefco",
+          "confidence": 0.73,
+          "bbox": [
+            502,
+            45,
+            543,
+            69
+          ]
+        },
+        {
+          "text": "M2B",
+          "confidence": 0.74,
+          "bbox": [
+            968,
+            50,
+            1000,
+            62
+          ]
+        },
+        {
+          "text": "Contact",
+          "confidence": 0.94,
+          "bbox": [
+            155,
+            63,
+            204,
+            95
+          ]
+        },
+        {
+          "text": "Mr",
+          "confidence": 0.87,
+          "bbox": [
+            490,
+            74,
+            507,
+            85
+          ]
+        },
+        {
+          "text": "Bonillo",
+          "confidence": 0.91,
+          "bbox": [
+            512,
+            74,
+            560,
+            85
+          ]
+        },
+        {
+          "text": "23",
+          "confidence": 0.95,
+          "bbox": [
+            872,
+            74,
+            886,
+            84
+          ]
+        },
+        {
+          "text": "rue",
+          "confidence": 0.86,
+          "bbox": [
+            891,
+            77,
+            909,
+            84
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            913,
+            74,
+            928,
+            84
+          ]
+        },
+        {
+          "text": "Ledignan",
+          "confidence": 0.83,
+          "bbox": [
+            933,
+            74,
+            986,
+            87
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.91,
+          "bbox": [
+            991,
+            80,
+            994,
+            81
+          ]
+        },
+        {
+          "text": "30400",
+          "confidence": 0.64,
+          "bbox": [
+            998,
+            74,
+            1035,
+            84
+          ]
+        },
+        {
+          "text": "Fourques",
+          "confidence": 0.9,
+          "bbox": [
+            1040,
+            74,
+            1095,
+            87
+          ]
+        },
+        {
+          "text": "B",
+          "confidence": 0.93,
+          "bbox": [
+            121,
+            77,
+            140,
+            117
+          ]
+        },
+        {
+          "text": "Référence",
+          "confidence": 0.33,
+          "bbox": [
+            155,
+            104,
+            218,
+            114
+          ]
+        },
+        {
+          "text": "shelter",
+          "confidence": 0.89,
+          "bbox": [
+            477,
+            102,
+            520,
+            113
+          ]
+        },
+        {
+          "text": "multiple",
+          "confidence": 0.44,
+          "bbox": [
+            525,
+            102,
+            572,
+            116
+          ]
+        },
+        {
+          "text": "Date:",
+          "confidence": 0.92,
+          "bbox": [
+            817,
+            91,
+            847,
+            124
+          ]
+        },
+        {
+          "text": "28/01/26",
+          "confidence": 0.63,
+          "bbox": [
+            908,
+            91,
+            959,
+            124
+          ]
+        },
+        {
+          "text": "ét:",
+          "confidence": 0.48,
+          "bbox": [
+            1013,
+            105,
+            1031,
+            114
+          ]
+        },
+        {
+          "text": "06.82.68.71.50.",
+          "confidence": 0.53,
+          "bbox": [
+            1035,
+            105,
+            1118,
+            114
+          ]
+        },
+        {
+          "text": "Ref",
+          "confidence": 0.94,
+          "bbox": [
+            817,
+            134,
+            836,
+            144
+          ]
+        },
+        {
+          "text": "devis:",
+          "confidence": 0.95,
+          "bbox": [
+            840,
+            135,
+            874,
+            144
+          ]
+        },
+        {
+          "text": "2601659",
+          "confidence": 0.95,
+          "bbox": [
+            945,
+            133,
+            1007,
+            145
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.84,
+          "bbox": [
+            1014,
+            133,
+            1025,
+            148
+          ]
+        },
+        {
+          "text": "x",
+          "confidence": 0.33,
+          "bbox": [
+            56,
+            179,
+            63,
+            187
+          ]
+        },
+        {
+          "text": "DESIGNATION",
+          "confidence": 0.9,
+          "bbox": [
+            357,
+            177,
+            447,
+            187
+          ]
+        },
+        {
+          "text": "DES",
+          "confidence": 0.96,
+          "bbox": [
+            452,
+            177,
+            478,
+            187
+          ]
+        },
+        {
+          "text": "ARTICLES",
+          "confidence": 0.96,
+          "bbox": [
+            486,
+            177,
+            551,
+            187
+          ]
+        },
+        {
+          "text": "u",
+          "confidence": 0.86,
+          "bbox": [
+            831,
+            177,
+            839,
+            187
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.58,
+          "bbox": [
+            850,
+            166,
+            861,
+            197
+          ]
+        },
+        {
+          "text": "ares",
+          "confidence": 0.58,
+          "bbox": [
+            868,
+            177,
+            903,
+            188
+          ]
+        },
+        {
+          "text": "PR",
+          "confidence": 0.0,
+          "bbox": [
+            951,
+            169,
+            980,
+            179
+          ]
+        },
+        {
+          "text": "MONTANT",
+          "confidence": 0.96,
+          "bbox": [
+            1051,
+            177,
+            1116,
+            187
+          ]
+        },
+        {
+          "text": "UNITAIRE",
+          "confidence": 0.85,
+          "bbox": [
+            933,
+            186,
+            994,
+            196
+          ]
+        },
+        {
+          "text": "f-Descriptiftechnique",
+          "confidence": 0.3,
+          "bbox": [
+            51,
+            210,
+            196,
+            223
+          ]
+        },
+        {
+          "text": "fabrication",
+          "confidence": 0.91,
+          "bbox": [
+            79,
+            566,
+            145,
+            576
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.9,
+          "bbox": [
+            150,
+            566,
+            165,
+            576
+          ]
+        },
+        {
+          "text": "shelter",
+          "confidence": 0.75,
+          "bbox": [
+            169,
+            566,
+            212,
+            576
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            216,
+            566,
+            231,
+            576
+          ]
+        },
+        {
+          "text": "2m°1,2m",
+          "confidence": 0.25,
+          "bbox": [
+            235,
+            566,
+            288,
+            578
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.93,
+          "bbox": [
+            293,
+            567,
+            304,
+            576
+          ]
+        },
+        {
+          "text": "2,5m",
+          "confidence": 0.84,
+          "bbox": [
+            308,
+            566,
+            337,
+            578
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            342,
+            566,
+            357,
+            576
+          ]
+        },
+        {
+          "text": "haut",
+          "confidence": 0.93,
+          "bbox": [
+            362,
+            566,
+            389,
+            576
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.92,
+          "bbox": [
+            393,
+            569,
+            421,
+            576
+          ]
+        },
+        {
+          "text": "toiture",
+          "confidence": 0.93,
+          "bbox": [
+            425,
+            566,
+            466,
+            576
+          ]
+        },
+        {
+          "text": "monopente",
+          "confidence": 0.9,
+          "bbox": [
+            470,
+            567,
+            541,
+            579
+          ]
+        },
+        {
+          "text": "ossature",
+          "confidence": 0.94,
+          "bbox": [
+            545,
+            567,
+            600,
+            576
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.94,
+          "bbox": [
+            604,
+            569,
+            619,
+            576
+          ]
+        },
+        {
+          "text": "tube",
+          "confidence": 0.94,
+          "bbox": [
+            623,
+            566,
+            651,
+            576
+          ]
+        },
+        {
+          "text": "40-40",
+          "confidence": 0.68,
+          "bbox": [
+            655,
+            566,
+            689,
+            576
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.96,
+          "bbox": [
+            693,
+            567,
+            705,
+            576
+          ]
+        },
+        {
+          "text": "80*40",
+          "confidence": 0.15,
+          "bbox": [
+            709,
+            566,
+            743,
+            576
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.23,
+          "bbox": [
+            79,
+            585,
+            107,
+            592
+          ]
+        },
+        {
+          "text": "porte",
+          "confidence": 0.96,
+          "bbox": [
+            112,
+            583,
+            144,
+            595
+          ]
+        },
+        {
+          "text": "un",
+          "confidence": 0.96,
+          "bbox": [
+            149,
+            585,
+            164,
+            592
+          ]
+        },
+        {
+          "text": "battant",
+          "confidence": 0.95,
+          "bbox": [
+            169,
+            582,
+            212,
+            592
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.95,
+          "bbox": [
+            216,
+            585,
+            244,
+            592
+          ]
+        },
+        {
+          "text": "serrure",
+          "confidence": 0.84,
+          "bbox": [
+            249,
+            585,
+            294,
+            592
+          ]
+        },
+        {
+          "text": "1point",
+          "confidence": 0.61,
+          "bbox": [
+            299,
+            582,
+            337,
+            595
+          ]
+        },
+        {
+          "text": "remplissage",
+          "confidence": 0.96,
+          "bbox": [
+            345,
+            582,
+            422,
+            595
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 0.96,
+          "bbox": [
+            426,
+            585,
+            454,
+            592
+          ]
+        },
+        {
+          "text": "grillage",
+          "confidence": 0.79,
+          "bbox": [
+            459,
+            582,
+            505,
+            595
+          ]
+        },
+        {
+          "text": "maille",
+          "confidence": 0.92,
+          "bbox": [
+            510,
+            582,
+            546,
+            592
+          ]
+        },
+        {
+          "text": "50*50",
+          "confidence": 0.09,
+          "bbox": [
+            550,
+            582,
+            584,
+            592
+          ]
+        },
+        {
+          "text": "et",
+          "confidence": 0.65,
+          "bbox": [
+            588,
+            583,
+            600,
+            592
+          ]
+        },
+        {
+          "text": "toiture",
+          "confidence": 0.65,
+          "bbox": [
+            604,
+            582,
+            644,
+            592
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.92,
+          "bbox": [
+            648,
+            585,
+            663,
+            592
+          ]
+        },
+        {
+          "text": "bardage",
+          "confidence": 0.9,
+          "bbox": [
+            668,
+            582,
+            725,
+            595
+          ]
+        },
+        {
+          "text": ".",
+          "confidence": 0.5,
+          "bbox": [
+            721,
+            569,
+            727,
+            602
+          ]
+        },
+        {
+          "text": "100]",
+          "confidence": 0.29,
+          "bbox": [
+            824,
+            582,
+            847,
+            594
+          ]
+        },
+        {
+          "text": "26",
+          "confidence": 0.94,
+          "bbox": [
+            879,
+            582,
+            893,
+            592
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 0.95,
+          "bbox": [
+            908,
+            569,
+            922,
+            602
+          ]
+        },
+        {
+          "text": "1100006",
+          "confidence": 0.0,
+          "bbox": [
+            942,
+            582,
+            1003,
+            594
+          ]
+        },
+        {
+          "text": "28",
+          "confidence": 0.93,
+          "bbox": [
+            1077,
+            582,
+            1091,
+            592
+          ]
+        },
+        {
+          "text": "600,00",
+          "confidence": 0.71,
+          "bbox": [
+            1096,
+            582,
+            1136,
+            594
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.71,
+          "bbox": [
+            1140,
+            582,
+            1147,
+            592
+          ]
+        },
+        {
+          "text": "l'ossature",
+          "confidence": 0.56,
+          "bbox": [
+            79,
+            615,
+            140,
+            625
+          ]
+        },
+        {
+          "text": "sera",
+          "confidence": 0.96,
+          "bbox": [
+            145,
+            618,
+            171,
+            625
+          ]
+        },
+        {
+          "text": "peinte",
+          "confidence": 0.95,
+          "bbox": [
+            176,
+            615,
+            214,
+            628
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.96,
+          "bbox": [
+            218,
+            618,
+            233,
+            625
+          ]
+        },
+        {
+          "text": "gris",
+          "confidence": 0.76,
+          "bbox": [
+            293,
+            615,
+            316,
+            628
+          ]
+        },
+        {
+          "text": "pose",
+          "confidence": 0.75,
+          "bbox": [
+            79,
+            651,
+            109,
+            661
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 0.86,
+          "bbox": [
+            114,
+            651,
+            120,
+            658
+          ]
+        },
+        {
+          "text": "votre",
+          "confidence": 0.87,
+          "bbox": [
+            125,
+            649,
+            156,
+            658
+          ]
+        },
+        {
+          "text": "charge",
+          "confidence": 0.94,
+          "bbox": [
+            160,
+            648,
+            203,
+            661
+          ]
+        },
+        {
+          "text": "livraison",
+          "confidence": 0.67,
+          "bbox": [
+            79,
+            697,
+            132,
+            707
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.93,
+          "bbox": [
+            136,
+            697,
+            143,
+            707
+          ]
+        },
+        {
+          "text": "definir",
+          "confidence": 0.32,
+          "bbox": [
+            147,
+            697,
+            187,
+            707
+          ]
+        },
+        {
+          "text": "selon",
+          "confidence": 0.94,
+          "bbox": [
+            191,
+            697,
+            225,
+            707
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 0.53,
+          "bbox": [
+            230,
+            697,
+            240,
+            707
+          ]
+        },
+        {
+          "text": "lieu",
+          "confidence": 0.53,
+          "bbox": [
+            245,
+            697,
+            266,
+            707
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            271,
+            697,
+            286,
+            707
+          ]
+        },
+        {
+          "text": "demande",
+          "confidence": 0.9,
+          "bbox": [
+            290,
+            697,
+            347,
+            707
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.94,
+          "bbox": [
+            352,
+            697,
+            367,
+            707
+          ]
+        },
+        {
+          "text": "client",
+          "confidence": 0.92,
+          "bbox": [
+            372,
+            697,
+            406,
+            707
+          ]
+        },
+        {
+          "text": "1,00",
+          "confidence": 0.75,
+          "bbox": [
+            824,
+            697,
+            847,
+            709
+          ]
+        },
+        {
+          "text": "leu??",
+          "confidence": 0.72,
+          "bbox": [
+            924,
+            697,
+            957,
+            707
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.85,
+          "bbox": [
+            1076,
+            700,
+            1089,
+            707
+          ]
+        },
+        {
+          "text": "atente",
+          "confidence": 0.57,
+          "bbox": [
+            1094,
+            698,
+            1134,
+            707
+          ]
+        },
+        {
+          "text": "TOTAL",
+          "confidence": 0.96,
+          "bbox": [
+            673,
+            1150,
+            716,
+            1160
+          ]
+        },
+        {
+          "text": "GENERAL",
+          "confidence": 0.93,
+          "bbox": [
+            721,
+            1150,
+            784,
+            1160
+          ]
+        },
+        {
+          "text": "RIT",
+          "confidence": 0.37,
+          "bbox": [
+            789,
+            1150,
+            809,
+            1160
+          ]
+        },
+        {
+          "text": "25",
+          "confidence": 0.39,
+          "bbox": [
+            1077,
+            1150,
+            1091,
+            1160
+          ]
+        },
+        {
+          "text": "60000€",
+          "confidence": 0.34,
+          "bbox": [
+            1096,
+            1150,
+            1147,
+            1162
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.45,
+          "bbox": [
+            750,
+            1166,
+            777,
+            1176
+          ]
+        },
+        {
+          "text": "20",
+          "confidence": 0.45,
+          "bbox": [
+            780,
+            1166,
+            794,
+            1176
+          ]
+        },
+        {
+          "text": "%",
+          "confidence": 0.87,
+          "bbox": [
+            798,
+            1167,
+            810,
+            1176
+          ]
+        },
+        {
+          "text": "5720.00",
+          "confidence": 0.26,
+          "bbox": [
+            1085,
+            1166,
+            1136,
+            1178
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.74,
+          "bbox": [
+            1140,
+            1166,
+            1147,
+            1176
+          ]
+        },
+        {
+          "text": "MONTANT",
+          "confidence": 0.96,
+          "bbox": [
+            639,
+            1183,
+            704,
+            1193
+          ]
+        },
+        {
+          "text": "GENERAL",
+          "confidence": 0.93,
+          "bbox": [
+            709,
+            1183,
+            772,
+            1193
+          ]
+        },
+        {
+          "text": "T.T.C",
+          "confidence": 0.82,
+          "bbox": [
+            776,
+            1183,
+            809,
+            1193
+          ]
+        },
+        {
+          "text": "34",
+          "confidence": 0.87,
+          "bbox": [
+            1078,
+            1182,
+            1091,
+            1192
+          ]
+        },
+        {
+          "text": "320,00",
+          "confidence": 0.67,
+          "bbox": [
+            1096,
+            1182,
+            1136,
+            1194
+          ]
+        },
+        {
+          "text": "€",
+          "confidence": 0.67,
+          "bbox": [
+            1140,
+            1182,
+            1147,
+            1192
+          ]
+        },
+        {
+          "text": "R-",
+          "confidence": 0.0,
+          "bbox": [
+            51,
+            1210,
+            66,
+            1220
+          ]
+        },
+        {
+          "text": "Conditions",
+          "confidence": 0.89,
+          "bbox": [
+            71,
+            1213,
+            138,
+            1221
+          ]
+        },
+        {
+          "text": "commerciales:",
+          "confidence": 0.83,
+          "bbox": [
+            142,
+            1210,
+            234,
+            1221
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 0.33,
+          "bbox": [
+            51,
+            1227,
+            56,
+            1234
+          ]
+        },
+        {
+          "text": "rx",
+          "confidence": 0.6,
+          "bbox": [
+            69,
+            1229,
+            83,
+            1236
+          ]
+        },
+        {
+          "text": "sont",
+          "confidence": 0.6,
+          "bbox": [
+            86,
+            1228,
+            103,
+            1234
+          ]
+        },
+        {
+          "text": "établie",
+          "confidence": 0.46,
+          "bbox": [
+            106,
+            1227,
+            132,
+            1234
+          ]
+        },
+        {
+          "text": "su",
+          "confidence": 0.46,
+          "bbox": [
+            136,
+            1229,
+            148,
+            1234
+          ]
+        },
+        {
+          "text": "ace",
+          "confidence": 0.46,
+          "bbox": [
+            151,
+            1227,
+            180,
+            1234
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 0.78,
+          "bbox": [
+            183,
+            1227,
+            196,
+            1234
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.35,
+          "bbox": [
+            200,
+            1228,
+            216,
+            1234
+          ]
+        },
+        {
+          "text": "TVA",
+          "confidence": 0.84,
+          "bbox": [
+            220,
+            1227,
+            237,
+            1234
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.73,
+          "bbox": [
+            240,
+            1229,
+            249,
+            1234
+          ]
+        },
+        {
+          "text": "eu",
+          "confidence": 0.0,
+          "bbox": [
+            252,
+            1229,
+            281,
+            1236
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.46,
+          "bbox": [
+            285,
+            1227,
+            299,
+            1234
+          ]
+        },
+        {
+          "text": "at",
+          "confidence": 0.61,
+          "bbox": [
+            302,
+            1228,
+            319,
+            1234
+          ]
+        },
+        {
+          "text": "der",
+          "confidence": 0.05,
+          "bbox": [
+            322,
+            1228,
+            361,
+            1234
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.66,
+          "bbox": [
+            364,
+            1227,
+            374,
+            1234
+          ]
+        },
+        {
+          "text": "eau",
+          "confidence": 0.0,
+          "bbox": [
+            377,
+            1227,
+            427,
+            1234
+          ]
+        },
+        {
+          "text": "variation",
+          "confidence": 0.45,
+          "bbox": [
+            430,
+            1228,
+            464,
+            1234
+          ]
+        },
+        {
+          "text": "teur",
+          "confidence": 0.56,
+          "bbox": [
+            467,
+            1227,
+            517,
+            1234
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.68,
+          "bbox": [
+            508,
+            1212,
+            517,
+            1244
+          ]
+        },
+        {
+          "text": "ces",
+          "confidence": 0.72,
+          "bbox": [
+            520,
+            1229,
+            533,
+            1234
+          ]
+        },
+        {
+          "text": "aux.",
+          "confidence": 0.5,
+          "bbox": [
+            537,
+            1228,
+            553,
+            1234
+          ]
+        },
+        {
+          "text": "imprée",
+          "confidence": 0.0,
+          "bbox": [
+            559,
+            1212,
+            588,
+            1244
+          ]
+        },
+        {
+          "text": "para",
+          "confidence": 0.56,
+          "bbox": [
+            596,
+            1212,
+            623,
+            1244
+          ]
+        },
+        {
+          "text": "ra",
+          "confidence": 0.46,
+          "bbox": [
+            634,
+            1229,
+            651,
+            1234
+          ]
+        },
+        {
+          "text": "ét",
+          "confidence": 0.24,
+          "bbox": [
+            654,
+            1228,
+            692,
+            1236
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.57,
+          "bbox": [
+            695,
+            1229,
+            707,
+            1234
+          ]
+        },
+        {
+          "text": "cs",
+          "confidence": 0.55,
+          "bbox": [
+            710,
+            1229,
+            724,
+            1234
+          ]
+        },
+        {
+          "text": "pi.",
+          "confidence": 0.55,
+          "bbox": [
+            727,
+            1229,
+            741,
+            1236
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.81,
+          "bbox": [
+            47,
+            1226,
+            58,
+            1258
+          ]
+        },
+        {
+          "text": "anse",
+          "confidence": 0.63,
+          "bbox": [
+            63,
+            1241,
+            95,
+            1248
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.69,
+          "bbox": [
+            99,
+            1241,
+            108,
+            1248
+          ]
+        },
+        {
+          "text": "propièté",
+          "confidence": 0.17,
+          "bbox": [
+            111,
+            1242,
+            147,
+            1250
+          ]
+        },
+        {
+          "text": "re",
+          "confidence": 0.2,
+          "bbox": [
+            150,
+            1243,
+            159,
+            1248
+          ]
+        },
+        {
+          "text": "pre",
+          "confidence": 0.45,
+          "bbox": [
+            163,
+            1241,
+            191,
+            1250
+          ]
+        },
+        {
+          "text": "ar",
+          "confidence": 0.34,
+          "bbox": [
+            194,
+            1243,
+            228,
+            1250
+          ]
+        },
+        {
+          "text": "encaissement",
+          "confidence": 0.55,
+          "bbox": [
+            232,
+            1226,
+            287,
+            1258
+          ]
+        },
+        {
+          "text": "intégral",
+          "confidence": 0.25,
+          "bbox": [
+            290,
+            1226,
+            320,
+            1258
+          ]
+        },
+        {
+          "text": "rx",
+          "confidence": 0.79,
+          "bbox": [
+            336,
+            1243,
+            350,
+            1250
+          ]
+        },
+        {
+          "text": "us",
+          "confidence": 0.52,
+          "bbox": [
+            353,
+            1242,
+            367,
+            1248
+          ]
+        },
+        {
+          "text": "marandesconlomémen",
+          "confidence": 0.45,
+          "bbox": [
+            370,
+            1241,
+            505,
+            1248
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.71,
+          "bbox": [
+            492,
+            1226,
+            498,
+            1258
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 0.65,
+          "bbox": [
+            520,
+            1241,
+            542,
+            1248
+          ]
+        },
+        {
+          "text": "ma",
+          "confidence": 0.66,
+          "bbox": [
+            546,
+            1243,
+            560,
+            1248
+          ]
+        },
+        {
+          "text": "1380",
+          "confidence": 0.83,
+          "bbox": [
+            565,
+            1241,
+            583,
+            1248
+          ]
+        },
+        {
+          "text": "l-",
+          "confidence": 0.0,
+          "bbox": [
+            51,
+            1255,
+            62,
+            1265
+          ]
+        },
+        {
+          "text": "Conditions",
+          "confidence": 0.9,
+          "bbox": [
+            66,
+            1255,
+            134,
+            1266
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            139,
+            1255,
+            154,
+            1266
+          ]
+        },
+        {
+          "text": "paiement",
+          "confidence": 0.84,
+          "bbox": [
+            158,
+            1255,
+            216,
+            1266
+          ]
+        },
+        {
+          "text": "-",
+          "confidence": 0.92,
+          "bbox": [
+            220,
+            1260,
+            223,
+            1263
+          ]
+        },
+        {
+          "text": "durée",
+          "confidence": 0.96,
+          "bbox": [
+            227,
+            1255,
+            263,
+            1266
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.96,
+          "bbox": [
+            267,
+            1255,
+            282,
+            1265
+          ]
+        },
+        {
+          "text": "validité",
+          "confidence": 0.91,
+          "bbox": [
+            286,
+            1255,
+            331,
+            1266
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 0.96,
+          "bbox": [
+            335,
+            1255,
+            351,
+            1266
+          ]
+        },
+        {
+          "text": "devis",
+          "confidence": 0.96,
+          "bbox": [
+            355,
+            1255,
+            388,
+            1266
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 0.96,
+          "bbox": [
+            846,
+            1255,
+            852,
+            1265
+          ]
+        },
+        {
+          "text": "mois",
+          "confidence": 0.94,
+          "bbox": [
+            859,
+            1258,
+            886,
+            1265
+          ]
+        },
+        {
+          "text": "30%",
+          "confidence": 0.75,
+          "bbox": [
+            79,
+            1272,
+            108,
+            1282
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.94,
+          "bbox": [
+            113,
+            1272,
+            119,
+            1282
+          ]
+        },
+        {
+          "text": "la",
+          "confidence": 0.94,
+          "bbox": [
+            124,
+            1272,
+            133,
+            1282
+          ]
+        },
+        {
+          "text": "commande",
+          "confidence": 0.94,
+          "bbox": [
+            137,
+            1272,
+            203,
+            1282
+          ]
+        },
+        {
+          "text": "Delais",
+          "confidence": 0.94,
+          "bbox": [
+            679,
+            1271,
+            717,
+            1281
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.93,
+          "bbox": [
+            721,
+            1271,
+            736,
+            1281
+          ]
+        },
+        {
+          "text": "réalisation",
+          "confidence": 0.85,
+          "bbox": [
+            741,
+            1271,
+            805,
+            1281
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.75,
+          "bbox": [
+            847,
+            1271,
+            850,
+            1281
+          ]
+        },
+        {
+          "text": "semaine",
+          "confidence": 0.85,
+          "bbox": [
+            859,
+            1274,
+            908,
+            1281
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.42,
+          "bbox": [
+            923,
+            1271,
+            930,
+            1281
+          ]
+        },
+        {
+          "text": "réception",
+          "confidence": 0.93,
+          "bbox": [
+            935,
+            1271,
+            988,
+            1284
+          ]
+        },
+        {
+          "text": "commande",
+          "confidence": 0.94,
+          "bbox": [
+            992,
+            1271,
+            1058,
+            1281
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.96,
+          "bbox": [
+            79,
+            1289,
+            93,
+            1299
+          ]
+        },
+        {
+          "text": "solde",
+          "confidence": 0.8,
+          "bbox": [
+            97,
+            1289,
+            128,
+            1299
+          ]
+        },
+        {
+          "text": "à",
+          "confidence": 0.91,
+          "bbox": [
+            322,
+            1289,
+            328,
+            1299
+          ]
+        },
+        {
+          "text": "30",
+          "confidence": 0.95,
+          "bbox": [
+            333,
+            1289,
+            347,
+            1299
+          ]
+        },
+        {
+          "text": "jours",
+          "confidence": 0.7,
+          "bbox": [
+            351,
+            1292,
+            379,
+            1301
+          ]
+        },
+        {
+          "text": "fin",
+          "confidence": 0.7,
+          "bbox": [
+            383,
+            1289,
+            396,
+            1299
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.95,
+          "bbox": [
+            401,
+            1289,
+            415,
+            1299
+          ]
+        },
+        {
+          "text": "mois",
+          "confidence": 0.78,
+          "bbox": [
+            420,
+            1292,
+            446,
+            1299
+          ]
+        },
+        {
+          "text": "{=",
+          "confidence": 0.03,
+          "bbox": [
+            51,
+            1308,
+            58,
+            1318
+          ]
+        },
+        {
+          "text": "Observatio",
+          "confidence": 0.66,
+          "bbox": [
+            70,
+            1308,
+            138,
+            1319
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 0.94,
+          "bbox": [
+            405,
+            1308,
+            419,
+            1318
+          ]
+        },
+        {
+          "text": "responsable",
+          "confidence": 0.16,
+          "bbox": [
+            424,
+            1308,
+            495,
+            1321
+          ]
+        },
+        {
+          "text": "d'atare",
+          "confidence": 0.09,
+          "bbox": [
+            499,
+            1308,
+            545,
+            1318
+          ]
+        },
+        {
+          "text": "Bon",
+          "confidence": 0.65,
+          "bbox": [
+            924,
+            1307,
+            946,
+            1317
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 0.93,
+          "bbox": [
+            951,
+            1310,
+            977,
+            1321
+          ]
+        },
+        {
+          "text": "accord",
+          "confidence": 0.74,
+          "bbox": [
+            981,
+            1307,
+            1020,
+            1317
+          ]
+        },
+        {
+          "text": "Atelier",
+          "confidence": 0.13,
+          "bbox": [
+            405,
+            1621,
+            434,
+            1629
+          ]
+        },
+        {
+          "text": "Siège",
+          "confidence": 0.83,
+          "bbox": [
+            438,
+            1621,
+            464,
+            1629
+          ]
+        },
+        {
+          "text": "social:",
+          "confidence": 0.69,
+          "bbox": [
+            468,
+            1621,
+            493,
+            1629
+          ]
+        },
+        {
+          "text": "23",
+          "confidence": 0.32,
+          "bbox": [
+            503,
+            1621,
+            514,
+            1629
+          ]
+        },
+        {
+          "text": "rue",
+          "confidence": 0.32,
+          "bbox": [
+            517,
+            1610,
+            530,
+            1638
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 0.9,
+          "bbox": [
+            536,
+            1621,
+            546,
+            1629
+          ]
+        },
+        {
+          "text": "LEDIGNAN",
+          "confidence": 0.87,
+          "bbox": [
+            550,
+            1621,
+            643,
+            1629
+          ]
+        },
+        {
+          "text": "—",
+          "confidence": 0.52,
+          "bbox": [
+            606,
+            1610,
+            609,
+            1638
+          ]
+        },
+        {
+          "text": "30300",
+          "confidence": 0.9,
+          "bbox": [
+            615,
+            1621,
+            642,
+            1629
+          ]
+        },
+        {
+          "text": "Faurques",
+          "confidence": 0.4,
+          "bbox": [
+            647,
+            1621,
+            690,
+            1631
+          ]
+        },
+        {
+          "text": "Tél:",
+          "confidence": 0.49,
+          "bbox": [
+            694,
+            1621,
+            707,
+            1629
+          ]
+        },
+        {
+          "text": "04",
+          "confidence": 0.76,
+          "bbox": [
+            718,
+            1621,
+            728,
+            1629
+          ]
+        },
+        {
+          "text": "90",
+          "confidence": 0.91,
+          "bbox": [
+            732,
+            1610,
+            742,
+            1638
+          ]
+        },
+        {
+          "text": "18",
+          "confidence": 0.84,
+          "bbox": [
+            747,
+            1621,
+            756,
+            1629
+          ]
+        },
+        {
+          "text": "29",
+          "confidence": 0.84,
+          "bbox": [
+            760,
+            1621,
+            770,
+            1629
+          ]
+        },
+        {
+          "text": "02",
+          "confidence": 0.91,
+          "bbox": [
+            774,
+            1610,
+            785,
+            1638
+          ]
+        },
+        {
+          "text": "SARL",
+          "confidence": 0.81,
+          "bbox": [
+            411,
+            1635,
+            437,
+            1643
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 0.9,
+          "bbox": [
+            441,
+            1637,
+            451,
+            1643
+          ]
+        },
+        {
+          "text": "Capital",
+          "confidence": 0.54,
+          "bbox": [
+            455,
+            1635,
+            487,
+            1645
+          ]
+        },
+        {
+          "text": "social",
+          "confidence": 0.77,
+          "bbox": [
+            491,
+            1635,
+            516,
+            1643
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.86,
+          "bbox": [
+            519,
+            1625,
+            524,
+            1653
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 0.92,
+          "bbox": [
+            526,
+            1635,
+            531,
+            1643
+          ]
+        },
+        {
+          "text": "600",
+          "confidence": 0.77,
+          "bbox": [
+            535,
+            1635,
+            551,
+            1643
+          ]
+        },
+        {
+          "text": "euros",
+          "confidence": 0.84,
+          "bbox": [
+            555,
+            1637,
+            580,
+            1643
+          ]
+        },
+        {
+          "text": "RCS",
+          "confidence": 0.84,
+          "bbox": [
+            585,
+            1635,
+            606,
+            1643
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.86,
+          "bbox": [
+            607,
+            1625,
+            613,
+            1653
+          ]
+        },
+        {
+          "text": "NIMES",
+          "confidence": 0.53,
+          "bbox": [
+            615,
+            1635,
+            690,
+            1643
+          ]
+        },
+        {
+          "text": "en",
+          "confidence": 0.91,
+          "bbox": [
+            649,
+            1625,
+            662,
+            1653
+          ]
+        },
+        {
+          "text": "cours",
+          "confidence": 0.83,
+          "bbox": [
+            666,
+            1635,
+            690,
+            1643
+          ]
+        },
+        {
+          "text": "Code",
+          "confidence": 0.94,
+          "bbox": [
+            694,
+            1635,
+            718,
+            1643
+          ]
+        },
+        {
+          "text": "APE",
+          "confidence": 0.93,
+          "bbox": [
+            722,
+            1635,
+            742,
+            1643
+          ]
+        },
+        {
+          "text": ":",
+          "confidence": 0.92,
+          "bbox": [
+            745,
+            1625,
+            748,
+            1653
+          ]
+        },
+        {
+          "text": "25722",
+          "confidence": 0.74,
+          "bbox": [
+            751,
+            1635,
+            780,
+            1643
+          ]
+        },
+        {
+          "text": "Mall",
+          "confidence": 0.72,
+          "bbox": [
+            525,
+            1648,
+            543,
+            1656
+          ]
+        },
+        {
+          "text": "societe",
+          "confidence": 0.58,
+          "bbox": [
+            550,
+            1649,
+            582,
+            1656
+          ]
+        },
+        {
+          "text": "m2b@gmal.",
+          "confidence": 0.48,
+          "bbox": [
+            586,
+            1648,
+            642,
+            1658
+          ]
+        },
+        {
+          "text": "com",
+          "confidence": 0.48,
+          "bbox": [
+            646,
+            1650,
+            665,
+            1656
+          ]
+        }
+      ]
+    }
+  ]
+}
