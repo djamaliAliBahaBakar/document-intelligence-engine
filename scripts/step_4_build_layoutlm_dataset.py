@@ -19,12 +19,12 @@ from scripts.utils.labelstudio import (
 
 
 EXPORT_PATH = Path(
-    "label_studio_data/export/annotations.json"
+    "label_studio_data/export/annotations_all.json"
 )
 
 OCR_DIR = Path("dataset/ocr")
 
-OUTPUT_DIR = Path("dataset/processed/layoutlm")
+OUTPUT_DIR = Path("dataset/processed/layoutlm_full")
 DATASET_DIR = OUTPUT_DIR / "dataset"
 LABELS_PATH = OUTPUT_DIR / "labels.json"
 

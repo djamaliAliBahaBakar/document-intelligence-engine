@@ -21,15 +21,20 @@ from transformers import (
 )
 
 MODEL_NAME = "microsoft/layoutlmv3-base"
-DATASET_DIR = Path("dataset/processed/layoutlm/dataset")
-LABELS_PATH = Path("dataset/processed/layoutlm/labels.json")
-OUTPUT_DIR = Path("models/layoutlmv3-photovoltaic")
+DATASET_DIR = Path("dataset/processed/layoutlm_full/dataset")
+LABELS_PATH = Path("dataset/processed/layoutlm_full/labels.json")
+OUTPUT_DIR = Path(
+    "models/layoutlmv3-photovoltaic-full-split-70-15-15"
+)
 FINAL_MODEL_DIR = OUTPUT_DIR / "final"
 METRICS_CSV_PATH = OUTPUT_DIR / "training_metrics.csv"
 
 MAX_LENGTH = 512
-TEST_RATIO = 0.2
+TRAIN_RATIO = 0.70
+VALIDATION_RATIO = 0.15
+TEST_RATIO = 0.15
 SEED = 42
+EPOCH = 10
 
 
 def load_labels() -> tuple[dict[str, int], dict[int, str]]:
@@ -77,24 +82,57 @@ def encode_dataset(dataset: Dataset, processor: LayoutLMv3Processor) -> Dataset:
         desc="Encodage",
     )
 
-
 def split_by_document(
     dataset: Dataset,
+    train_ratio: float = TRAIN_RATIO,
+    validation_ratio: float = VALIDATION_RATIO,
     test_ratio: float = TEST_RATIO,
     seed: int = SEED,
-) -> tuple[Dataset, Dataset]:
+) -> tuple[Dataset, Dataset, Dataset]:
+    ratio_sum = train_ratio + validation_ratio + test_ratio
+
+    if abs(ratio_sum - 1.0) > 1e-9:
+        raise ValueError(
+            "La somme des ratios train, validation et test "
+            f"doit être égale à 1.0, reçu : {ratio_sum}"
+        )
+
+    if min(train_ratio, validation_ratio, test_ratio) <= 0:
+        raise ValueError(
+            "Les ratios doivent être strictement positifs."
+        )
+
     documents: dict[str, list[int]] = defaultdict(list)
 
     for index, example in enumerate(dataset):
         document_id = example["id"].rsplit("_page_", 1)[0]
         documents[document_id].append(index)
 
-    document_ids = list(documents.keys())
+    document_ids = sorted(documents.keys())
+
+    if len(document_ids) < 3:
+        raise ValueError(
+            "Le dataset doit contenir au moins trois documents."
+        )
+
     random.Random(seed).shuffle(document_ids)
 
-    split_index = int(len(document_ids) * (1 - test_ratio))
-    train_docs = set(document_ids[:split_index])
-    eval_docs = set(document_ids[split_index:])
+    document_count = len(document_ids)
+    train_end = int(document_count * train_ratio)
+    validation_end = train_end + int(
+        document_count * validation_ratio
+    )
+
+    train_docs = set(document_ids[:train_end])
+    validation_docs = set(
+        document_ids[train_end:validation_end]
+    )
+    test_docs = set(document_ids[validation_end:])
+
+    if not train_docs or not validation_docs or not test_docs:
+        raise ValueError(
+            "Au moins un des splits train, validation ou test est vide."
+        )
 
     train_indices = [
         index
@@ -102,31 +140,50 @@ def split_by_document(
         if document_id in train_docs
         for index in indices
     ]
-    eval_indices = [
+    validation_indices = [
         index
         for document_id, indices in documents.items()
-        if document_id in eval_docs
+        if document_id in validation_docs
+        for index in indices
+    ]
+    test_indices = [
+        index
+        for document_id, indices in documents.items()
+        if document_id in test_docs
         for index in indices
     ]
 
     train_dataset = dataset.select(train_indices)
-    eval_dataset = dataset.select(eval_indices)
+    validation_dataset = dataset.select(validation_indices)
+    test_dataset = dataset.select(test_indices)
+
+    if not train_docs.isdisjoint(validation_docs):
+        raise ValueError("Fuite de documents entre train et validation.")
+    if not train_docs.isdisjoint(test_docs):
+        raise ValueError("Fuite de documents entre train et test.")
+    if not validation_docs.isdisjoint(test_docs):
+        raise ValueError("Fuite de documents entre validation et test.")
+
+    if len(train_docs | validation_docs | test_docs) != document_count:
+        raise ValueError("Tous les documents n'ont pas été répartis.")
+
+    if (
+        len(train_dataset)
+        + len(validation_dataset)
+        + len(test_dataset)
+        != len(dataset)
+    ):
+        raise ValueError("Toutes les pages n'ont pas été réparties.")
 
     print("\n===== Split par devis =====")
     print(f"Documents train      : {len(train_docs)}")
-    print(f"Documents validation : {len(eval_docs)}")
+    print(f"Documents validation : {len(validation_docs)}")
+    print(f"Documents test       : {len(test_docs)}")
     print(f"Pages train          : {len(train_dataset)}")
-    print(f"Pages validation     : {len(eval_dataset)}")
+    print(f"Pages validation     : {len(validation_dataset)}")
+    print(f"Pages test           : {len(test_dataset)}")
 
-    print("\nTrain :")
-    for document_id in sorted(train_docs):
-        print(f"  {document_id}")
-
-    print("\nValidation :")
-    for document_id in sorted(eval_docs):
-        print(f"  {document_id}")
-
-    return train_dataset, eval_dataset
+    return train_dataset, validation_dataset, test_dataset
 
 
 def print_raw_label_distribution(dataset: Dataset, id2label: dict[int, str]) -> None:
@@ -455,12 +512,31 @@ def main() -> None:
 
     run_smoke_test(dataset, processor, model)
 
-    train_raw, eval_raw = split_by_document(dataset)
-    train_dataset = encode_dataset(train_raw, processor)
-    eval_dataset = encode_dataset(eval_raw, processor)
+
+    train_raw, validation_raw, test_raw = split_by_document(dataset)
+
+    print("\n===== Dataset brut =====")
+    print("Train      :", len(train_raw))
+    print("Validation :", len(validation_raw))
+    print("Test       :", len(test_raw))
+    train_dataset = encode_dataset(
+        train_raw,
+        processor,
+    )
+
+    validation_dataset = encode_dataset(
+        validation_raw,
+        processor,
+    )
+
+    test_dataset = encode_dataset(
+        test_raw,
+        processor,
+    )
 
     print_encoded_label_distribution(train_dataset, id2label, "train")
-    print_encoded_label_distribution(eval_dataset, id2label, "validation")
+    print_encoded_label_distribution(validation_dataset, id2label, "validation")
+    print_encoded_label_distribution(test_dataset, id2label, "test")
 
     class_weights = compute_class_weights(train_dataset, len(label2id))
 
@@ -473,15 +549,15 @@ def main() -> None:
         learning_rate=5e-5,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
-        num_train_epochs=3,
+        num_train_epochs=EPOCH,
         weight_decay=0.01,
         eval_strategy="epoch",
         save_strategy="epoch",
         logging_strategy="steps",
         logging_steps=5,
         load_best_model_at_end=True,
-        metric_for_best_model="eval_loss",
-        greater_is_better=False,
+        metric_for_best_model="eval_f1",
+        greater_is_better=True,
         save_total_limit=2,
         seed=SEED,
         data_seed=SEED,
@@ -500,7 +576,7 @@ def main() -> None:
         model=model,
         args=training_args,
         train_dataset=train_dataset,
-        eval_dataset=eval_dataset,
+        eval_dataset=validation_dataset,
         compute_metrics=build_compute_metrics(id2label),
     )
 
@@ -525,11 +601,15 @@ def main() -> None:
 
     inspect_predictions(
         trainer=trainer,
-        dataset=eval_dataset,
+        dataset=validation_dataset,
         processor=processor,
         id2label=id2label,
         num_examples=3,
     )
+
+    # Le jeu de test reste isolé pendant la sélection du modèle
+    # et des hyperparamètres. Il sera évalué une seule fois
+    # après le choix définitif de la configuration.
 
     FINAL_MODEL_DIR.mkdir(parents=True, exist_ok=True)
     trainer.save_model(str(FINAL_MODEL_DIR))

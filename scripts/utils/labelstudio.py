@@ -114,21 +114,34 @@ def extract_image_name(task: dict) -> str:
     return Path(unquote(parsed_url.path)).name
 
 
-import re
-from pathlib import Path
 
 
 def extract_document_id(image_name: str) -> str:
-    stem = Path(image_name).stem
+    """
+    Extrait l'identifiant du document depuis un nom d'image de page.
 
-    match = re.search(r"(devis_\d+)_page_\d+$", stem)
+    Exemples :
+        devis_10_page_1.png
+        -> devis_10
 
-    if not match:
+        devis_new_100_page_1.png
+        -> devis_new_100
+    """
+    filename = Path(image_name).name
+    stem = Path(filename).stem
+
+    match = re.fullmatch(
+        r"(?P<document_id>.+)_page_(?P<page_number>\d+)",
+        stem,
+    )
+
+    if match is None:
         raise ValueError(
-            f"Impossible d'extraire l'identifiant du document depuis : {image_name}"
+            "Impossible d'extraire l'identifiant du document "
+            f"depuis : {image_name}"
         )
 
-    return match.group(1)
+    return match.group("document_id")
 
 
 
