@@ -6,7 +6,7 @@ import random
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
-
+import argparse
 import numpy as np
 import torch
 import torch.nn as nn
@@ -489,8 +489,20 @@ def run_smoke_test(
     print(f"Loss initiale : {outputs.loss.item():.4f}")
     print("Logits        :", outputs.logits.shape)
 
+def parse_args():
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument(
+        "--learning-rate",
+        type=float,
+        default=5e-5,
+    )
+
+    return parser.parse_args()
 
 def main() -> None:
+    args = parse_args()
+    learning_rate = args.learning_rate
     dataset = load_from_disk(str(DATASET_DIR))
     label2id, id2label = load_labels()
 
@@ -540,13 +552,24 @@ def main() -> None:
 
     class_weights = compute_class_weights(train_dataset, len(label2id))
 
+    run_name = f"lr-{learning_rate:.0e}"
+
+    output_dir = Path(
+        "models/layoutlmv3-hyperparameter"
+    ) / run_name
+
+    final_model_dir = output_dir / "final"
+
+    metrics_csv_path = output_dir / "training_metrics.csv"
+    output_dir=str(output_dir)
+
     print("\n===== Poids des classes =====")
     for label_id, weight in enumerate(class_weights):
         print(f"{id2label[label_id]:<25} : {weight.item():.4f}")
 
     training_args = TrainingArguments(
-        output_dir=str(OUTPUT_DIR),
-        learning_rate=5e-5,
+        output_dir=str(output_dir),
+        learning_rate=learning_rate,
         per_device_train_batch_size=2,
         per_device_eval_batch_size=2,
         num_train_epochs=EPOCH,
@@ -585,7 +608,7 @@ def main() -> None:
 
     metrics_rows = build_epoch_metrics(trainer.state.log_history)
     print_metrics_table(metrics_rows)
-    save_metrics_csv(metrics_rows, METRICS_CSV_PATH)
+    save_metrics_csv(metrics_rows, metrics_csv_path)
 
     final_metrics = trainer.evaluate()
     print("\n===== Métriques finales du meilleur checkpoint =====")
@@ -611,13 +634,13 @@ def main() -> None:
     # et des hyperparamètres. Il sera évalué une seule fois
     # après le choix définitif de la configuration.
 
-    FINAL_MODEL_DIR.mkdir(parents=True, exist_ok=True)
-    trainer.save_model(str(FINAL_MODEL_DIR))
-    processor.save_pretrained(str(FINAL_MODEL_DIR))
+    final_model_dir.mkdir(parents=True, exist_ok=True)
+    trainer.save_model(str(final_model_dir))
+    processor.save_pretrained(str(final_model_dir))
 
     print("\n===== Fine-tuning terminé =====")
     print(train_result)
-    print(f"Modèle sauvegardé dans : {FINAL_MODEL_DIR}")
+    print(f"Modèle sauvegardé dans : {final_model_dir}")
 
 
 if __name__ == "__main__":

@@ -647,3 +647,21 @@ C'est cette combinaison (`attention_mask` pour le Transformer et `labels=-100` p
 
 ### Learning rate
 Plus le modèle est pré-entraîné et plus ton dataset est petit, plus le learning rate doit être faible.
+
+
+Deux architectures multimodales ont été comparées avec les mêmes données et les mêmes paramètres d’entraînement : LayoutLMv3 et LiLT.
+
+LayoutLMv3 obtient le meilleur score F1 avec 0,727, contre 0,715 pour LiLT. LiLT présente une précision légèrement supérieure, 0,648 contre 0,636, mais LayoutLMv3 obtient un meilleur recall, 0,848 contre 0,798.
+
+Dans le contexte de l’extraction documentaire, le recall est important afin de limiter les champs métier manquants. LayoutLMv3 a donc été retenu pour la phase d’hyperparamétrage.
+
+Les performances des époques 9 et 10 étant presque identiques, les résultats montrent également que l’entraînement a atteint un plateau.
+
+LayoutLMv3 et LiLT ont été évalués sur un jeu de test identique composé de 23 documents et 35 pages. LayoutLMv3 obtient un score F1 de 0,689 contre 0,658 pour LiLT. Il présente également une meilleure précision, 0,591 contre 0,571, et un meilleur rappel, 0,827 contre 0,776.
+
+Bien que LiLT soit plus rapide en inférence, LayoutLMv3 a été retenu car il offre le meilleur compromis entre précision et rappel et généralise mieux sur les documents non vus. Le rappel supérieur est particulièrement important dans ce projet, puisqu’il réduit le risque de champs métier manquants.
+
+Modèle retenu : LayoutLMv3
+F1 test       : 0,6894
+Motif         : meilleur F1, meilleure précision et meilleur recall
+Étape suivante : hyperparamétrage limité du learning rate
