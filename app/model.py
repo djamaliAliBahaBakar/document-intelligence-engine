@@ -10,6 +10,7 @@ from transformers import (
 )
 
 from collections import defaultdict
+from app.preprocess import preprocess_pdf
 
 
 MODEL_DIR = Path(
@@ -35,8 +36,27 @@ model.eval()
 print("Modèle chargé.")
 
 
+
+
+def predict_pdf(pdf_path: str) -> dict:
+    pages = preprocess_pdf(pdf_path)
+
+    all_predictions = []
+
+    for page in pages:
+        predictions = predict_page(
+            image=page["image"],
+            tokens=page["tokens"],
+            bboxes=page["bboxes"],
+        )
+
+        all_predictions.extend(predictions)
+
+    return build_json(all_predictions)
+
+
 def predict_page(
-    image_path: str,
+    image: Image.Image,
     tokens: list[str],
     bboxes: list[list[int]],
 ) -> list[dict[str, Any]]:
@@ -45,8 +65,7 @@ def predict_page(
             "Le nombre de tokens doit être égal au nombre de bounding boxes."
         )
 
-    with Image.open(image_path) as source_image:
-        image = source_image.convert("RGB")
+    image = image.convert("RGB")
 
     encoding = processor(
         images=image,

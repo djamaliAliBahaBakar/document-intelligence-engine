@@ -5,6 +5,7 @@ from pathlib import Path
 from fastapi import FastAPI, File, HTTPException, UploadFile
 from pydantic import BaseModel
 from app.model import build_json, model, predict_page
+from app.model import predict_pdf
 
 
 app = FastAPI(
@@ -29,102 +30,58 @@ def health() -> dict[str, object]:
         "model_loaded": model is not None,
     }
 
-@app.post("/predict",response_model=PredictionResponse,
+
+
+@app.post(
+    "/predict",
+    response_model=PredictionResponse,
 )
 async def predict(
-    image: UploadFile = File(...),
-    ocr: UploadFile = File(...),
-) -> dict[str, str | None]:
-    allowed_image_types = {
-        "image/png",
-        "image/jpeg",
-    }
+    file: UploadFile = File(...),
+) -> PredictionResponse:
 
-    if image.content_type not in allowed_image_types:
+    if file.content_type != "application/pdf":
         raise HTTPException(
             status_code=415,
-            detail="L'image doit être au format PNG ou JPEG.",
+            detail="Seuls les fichiers PDF sont acceptés.",
         )
 
-    try:
-        ocr_content = await ocr.read()
-        ocr_payload = json.loads(
-            ocr_content.decode("utf-8")
-        )
-    except (UnicodeDecodeError, json.JSONDecodeError) as error:
+    content = await file.read()
+
+    if not content:
         raise HTTPException(
             status_code=400,
-            detail="Le fichier OCR n'est pas un JSON valide.",
-        ) from error
-
-    tokens = ocr_payload.get("tokens")
-    bboxes = ocr_payload.get("bboxes")
-
-    if not isinstance(tokens, list) or not isinstance(
-        bboxes,
-        list,
-    ):
-        raise HTTPException(
-            status_code=422,
-            detail=(
-                "Le JSON OCR doit contenir les listes "
-                "'tokens' et 'bboxes'."
-            ),
+            detail="Le fichier PDF est vide.",
         )
 
-    if len(tokens) != len(bboxes):
-        raise HTTPException(
-            status_code=422,
-            detail=(
-                "Le nombre de tokens doit être égal "
-                "au nombre de bounding boxes."
-            ),
-        )
-
-    image_suffix = Path(
-        image.filename or "document.png"
-    ).suffix
-
-    image_content = await image.read()
-
-    if not image_content:
-        raise HTTPException(
-            status_code=400,
-            detail="Le fichier image est vide.",
-        )
-
-    temporary_path: str | None = None
+    temporary_path = None
 
     try:
         with tempfile.NamedTemporaryFile(
-            suffix=image_suffix,
+            suffix=".pdf",
             delete=False,
         ) as temporary_file:
-            temporary_file.write(image_content)
+            temporary_file.write(content)
             temporary_path = temporary_file.name
 
-        predictions = predict_page(
-            image_path=temporary_path,
-            tokens=tokens,
-            bboxes=bboxes,
+        result = predict_pdf(
+            temporary_path
         )
 
-        return build_json(predictions)
-
-    except ValueError as error:
-        raise HTTPException(
-            status_code=422,
-            detail=str(error),
-        ) from error
+        return PredictionResponse(
+            **result
+        )
 
     except Exception as error:
         raise HTTPException(
             status_code=500,
-            detail="Échec de l'inférence.",
+            detail=f"Échec de l'analyse du document : {error}",
         ) from error
 
     finally:
         if temporary_path is not None:
-            Path(temporary_path).unlink(
+            Path(
+                temporary_path
+            ).unlink(
                 missing_ok=True
             )

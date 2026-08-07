@@ -1,8 +1,10 @@
+accelerate==1.14.0
 acres==0.5.0
 aiohappyeyeballs==2.7.1
 aiohttp==3.14.1
 aiosignal==1.4.0
 aistudio-sdk==0.3.8
+altair==6.2.2
 annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.14.2
@@ -18,6 +20,7 @@ azure-storage-blob==12.30.0
 bce-python-sdk==0.9.72
 black==26.5.1
 bleach==5.0.1
+blinker==1.9.0
 boto3==1.43.49
 botocore==1.43.49
 certifi==2026.6.17
@@ -69,6 +72,7 @@ eval_type_backport==0.4.0
 executing==2.2.1
 expiringdict==1.2.2
 Faker==40.31.0
+fastapi==0.141.1
 filelock==3.29.7
 fonttools==4.63.0
 frozenlist==1.8.0
@@ -92,6 +96,7 @@ h11==0.16.0
 hf-xet==1.5.1
 httpcore==1.0.9
 httplib2==0.32.0
+httptools==0.8.0
 httpx==0.28.1
 huggingface_hub==1.23.0
 idna==3.18
@@ -105,6 +110,7 @@ ipython==9.15.0
 ipython_pygments_lexers==1.1.1
 isodate==0.7.2
 isort==5.13.2
+itsdangerous==2.2.0
 jedi==0.20.0
 Jinja2==3.1.6
 jiter==0.16.0
@@ -136,6 +142,7 @@ mpmath==1.3.0
 multidict==6.7.1
 multiprocess==0.70.19
 mypy_extensions==1.1.0
+narwhals==2.24.0
 nest-asyncio2==1.7.2
 networkx==3.6.1
 nibabel==5.4.2
@@ -182,17 +189,20 @@ pycparser==3.0
 pycryptodome==3.23.0
 pydantic==2.13.4
 pydantic_core==2.46.4
+pydeck==0.9.3
 pydot==4.0.1
 Pygments==2.20.0
 PyJWT==2.13.0
 pymupdf==1.28.0
 pyparsing==3.3.2
+pypdf==6.14.2
 pypdfium2==5.11.0
 pyRFC3339==2.1.0
 pytesseract==0.3.13
 python-bidi==0.6.11
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.4
+python-multipart==0.0.32
 pytokens==0.4.1
 pytz==2022.7.1
 pyxnat==1.6.4
@@ -214,9 +224,11 @@ ruamel.yaml==0.19.1
 rules==3.4
 s3transfer==0.19.1
 safetensors==0.8.0
+scikit-learn==1.9.0
 scipy==1.18.0
 semver==3.0.4
 sentry-sdk==2.65.0
+seqeval==1.2.2
 setuptools==83.0.0
 shapely==2.1.2
 shellingham==1.5.4
@@ -226,7 +238,11 @@ smart_open==8.0.1
 sniffio==1.3.1
 sqlparse==0.5.5
 stack-data==0.6.3
+starlette==1.3.1
+streamlit==1.61.1
 sympy==1.14.0
+tenacity==9.1.4
+threadpoolctl==3.6.0
 tldextract==5.3.1
 tokenizers==0.22.2
 toml==0.10.2
@@ -247,8 +263,10 @@ uritemplate==4.2.0
 urllib3==2.7.0
 user-agents==2.2.0
 uuid_utils==0.17.0
+uvicorn==0.52.1
 wcwidth==0.8.2
 webencodings==0.5.1
+websockets==16.1.1
 wheel==0.47.0
 wrapt==2.2.2
 xmljson==0.2.1

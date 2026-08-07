@@ -665,3 +665,7 @@ Modèle retenu : LayoutLMv3
 F1 test       : 0,6894
 Motif         : meilleur F1, meilleure précision et meilleur recall
 Étape suivante : hyperparamétrage limité du learning rate
+
+Une recherche ciblée du learning rate a été réalisée afin d'améliorer les performances du modèle LayoutLMv3. Trois valeurs étaient initialement envisagées (5e-5, 3e-5 et 2e-5). Après comparaison des deux premières, le learning rate 3e-5 a montré une amélioration simultanée de la précision, du rappel et du score F1 (+1,4 point). Compte tenu des contraintes temporelles du projet et du gain obtenu, cette valeur a été retenue pour le modèle final sans poursuivre l'exploration de 2e-5.
+
+Trois valeurs du learning rate ont été évaluées (5e-5, 3e-5 et 2e-5). Les autres hyperparamètres ont été conservés constants. Le meilleur compromis est obtenu avec 3e-5, qui améliore le score F1 de 0,727 à 0,741 tout en augmentant simultanément la précision et le rappel. Une diminution supplémentaire du learning rate (2e-5) entraîne une baisse des performances, ce qui indique un apprentissage insuffisant.
