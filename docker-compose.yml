@@ -2,6 +2,7 @@ services:
   api:
     build: .
     container_name: document-intelligence-api
+
     command:
       - uvicorn
       - app.main:app
@@ -9,6 +10,9 @@ services:
       - 0.0.0.0
       - --port
       - "8000"
+    environment:
+      MODEL_SOURCE: djamali/layoutlmv3-photovoltaic
+      HF_TOKEN: ${HF_TOKEN}
     ports:
       - "8000:8000"
 

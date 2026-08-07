@@ -15,8 +15,6 @@ RUN pip install --no-cache-dir \
 
 COPY app ./app
 
-COPY models/layoutlmv3-photovoltaic-full-split-70-15-15/final \
-     ./models/layoutlmv3-photovoltaic-full-split-70-15-15/final
 
 EXPOSE 8000
 

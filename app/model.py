@@ -1,5 +1,6 @@
 from pathlib import Path
 from typing import Any
+import os
 
 import numpy as np
 import torch
@@ -13,8 +14,13 @@ from collections import defaultdict
 from app.preprocess import preprocess_pdf
 
 
-MODEL_DIR = Path(
+LOCAL_MODEL_DIR = (
     "models/layoutlmv3-photovoltaic-full-split-70-15-15/final"
+)
+
+MODEL_SOURCE = os.getenv(
+    "MODEL_SOURCE",
+    LOCAL_MODEL_DIR,
 )
 
 MAX_LENGTH = 512
@@ -23,12 +29,12 @@ MAX_LENGTH = 512
 print("Chargement du modèle...")
 
 processor = AutoProcessor.from_pretrained(
-    MODEL_DIR,
+    MODEL_SOURCE,
     apply_ocr=False,
 )
 
 model = LayoutLMv3ForTokenClassification.from_pretrained(
-    MODEL_DIR,
+    MODEL_SOURCE,
 )
 
 model.eval()
