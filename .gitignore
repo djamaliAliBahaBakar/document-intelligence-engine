@@ -8,6 +8,7 @@ data/anonymized/
 benchmarks/docling
 notebools/data
 
+benchmarks/ocr
 
 # OCR outputs
 notebooks/data/tesseract/
@@ -43,13 +44,14 @@ __pycache__/
 dataset/ocr
 
 # OCR généré
-dataset/ocr/
+dataset/images/
 
 # Datasets Hugging Face générés
 dataset/processed/
 
 # Exports Label Studio volumineux
 label_studio_data/export/
+label_studio_data/media/
 
 # Fichiers Apache Arrow / caches Hugging Face
 *.arrow
