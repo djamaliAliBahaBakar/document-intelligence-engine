@@ -57,3 +57,5 @@ label_studio_data/media/
 *.arrow
 
 
+
+benchmarks/ocr/input/
