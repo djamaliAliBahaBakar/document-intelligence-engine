@@ -3,7 +3,7 @@ data/anonymized/
 *.pdf
 *.docx
 *.xlsx
-.env
+cr.env
 
 benchmarks/docling
 notebools/data
@@ -58,4 +58,4 @@ label_studio_data/media/
 
 
 
-benchmarks/ocr/input/
+benchmarks/o/input/
