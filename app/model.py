@@ -1,4 +1,4 @@
-from pathlib import Path
+
 from typing import Any
 import os
 
@@ -14,13 +14,11 @@ from collections import defaultdict
 from app.preprocess import preprocess_pdf
 
 
-LOCAL_MODEL_DIR = (
-    "models/layoutlmv3-photovoltaic-full-split-70-15-15/final"
-)
+
 
 MODEL_SOURCE = os.getenv(
     "MODEL_SOURCE",
-    LOCAL_MODEL_DIR,
+    "djamali/layoutlmv3-photovoltaic",
 )
 
 MAX_LENGTH = 512
