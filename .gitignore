@@ -5,6 +5,8 @@ data/anonymized/
 *.xlsx
 cr.env
 
+/tmp
+
 benchmarks/docling
 notebools/data
 
