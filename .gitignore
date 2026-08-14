@@ -61,3 +61,11 @@ label_studio_data/media/
 
 
 benchmarks/o/input/
+
+label_studio_data/.env
+label_studio_data/media/
+label_studio_data/tasks.json
+label_studio_data/new_tasks.json
+
+label_studio_data/*
+!label_studio_data/README.md
