@@ -43,13 +43,12 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# Dataset
 dataset/ocr
-
-# OCR généré
 dataset/images/
-
-# Datasets Hugging Face générés
 dataset/processed/
+dataset/raw/
+
 
 # Exports Label Studio volumineux
 label_studio_data/export/
@@ -58,6 +57,8 @@ label_studio_data/media/
 # Fichiers Apache Arrow / caches Hugging Face
 *.arrow
 
+# Notebook local data
+notebooks/data/
 
 
 benchmarks/o/input/
