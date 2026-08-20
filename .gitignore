@@ -7,10 +7,10 @@ cr.env
 
 /tmp
 
-benchmarks/docling
+
 notebools/data
 
-benchmarks/ocr
+
 
 # OCR outputs
 notebooks/data/tesseract/
@@ -61,7 +61,9 @@ label_studio_data/media/
 notebooks/data/
 
 
-benchmarks/o/input/
+# OCR benchmark local artifacts
+benchmarks/ocr/input/
+benchmarks/ocr/outputs/
 
 label_studio_data/.env
 label_studio_data/media/
