@@ -300,6 +300,8 @@ def build_compute_metrics(
 
 
 def main() -> None:
+
+    # 1. Récupérer le modèle final, les labels et le dataset
     OUTPUT_DIR.mkdir(
         parents=True,
         exist_ok=True,
@@ -311,10 +313,12 @@ def main() -> None:
         str(DATASET_DIR)
     )
 
+    # 2 - Récupérer les dataset de test non utilisés pendant l'entrainement
     _, _, test_raw = split_by_document(
         dataset
     )
 
+    # 3 - Charger 
     processor = AutoProcessor.from_pretrained(
         MODEL_DIR,
         apply_ocr=False,
@@ -326,6 +330,7 @@ def main() -> None:
         )
     )
 
+    # Encoder le jeu de test
     test_dataset = encode_dataset(
         test_raw,
         processor,
@@ -352,6 +357,7 @@ def main() -> None:
         "sur le test ====="
     )
 
+    # Prédire sans changer les poids - juste de l'inférence
     test_metrics = trainer.evaluate(
         eval_dataset=test_dataset,
         metric_key_prefix="test",

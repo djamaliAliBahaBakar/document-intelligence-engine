@@ -457,37 +457,7 @@ def inspect_predictions(
             print(f"{token:<30}{true_label:<25}{predicted_label:<25}{marker}")
 
 
-def run_smoke_test(
-    dataset: Dataset,
-    processor: LayoutLMv3Processor,
-    model: LayoutLMv3ForTokenClassification,
-) -> None:
-    example = dataset[0]
 
-    with Image.open(example["image_path"]) as source_image:
-        image = source_image.convert("RGB")
-
-    encoding = processor(
-        image,
-        example["tokens"],
-        boxes=example["bboxes"],
-        word_labels=example["ner_tags"],
-        truncation=True,
-        padding="max_length",
-        max_length=MAX_LENGTH,
-        return_tensors="pt",
-    )
-
-    print("\n===== Smoke test =====")
-    for key, value in encoding.items():
-        print(key, value.shape)
-
-    model.eval()
-    with torch.no_grad():
-        outputs = model(**encoding)
-
-    print(f"Loss initiale : {outputs.loss.item():.4f}")
-    print("Logits        :", outputs.logits.shape)
 
 def parse_args():
     parser = argparse.ArgumentParser()
@@ -501,6 +471,7 @@ def parse_args():
     return parser.parse_args()
 
 def main() -> None:
+    # 1- Chargement du dataset, labels, le processor et le modèle pré-entrainée
     args = parse_args()
     learning_rate = args.learning_rate
     dataset = load_from_disk(str(DATASET_DIR))
@@ -520,9 +491,8 @@ def main() -> None:
         label2id=label2id,
         id2label=id2label,
     )
-    print("Modèle chargé avec succès")
 
-    run_smoke_test(dataset, processor, model)
+    # Split du dataset (train/validation/test) par document et non par page
 
 
     train_raw, validation_raw, test_raw = split_by_document(dataset)
@@ -531,6 +501,8 @@ def main() -> None:
     print("Train      :", len(train_raw))
     print("Validation :", len(validation_raw))
     print("Test       :", len(test_raw))
+
+    # 3- Encodage des données dans le format attendu par le modèle à l'aide de son processor
     train_dataset = encode_dataset(
         train_raw,
         processor,
@@ -550,6 +522,7 @@ def main() -> None:
     print_encoded_label_distribution(validation_dataset, id2label, "validation")
     print_encoded_label_distribution(test_dataset, id2label, "test")
 
+    ## 4 - Gestion du  dataset desequilibré
     class_weights = compute_class_weights(train_dataset, len(label2id))
 
     run_name = f"lr-{learning_rate:.0e}"
@@ -567,6 +540,7 @@ def main() -> None:
     for label_id, weight in enumerate(class_weights):
         print(f"{id2label[label_id]:<25} : {weight.item():.4f}")
 
+    # 5 - configuration de l'entrainement
     training_args = TrainingArguments(
         output_dir=str(output_dir),
         learning_rate=learning_rate,
@@ -594,6 +568,7 @@ def main() -> None:
     print("Nombre d'epochs   :", training_args.num_train_epochs)
     print("Évaluation        :", training_args.eval_strategy)
 
+    # fine tuning
     trainer = WeightedTrainer(
         class_weights=class_weights,
         model=model,
@@ -610,6 +585,7 @@ def main() -> None:
     print_metrics_table(metrics_rows)
     save_metrics_csv(metrics_rows, metrics_csv_path)
 
+    # 7- Evaluation du modèlegit status
     final_metrics = trainer.evaluate()
     print("\n===== Métriques finales du meilleur checkpoint =====")
     for metric_name in (
