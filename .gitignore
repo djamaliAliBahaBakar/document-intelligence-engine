@@ -72,3 +72,5 @@ label_studio_data/new_tasks.json
 
 label_studio_data/*
 !label_studio_data/README.md
+
+.env

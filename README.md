@@ -424,3 +424,4 @@ Le projet peut également être exécuté dans GitHub Codespaces avec Docker Com
 - généralisation à confirmer sur davantage de fournisseurs ;
 - performances à améliorer avant une utilisation en production ;
 - enrichissement futur du dataset et optimisation du modèle.
+
