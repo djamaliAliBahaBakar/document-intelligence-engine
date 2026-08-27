@@ -30,11 +30,11 @@ LABELS_PATH = Path(
 
 
 MODEL_DIR = Path(
-    "models/layoutlmv3-photovoltaic-full-split-70-15-15/final"
+    "models/layoutlmv3-hyperparameter/lr-5e-05/final"
 )
 
 OUTPUT_DIR = Path(
-    "models/layoutlmv3-photovoltaic-full-split-70-15-15/test-evaluation"
+    "models/layoutlmv3-hyperparameter/lr-5e-05/test-evaluation"
 )
 
 TEST_METRICS_PATH = OUTPUT_DIR / "test_metrics.json"

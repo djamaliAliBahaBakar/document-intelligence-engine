@@ -268,6 +268,47 @@ pip install -r requirements.txt
 
 ---
 
+## Lancer l'application en local
+
+L'application peut être testée localement sans Docker. Elle comporte deux processus à lancer dans deux terminaux distincts.
+
+Dans un premier terminal, activer l'environnement virtuel, définir le token Hugging Face puis démarrer l'API FastAPI :
+
+```bash
+source .venv/bin/activate
+export HF_TOKEN=<token>
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+```
+
+L'API est alors accessible à l'adresse :
+
+```text
+http://localhost:8000
+```
+
+La documentation interactive de l'API est disponible à l'adresse :
+
+```text
+http://localhost:8000/docs
+```
+
+Dans un second terminal, activer le même environnement puis démarrer l'interface Streamlit :
+
+```bash
+source .venv/bin/activate
+streamlit run app/streamlit_app.py --server.port 8501
+```
+
+Ouvrir ensuite l'application de démonstration dans le navigateur :
+
+```text
+http://localhost:8501
+```
+
+Il est alors possible de charger un devis PDF afin de tester son traitement par Tesseract et LayoutLMv3, puis de visualiser les informations extraites.
+
+---
+
 ## Exécution avec Docker
 
 Le projet expose deux services :
