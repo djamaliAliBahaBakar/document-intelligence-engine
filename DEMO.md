@@ -91,5 +91,12 @@ Sinon :
 docker compose up
 ```
 
+docker compose up -d streamlit
+
+http://localhost:8501
 
 
+curl -s -X POST \
+  http://localhost:8000/predict \
+  -F 'file=@tmp/devis_test.pdf' \
+  | python -m json.tool
