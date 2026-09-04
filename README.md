@@ -1,427 +1,613 @@
+
 # Document Intelligence Engine
 
-Projet de  Document AI pour l'extraction automatique d'informations métier à partir de devis du secteur photovoltaïque.
+Extraction structurée d'informations à partir de devis photovoltaïques avec OCR et modèles Document AI.
 
-## Contexte et objectif
+Projet réalisé dans le cadre de la formation **Développeur IA d'Alyra**, à partir d'un cas d'usage fourni par **Beluo**.
 
-Cette étude a été réalisée dans le cadre du projet de fin d’études de la formation Deep Learning d’Alyra, à partir d’un cas d’usage proposé par Beluo.
+Le système transforme un devis PDF en données structurées en combinant :
 
-L'objectif est de transformer automatiquement des devis PDF provenant de différents fournisseurs en données métier structurées.
-
-Cinq informations sont extraites :
-
-- client
-- fournisseur / émetteur du devis
-- numéro de devis
-- date du devis
-- montant total
-
-La sortie est retournée au format JSON afin d'être exploitée par une application métier.
+- OCR avec Tesseract ;
+- compréhension du document avec LayoutLMv3 ou LiLT ;
+- classification de tokens avec annotations BIO ;
+- API FastAPI ;
+- interface de démonstration Streamlit ;
+- conteneurisation Docker.
 
 ---
 
-## Cycle du projet Deep Learning
+## Objectif
 
-Le projet couvre les principales étapes d'un projet Deep Learning de bout en bout :
+Les devis photovoltaïques sont des documents semi-structurés dont la présentation varie selon les fournisseurs.
 
-1. collecte et compréhension des données ;
-2. benchmark et sélection du moteur OCR ;
-3. annotation des données ;
-4. préparation et construction du dataset ;
-5. séparation train / validation / test ;
-6. sélection de modèles pré-entraînés ;
-7. fine-tuning ;
-8. évaluation et comparaison des modèles ;
-9. sélection du modèle final ;
-10. intégration et déploiement.
+L'objectif du projet est d'extraire automatiquement cinq informations :
+
+- émetteur du devis ;
+- client ;
+- numéro du devis ;
+- date d'émission ;
+- montant total.
+
+La sortie du système est une structure JSON exploitable par une application métier.
+
+Exemple :
+
+```json
+{
+  "emetteur_devis": "...",
+  "client": "...",
+  "numero_devis": "...",
+  "date_devis": "...",
+  "montant_total": "..."
+}
+````
 
 ---
 
-## Pipeline Document AI
+## Architecture
+
+Le pipeline final est le suivant :
 
 ```text
-PDF
- ↓
-Conversion en images
- ↓
-OCR
- ↓
-Tokens + Bounding Boxes
- ↓
-Token Classification
- ↓
-Agrégation des entités
- ↓
-JSON métier
+             PDF
+              |
+              v
+      Conversion en images
+              |
+              v
+       OCR avec Tesseract
+              |
+              v
+   Tokens + bounding boxes
+              |
+              v
+       Modèle Document AI
+   LayoutLMv3 / LiLT
+              |
+              v
+ Classification de tokens BIO
+              |
+              v
+    Agrégation des entités
+              |
+              v
+             JSON
+```
+
+Pour la démonstration :
+
+```text
+Utilisateur
+    |
+    v
+Streamlit
+    |
+    v
+FastAPI
+    |
+    v
+Prétraitement / OCR
+    |
+    v
+LayoutLMv3
+    |
+    v
+Post-traitement
+    |
+    v
+JSON structuré
 ```
 
 ---
 
 ## Dataset
 
-Le dataset final est constitué de **150 devis photovoltaïques** provenant de plusieurs fournisseurs et présentant des structures et mises en page différentes.
+Le dataset est constitué de **150 devis photovoltaïques réels fournis par Beluo**.
 
-Le split est réalisé au niveau document :
-
-| Ensemble | Documents | Part |
-|---|---:|---:|
-| Train | 105 | 70 % |
-| Validation | 22 | 15 % |
-| Test | 23 | 15 % |
-
-Le jeu de test contient **35 pages**.
+Les documents proviennent de plusieurs formats de devis et présentent des variations de mise en page représentatives du cas d'usage étudié.
 
 ### Entités annotées
 
-Cinq entités métier sont annotées manuellement avec **Label Studio** :
+Cinq types d'entités sont recherchés :
 
-- `CLIENT`
-- `DATE_DEVIS`
-- `EMETTEUR_DEVIS`
-- `MONTANT_TOTAL`
-- `NUMERO_DEVIS`
+| Entité           | Description                   |
+| ---------------- | ----------------------------- |
+| `CLIENT`         | Nom ou identité du client     |
+| `DATE_DEVIS`     | Date d'émission du devis      |
+| `EMETTEUR_DEVIS` | Société ou organisme émetteur |
+| `MONTANT_TOTAL`  | Montant total du devis        |
+| `NUMERO_DEVIS`   | Numéro ou référence du devis  |
 
-Les annotations sont converties au format **BIO** pour la tâche de token classification, soit 11 classes incluant la classe `O`.
+Les annotations utilisent le format **BIO** :
 
-### Préparation
+* `B-*` : début d'une entité ;
+* `I-*` : continuation d'une entité ;
+* `O` : token ne faisant partie d'aucune entité.
 
-L'OCR fournit les mots et leurs coordonnées spatiales (*bounding boxes*).
-
-Les annotations Label Studio sont associées aux tokens OCR par correspondance géométrique afin de construire le dataset supervisé.
+Avec cinq entités, le problème comporte **11 classes** :
 
 ```text
-PDF → Image → OCR → Tokens + Bounding Boxes
-                         +
-                  Annotations Label Studio
-                         ↓
-                    Labels BIO
-                         ↓
-                      Dataset
+B-CLIENT
+I-CLIENT
+B-DATE_DEVIS
+I-DATE_DEVIS
+B-EMETTEUR_DEVIS
+I-EMETTEUR_DEVIS
+B-MONTANT_TOTAL
+I-MONTANT_TOTAL
+B-NUMERO_DEVIS
+I-NUMERO_DEVIS
+O
 ```
 
 ---
 
-## Benchmark OCR
+## Annotation
 
-Un benchmark a été réalisé afin de sélectionner le moteur OCR utilisé pour la construction du dataset.
+Les documents ont été annotés avec **Label Studio**.
 
-Les moteurs évalués sont :
+Pour chaque document, les annotations permettent d'associer :
 
-- Tesseract
-- EasyOCR
-- PaddleOCR
+* le texte ;
+* les tokens ;
+* leur position dans le document ;
+* leur label BIO.
 
-Les critères étudiés incluent la qualité de reconnaissance, le temps de traitement et l'intégration dans le pipeline Document AI.
-
-**Tesseract** a été retenu pour la suite du projet.
+Ces informations sont ensuite utilisées pour préparer les données d'entrée des modèles Document AI.
 
 ---
 
-## Modèles
+## Séparation train / validation / test
 
-Deux architectures pré-entraînées de Document AI ont été fine-tunées sur le même dataset.
+Le dataset a été séparé **au niveau du document**, et non au niveau de la page.
+
+Cette séparation évite qu'une page provenant d'un même devis se retrouve, par exemple, dans le jeu d'entraînement et dans le jeu de test.
+
+| Split      | Documents |   Pages |
+| ---------- | --------: | ------: |
+| Train      |       105 |     148 |
+| Validation |        22 |      31 |
+| Test       |        23 |      35 |
+| **Total**  |   **150** | **214** |
+
+Répartition :
+
+* Train : 70 %
+* Validation : 15 %
+* Test : 15 %
+
+Le jeu de test reste indépendant pendant l'entraînement et est utilisé pour l'évaluation finale.
+
+---
+
+## OCR
+
+Plusieurs moteurs OCR ont été étudiés :
+
+* Tesseract ;
+* EasyOCR ;
+* PaddleOCR.
+
+**Tesseract** a été retenu pour le pipeline final.
+
+L'OCR fournit notamment :
+
+* le texte reconnu ;
+* les tokens ;
+* les coordonnées spatiales des tokens.
+
+Les coordonnées sont ensuite normalisées afin d'être utilisées par les modèles Document AI.
+
+---
+
+## Modèles évalués
+
+Deux architectures pré-entraînées ont été fine-tunées pour la classification de tokens.
 
 ### LayoutLMv3
 
-Checkpoint initial :
+Modèle de base :
 
-`microsoft/layoutlmv3-base`
+```text
+microsoft/layoutlmv3-base
+```
 
-LayoutLMv3 exploite conjointement :
+LayoutLMv3 exploite conjointement les informations :
 
-- le texte ;
-- la position spatiale des tokens ;
-- les informations visuelles de la page.
+* textuelles ;
+* spatiales ;
+* visuelles.
 
 ### LiLT
 
-Checkpoint initial :
+Modèle utilisé :
 
-`SCUT-DLVCLab/lilt-roberta-en-base`
+```text
+SCUT-DLVCLab/lilt-roberta-en-base
+```
 
-LiLT exploite les informations textuelles et spatiales du document.
+LiLT exploite notamment le texte et la structure spatiale du document.
 
-L'utilisation de modèles pré-entraînés permet de bénéficier de représentations déjà apprises sur de grands corpus avant de les spécialiser sur les devis photovoltaïques.
+L'objectif de l'expérimentation était de comparer les deux approches sur le même problème d'extraction.
 
 ---
 
 ## Fine-tuning
 
-Les modèles sont fine-tunés pour une tâche supervisée de **token classification**.
+Le problème est traité comme une tâche de **token classification**.
 
-Configuration principale :
+Le pipeline d'entraînement comprend notamment :
 
-| Paramètre | Valeur |
-|---|---:|
-| Batch size | 2 |
-| Weight decay | 0.01 |
-| Learning rate LiLT | 5e-5 |
-| Learning rate LayoutLMv3 | configurable |
-| Epochs | configurable |
+1. chargement du dataset ;
+2. encodage des tokens et bounding boxes ;
+3. mapping des labels BIO ;
+4. séparation train / validation / test par document ;
+5. fine-tuning ;
+6. sélection du meilleur checkpoint sur le jeu de validation ;
+7. évaluation finale sur le jeu de test indépendant.
 
-Le jeu de validation est utilisé pendant l'entraînement, tandis que le jeu de test reste indépendant jusqu'à l'évaluation finale.
+La métrique principale utilisée pour comparer les modèles est le **F1-score**.
 
 ---
 
-## Évaluation
+## Résultats
 
-Les modèles sont évalués sur un jeu de test indépendant de **23 documents / 35 pages**.
+Les résultats ci-dessous correspondent à l'évaluation finale sur le **jeu de test indépendant** de 23 documents / 35 pages.
 
-Les principales métriques utilisées sont :
+| Modèle         |   Precision |      Recall |    F1-score |    Accuracy |
+| -------------- | ----------: | ----------: | ----------: | ----------: |
+| **LayoutLMv3** | **58.16 %** | **83.67 %** | **68.62 %** | **98.35 %** |
+| LiLT           |     52.52 % |     74.49 % |     61.60 % |     98.27 % |
 
-- Precision
-- Recall
-- F1-score
-- Accuracy
-
-| Modèle | Precision | Recall | F1-score | Accuracy |
-|---|---:|---:|---:|---:|
-| LayoutLMv3 | 0.5952 | 0.7653 | **0.6696** | 0.9852 |
-| LiLT | À compléter | À compléter | À compléter | À compléter |
+### Modèle retenu
 
 **LayoutLMv3** est retenu comme modèle de référence.
 
----
-
-## Inférence
-
-Le modèle LayoutLMv3 fine-tuné est publié sur Hugging Face et chargé par l'application :
-
-`djamali/layoutlmv3-photovoltaic`
-
-Le pipeline d'inférence est :
+Son F1-score sur le jeu de test atteint :
 
 ```text
-PDF
- ↓
-Tesseract
- ↓
-Tokens + Bounding Boxes
- ↓
+68.62 %
+```
+
+contre :
+
+```text
+61.60 %
+```
+
+pour LiLT.
+
+L'écart est donc de **7.02 points de F1** en faveur de LayoutLMv3.
+
+LayoutLMv3 obtient également un rappel de **83.67 %**, contre **74.49 %** pour LiLT.
+
+### Interprétation de l'accuracy
+
+L'accuracy dépasse 98 % pour les deux modèles, mais cette métrique doit être interprétée avec prudence.
+
+La majorité des tokens d'un document appartient à la classe `O` (hors entité). Une accuracy élevée ne signifie donc pas nécessairement que toutes les entités métier sont correctement extraites.
+
+Pour cette raison, le **F1-score constitue la métrique principale de comparaison**.
+
+---
+
+## Résultat détaillé LayoutLMv3
+
+Évaluation finale :
+
+```text
+test_loss      : 0.1026
+test_precision : 0.5816
+test_recall    : 0.8367
+test_f1        : 0.6862
+test_accuracy  : 0.9835
+```
+
+Ces métriques correspondent au modèle sélectionné après entraînement et évalué sur le jeu de test indépendant.
+
+---
+
+## Modèle publié
+
+Le modèle LayoutLMv3 fine-tuné est disponible sur Hugging Face :
+
+```text
+djamali/layoutlmv3-photovoltaic
+```
+
+Il correspond au modèle spécialisé dans l'extraction des entités des devis photovoltaïques étudiés dans ce projet.
+
+---
+
+## API FastAPI
+
+Le modèle est intégré dans une API **FastAPI**.
+
+Principaux endpoints :
+
+```text
+GET /health
+POST /predict
+```
+
+### `/health`
+
+Permet de vérifier que le service est disponible.
+
+### `/predict`
+
+Reçoit un document et exécute le pipeline :
+
+```text
+document
+   ↓
+OCR
+   ↓
+prétraitement
+   ↓
 LayoutLMv3
- ↓
-Token Classification
- ↓
-Agrégation des entités
- ↓
+   ↓
+classification
+   ↓
+agrégation des entités
+   ↓
 JSON
 ```
 
-Exemple de réponse :
+---
 
-```json
-{
-  "client": "...",
-  "fournisseur": "...",
-  "numero_devis": "...",
-  "date_devis": "...",
-  "montant_total": "..."
-}
-```
+## Interface Streamlit
+
+Une interface **Streamlit** permet de tester le pipeline sans appeler directement l'API.
+
+Elle permet :
+
+1. de sélectionner un devis ;
+2. de lancer l'analyse ;
+3. d'envoyer le document à FastAPI ;
+4. d'exécuter l'OCR et le modèle ;
+5. d'afficher les informations extraites.
+
+Cette interface a été utilisée pour la démonstration finale du projet.
 
 ---
 
-## Architecture
+## Structure du projet
 
 ```text
 document-intelligence-engine/
+│
 ├── app/
-│   ├── main.py                 # API FastAPI
-│   ├── model.py                # Chargement du modèle et inférence
-│   ├── preprocess.py           # Prétraitement des PDF
-│   └── streamlit_app.py        # Interface de démonstration
+│   ├── main.py
+│   ├── model.py
+│   └── preprocess.py
+│
+├── benchmarks/
+│   └── ocr/
+│
+├── dataset/
+│
+├── label_studio_data/
+│
+├── notebooks/
 │
 ├── scripts/
-│   ├── ocr_benchmark/          # Benchmark OCR
-│   ├── data_preparation/       # Images, Label Studio et dataset
-│   ├── training/               # Fine-tuning LayoutLMv3 et LiLT
-│   ├── evaluation/             # Évaluation finale
-│   ├── utils/                  # Fonctions partagées
-│   └── archive/                # Code historique
 │
-├── notebooks/                  # Exploration et expérimentations
-├── tests/                      # Tests
+├── tests/
+│
+├── DEMO.md
 ├── Dockerfile
 ├── docker-compose.yml
 ├── requirements.txt
-└── requirements-runtime.txt
+├── requirements-runtime.txt
+└── README.md
 ```
-
-Les documents sources, datasets générés et modèles entraînés ne sont pas versionnés dans Git.
 
 ---
 
 ## Installation
 
-Créer et activer un environnement virtuel :
+Cloner le repository :
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
+git clone https://github.com/djamaliAliBahaBakar/document-intelligence-engine.git
+cd document-intelligence-engine
 ```
 
-Installer les dépendances :
+Créer un environnement Python et installer les dépendances :
 
 ```bash
 pip install -r requirements.txt
 ```
 
+Tesseract doit également être installé sur le système.
+
 ---
 
-## Lancer l'application en local
-
-L'application peut être testée localement sans Docker. Elle comporte deux processus à lancer dans deux terminaux distincts.
-
-Dans un premier terminal, activer l'environnement virtuel, définir le token Hugging Face puis démarrer l'API FastAPI :
+## Lancer l'API
 
 ```bash
-source .venv/bin/activate
-export HF_TOKEN=<token>
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+uvicorn app.main:app --reload
 ```
 
-L'API est alors accessible à l'adresse :
+L'API est alors disponible sur :
 
 ```text
 http://localhost:8000
 ```
 
-La documentation interactive de l'API est disponible à l'adresse :
+Documentation OpenAPI :
 
 ```text
 http://localhost:8000/docs
 ```
 
-Dans un second terminal, activer le même environnement puis démarrer l'interface Streamlit :
+---
+
+## Lancer Streamlit
+
+Dans un second terminal :
 
 ```bash
-source .venv/bin/activate
-streamlit run app/streamlit_app.py --server.port 8501
+streamlit run app/streamlit_app.py
 ```
 
-Ouvrir ensuite l'application de démonstration dans le navigateur :
+L'interface est alors accessible sur :
 
 ```text
 http://localhost:8501
 ```
 
-Il est alors possible de charger un devis PDF afin de tester son traitement par Tesseract et LayoutLMv3, puis de visualiser les informations extraites.
+> Le chemin exact du fichier Streamlit dépend de la structure présente dans le repository. Vérifier le nom du fichier avant d'utiliser cette commande.
 
 ---
 
-## Exécution avec Docker
+## Docker
 
-Le projet expose deux services :
+Le projet contient :
 
-- **FastAPI** sur le port `8000`
-- **Streamlit** sur le port `8501`
+* un `Dockerfile` ;
+* un fichier `docker-compose.yml`.
 
-Le modèle est récupéré depuis Hugging Face au démarrage de l'API.
-
-Définir le token Hugging Face :
+Le pipeline peut être lancé avec Docker Compose :
 
 ```bash
-export HF_TOKEN=<token>
+docker compose up --build
 ```
 
-Puis lancer :
-
-```bash
-docker compose up
-```
-
-API :
-
-```text
-http://localhost:8000
-```
-
-Interface Streamlit :
-
-```text
-http://localhost:8501
-```
-
-Vérification de l'API :
-
-```text
-GET /health
-```
-
-Prédiction :
-
-```text
-POST /predict
-Content-Type: application/pdf
-```
+Cela permet d'exécuter l'environnement de démonstration de manière reproductible.
 
 ---
 
-## Reproduire le pipeline
+## Tests
 
-Les principales étapes sont organisées dans `scripts/` :
+Le repository contient des tests automatisés dans :
 
 ```text
-Benchmark OCR
-      ↓
-Génération des images
-      ↓
-Préparation des tâches Label Studio
-      ↓
+tests/
+```
+
+Ils permettent notamment de vérifier les composants du pipeline et l'intégration de l'application.
+
+Exécution :
+
+```bash
+pytest
+```
+
+Le nombre exact de tests réussis n'est volontairement pas indiqué ici afin d'éviter de publier une valeur qui n'a pas été vérifiée sur la version finale du repository.
+
+---
+
+## Limites
+
+Ce projet constitue un prototype fonctionnel de Document AI et non un système prêt pour une utilisation industrielle.
+
+Les principales limites identifiées sont :
+
+### Taille du dataset
+
+Le dataset contient 150 documents.
+
+Cette taille permet de construire et d'évaluer le pipeline, mais reste limitée pour garantir une généralisation à l'ensemble des formats de devis existants.
+
+### Variabilité documentaire
+
+Les fournisseurs utilisent des structures, vocabulaires et mises en page différents.
+
+Les performances peuvent donc varier sur des formats très différents de ceux présents dans le dataset.
+
+### Dépendance à l'OCR
+
+Une erreur de reconnaissance produite par l'OCR peut se propager jusqu'au modèle de classification.
+
+### Précision du modèle
+
+LayoutLMv3 obtient un rappel élevé de 83.67 %, mais une précision de 58.16 %.
+
+Le système retrouve donc une part importante des entités attendues, mais produit encore des faux positifs.
+
+### Généralisation
+
+Les performances publiées correspondent au jeu de test constitué à partir du corpus Beluo.
+
+Une validation sur de nouveaux fournisseurs et de nouveaux documents serait nécessaire avant toute utilisation en production.
+
+---
+
+## Améliorations possibles
+
+Plusieurs pistes pourraient être étudiées :
+
+* enrichissement du dataset ;
+* ajout de documents provenant de nouveaux fournisseurs ;
+* amélioration du post-traitement des entités ;
+* analyse des erreurs par type de champ ;
+* optimisation des hyperparamètres ;
+* comparaison avec des modèles Vision-Language récents ;
+* extraction de structures plus complexes, notamment les tableaux.
+
+Ces éléments constituent des pistes d'évolution et ne sont pas présentés comme des fonctionnalités déjà implémentées.
+
+---
+
+## Ce que démontre ce projet
+
+Ce projet couvre un cycle Document AI complet :
+
+```text
+Données réelles
+    ↓
 Annotation
-      ↓
-Construction du dataset
-      ↓
-Fine-tuning LayoutLMv3
-      ↓
-Fine-tuning LiLT
-      ↓
-Évaluation finale
+    ↓
+OCR
+    ↓
+Préparation du dataset
+    ↓
+Fine-tuning
+    ↓
+Évaluation
+    ↓
+Comparaison de modèles
+    ↓
+Sélection du modèle
+    ↓
+API
+    ↓
+Interface de démonstration
+    ↓
+Conteneurisation
 ```
 
-Scripts principaux :
+Il met notamment en œuvre :
 
-```text
-scripts/ocr_benchmark/step_1_benchmark_tesseract_ocr.py
-scripts/data_preparation/step_2_generate_images.py
-scripts/data_preparation/step_3_prepare_labelstudio_tasks.py
-scripts/data_preparation/step_4_build_layoutlm_dataset.py
-scripts/training/step_5_train_layoutlmv3.py
-scripts/training/step_6_train_lilt.py
-scripts/evaluation/step_7_evaluate_layoutlmv3_test.py
-scripts/evaluation/step_7_evaluate_lilt_test.py
-```
+* préparation et annotation de données documentaires ;
+* classification de tokens avec BIO ;
+* OCR ;
+* Transformers ;
+* LayoutLMv3 ;
+* LiLT ;
+* fine-tuning ;
+* évaluation sur un jeu de test indépendant ;
+* FastAPI ;
+* Streamlit ;
+* Docker.
 
 ---
 
-## Démonstration
+## Contexte
 
-L'application de démonstration permet de charger un devis PDF depuis Streamlit.
+Projet réalisé dans le cadre de la formation **Développeur IA — Alyra**.
 
-```text
-Utilisateur
-    ↓
-Streamlit
-    ↓
-FastAPI
-    ↓
-Tesseract
-    ↓
-LayoutLMv3
-    ↓
-JSON métier
-```
+Le cas d'usage et les **150 devis photovoltaïques réels** utilisés pour constituer le dataset ont été fournis par **Beluo**.
 
-Le projet peut également être exécuté dans GitHub Codespaces avec Docker Compose pour disposer d'une démonstration accessible à distance.
+L'objectif était de mettre en œuvre un pipeline complet de Deep Learning appliqué à la compréhension de documents, depuis les données et leur annotation jusqu'à l'exposition du modèle dans une application fonctionnelle.
 
 ---
 
-## Limites et perspectives
+## Auteur
 
-- dataset encore limité à 150 documents ;
-- dépendance à la qualité de l'OCR ;
-- variabilité importante des documents entre fournisseurs ;
-- généralisation à confirmer sur davantage de fournisseurs ;
-- performances à améliorer avant une utilisation en production ;
-- enrichissement futur du dataset et optimisation du modèle.
+**Djamali Ali Baha Bakar**
+
+Senior Software Engineer / Tech Lead — Applied AI & AI-enabled applications
 
